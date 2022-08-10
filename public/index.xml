@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICAPS 2023</title>
+    <link>http://icaps2023.icaps-conference.org/</link>
+    <description>Recent content on ICAPS 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2022 08:27:08 +0200</lastBuildDate><atom:link href="http://icaps2023.icaps-conference.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doctoral_consortium</title>
+      <link>http://icaps2023.icaps-conference.org/calls/doctoral_consortium/</link>
+      <pubDate>Tue, 09 Aug 2022 08:27:08 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/doctoral_consortium/</guid>
+      <description>There is a special event for PhD students.</description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://icaps2023.icaps-conference.org/calls/journal/</link>
+      <pubDate>Tue, 09 Aug 2022 08:26:39 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/journal/</guid>
+      <description>Your work might be selected for publication.</description>
+    </item>
+    
+    <item>
+      <title>Main_track</title>
+      <link>http://icaps2023.icaps-conference.org/calls/main_track/</link>
+      <pubDate>Tue, 09 Aug 2022 08:26:07 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/main_track/</guid>
+      <description>The main track is about Automated planning and Scheduling.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://icaps2023.icaps-conference.org/program/workshops/</link>
+      <pubDate>Tue, 09 Aug 2022 08:22:03 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/program/workshops/</guid>
+      <description>There will be a score of workshops.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://icaps2023.icaps-conference.org/program/schedule/</link>
+      <pubDate>Mon, 08 Aug 2022 08:42:12 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/program/schedule/</guid>
+      <description>Schedule of ICAPS 2023.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://icaps2023.icaps-conference.org/program/papers/</link>
+      <pubDate>Mon, 08 Aug 2022 08:42:03 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/program/papers/</guid>
+      <description>Papers accepted for ICAPS 2023.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://icaps2023.icaps-conference.org/home/</link>
+      <pubDate>Wed, 03 Aug 2022 16:21:26 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/home/</guid>
+      <description>This is the main page of ICAPS 2023!</description>
+    </item>
+    
+  </channel>
+</rss>

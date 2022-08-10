@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calls on ICAPS 2023</title>
+    <link>http://icaps2023.icaps-conference.org/calls/</link>
+    <description>Recent content in Calls on ICAPS 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2022 08:27:08 +0200</lastBuildDate><atom:link href="http://icaps2023.icaps-conference.org/calls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doctoral_consortium</title>
+      <link>http://icaps2023.icaps-conference.org/calls/doctoral_consortium/</link>
+      <pubDate>Tue, 09 Aug 2022 08:27:08 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/doctoral_consortium/</guid>
+      <description>There is a special event for PhD students.</description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://icaps2023.icaps-conference.org/calls/journal/</link>
+      <pubDate>Tue, 09 Aug 2022 08:26:39 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/journal/</guid>
+      <description>Your work might be selected for publication.</description>
+    </item>
+    
+    <item>
+      <title>Main_track</title>
+      <link>http://icaps2023.icaps-conference.org/calls/main_track/</link>
+      <pubDate>Tue, 09 Aug 2022 08:26:07 +0200</pubDate>
+      
+      <guid>http://icaps2023.icaps-conference.org/calls/main_track/</guid>
+      <description>The main track is about Automated planning and Scheduling.</description>
+    </item>
+    
+  </channel>
+</rss>

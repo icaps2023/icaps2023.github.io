@@ -1,0 +1,166 @@
+baseURL = 'http://icaps2023.icaps-conference.org/'
+languageCode = 'en-us'
+title = 'ICAPS 2023'
+theme = 'mainroad'
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
+    weight = 1
+# CALLS
+  [[menu.main]]
+    identifier = "calls"
+    name = "Calls"
+    weight = 2
+  [[menu.main]]
+    identifier = "discussion_call"
+    name = "Call for discussion topic"
+    url = "/calls/discussion_call"
+    parent = "calls"
+    weight = 1
+  [[menu.main]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/calls/journal"
+    parent = "calls"
+    weight = 2
+  [[menu.main]]
+    identifier = "demo_cfp"
+    name = "Call for Demo"
+    url = "/calls/demo_cfp"
+    parent = "calls"
+    weight = 3
+  [[menu.main]]
+    identifier = "sponsor_call"
+    name = "Call for Sponsorship"
+    url = "/calls/sponsor_call"
+    parent = "calls"
+    weight = 4
+  [[menu.main]]
+    identifier = "main_track"
+    name = "Main track"
+    url = "/calls/main_track"
+    parent = "calls"
+    weight = 5
+  [[menu.main]]
+    identifier = "tut_cfp "
+    name = "Call for Tutorials"
+    url = "/calls/tut_cfp"
+    parent = "calls"
+    weight = 6
+  [[menu.main]]
+    identifier = "ws_cfp"
+    name = "Call for Workshops"
+    url = "/calls/ws_cfp"
+    parent = "calls"
+    weight = 7
+  [[menu.main]]
+    identifier = "industry_and_applications_track"
+    name = "Industry and Applications"
+    url = "/calls/industry_and_applications_track"
+    parent = "calls"
+    weight = 8
+  [[menu.main]]
+    identifier = "human_aware_planning_and_scheduling_track"
+    name = "Human-Aware Planning and Scheduling"
+    url = "/calls/human_aware_planning_and_scheduling_track"
+    parent = "calls"
+    weight = 9
+  [[menu.main]]
+    identifier = "learning_track"
+    name = "Planning and Learning"
+    url = "/calls/learning_track"
+    parent = "calls"
+    weight = 10
+  [[menu.main]]
+    identifier = "doctoral_consortium"
+    name = "Doctoral consortium"
+    url = "/calls/doctoral_consortium"
+    parent = "calls"
+    weight = 11
+# PROGRAM
+  [[menu.main]]
+    identifier = "program"
+    name = "Program"
+    weight = 3
+  [[menu.main]]
+    identifier = "invited_talks"
+    name = "Invited talks"
+    url = "/program/invited_talks"
+    parent = "program"
+    weight = 1
+  [[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/program/schedule"
+    parent = "program"
+    weight = 2
+  [[menu.main]]
+    identifier = "papers"
+    name = "Papers"
+    url = "/program/papers"
+    parent = "program"
+    weight = 3
+  [[menu.main]]
+    identifier = "workshops"
+    name = "Workshops"
+    url = "/program/workshops"
+    parent = "program"
+    weight = 4
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 5
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 6
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 7
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 8
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 9
+  [[menu.main]]
+    identifier = ""
+    name = ""
+    url = "/program/"
+    parent = "program"
+    weight = 10
+# REGISTRATION
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    weight = 4
+# COMMITTEES
+  [[menu.main]]
+    identifier = "committees"
+    name = "Committees"
+    weight = 5
+# ATTENDING
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 6
+# CODE OF CONDUCT
+  [[menu.main]]
+    identifier = "code_of_conduct"
+    name = "Code of Conduct"
+    weight = 7
