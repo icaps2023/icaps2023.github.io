@@ -109,41 +109,11 @@ theme = 'mainroad'
     parent = "program"
     weight = 4
   [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
+    identifier = "tutorials"
+    name = "Tutorials"
+    url = "/program/tutorials"
     parent = "program"
     weight = 5
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
-    parent = "program"
-    weight = 6
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
-    parent = "program"
-    weight = 7
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
-    parent = "program"
-    weight = 8
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
-    parent = "program"
-    weight = 9
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = "/program/"
-    parent = "program"
-    weight = 10
 # REGISTRATION
   [[menu.main]]
     identifier = "registration"
@@ -160,7 +130,3 @@ theme = 'mainroad'
     name = "Attending"
     weight = 6
 # CODE OF CONDUCT
-  [[menu.main]]
-    identifier = "code_of_conduct"
-    name = "Code of Conduct"
-    weight = 7
