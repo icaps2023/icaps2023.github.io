@@ -2,6 +2,12 @@ baseURL = 'http://icaps2023.icaps-conference.org/'
 languageCode = 'en-us'
 title = 'ICAPS 2023'
 theme = 'mainroad'
+
+[Params.logo]
+  image = "img/icapslogo.png" # Logo image. Path relative to "static"
+  subtitle = "The 33rd International Conference on Automated Planning and Scheduling" # Logo title, otherwise will use site title
+  title = "Prague, June 2023" # Logo subtitle
+
 [menu]
   [[menu.main]]
     identifier = "home"
