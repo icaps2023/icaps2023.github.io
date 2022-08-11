@@ -120,6 +120,36 @@ theme = 'mainroad'
     url = "/program/tutorials"
     parent = "program"
     weight = 5
+  [[menu.main]]
+    identifier = "dc_2023"
+    name = "Doctoral Consortium"
+    url = "/program/dc_2023"
+    parent = "program"
+    weight = 6
+  [[menu.main]]
+    identifier = "awards"
+    name = "Awards"
+    url = "/program/awards"
+    parent = "program"
+    weight = 7
+  [[menu.main]]
+    identifier = "panels"
+    name = "Panels"
+    url = "/program/panels"
+    parent = "program"
+    weight = 8
+  [[menu.main]]
+    identifier = "demos"
+    name = "Demos"
+    url = "/program/demos"
+    parent = "program"
+    weight = 9
+  [[menu.main]]
+    identifier = "social_events"
+    name = "Social events"
+    url = "/program/social_events"
+    parent = "program"
+    weight = 10
 # REGISTRATION
   [[menu.main]]
     identifier = "registration"
@@ -136,3 +166,8 @@ theme = 'mainroad'
     name = "Attending"
     weight = 6
 # CODE OF CONDUCT
+  [[menu.main]]
+    identifier = "code_of_conduct"
+    name = "Code of Conduct"
+    url = "/code_of_conduct"
+    weight = 7
