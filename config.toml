@@ -8,6 +8,9 @@ theme = 'mainroad'
   subtitle = "The 33rd International Conference on Automated Planning and Scheduling" # Logo title, otherwise will use site title
   title = "Prague, June 2023" # Logo subtitle
 
+[Params]
+   customCSS = ["css/bootstrap-table.css"]
+
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -160,6 +163,18 @@ theme = 'mainroad'
     identifier = "committees"
     name = "Committees"
     weight = 5
+  [[menu.main]]
+    identifier = "committee"
+    name = "Committee"
+    url = "/committees/committee"
+    parent = "committees"
+    weight = 1
+  [[menu.main]]
+    identifier = "program_committee"
+    name = "Program committee"
+    url = "/committees/program_committee"
+    parent = "committees"
+    weight = 2  
 # ATTENDING
   [[menu.main]]
     identifier = "attending"

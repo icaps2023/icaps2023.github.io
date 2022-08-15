@@ -976,7 +976,7 @@ video {
 }
 
 /* Table */
-table {
+/*table {
 	width: 100%;
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
@@ -996,7 +996,7 @@ th {
 th {
 	font-weight: 700;
 }
-
+*/
 /* Forms */
 input {
 	padding: 5px;
