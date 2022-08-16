@@ -11,6 +11,9 @@ theme = 'mainroad'
 [Params]
    customCSS = ["css/bootstrap-table.css"]
 
+[Params.style.vars]
+     highlightColor = "#0081fe"
+
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -174,7 +177,7 @@ theme = 'mainroad'
     name = "Program committee"
     url = "/committees/program_committee"
     parent = "committees"
-    weight = 2  
+    weight = 2
 # ATTENDING
   [[menu.main]]
     identifier = "attending"

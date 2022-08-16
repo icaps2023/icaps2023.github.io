@@ -403,10 +403,12 @@ select {
 
 .logo__img {
 	max-height: 256px;
+	background-color: #ffffff;
 }
 
 .logo__text {
 	text-transform: uppercase;
+	background-color: rgba(0,0,0,0.7);
 }
 
 .logo--mixed .logo__item {
@@ -427,7 +429,7 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	color: #000;
+	color: rgba(255,255,255,0.5);
 }
 
 .logo__tagline {
@@ -1526,4 +1528,14 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
     position: relative;
     max-width: 100%;
   }
+}
+
+#banner-main {
+    background-image:url('/img/gardens.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+    padding-top:3em;
+    min-height:280px;
 }
