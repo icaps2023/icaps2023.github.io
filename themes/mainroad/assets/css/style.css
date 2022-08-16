@@ -1,4 +1,4 @@
-{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e22d30") -}}
+{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#0081fe") -}}
 
 {{- $fontSans := `"Open Sans", Helvetica, Arial, sans-serif` -}}
 {{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
@@ -1364,7 +1364,7 @@ textarea {
 }
 
 :focus > .menu__btn-title {
-  box-shadow: inset 0 0 1px 3px #e22d30;
+  box-shadow: inset 0 0 1px 3px {{ $highlightColor }};
 }
 
 button:not(:-moz-focusring):focus > .menu__btn-title {
@@ -1377,7 +1377,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .js .menu__btn--active {
-  color: #e22d30;
+  color: {{ $highlightColor }};
 }
 
 .menu__list,
@@ -1395,7 +1395,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item--active {
-  background: #e22d30;
+  background: {{ $highlightColor }};
 }
 
 .menu__link {
@@ -1414,7 +1414,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   position: absolute;
   max-width: 15rem;
   transition: all 0.5s ease;
-  border-top: 5px solid #e22d30;
+  border-top: 5px solid {{ $highlightColor }};
   display: none;
 }
 
@@ -1453,7 +1453,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
-
+highlightColor
 .menu__list--transition {
   transition: visibility 0.15s ease, transform 0.15s ease,
     -webkit-transform 0.15s ease;
@@ -1461,7 +1461,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 @media screen and (min-width: 767px) {
   .menu {
-    border-bottom: 5px solid #e22d30;
+    border-bottom: 5px solid {{ $highlightColor }};
   }
 
   .menu__btn {
