@@ -7,7 +7,7 @@
 	{{- $logoMix := and $logoImage $logoTitle -}}
 
 	<div id="banner-main" class="logo{{ with $logoMix }} logo--mixed{{ end }}">
-		<a class="logo__link" href="{{ "" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
+		<a class="logo__link" href="{{ "/home" | relLangURL }}"{{ with $logoTitle }} title="{{ . }}"{{ end }} rel="home">
 			{{ with $logoImage -}}
 				<div class="logo__item logo__imagebox">
 					<img class="logo__img" src="{{ . | relURL }}">
