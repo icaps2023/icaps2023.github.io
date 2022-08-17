@@ -9,7 +9,7 @@ Website for the ICAPS 2023 conference held in Prague.
 3. Use git to clone your repository. After successfully clonning the repository you should end up with a directory called `icaps2023.github.io`. This directory will be refered to as *website root*. 
 
 ### Set up a remote tracking branch ###
-After you've cloned the ICAPS on GitHub and set it up on your local machine,  you should add a remote repository for tracking changes to the main site:
+After you've cloned the ICAPS on GitHub and set it up on your local machine, you should run the following command from the *website root* to add a remote repository for tracking changes to the main site:
  ```
 $ git remote add icaps git@github.com:icaps2023/icaps2023.github.io.git
 ```
@@ -23,9 +23,10 @@ $ git checkout -b <branch-name> icaps/main
 ```
 Edit your files normally.
 
-If you add a new file, remember to add it with `git add`.  Commit your changes with `git commit`,  and push it back to GitHub with `git push`:
+If you add a new file or make some edits to existing files, remember to add it with `git add`.  Commit your changes with `git commit`,  and push it back to GitHub with `git push`:
 ```
 $ git add <path-to-new-file>
+$ git status // optional step to verify wht exactly is going to be commited
 $ git commit -am <useful but terse change description>
 $ git push origin
 ```

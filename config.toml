@@ -1,4 +1,4 @@
-baseURL = '/home'
+baseURL = 'icaps2023.icaps-conference.org'
 languageCode = 'en-us'
 title = 'ICAPS 2023'
 theme = 'mainroad'
@@ -10,16 +10,16 @@ theme = 'mainroad'
 
 [Params]
    customCSS = ["css/bootstrap-table.css"]
-   mainSections = ["home"]
 
 [Params.style.vars]
      highlightColor = "#0081fe"
 
 [menu]
+# HOME
   [[menu.main]]
-    identifier = "/home/home"
+    identifier = "home"
     name = "Home"
-    url = "/home"
+    url="/home"
     weight = 1
 # CALLS
   [[menu.main]]
