@@ -6,7 +6,7 @@ Website for the ICAPS 2023 conference held in Prague.
 ### Clone the ICAPS2023 repository and set up your local repository ###
 1. Sign up for Github
 2. Go to https://github.com/icaps2023/icaps2023.github.io and click the 'Fork' button in the upper right.  This should create and bring you to your own copy of the ICAPS website repository.
-3. Use git to clone your repository
+3. Use git to clone your repository. After successfully clonning the repository you should end up with a directory called `icaps2023.github.io`. This directory will be refered to as *website root*. 
 
 ### Set up a remote tracking branch ###
 After you've cloned the ICAPS on GitHub and set it up on your local machine,  you should add a remote repository for tracking changes to the main site:
@@ -19,7 +19,7 @@ You only need to do this once for your local repository.
 Use git-fetch to update the remote repository, and then create a new branch for the pull request you plan to make:
 ```
 $ git fetch icaps
-$ git checkout -b <branch-name> icaps/master
+$ git checkout -b <branch-name> icaps/main
 ```
 Edit your files normally.
 
@@ -34,7 +34,7 @@ You should repeat this part of the procedure for each new pull request.
 ## Testing changes
 The site is built with [HUGO](https://gohugo.io) framework for automated generation of static web content.
 If you have [hugo installed](https://gohugo.io/getting-started/installing) on your system, you can test your changes by running
-`hugo server` in the root directory (`icaps2023.github.io`) of the website repository.
+`hugo server` in the *website root*.
 This will start a webserver on http://localhost:1313.
 
 ### Creating your pull request ###
