@@ -45,7 +45,7 @@ Submissions of this type should focus on novel descriptions of systems that are 
 Selected abstracts and a reference to the original full-length paper (from its publisher) will both be made available on the ICAPS 2023 website, for dissemination to conference participants and as a permanent reference.
 
 ## Author Guidelines
-Authors may submit long papers (8 pages AAAI style plus up to one page of references) or short papers (4 pages plus up to one page of references). The type of paper must be indicated at submission time. All papers, regardless of length, will be reviewed against the standard criteria of relevance, originality, significance, clarity, soundness, and are expected to meet the same high standards set by ICAPS. Short papers may be of narrower scope, for example by addressing a highly specific issue, or proposing or evaluating a small, yet important, extension of previous work or new idea. Overlength papers will be rejected without review.
+Authors of original contributions may submit long papers (8 pages AAAI style plus up to one page of references) or short papers (4 pages plus up to one page of references). The type of paper must be indicated at submission time. All papers, regardless of length, will be reviewed against the standard criteria of relevance, originality, significance, clarity, soundness, and are expected to meet the same high standards set by ICAPS. Short papers may be of narrower scope, for example by addressing a highly specific issue, or proposing or evaluating a small, yet important, extension of previous work or new idea. Overlength papers will be rejected without review.
 
 Authors making multiple submissions must ensure that each submission has significant unique content. Papers submitted to ICAPS 2023 may not be submitted to other conferences or journals during the ICAPS 2023 review period nor may they be already under review, accepted, or published in other conferences or journals. AAAI decisions will be available two weeks before the ICAPS paper submission deadline. This year, the time gap between submissions to major AI conferences is tighter than usual. We had hoped to be able to both accept submissions of papers rejected from AAAI and enable authors to submit papers rejected from ICAPS to IJCAI 2023. However, the timeline is simply too tight for us to do this and maintain the quality of the ICAPS reviewing process. So while rejected papers from AAAI will have decisions early enough to permit revision and resubmission to ICAPS, we are unable to complete our reviews in time for papers to be resubmitted to IJCAI. Specifically, as the ICAPS 2023 notification date is after IJCAI 2023 full paper submission dates, ICAPS authors will not be allowed to resubmit their papers to IJCAI while they are under review at ICAPS, because of single submission requirements of both conferences.
 
@@ -84,7 +84,7 @@ We have arranged our schedule to allow for the revision and resubmission of pape
 The reference timezone for all deadlines is UTC-12. That is, as long as there is still some place anywhere in the world where the deadline has not yet passed, you are on time!
 
 ## ICAPS 2023 Industry and Applications Track Chairs
-- Hana Rudová, Masaryk University, Czech Republic
 - Daniel Harabor, Monash University, Australia
+- Hana Rudová, Masaryk University, Czech Republic
 
 For inquiries contact: <icaps23.apps@easychair.org>
