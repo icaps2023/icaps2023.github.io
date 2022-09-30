@@ -60,7 +60,7 @@ Submissions will be made electronically, by email to <icaps23.apps@easychair.org
 -	A one-page summary of the work, including references (submission authors must be the same as the authors of the paper being summarised)
 -	Up to 1 page justification, describing how the work relates to the selection criteria of the ICAPS-23 Industry and Applications Track.
 -	A reference for the full-length paper and an unrestricted download link.
--	
+	
 The submission document must follow the above-mentioned AAAI author kit instructions for formatting.
 
 ## Important Dates
