@@ -6,7 +6,7 @@ theme = 'mainroad'
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
   title = "The 33rd International Conference on Automated Planning and Scheduling" # Logo title, otherwise will use site title
-  subitle = "Prague, July 8-13, 2023" # Logo subtitle
+  subtitle = "Prague, July 8-13, 2023" # Logo subtitle
 
 [Params]
    customCSS = ["css/bootstrap-table.css"]
