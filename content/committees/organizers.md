@@ -18,8 +18,8 @@ draft: false
   - Tim Niemueller, Intrinsic Innovation, Germany
   - Ron Petrick, Heriot-Watt University, UK
 ### Industry and Applications Track Chairs
-  - Hana Rudová, Masaryk University, Czech Republic
   - Daniel Harabor, Monash University, Australia
+  - Hana Rudová, Masaryk University, Czech Republic
 ### Planning and Learning Track Chairs
   - Alan Fern, Oregon State University, USA
   - Eva Onaindia, UPV, Spain
