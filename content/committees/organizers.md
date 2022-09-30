@@ -28,7 +28,7 @@ draft: false
 ### Workshop & Tutorial Chairs
   - Simon Parkinson, University of Huddersfield, UK
   - Mark Roberts, Naval Research Laboratory, USA
-### DC Chairs
+### Doctoral Consortium Chairs
   - Gabriella Cortellessa, CNR, Italy
   - Enrico Scala, University of Brescia, Italy
 ### Sponsorship Chairs
