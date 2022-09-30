@@ -5,7 +5,8 @@ theme = 'mainroad'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
-  title = "The 33rd International Conference on Automated Planning and Scheduling" # Logo title, otherwise will use site title
+  title = "The 33rd International Conference" # Logo title, otherwise will use site title
+  title2 = "on Automated Planning and Scheduling"
   subtitle = "Prague, July 8-13, 2023" # Logo subtitle
 
 [Params]
@@ -84,12 +85,12 @@ theme = 'mainroad'
     url = "/committees/organizers"
     parent = "committees"
     weight = 1
-  [[menu.main]]
-    identifier = "program_committees"
-    name = "Program Committees"
-    url = "/committees/program_committees"
-    parent = "committees"
-    weight = 2
+#  [[menu.main]]
+#    identifier = "program_committees"
+#    name = "Program Committees"
+#    url = "/committees/program_committees"
+#    parent = "committees"
+#    weight = 2
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
