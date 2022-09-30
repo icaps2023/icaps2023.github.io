@@ -11,9 +11,9 @@ ICAPS 2023, the 33rd International Conference on Automated Planning and Scheduli
 ICAPS 2023 will feature 4 different tracks:
 
 - Main Track (see below)
-- Industry and Applications Track (link)
-- Planning and Learning Track (link)
-- Robotics Track (link)
+- [Industry and Applications Track](https://icaps2023.github.io/calls/application_track/)
+- [Planning and Learning Track](https://icaps2023.github.io/calls/learning_track/)
+- [Robotics Track](https://icaps2023.github.io/calls/robotics_track/)
 
 Additionally, the ICAPS program will include a journal track, demonstrations, workshops, and tutorials, each having separate submission and notification dates, to be announced separately.
 
