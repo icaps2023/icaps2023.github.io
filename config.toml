@@ -21,169 +21,75 @@ theme = 'mainroad'
     name = "Home"
     url="/home"
     weight = 1
+# DATES
+  [[menu.main]]
+    identifier = "dates"
+    name = "Dates"
+    url="/dates"
+    weight = 2
 # CALLS
   [[menu.main]]
     identifier = "calls"
     name = "Calls"
-    weight = 2
+    weight = 3
   [[menu.main]]
-    identifier = "discussion_call"
-    name = "Call for discussion topic"
-    url = "/calls/discussion_call"
+    identifier = "main_track"
+    name = "Main Track"
+    url = "/calls/main_track"
     parent = "calls"
     weight = 1
   [[menu.main]]
-    identifier = "journal"
-    name = "Journal"
-    url = "/calls/journal"
+    identifier = "application_track"
+    name = "Application Track"
+    url = "/calls/application_track"
     parent = "calls"
     weight = 2
   [[menu.main]]
-    identifier = "demo_cfp"
-    name = "Call for Demo"
-    url = "/calls/demo_cfp"
+    identifier = "learning_track"
+    name = "Learning Track"
+    url = "/calls/learning_track"
     parent = "calls"
     weight = 3
   [[menu.main]]
-    identifier = "sponsor_call"
-    name = "Call for Sponsorship"
-    url = "/calls/sponsor_call"
+    identifier = "robotics_track"
+    name = "Robotics Track"
+    url = "/calls/robotics_track"
     parent = "calls"
     weight = 4
+# SUBMISSIONS
   [[menu.main]]
-    identifier = "main_track"
-    name = "Main track"
-    url = "/calls/main_track"
-    parent = "calls"
-    weight = 5
-  [[menu.main]]
-    identifier = "tut_cfp "
-    name = "Call for Tutorials"
-    url = "/calls/tut_cfp"
-    parent = "calls"
-    weight = 6
-  [[menu.main]]
-    identifier = "ws_cfp"
-    name = "Call for Workshops"
-    url = "/calls/ws_cfp"
-    parent = "calls"
-    weight = 7
-  [[menu.main]]
-    identifier = "industry_and_applications_track"
-    name = "Industry and Applications"
-    url = "/calls/industry_and_applications_track"
-    parent = "calls"
-    weight = 8
-  [[menu.main]]
-    identifier = "human_aware_planning_and_scheduling_track"
-    name = "Human-Aware Planning and Scheduling"
-    url = "/calls/human_aware_planning_and_scheduling_track"
-    parent = "calls"
-    weight = 9
-  [[menu.main]]
-    identifier = "learning_track"
-    name = "Planning and Learning"
-    url = "/calls/learning_track"
-    parent = "calls"
-    weight = 10
-  [[menu.main]]
-    identifier = "doctoral_consortium"
-    name = "Doctoral consortium"
-    url = "/calls/doctoral_consortium"
-    parent = "calls"
-    weight = 11
+    identifier = "submissions"
+    name = "Submissions"
+    url="/submissions"
+    weight = 4
 # PROGRAM
   [[menu.main]]
     identifier = "program"
     name = "Program"
-    weight = 3
-  [[menu.main]]
-    identifier = "invited_talks"
-    name = "Invited talks"
-    url = "/program/invited_talks"
-    parent = "program"
-    weight = 1
-  [[menu.main]]
-    identifier = "schedule"
-    name = "Schedule"
-    url = "/program/schedule"
-    parent = "program"
-    weight = 2
-  [[menu.main]]
-    identifier = "papers"
-    name = "Papers"
-    url = "/program/papers"
-    parent = "program"
-    weight = 3
-  [[menu.main]]
-    identifier = "workshops"
-    name = "Workshops"
-    url = "/program/workshops"
-    parent = "program"
-    weight = 4
-  [[menu.main]]
-    identifier = "tutorials"
-    name = "Tutorials"
-    url = "/program/tutorials"
-    parent = "program"
     weight = 5
   [[menu.main]]
-    identifier = "dc_2023"
-    name = "Doctoral Consortium"
-    url = "/program/dc_2023"
+    identifier = "program_overview"
+    name = "Program Overview"
+    url = "/program/overview"
     parent = "program"
-    weight = 6
-  [[menu.main]]
-    identifier = "awards"
-    name = "Awards"
-    url = "/program/awards"
-    parent = "program"
-    weight = 7
-  [[menu.main]]
-    identifier = "panels"
-    name = "Panels"
-    url = "/program/panels"
-    parent = "program"
-    weight = 8
-  [[menu.main]]
-    identifier = "demos"
-    name = "Demos"
-    url = "/program/demos"
-    parent = "program"
-    weight = 9
-  [[menu.main]]
-    identifier = "social_events"
-    name = "Social events"
-    url = "/program/social_events"
-    parent = "program"
-    weight = 10
-# REGISTRATION
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    weight = 4
+    weight = 1
 # COMMITTEES
   [[menu.main]]
     identifier = "committees"
     name = "Committees"
-    weight = 5
+    weight = 6
   [[menu.main]]
-    identifier = "committee"
-    name = "Committee"
-    url = "/committees/committee"
+    identifier = "organizers"
+    name = "Organizers"
+    url = "/committees/organizers"
     parent = "committees"
     weight = 1
   [[menu.main]]
-    identifier = "program_committee"
-    name = "Program committee"
-    url = "/committees/program_committee"
+    identifier = "program_committees"
+    name = "Program Committees"
+    url = "/committees/program_committees"
     parent = "committees"
     weight = 2
-# ATTENDING
-  [[menu.main]]
-    identifier = "attending"
-    name = "Attending"
-    weight = 6
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
