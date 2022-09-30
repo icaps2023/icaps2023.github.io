@@ -1,0 +1,14 @@
+{{ $file := .Get 0 }}
+{{ $data := getCSV "," $file }}
+
+<table>
+{{ range $row := $data }}
+   <tr>
+   {{ range $index, $item := $row }}
+      <td>
+      {{ print $index " " $item }}
+      </td>
+   {{ end }}
+   </tr>
+{{ end }}
+</table>

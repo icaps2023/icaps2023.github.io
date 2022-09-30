@@ -1,0 +1,22 @@
+{{ $file := .Get 0 }}
+{{ $data := getCSV ";" $file }}
+
+<table style="width: 100%">
+{{ range $row := $data }}
+   <tr>
+   {{ range $index, $item := $row }}
+   
+	 {{ if ne $index 0 }}
+         <td>
+      		{{ print $item }}
+	 </td>
+	 {{ else }}
+	 <td>
+	 	<strong>{{ print $item }}</strong>
+	 </td>
+	 {{ end }}
+      </td>
+   {{ end }}
+   </tr>
+{{ end }}
+</table>
