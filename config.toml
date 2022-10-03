@@ -1,4 +1,4 @@
-baseURL = 'icaps2023.icaps-conference.org'
+baseURL = 'https://icaps23.icaps-conference.org'
 languageCode = 'en-us'
 title = 'ICAPS 2023'
 theme = 'mainroad'
