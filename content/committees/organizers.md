@@ -5,4 +5,5 @@ draft: false
 ---
 # Conference Organisers
 
-{{< committee_table "/data/committee/organizers.csv" >}}
+
+{{< committee_table_json "/data/committee/organizers.json" >}}
