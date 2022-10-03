@@ -1,0 +1,189 @@
+{
+    "items": [
+        {
+            "position": "Conference Chairs",
+            "people": [
+                {
+                    "name": "Roman Bart\u00e1k",
+                    "institution": "Charles University",
+                    "country": "Czech Republic"
+                },
+                {
+                    "name": "AndreA Orlandini",
+                    "institution": "CNR-ISTS",
+                    "country": "Italy"
+                }
+            ]
+        },
+        {
+            "position": "Program Chairs",
+            "people": [
+                {
+                    "name": "Sven Koenig",
+                    "institution": "USC",
+                    "country": "USA"
+                },
+                {
+                    "name": "Roni Stern",
+                    "institution": "Ben Gurion University",
+                    "country": "Israel"
+                },
+                {
+                    "name": "Mauro Vallati",
+                    "institution": "University of Huddersfield",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
+            "position": "Local Arrangements Chair",
+            "people": [
+                {
+                    "name": "Milena Zeithamlov\u00e1",
+                    "institution": "Action M Agency",
+                    "country": "Czech Republic"
+                }
+            ]
+        },
+        {
+            "position": "Robotics Track Chairs",
+            "people": [
+                {
+                    "name": "Tim Niemueller",
+                    "institution": "Intrinsic Innovation",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Ron Petrick",
+                    "institution": "Heriot-Watt University",
+                    "country": "UK"
+                }
+            ]
+        },
+        {
+            "position": "Industry and Applications Track Chairs",
+            "people": [
+                {
+                    "name": "Daniel Harabor",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Hana Rudov\u00e1",
+                    "institution": "Masaryk University",
+                    "country": "Czech Republic"
+                }
+            ]
+        },
+        {
+            "position": "Planning and Learning Track Chairs",
+            "people": [
+                {
+                    "name": "Alan Fern",
+                    "institution": "Oregon State University",
+                    "country": "USA"
+                },
+                {
+                    "name": "Eva Onaindia",
+                    "institution": "UPV",
+                    "country": "Spain"
+                }
+            ]
+        },
+        {
+            "position": "System Demo Chairs",
+            "people": [
+                {
+                    "name": "Tiago S. Vaquero",
+                    "institution": "NASA",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Workshop & Tutorial Chairs",
+            "people": [
+                {
+                    "name": "Simon Parkinson",
+                    "institution": "University of Huddersfield",
+                    "country": "UK"
+                },
+                {
+                    "name": "Mark Roberts",
+                    "institution": "Naval Research Laboratory",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Doctoral Consortium Chairs",
+            "people": [
+                {
+                    "name": "Gabriella Cortellessa",
+                    "institution": "CNR",
+                    "country": "Italy"
+                },
+                {
+                    "name": "Enrico Scala",
+                    "institution": "University of Brescia",
+                    "country": "Italy"
+                }
+            ]
+        },
+        {
+            "position": "Sponsorship Chairs",
+            "people": [
+                {
+                    "name": "Robert Goldman",
+                    "institution": "SIFT",
+                    "country": "USA"
+                },
+                {
+                    "name": "Hankz Hankui Zhuo",
+                    "institution": "Sun Yat-Sen University of China",
+                    "country": "China"
+                },
+                {
+                    "name": "Neil Yorke-Smitt",
+                    "institution": "TU Delft",
+                    "country": "Netherlands"
+                }
+            ]
+        },
+        {
+            "position": "Remote Participation Coordinator",
+            "people": [
+                {
+                    "name": "Luk\u00e1\u0161 Chrpa",
+                    "institution": "Czech Technical University",
+                    "country": "Czech Republic"
+                }
+            ]
+        },
+        {
+            "position": "Publicity Chair",
+            "people": [
+                {
+                    "name": "Alessandro Umbrico",
+                    "institution": "CNR-ISTS",
+                    "country": "Italy"
+                }
+            ]
+        },
+        {
+            "position": "Advisors",
+            "people": [
+                {
+                    "name": "Lee McCluskey",
+                    "institution": "University of Huddersfield",
+                    "country": "UK"
+                },
+                {
+                    "name": "Amedeo Cesta",
+                    "institution": "CNR",
+                    "country": "Italy"
+                }
+            ]
+        }
+    ]
+}

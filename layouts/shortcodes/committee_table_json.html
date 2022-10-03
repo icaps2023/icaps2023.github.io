@@ -1,0 +1,20 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+<table style="width: 100%">
+{{ range $item := $data.items }}
+   <tr>
+         <td style="vertical-align: top">
+		 <strong> {{ print $item.position }} </strong>
+	 </td>
+	 <td style="vertical-align: top">
+		 {{ range $person := $item.people }}
+		 <p>
+			 {{ print $person.name ", " $person.institution ", " $person.country }}
+		 </p>
+		 {{ end}}
+	 </td>
+      </td>
+   </tr>
+{{ end }}
+</table>
