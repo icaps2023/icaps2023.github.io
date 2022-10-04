@@ -52,3 +52,7 @@ The reference timezone for all deadlines is UTC-12. That is, as long as there is
 ## ICAPS 2023 Planning and Learning Track Chairs
 - Alan Fern, Oregon State University, USA
 - Eva Onaindia, UPV, Spain
+
+For inquiries contact: <icaps23.learning@easychair.org>
+
+
