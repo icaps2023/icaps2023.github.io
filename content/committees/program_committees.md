@@ -11,7 +11,7 @@ TBA
 ## Application Track
 - Daniel Harabor, Monash University, Australia
 - Hana Rudová, Masaryk University, Czech Republic
-- TBA
+TBA
 
 ## Learning Track
 - Vaneet Aggarwal, Purdue University, USA
@@ -59,4 +59,6 @@ TBA
 - Martijn Van Otterlo, Open University (The Netherlands), Netherlands
 
 ## Robotics Track
+- Tim Niemueller, Intrinsic Innovation, Germany
+- Ron Petrick, Heriot-Watt University, UK
 TBA
