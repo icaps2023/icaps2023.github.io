@@ -40,7 +40,7 @@ Accepted papers, long and short, will be presented orally as part of the main te
 
 In addition to original contributions, we also solicit abstracts (up to 1 page) from industrial practitioners, which describe recent work on planning or scheduling approaches for solving real-world problems. Selected abstracts will not appear in the conference proceedings, but authors will be invited to present their work as a full-length oral presentation in the main technical program of ICAPS 2023. 
 
-Submissions of this type should focus on novel descriptions of systems that are currently in production or industrial case studies and prototypes where planning and/or scheduling play a prominent role. Abstracts should summarise recently published papers, industrially-focused and appearing in a related and quality conference in the past 2 years (AI, Operations Research, Transportation, etc.). At least one of the authors must be from the respective problem-owning organisation.
+Submissions of this type should focus on descriptions of systems that are currently in production or industrial case studies and prototypes where planning and/or scheduling play a prominent role. Abstracts will summarise recently published papers, industrially-focused and appearing in a related and quality conference in the past 2 years (AI, Operations Research, Transportation, etc.). At least one of the authors must be from the respective problem-owning organisation.
 
 Selected abstracts and a reference to the original full-length paper (from its publisher) will both be made available on the ICAPS 2023 website, for dissemination to conference participants and as a permanent reference.
 
