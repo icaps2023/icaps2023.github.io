@@ -9,7 +9,9 @@ draft: true
 TBA
 
 ## Application Track
-TBA 
+- Daniel Harabor, Monash University, Australia
+- Hana Rudová, Masaryk University, Czech Republic
+- TBA
 
 ## Learning Track
 - Vaneet Aggarwal, Purdue University, USA
