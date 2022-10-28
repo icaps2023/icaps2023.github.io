@@ -10,7 +10,7 @@
                 },
                 {
                     "name": "AndreA Orlandini",
-                    "institution": "CNR-ISTS",
+                    "institution": "CNR-ISTC",
                     "country": "Italy"
                 }
             ]
@@ -120,7 +120,7 @@
             "people": [
                 {
                     "name": "Gabriella Cortellessa",
-                    "institution": "CNR",
+                    "institution": "CNR-ISTC",
                     "country": "Italy"
                 },
                 {
@@ -130,6 +130,21 @@
                 }
             ]
         },
+        {
+            "position": "Diversity and Inclusion Chairs",
+            "people": [
+                {
+                    "name": "Iman Awaad",
+                    "institution": "Bonn-Rhein-Sieg University",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Masoumeh Iran Mansouri",
+                    "institution": "University of Birmingham",
+                    "country": "UK"
+                }
+            ]
+        }
         {
             "position": "Sponsorship Chairs",
             "people": [
@@ -144,7 +159,7 @@
                     "country": "China"
                 },
                 {
-                    "name": "Neil Yorke-Smitt",
+                    "name": "Neil Yorke-Smith",
                     "institution": "TU Delft",
                     "country": "Netherlands"
                 }
@@ -165,7 +180,7 @@
             "people": [
                 {
                     "name": "Alessandro Umbrico",
-                    "institution": "CNR-ISTS",
+                    "institution": "CNR-ISTC",
                     "country": "Italy"
                 }
             ]
@@ -180,7 +195,7 @@
                 },
                 {
                     "name": "Amedeo Cesta",
-                    "institution": "CNR",
+                    "institution": "CNR-ISTC",
                     "country": "Italy"
                 }
             ]
