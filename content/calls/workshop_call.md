@@ -1,6 +1,6 @@
 ---
 title: "workshop_call"
-date: 2022-09-29T18:32:18+02:00
+date: 2022-11-10T16:19:18+01:00
 draft: false
 ---
 
