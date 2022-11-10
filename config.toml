@@ -59,7 +59,7 @@ theme = 'mainroad'
     weight = 4
   [[menu.main]]
     identifier = "workshop_call"
-    name = "Call for Workshop Proposals
+    name = "Call for Workshop Proposals"
     parent = "calls"
     weight = 5
 # SUBMISSIONS
