@@ -57,6 +57,11 @@ theme = 'mainroad'
     url = "/calls/robotics_track"
     parent = "calls"
     weight = 4
+  [[menu.main]]
+    identifier = "workshop_call"
+    name = "Call for Workshop Proposals
+    parent = "calls"
+    weight = 5
 # SUBMISSIONS
   [[menu.main]]
     identifier = "submissions"
