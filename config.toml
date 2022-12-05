@@ -63,6 +63,12 @@ theme = 'mainroad'
     url = "/calls/workshop_call"
     parent = "calls"
     weight = 5
+# COMPETITIONS
+  [[menu.main]]
+    identifier = "competitions"
+    name = "Competitions"
+    url="/competitions"
+    weight = 4
 # SUBMISSIONS
   [[menu.main]]
     identifier = "submissions"
