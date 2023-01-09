@@ -36,7 +36,7 @@ The organizers of accepted workshop proposals are responsible for:
 Workshop proposals should be submitted by email, in plain text or PDF, to icaps2023-workshops@googlegroups.com with the subject “Workshop Proposal for ICAPS23” no later than 6 January 2023. Workshop organizers will be notified by email of the acceptance or rejection of their proposal by 27 January 2023. All PDFs must be less than 25 MB in size.
 
 ## Summary of Important Dates:
-- Deadline for submission of workshop proposals: 06 January 2023.
+- ***Deadline for submission of workshop proposals***: ~~06 January 2023~~ ***13 January 2023***.
 - Notification of workshop acceptance:  27 January 2023.
 - Workshop Call for Papers and materials for the website: 03 February 2023.
 - List of accepted papers on the workshop website: 28 April 2023.
