@@ -15,9 +15,36 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 
 \* All prices include 21% VAT.
 
-| Platinum Partner: min. 220000 CZK (10000 USD and more) | Gold Partner: 150000 - 219000 CZK (7000 - 9999 USD) | Silver Partner: 75000 - 149999 CZK (3400 - 6999 USD) | Bronze Partner: 25000 - 74999 CZK (1100 - 3399 USD) |
-| :----------------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------- |
-| <ul><li>Company name and logo with link to company website displayed on website and conference materials (category Platinum)</li><li>Exhibition Space (4 x 3 m)</li><li>Access to opt-in database of attendee contact information who are interested in being recruited</li><li>6 Complimentary registrations allowing access to all conference events</li><li>Choose three of the named events/awards</li></ul> | <ul></ul> | <ul></ul> | <ul></ul> |
+### Platinum Partner: min. 220000 CZK (10000 USD and more)
+
+- Company name and logo with link to company website displayed on website and conference materials (category Platinum)
+- Access to opt-in database of attendee contact information who are interested in being recruited
+- Exhibition Space (4 x 3 m)
+- 6 Complimentary registrations allowing access to all conference events
+- Choose three of the named events/awards
+
+### Gold Partner: 150000 - 219000 CZK (7000 - 9999 USD) 
+
+- Company name and logo with link to company website displayed on website and conference materials (category Gold)
+- Access to opt-in database of attendee contact information who are interested in being recruited
+- Exhibition Space (2 x 3 m)
+- 4 Complimentary registrations allowing access to all conference events
+- Optional company name and logo displayed on Best Paper Award and Best Student Paper Award
+- Choose two of the named events/awards
+
+### Silver Partner: 75000 - 149999 CZK (3400 - 6999 USD) 
+
+- Company name and logo with link to company website displayed on website and conference materials (category Silver)
+- Access to opt-in database of attendee contact information who are interested in being recruited
+- Exhibition Space (2 x 3 m)
+- 2 Complimentary registrations allowing access to all conference events
+- Optional company name and logo displayed on Best Demo Award
+- Choose one of the named events/awards
+
+### Bronze Partner: 25000 - 74999 CZK (1100 - 3399 USD)
+
+- Company name and logo with link to company website displayed on website (category Bronze)
+- 1 Complimentary registration allowing access to all conference events
 
 ## Sponsorship Opportunities for Named Events and Awards
 
@@ -29,5 +56,5 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 
 Approximate exchange rates (1 EUR - 24030 CZK, 1 USD - 22676 CZK), actual exchange rates at [https://www.cnb.cz/en](https://www.cnb.cz/en). 
 
-Further payment details will be cared by local arrangements chair Milena Zeithamlova (<milena@action-m.com>, +420 602 324 951).
+Further payment details will be cared by local arrangements chair Milena Zeithamlov'{a} (<milena@action-m.com>, +420 602 324 951).
 
