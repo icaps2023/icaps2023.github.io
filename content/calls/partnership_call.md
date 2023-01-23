@@ -13,24 +13,11 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 
 ## Offer for Partnership Benefits
 
-* All prices include 21% VAT.
+\* All prices include 21% VAT.
 
-<table>
-  <th>
-  	<td>Platinum Partner: min. 220000 CZK (10000 USD and more)</td>
-    	<td>Gold Partner: 150000 - 219000 CZK (7000 - 9999 USD)</td>
-    	<td>Silver Partner: 75000 - 149999 CZK (3400 - 6999 USD)</td>
-    	<td>Bronze Partner: 25000 - 74999 CZK (1100 - 3399 USD)</td>
-  </th>
-  
-  <tr>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  	<td></td>
-  </tr>
-</table>
-
+| Platinum Partner: min. 220000 CZK (10000 USD and more) | Gold Partner: 150000 - 219000 CZK (7000 - 9999 USD) | Silver Partner: 75000 - 149999 CZK (3400 - 6999 USD) | Bronze Partner: 25000 - 74999 CZK (1100 - 3399 USD) |
+| :----------------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------- | :-------------------------------------------------- |
+| <ul><li>Company name and logo with link to company website displayed on website and conference materials (category Platinum)</li><li>Exhibition Space (4 x 3 m)</li><li>Access to opt-in database of attendee contact information who are interested in being recruited</li><li>6 Complimentary registrations allowing access to all conference events</li><li>Choose three of the named events/awards</li></ul> | <ul></ul> | <ul></ul> | <ul></ul> |
 
 ## Sponsorship Opportunities for Named Events and Awards
 
