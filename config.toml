@@ -63,6 +63,12 @@ theme = 'mainroad'
     url = "/calls/workshop_call"
     parent = "calls"
     weight = 5
+  [[menu.main]]
+    identifier = "partnership_call"
+    name = "Call for Partnership"
+    url = "/calls/partnerhsip_call"
+    parent = "calls"
+    weight = 5
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
