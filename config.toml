@@ -64,11 +64,17 @@ theme = 'mainroad'
     parent = "calls"
     weight = 5
   [[menu.main]]
+    identifier = "tutorial_call"
+    name = "Call for Tutorial Proposals"
+    url = "/calls/tutorial_call"
+    parent = "calls"
+    weight = 6
+  [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
     url = "/calls/partnership_call"
     parent = "calls"
-    weight = 6
+    weight = 7
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
