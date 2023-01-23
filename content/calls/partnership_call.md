@@ -56,5 +56,5 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 
 Approximate exchange rates (1 EUR - 24030 CZK, 1 USD - 22676 CZK), actual exchange rates at [https://www.cnb.cz/en](https://www.cnb.cz/en). 
 
-Further payment details will be cared by local arrangements chair Milena Zeithamlov'{a} (<milena@action-m.com>, +420 602 324 951).
+Further payment details will be cared by local arrangements chair Milena Zeithamlova (<milena@action-m.com>, +420 602 324 951).
 
