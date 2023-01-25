@@ -95,7 +95,7 @@
 		"people": [
 			{
 				"name" : "Sebastian Sardina",
-				"institute": "RMIT University",
+				"institution": "RMIT University",
 				"country": "Australia"
 			}			
 		]
@@ -110,7 +110,7 @@
                 },
 		{
 			"name" : "Ron Alford",
-			"institution": "Mitre Corporation",
+			"institution": "MITRE Corporation",
 			"country" : "USA"
 		}
             ]
