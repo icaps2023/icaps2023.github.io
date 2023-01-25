@@ -90,6 +90,16 @@
                 }
             ]
         },
+	{
+		"position": "Journal Track",
+		"people": [
+			{
+				"name" : Sebastian Sardina",
+				"institute": "RMIT University",
+				"country": "Australia"
+			}			
+		]
+	},
         {
             "position": "System Demo Chairs",
             "people": [
@@ -97,7 +107,12 @@
                     "name": "Tiago S. Vaquero",
                     "institution": "NASA",
                     "country": "USA"
-                }
+                },
+		{
+			"name" : "Ron Alford",
+			"institution": "Mitre Corporation",
+			"country" : "USA"
+		}
             ]
         },
         {
