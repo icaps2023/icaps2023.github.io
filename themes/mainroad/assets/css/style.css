@@ -407,8 +407,8 @@ select {
 }
 
 .logo__text {
-	text-transform: uppercase;
-	background-color: rgba(0,0,0,0.7);
+	/* text-transform: uppercase; */
+	background-color: rgba(0,0,0,0.0);
 }
 
 .logo--mixed .logo__item {
@@ -429,7 +429,7 @@ select {
 	font-size: 1.8rem;
 	font-weight: 700;
 	line-height: 1;
-	color: rgba(255,255,255,0.5);
+	color: rgba(245,130,31,0.85);
 }
 
 .logo__tagline {
@@ -440,8 +440,8 @@ select {
 	font-size: .875rem;
 	font-weight: 700;
 	line-height: 1;
-	color: {{ $highlightColor }};
-	border-top: 1px solid #ebebeb;
+	color: #000;
+	border-top: 1px solid #000;
 }
 
 .divider {
@@ -1387,7 +1387,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .menu__item:hover > a {
-  color: #ffa500;
+  color: #fff;
 }
 
 .menu__item:first-child {
