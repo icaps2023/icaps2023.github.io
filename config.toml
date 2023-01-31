@@ -7,13 +7,13 @@ theme = 'mainroad'
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
   title = "The 33rd International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Prague, July 8-13, 2023" # Logo subtitle
+  subtitle = "Prague, Czech Republic, July 8-13, 2023" # Logo subtitle
 
 #[Params]
 #   customCSS = ["css/bootstrap-table.css"]
 
 [Params.style.vars]
-     highlightColor = "#0081fe"
+     highlightColor = "#f5821f"
 
 [menu]
 # HOME
