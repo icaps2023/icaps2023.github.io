@@ -109,12 +109,12 @@ theme = 'mainroad'
     parent = "program"
     weight = 200
 # WORKSHOPS
-#  [[menu.main]]
-#    identifier = "keps"
-#    name = "KEPS"
-#    parent = "ws"
-#    url = "/program/workshops/keps"
-#    weight = 1
+  [[menu.main]]
+    identifier = "keps"
+    name = "KEPS"
+    parent = "ws"
+    url = "/program/workshops/keps"
+    weight = 1
   [[menu.main]]
     identifier = "finplan"
     name = "FinPlan"
