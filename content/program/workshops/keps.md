@@ -1,3 +1,10 @@
+---
+title: "KEPS"
+date: 2023-02-01T14:30:17+01:00
+draft: false
+---
+
+
 # KEPS 2023
 
 2023 Workshop on Knowledge Engineering for Planning and Scheduling \
