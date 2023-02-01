@@ -109,78 +109,78 @@ theme = 'mainroad'
     parent = "program"
     weight = 200
 # WORKSHOPS
-  [[menu.main]]
-    identifier = "keps"
-    name = "KEPS"
-    parent = "ws"
-    url = "/program/workshops/ws_keps"
-    weight = 1
+#  [[menu.main]]
+#    identifier = "keps"
+#    name = "KEPS"
+#    parent = "ws"
+#    url = "/program/workshops/keps"
+#    weight = 1
   [[menu.main]]
     identifier = "finplan"
     name = "FinPlan"
     parent = "ws"
-    url = "/program/workshops/ws_finplan"
+    url = "/program/workshops/finplan"
     weight = 2
-  [[menu.main]]
-    identifier = "haxp" 
-    name = "HAXP"
-    parent = "ws"
-    url = "/program/workshops/ws_haxp"
-    weight = 3
+#  [[menu.main]]
+#    identifier = "haxp" 
+#    name = "HAXP"
+#    parent = "ws"
+#    url = "/program/workshops/haxp"
+#    weight = 3
   [[menu.main]]
     identifier = "plato"
     name = "PLATO"
     parent = "ws"
-    url = "/program/workshops/ws_plato"
+    url = "/program/workshops/plato"
     weight = 4
-  [[menu.main]]
-    identifier = "prl"
-    name = "PRL"
-    parent = "ws"
-    url = "/program/workshops/ws_prl"
-    weight = 5
-  [[menu.main]]
-    identifier = "rddps"
-    name = "RDDPS"
-    parent = "ws"
-    url = "/program/workshops/ws_rddps"
-    weight = 6
-  [[menu.main]]
-    identifier = "hplan"
-    name = "HPlan"
-    url = "/program/workshops/ws_hplan"
-    parent = "ws"
-    weight = 7
-  [[menu.main]]
-    identifier = "spark"
-    name = "SPARK"
-    parent = "ws"
-    url = "/program/workshops/ws_spark"
-    weight = 8
-  [[menu.main]]
-    identifier = "planrob"
-    name = "PlanRob"
-    parent = "ws"
-    url = "/program/workshops/ws_planrob"
-    weight = 9
-  [[menu.main]]
-    identifier = "intex"
-    name = "IntEx"
-    parent = "ws"
-    url = "/program/workshops/ws_intex"
-    weight = 10
-  [[menu.main]]
-    identifier = "pair"
-    name = "PAIR"
-    parent = "ws"
-    url = "/program/workshops/ws_pair"
-    weight = 11
-  [[menu.main]]
-    identifier = "hsdip"
-    name = "HSDIP"
-    parent = "ws"
-    url = "/program/workshops/ws_pair"
-    weight = 12
+#  [[menu.main]]
+#    identifier = "prl"
+#    name = "PRL"
+#    parent = "ws"
+#    url = "/program/workshops/prl"
+#    weight = 5
+#  [[menu.main]]
+#    identifier = "rddps"
+#    name = "RDDPS"
+#    parent = "ws"
+#    url = "/program/workshops/rddps"
+#    weight = 6
+#  [[menu.main]]
+#    identifier = "hplan"
+#    name = "HPlan"
+#    url = "/program/workshops/hplan"
+#    parent = "ws"
+#    weight = 7
+#  [[menu.main]]
+#    identifier = "spark"
+#    name = "SPARK"
+#    parent = "ws"
+#    url = "/program/workshops/spark"
+#    weight = 8
+#  [[menu.main]]
+#    identifier = "planrob"
+#    name = "PlanRob"
+#    parent = "ws"
+#    url = "/program/workshops/planrob"
+#    weight = 9
+#  [[menu.main]]
+#    identifier = "intex"
+#    name = "IntEx"
+#    parent = "ws"
+#    url = "/program/workshops/intex"
+#    weight = 10
+#  [[menu.main]]
+#    identifier = "pair"
+#    name = "PAIR"
+#    parent = "ws"
+#    url = "/program/workshops/pair"
+#    weight = 11
+#  [[menu.main]]
+#    identifier = "hsdip"
+#    name = "HSDIP"
+#    parent = "ws"
+#    url = "/program/workshops/pair"
+#    weight = 12
 # COMMITTEES
   [[menu.main]]
     identifier = "committees"
