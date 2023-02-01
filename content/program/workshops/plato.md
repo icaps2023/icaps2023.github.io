@@ -1,7 +1,7 @@
 # PLanning And onTology wOrkshop (PLATO)
 
-ICAPS'23 Workshop
-Prague, Czech Republic
+ICAPS'23 Workshop \
+Prague, Czech Republic \
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
@@ -34,43 +34,28 @@ The workshop is open to both application and theoretical contributions that see 
 
 ## Important Dates
 
-- ***Submission: March 24, 2023***
+- **Submission: March 24, 2023**
 - Notification: April 14, 2023
 - Camera-ready: April 25, 2023
-
 - Workshop: July 9-10, 2023
 - Conference: July 8-13, 2023
 
 ## Submission Details
 
 We welcome two categories of paper submission:
+- **Short papers** - _6 pages_ (including references) formatted as LNCS one-column paper. These should describe concrete problems, open issues concerning planning and ontology, or methodologies/approaches pointing out the added values of the integration between planning and ontology.
+- **Full papers** - _13 pages_ (including references) formatted as LNCS one-column paper. These should report work-in-progress, novel designed technologies or systems relying on the integration of panning and ontology.
 
-- ***Short papers*** - 6 pages (including references) formatted as LNCS one-column paper. These should describe concrete problems, open issues concerning planning and ontology, or methodologies/approaches pointing out the added values of the integration between planning and ontology.
 
-- ***Full papers*** - 13 pages (including references) formatted as LNCS one-column paper. These should report work-in-progress, novel designed technologies or systems relying on the integration of panning and ontology.
+Submissions should be made in PDF through **EasyChair** using the link [https://easychair.org/my/conference?conf=plato2023](https://easychair.org/my/conference?conf=plato2023).
 
-Authors of accepted short and full papers will give a talk about their work during the workshop.
+Authors of **accepted short and full papers** will give a talk about their work during the workshop. 
 
-Submissions should be made in PDF through the EasyChair website 
-
-(https://easychair.org/my/conference?conf=plato2023)[https://easychair.org/my/conference?conf=plato2023]
-
-Papers should be formatted according to CEUR-WS style. From 2022 onwards, CEUR-WS requires that authors use the new ***CEUR-ART style*** for writing papers. 
-
-An ***Overleaf*** page for LaTeX users is available at the following link: 
-
-(https://www.overleaf.com/read/gwhxnqcghhdt)[https://www.overleaf.com/read/gwhxnqcghhdt]
-
-It is also possible to download an offline version with the style files from: 
-
-(http://ceur-ws.org/Vol-XXX/CEURART.zip)[http://ceur-ws.org/Vol-XXX/CEURART.zip] 
-
-Find out more information at (http://ceur-ws.org/index.html)[http://ceur-ws.org/index.html]
-
+Papers should be formatted according to **CEUR-WS style**. From 2022 onwards, CEUR-WS requires that authors use the new **CEUR-ART style** for writing papers. An **Overleaf template** for **LaTeX** users is available at the following link: [https://www.overleaf.com/read/gwhxnqcghhdt](https://www.overleaf.com/read/gwhxnqcghhdt). It is also possible to download an offline version with the style files from [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip). More information on the [CEUR-WS website](http://ceur-ws.org/index.html).
 
 ### Workshop Proceedings
 
-Accepted papers will be published with ***CEUR-WS proceedings***, under the (IAOA series)[https://ceur-ws.org/iaoa.html]. 
+Accepted papers will be published with **CEUR-WS proceedings**, under the [**IAOA series**](https://ceur-ws.org/iaoa.html). 
 
 
 ## Workshop Committee
@@ -78,12 +63,16 @@ Accepted papers will be published with ***CEUR-WS proceedings***, under the (IAO
 ### Oranizing Committee
 
 - Emilio M. Sanfilippo, CNR - Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
-- Alessandro Umbric, CNR - Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
+- Alessandro Umbrico, CNR - Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
 
 ### Program Committee
 
+- Iman Awaad, Bonn-Rhein-Sieg University, Germany
 - Daniel Bessler, University of Bremen, Germany
-- Andrea Orlandini, CNR - Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
+- Stefano Borgo, CNR-ISTC, Italy
+- Andrea Orlandini, CNR-ISTC, Italy
+- Uli Sattler, University of Manchester, UK
+- Walter Terkaj, CNR-STIIMA, Italy
 - Mauro Vallati, University of Huddersfield, UK
 
 
