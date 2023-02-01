@@ -83,6 +83,10 @@ Accepted papers will be published with **CEUR-WS proceedings**, under the [**IAO
 - Walter Terkaj, CNR-STIIMA, Italy
 - Mauro Vallati, University of Huddersfield, UK
 
+### Contact
+
+For inquiries please send an email to <plato2023@easychair.org>
+
 
 ## List of Accepted Papers
 
