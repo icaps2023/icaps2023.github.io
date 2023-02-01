@@ -1,5 +1,5 @@
 ---
-title: "partnership_call"
+title: "Partnerships"
 date: 2023-01-23T10:00:00+01:00
 draft: false
 ---

@@ -1,3 +1,10 @@
+---
+title: "PLATO"
+date: 2023-02-01T14:30:17+01:00
+draft: false
+---
+
+
 # PLanning And onTology wOrkshop (PLATO)
 
 ICAPS'23 Workshop \

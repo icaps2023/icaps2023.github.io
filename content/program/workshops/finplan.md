@@ -1,3 +1,10 @@
+---
+title: "FinPlan"
+date: 2023-02-01T14:30:17+01:00
+draft: false
+---
+
+
 # ICAPS 2023 Workshop on Planning and Scheduling for Financial Services (FinPlan'23)
 
 ICAPS'23 Workshop \
@@ -42,17 +49,11 @@ We invite two kinds of submissions:
 - short papers presenting industry challenges or outlining ideas around planning for financial services (up to 5 pages including references);
   Please note that paper submissions should not be anonymous, and will undergo single-blind peer review. Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. Submissions should be formatted using the ICAPS style. The final submission must be in PDF. Papers should be submitted on Easychair submission page: https://easychair.org/conferences/?conf=finplan23
 
-### Workshop Proceedings (optional)
-
-TODO
-
-### Policy on Previously Published Materials (optional) 
+### Proceedings and Workshop Policy on Previously Published Materials
 
 The proceedings will not be archived, and recently accepted papers at other venues are also welcomed.
 
 ## Workshop Committee
-
-TODO
 
 ### Organizing Committee
 
