@@ -181,12 +181,12 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/pair"
 #    weight = 100
-#  [[menu.main]]
-#    identifier = "hsdip"
-#    name = "HSDIP"
-#    parent = "ws"
-#    url = "/program/workshops/pair"
-#    weight = 110
+  [[menu.main]]
+    identifier = "hsdip"
+    name = "HSDIP"
+    parent = "ws"
+    url = "/program/workshops/pair"
+    weight = 110
 # COMMITTEES
   [[menu.main]]
     identifier = "committees"
