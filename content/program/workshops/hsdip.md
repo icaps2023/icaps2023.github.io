@@ -6,7 +6,7 @@ draft: false
 
 # Heuristics and Search for Domain-independent Planning (HSDIP 2023)
 
-ICAPS'23 Workshop \ 
+ICAPS'23 Workshop \
 Prague, Czech Republic \
 July 9-10, 2023
 
