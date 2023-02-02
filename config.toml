@@ -185,7 +185,7 @@ theme = 'mainroad'
     identifier = "hsdip"
     name = "HSDIP"
     parent = "ws"
-    url = "/program/workshops/pair"
+    url = "/program/workshops/hsdip"
     weight = 110
 # COMMITTEES
   [[menu.main]]
