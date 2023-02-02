@@ -1,5 +1,5 @@
 ---
-title: "Application_track"
+title: "Application Track"
 date: 2022-09-29T18:17:23+02:00
 draft: false
 ---

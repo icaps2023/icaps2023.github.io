@@ -21,114 +21,192 @@ theme = 'mainroad'
     identifier = "home"
     name = "Home"
     url="/home"
-    weight = 1
+    weight = 1000
 # DATES
   [[menu.main]]
     identifier = "dates"
     name = "Dates"
     url="/dates"
-    weight = 2
+    weight = 2000
 # ATTENDING
   [[menu.main]]
     identifier = "attending"
     name = "Attending"
-    weight = 3
+    weight = 3000
   [[menu.main]]
     identifier = "venue"
     name = "Venue"
     url = "/attending/venue"
     parent = "attending"
-    weight = 1
+    weight = 10
 # CALLS
   [[menu.main]]
     identifier = "calls"
     name = "Calls"
-    weight = 4
+    weight = 4000
   [[menu.main]]
     identifier = "main_track"
     name = "Main Track"
     url = "/calls/main_track"
     parent = "calls"
-    weight = 1
+    weight = 10
   [[menu.main]]
     identifier = "application_track"
     name = "Application Track"
     url = "/calls/application_track"
     parent = "calls"
-    weight = 2
+    weight = 20
   [[menu.main]]
     identifier = "learning_track"
     name = "Learning Track"
     url = "/calls/learning_track"
     parent = "calls"
-    weight = 3
+    weight = 30
   [[menu.main]]
     identifier = "robotics_track"
     name = "Robotics Track"
     url = "/calls/robotics_track"
     parent = "calls"
-    weight = 4
+    weight = 40
   [[menu.main]]
     identifier = "workshop_call"
     name = "Call for Workshop Proposals"
     url = "/calls/workshop_call"
     parent = "calls"
-    weight = 5
+    weight = 50
   [[menu.main]]
     identifier = "tutorial_call"
     name = "Call for Tutorial Proposals"
     url = "/calls/tutorial_call"
     parent = "calls"
-    weight = 6
+    weight = 60
   [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
     url = "/calls/partnership_call"
     parent = "calls"
-    weight = 7
+    weight = 70
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
     name = "Competitions"
     url="/competitions"
-    weight = 5
+    weight = 5000
 # SUBMISSIONS
   [[menu.main]]
     identifier = "submissions"
     name = "Submissions"
     url="/submissions"
-    weight = 6
+    weight = 6000
 # PROGRAM
   [[menu.main]]
     identifier = "program"
     name = "Program"
-    weight = 7
+    weight = 7000
   [[menu.main]]
-    identifier = "program_overview"
+    identifier = "overview"
     name = "Program Overview"
     url = "/program/overview"
     parent = "program"
-    weight = 1
+    weight = 10
+  [[menu.main]]
+    identifier = "ws"
+    name = "Workshops"
+    parent = "program"
+    weight = 20
+# WORKSHOPS
+  [[menu.main]]
+    identifier = "keps"
+    name = "KEPS"
+    parent = "ws"
+    url = "/program/workshops/keps"
+    weight = 8000
+  [[menu.main]]
+    identifier = "finplan"
+    name = "FinPlan"
+    parent = "ws"
+    url = "/program/workshops/finplan"
+    weight = 10
+#  [[menu.main]]
+#    identifier = "haxp" 
+#    name = "HAXP"
+#    parent = "ws"
+#    url = "/program/workshops/haxp"
+#    weight = 20
+  [[menu.main]]
+    identifier = "plato"
+    name = "PLATO"
+    parent = "ws"
+    url = "/program/workshops/plato"
+    weight = 30
+#  [[menu.main]]
+#    identifier = "prl"
+#    name = "PRL"
+#    parent = "ws"
+#    url = "/program/workshops/prl"
+#    weight = 40
+#  [[menu.main]]
+#    identifier = "rddps"
+#    name = "RDDPS"
+#    parent = "ws"
+#    url = "/program/workshops/rddps"
+#    weight = 50
+#  [[menu.main]]
+#    identifier = "hplan"
+#    name = "HPlan"
+#    url = "/program/workshops/hplan"
+#    parent = "ws"
+#    weight = 60
+#  [[menu.main]]
+#    identifier = "spark"
+#    name = "SPARK"
+#    parent = "ws"
+#    url = "/program/workshops/spark"
+#    weight = 70
+#  [[menu.main]]
+#    identifier = "planrob"
+#    name = "PlanRob"
+#    parent = "ws"
+#    url = "/program/workshops/planrob"
+#    weight = 80
+#  [[menu.main]]
+#    identifier = "intex"
+#    name = "IntEx"
+#    parent = "ws"
+#    url = "/program/workshops/intex"
+#    weight = 90
+#  [[menu.main]]
+#    identifier = "pair"
+#    name = "PAIR"
+#    parent = "ws"
+#    url = "/program/workshops/pair"
+#    weight = 100
+#  [[menu.main]]
+#    identifier = "hsdip"
+#    name = "HSDIP"
+#    parent = "ws"
+#    url = "/program/workshops/pair"
+#    weight = 110
 # COMMITTEES
   [[menu.main]]
     identifier = "committees"
     name = "Committees"
-    weight = 8
+    weight = 9000
   [[menu.main]]
     identifier = "organizers"
     name = "Organizers"
     url = "/committees/organizers"
     parent = "committees"
-    weight = 1
+    weight = 10
 #  [[menu.main]]
 #    identifier = "program_committees"
 #    name = "Program Committees"
 #    url = "/committees/program_committees"
 #    parent = "committees"
-#    weight = 2
+#    weight = 20
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
     name = "Code of Conduct"
     url = "/code_of_conduct"
-    weight = 9
+    weight = 10000

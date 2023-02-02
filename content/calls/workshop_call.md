@@ -1,5 +1,5 @@
 ---
-title: "workshop_call"
+title: "Workshops"
 date: 2022-11-10T16:19:18+01:00
 draft: false
 ---
