@@ -3,9 +3,7 @@ title: "FinPlan"
 date: 2023-02-01T14:30:17+01:00
 draft: false
 ---
-
-
-# ICAPS 2023 Workshop on Planning and Scheduling for Financial Services (FinPlan'23)
+# Planning and Scheduling for Financial Services (FinPlan'23)
 
 ICAPS'23 Workshop \
 Prague, Czech Republic \
@@ -46,10 +44,14 @@ The reference timezone for all deadlines is UTC-12, i.e., AoE.
 
 We invite two kinds of submissions:
 - full papers, making an original contribution (up to 9 pages including references);
-- short papers presenting industry challenges or outlining ideas around planning for financial services (up to 5 pages including references);
-  Please note that paper submissions should not be anonymous, and will undergo single-blind peer review. Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. Submissions should be formatted using the ICAPS style. The final submission must be in PDF. Papers should be submitted on Easychair submission page: https://easychair.org/conferences/?conf=finplan23
+- short papers presenting industry challenges or outlining ideas around planning for financial services (up to 5 pages including references); 
 
-### Proceedings and Workshop Policy on Previously Published Materials
+Please note that paper submissions should not be anonymous, and will undergo single-blind peer review. Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. Submissions should be formatted using the ICAPS style. The final submission must be in PDF. Papers should be submitted on Easychair submission page: https://easychair.org/conferences/?conf=finplan23
+
+Papers should follow the [AAAI author kit instructions for formatting](https://www.aaai.org/Publications/Templates/AuthorKit23.zip).
+
+
+### Policy on Previously Published Materials
 
 The proceedings will not be archived, and recently accepted papers at other venues are also welcomed.
 
@@ -66,6 +68,10 @@ The proceedings will not be archived, and recently accepted papers at other venu
 ### Program Committee
 
 TBD
+
+### Contact 
+
+For inquiries please send an email to [parisa.zehtabi@jpmorgan.com](mailto:parisa.zehtabi@jpmorgan.com).
 
 ## List of Accepted Papers
 
