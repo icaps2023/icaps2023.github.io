@@ -1,0 +1,26 @@
+{{ $mapName := .Get "mapName" }}
+
+{{ $mapWidth := .Get "mapWidth" | default "70%" }}
+{{ $mapHeight := .Get "mapHeight" | default "600px" }}
+
+{{ $scaleControl := .Get "scaleControl" | default "true"  }}
+{{ $miniMap := .Get "miniMap" | default "true" }}
+{{ $scrollWheelZoom := .Get "scrollWheelZoom" | default "true" }}
+{{ $zoomControl := .Get "zoomControl" | default "true" }}
+{{ $allowEdit := .Get "allowEdit" | default "false" }}
+{{ $moreControl := .Get "moreControl" | default "false" }}
+{{ $searchControl := .Get "searchControl" | default "false" }}
+{{ $tilelayersControl := .Get "tilelayersControl" | default "null" }}
+{{ $embedControl := .Get "embedControl" | default "false" }}
+{{ $datalayersControl := .Get "datalayersControl" | default "null" }}
+{{ $onLoadPanel := .Get "onLoadPanel" | default "none" }}
+{{ $captionBar := .Get "captionBar" | default "false" }}
+{{ $fullscreenControl := .Get "fullscreenControl" | default "null" }}
+
+{{ $scale := .Get "scale" | default 7 }}
+{{ $coordX := .Get "coordX" | default 46.0275 }}
+{{ $coordY := .Get "coordY" | default 7.483 }}
+
+<div class="block">
+	 <iframe width="{{ $mapWidth }}" height="{{ $mapHeight }}" frameBorder="0" src="https://umap.openstreetmap.fr/fr/map/{{- $mapName -}}?scaleControl={{ $scaleControl }}&miniMap={{ $miniMap }}&scrollWheelZoom={{ $scrollWheelZoom }}&zoomControl={{ $zoomControl }}&allowEdit={{ $allowEdit }}&moreControl={{ $moreControl }}&searchControl={{ $searchControl }}&tilelayersControl={{ $tilelayersControl }}&embedControl={{ $embedControl }}&datalayersControl={{ $datalayersControl }}&onLoadPanel={{ $onLoadPanel }}&captionBar={{ $captionBar }}&fullscreenControl={{ $fullscreenControl }}#{{ $scale }}/{{ $coordX }}/{{ $coordY }}"></iframe>
+</div>

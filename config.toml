@@ -28,11 +28,22 @@ theme = 'mainroad'
     name = "Dates"
     url="/dates"
     weight = 2
+# ATTENDING
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 3
+  [[menu.main]]
+    identifier = "venue"
+    name = "Venue"
+    url = "/attending/venue"
+    parent = "attending"
+    weight = 1
 # CALLS
   [[menu.main]]
     identifier = "calls"
     name = "Calls"
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "main_track"
     name = "Main Track"
@@ -80,18 +91,18 @@ theme = 'mainroad'
     identifier = "competitions"
     name = "Competitions"
     url="/competitions"
-    weight = 4
+    weight = 5
 # SUBMISSIONS
   [[menu.main]]
     identifier = "submissions"
     name = "Submissions"
     url="/submissions"
-    weight = 4
+    weight = 6
 # PROGRAM
   [[menu.main]]
     identifier = "program"
     name = "Program"
-    weight = 5
+    weight = 7
   [[menu.main]]
     identifier = "program_overview"
     name = "Program Overview"
@@ -102,7 +113,7 @@ theme = 'mainroad'
   [[menu.main]]
     identifier = "committees"
     name = "Committees"
-    weight = 6
+    weight = 8
   [[menu.main]]
     identifier = "organizers"
     name = "Organizers"
@@ -120,4 +131,4 @@ theme = 'mainroad'
     identifier = "code_of_conduct"
     name = "Code of Conduct"
     url = "/code_of_conduct"
-    weight = 7
+    weight = 9

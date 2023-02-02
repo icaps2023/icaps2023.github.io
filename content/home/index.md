@@ -12,3 +12,8 @@ ICAPS 2023 is part of the ICAPS conference series, the premier forum for exchang
 - Analytic and implemented tools supporting automated planning and scheduling; 
 - Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight.
 
+---
+
+#### ICAPS is kindly supported by:
+
+{{< figure src="img/sift-logo-text.svg" width="200" link="https://sift.net" >}}
