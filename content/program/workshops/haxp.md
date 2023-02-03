@@ -1,9 +1,8 @@
 ---
-title: "RDDPS"
-date: 2023-02-04T11:10:17+01:00
+title: "HAXP"
+date: 2023-02-03T23:10:17+01:00
 draft: false
 ---
-
 
 # HAXP: Human-Aware and Explainable Planning
 
