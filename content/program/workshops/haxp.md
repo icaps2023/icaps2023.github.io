@@ -6,9 +6,9 @@ draft: false
 
 # HAXP: Human-Aware and Explainable Planning
 
-ICAPS'23 Workshop\
-Prague, Czech Republic\
-July 9-10, 2023\
+ICAPS'23 Workshop \
+Prague, Czech Republic \
+July 9-10, 2023
 
 ## Aim and Scope of the Workshop
 

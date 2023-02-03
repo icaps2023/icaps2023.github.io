@@ -7,7 +7,7 @@ draft: false
 # Workshop on Hierarchical Planning (HPlan)
 
 ICAPS'23 Workshop on Hierarchical Planning (HPlan 2023) \
-Prague, Czech Republic \ 
+Prague, Czech Republic \
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
