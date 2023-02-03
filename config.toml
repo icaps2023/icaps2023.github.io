@@ -127,12 +127,12 @@ theme = 'mainroad'
     parent = "ws"
     url = "/program/workshops/finplan"
     weight = 10
-#  [[menu.main]]
-#    identifier = "haxp" 
-#    name = "HAXP"
-#    parent = "ws"
-#    url = "/program/workshops/haxp"
-#    weight = 20
+  [[menu.main]]
+    identifier = "haxp" 
+    name = "HAXP"
+    parent = "ws"
+    url = "/program/workshops/haxp"
+    weight = 20
   [[menu.main]]
     identifier = "plato"
     name = "PLATO"
@@ -145,18 +145,18 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/prl"
 #    weight = 40
-#  [[menu.main]]
-#    identifier = "rddps"
-#    name = "RDDPS"
-#    parent = "ws"
-#    url = "/program/workshops/rddps"
-#    weight = 50
-#  [[menu.main]]
-#    identifier = "hplan"
-#    name = "HPlan"
-#    url = "/program/workshops/hplan"
-#    parent = "ws"
-#    weight = 60
+  [[menu.main]]
+    identifier = "rddps"
+    name = "RDDPS"
+    parent = "ws"
+    url = "/program/workshops/rddps"
+    weight = 50
+  [[menu.main]]
+    identifier = "hplan"
+    name = "HPlan"
+    url = "/program/workshops/hplan"
+    parent = "ws"
+    weight = 60
   [[menu.main]]
     identifier = "spark"
     name = "SPARK"
