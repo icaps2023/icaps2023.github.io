@@ -83,6 +83,7 @@ Accepted papers will be published with **CEUR-WS proceedings**, under the [**IAO
 - Ron Petrick, Herriot-Watt University, UK
 - Guillaume Sarthou, LAAS CNRS, France
 - Uli Sattler, University of Manchester, UK
+- Biplav Srivastava, University of South Carolina, USA
 - Walter Terkaj, CNR-STIIMA, Italy
 - Mauro Vallati, University of Huddersfield, UK
 

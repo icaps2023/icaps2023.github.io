@@ -7,8 +7,8 @@ draft: false
 
 # Scheduling and Planning Applications woRKshop (SPARK)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
+ICAPS'23 Workshop
+Prague, Czech Republic
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
@@ -68,29 +68,5 @@ If enough authors will agree, SPARK-2023 proceedings will be published in the [C
 
 Contact: spark2023@easychair.org
 
-### Program Committee
-
- - Laura Barbulescu
- - Mark Boddy
- - Andrew Branch
- - Lukas Chrpa
- - Gabriella Cortellessa
- - Andreas Ernst
- - Simone Fratini
- - Rongge Guo
- - Safia Kedad-Sidhoum
- - Andrea Micheli
- - Nysret Musliu
- - Stephanie Roussel
- - Enrico Scala
- - Alessandro Umbrico
-
-## List of Accepted Papers
-
-TBD
-
-## Workshop Schedule
-
-TBD
 
 
