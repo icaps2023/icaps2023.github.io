@@ -12,7 +12,7 @@ July 9-10, 2023
 
 ## Aim and Scope of the Workshop
 
-As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](haxp.org)
+As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](http://xaip.mybluemix.net)
 
 
 ## Topics of Interest
@@ -48,6 +48,7 @@ Workshop date: TBD (July 8-13)
 ## Submission Details
 
 We invite submissions of the following types: 
+
 * Full technical papers making an original contribution; up to 9 pages including references.
 * Short technical papers making an original contribution; up to 5 pages including references. 
 * Position papers proposing HAXP challenges, outlining HAXP ideas, debating issues relevant to HAXP; up to 5 pages including references. 
@@ -88,9 +89,6 @@ We are excited that ICAPS is going to be a physical conference this year. Howeve
 [William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis
 
 
-### Program Committee
-
-TODO
 
 ## List of Accepted Papers
 

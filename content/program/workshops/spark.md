@@ -7,8 +7,8 @@ draft: false
 
 # Scheduling and Planning Applications woRKshop (SPARK)
 
-ICAPS'23 Workshop
-Prague, Czech Republic
+ICAPS'23 Workshop \
+Prague, Czech Republic \
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
