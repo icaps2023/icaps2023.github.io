@@ -157,12 +157,12 @@ theme = 'mainroad'
 #    url = "/program/workshops/hplan"
 #    parent = "ws"
 #    weight = 60
-#  [[menu.main]]
-#    identifier = "spark"
-#    name = "SPARK"
-#    parent = "ws"
-#    url = "/program/workshops/spark"
-#    weight = 70
+  [[menu.main]]
+    identifier = "spark"
+    name = "SPARK"
+    parent = "ws"
+    url = "/program/workshops/spark"
+    weight = 70
 #  [[menu.main]]
 #    identifier = "planrob"
 #    name = "PlanRob"
