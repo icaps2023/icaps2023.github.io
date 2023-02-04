@@ -169,18 +169,18 @@ theme = 'mainroad'
 #    parent = "ws"
 #    url = "/program/workshops/planrob"
 #    weight = 80
-#  [[menu.main]]
-#    identifier = "intex"
-#    name = "IntEx"
-#    parent = "ws"
-#    url = "/program/workshops/intex"
-#    weight = 90
-#  [[menu.main]]
-#    identifier = "pair"
-#    name = "PAIR"
-#    parent = "ws"
-#    url = "/program/workshops/pair"
-#    weight = 100
+  [[menu.main]]
+    identifier = "intex"
+    name = "IntEx"
+    parent = "ws"
+    url = "/program/workshops/intex"
+    weight = 90
+  [[menu.main]]
+    identifier = "pair"
+    name = "PAIR"
+    parent = "ws"
+    url = "/program/workshops/pair"
+    weight = 100
   [[menu.main]]
     identifier = "hsdip"
     name = "HSDIP"
