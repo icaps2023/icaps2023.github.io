@@ -7,3 +7,6 @@ draft: false
 
 
 {{< pc_table_json "/data/committee/pc.json" >}}
+
+
+{{< reviewers_table_json "/data/committee/reviewers.json" >}}
