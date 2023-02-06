@@ -163,12 +163,12 @@ theme = 'mainroad'
     parent = "ws"
     url = "/program/workshops/spark"
     weight = 70
-#  [[menu.main]]
-#    identifier = "planrob"
-#    name = "PlanRob"
-#    parent = "ws"
-#    url = "/program/workshops/planrob"
-#    weight = 80
+  [[menu.main]]
+    identifier = "planrob"
+    name = "PlanRob"
+    parent = "ws"
+    url = "/program/workshops/planrob"
+    weight = 80
   [[menu.main]]
     identifier = "intex"
     name = "IntEx"
@@ -197,13 +197,13 @@ theme = 'mainroad'
     name = "Organizers"
     url = "/committees/organizers"
     parent = "committees"
-    weight = 10
-#  [[menu.main]]
-#    identifier = "program_committees"
-#    name = "Program Committees"
-#    url = "/committees/program_committees"
-#    parent = "committees"
-#    weight = 20
+    weight = 100
+  [[menu.main]]
+    identifier = "pc"
+    name = "Program Committee"
+    url = "/committees/program_committees"
+    parent = "committees"
+    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"

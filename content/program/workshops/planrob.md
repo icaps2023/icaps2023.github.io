@@ -1,7 +1,7 @@
-# <Planning and Robotics (PlanRob 2023)>
+# Planning and Robotics (PlanRob 2023)
 
-ICAPS'23 Workshop
-Prague, Czech Republic
+ICAPS'23 Workshop \
+Prague, Czech Republic \
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
@@ -29,7 +29,7 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-Paper submission: ***March 24, 2023***
+Paper submission: **March 24, 2023**
 Notification of acceptance: April 21
 Camera-ready version due: June 16
 Workshop Date: July 09-10
@@ -39,16 +39,17 @@ The reference time-zone for all deadlines is UTC-12: Your submissions will be on
 ## Submission Details
 
 There are two types of submissions: 
+
 - short position papers (four pages)
 - regular papers (up to 10 pages)
 
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2023 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system (https://easychair.org/conferences/?conf=planrob23).
+The guidelines for formatting are the same as is used for ICAPS 2023 papers (typeset in the AAAI style as described at: [http://www.aaai.org/Publications/Author/author.php](http://www.aaai.org/Publications/Author/author.php)), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ([https://easychair.org/conferences/?conf=planrob23](https://easychair.org/conferences/?conf=planrob23)).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2023) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
-Accepted papers will be published on the workshop?s website.
+Accepted papers will be published on the workshop's website.
 
 The organisers are investigating the availability of journal editors in order to invite a selection of accepted papers from the workshop to a special issue or post-proceedings volume.
 
@@ -66,15 +67,16 @@ TODO
 
 ### Organizing Committee
 
-Iman Awaad,
-Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany
+Iman Awaad, \
+Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
 iman.awaad@h-brs.de
 
-Alberto Finzi,
-Università di Napoli "Federico II", Italy
+Alberto Finzi, \
+Università di Napoli "Federico II", Italy \
 alberto.finzi@unina.it
 
-AndreA Orlandini ?Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
+AndreA Orlandini, \
+ Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
 andrea.orlandini@istc.cnr.it
 
 
