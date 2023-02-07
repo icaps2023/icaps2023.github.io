@@ -285,8 +285,12 @@
                     "institution": "University of Basel"
                 },
                 {
-                    "name": "Fernando Fernandex",
+                    "name": "Fernando Fernandez",
                     "institution": "Universidad Carlos III de Madrid"
+                },
+                {
+                    "name": "Juan Fernández-Olivares",
+                    "institution": "Universidad de Granada"
                 },
                 {
                     "name": "Alberto Finzi",
@@ -369,7 +373,7 @@
                     "institution": "Monash University"
                 },
                 {
-                    "name": "Vicenc Gomez",
+                    "name": "Vicenç Gomez",
                     "institution": "Universitat Pompeu Fabra"
                 },
                 {
@@ -478,7 +482,7 @@
                 },
                 {
                     "name": "Leonardo Lamanna",
-                    "institution": "University of Brescia and Fondazione Bruno Kessler"
+                    "institution": "Fondazione Bruno Kessler"
                 },
                 {
                     "name": "Levi H. S. Lelis",
@@ -538,7 +542,7 @@
                 },
                 {
                     "name": "Jakub Marecek",
-                    "institution": "University of Nottingham"
+                    "institution": "Czech Technical University"
                 },
                 {
                     "name": "Reuth Mirsky",
@@ -579,10 +583,6 @@
                 {
                     "name": "Angelo Oddi",
                     "institution": "National Research Council of Italy (CNR-ISTC)"
-                },
-                {
-                    "name": "Juan Fernandez Oivares",
-                    "institution": "Universidad de Granada"
                 },
                 {
                     "name": "Conny Olz",
@@ -630,7 +630,7 @@
                 },
                 {
                     "name": "Kanna Rajan",
-                    "institution": "SIFT LLC & University of Porto"
+                    "institution": "Faculty of Engineering, University of Porto"
                 },
                 {
                     "name": "Masood Feyzbakhsh Rankooh",
@@ -700,8 +700,12 @@
                     "name": "Laura Sebastia",
                     "institution": "Universitat Politècnica de València"
                 },
+                 {
+                    "name": "Javier Segovia-Aguas",
+                    "institution": "Universitat Pompeu Fabra"
+                },
                 {
-                    "name": "Javier Seipp",
+                    "name": "Jendrik Seipp",
                     "institution": "Linköping University"
                 },
                 {
