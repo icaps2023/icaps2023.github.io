@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'23 Workshop \
 Prague, Czech Republic \
-July 9-10, 2023 \
+July 9-10, 2023
 
 ## Aim and Scope of the Workshop
 

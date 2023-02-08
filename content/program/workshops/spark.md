@@ -4,12 +4,12 @@ date: 2023-02-03T14:0:17+01:00
 draft: false
 ---
 
-
 # Scheduling and Planning Applications woRKshop (SPARK)
 
 ICAPS'23 Workshop \
 Prague, Czech Republic \
 July 9-10, 2023
+
 
 ## Aim and Scope of the Workshop
 
@@ -47,7 +47,7 @@ Topics of the workshop include, but are not limited to:
 
 ## Submission Details
 
-Submissions may be regular papers (up to 8 pages plus references) or short position papers (up to 2 pages, including references). Papers should be formatted according to CEUR-WS style. From 2022 onwards, CEUR-WS requires that authors use the new CEUR-ART style for writing papers. An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Submissions will be reviewed by at least three referees. SPARK-2023 will be double blind and submissions must be anonymous and not contain author information.
+Submissions may be regular papers (up to 8 pages plus references) or short position papers (up to 2 pages, including references). Papers should be formatted according to CEUR-WS style. Authors should select the 2-column style. From 2022 onwards, CEUR-WS requires that authors use the new CEUR-ART style for writing papers. An Overleaf template for LaTeX users is available [here](https://www.overleaf.com/read/gwhxnqcghhdt). Submissions will be reviewed by at least three referees. SPARK-2023 will be double blind and submissions must be anonymous and not contain author information.
 
 Submissions, in PDF format, must be submitted via the [EasyChair](https://easychair.org/conferences/?conf=spark2023) site.
 
@@ -67,6 +67,3 @@ If enough authors will agree, SPARK-2023 proceedings will be published in the [C
  - Sabine Storandt, Universität Konstanz, DE
 
 Contact: spark2023@easychair.org
-
-
-

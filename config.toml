@@ -139,12 +139,12 @@ theme = 'mainroad'
     parent = "ws"
     url = "/program/workshops/plato"
     weight = 30
-#  [[menu.main]]
-#    identifier = "prl"
-#    name = "PRL"
-#    parent = "ws"
-#    url = "/program/workshops/prl"
-#    weight = 40
+  [[menu.main]]
+    identifier = "prl"
+    name = "PRL"
+    parent = "ws"
+    url = "/program/workshops/prl"
+    weight = 40
   [[menu.main]]
     identifier = "rddps"
     name = "RDDPS"
