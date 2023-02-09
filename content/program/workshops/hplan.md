@@ -62,7 +62,7 @@ Submissions will be done via *easychair*, the link will be published in time.
 
 ### Workshop Proceedings
 
-Please be aware that we put all accepted papers into a single proceedings that we will make publicly available (check out previous years' editions if interested: [hplan.hierarchical-task.net](hplan.hierarchical-task.net)). 
+Please be aware that we put all accepted papers into a single proceedings that we will make publicly available (check out previous years' editions if interested: [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)).
 
 Our proceedings are non-archival meaning that you will keep all copyrights. 
 
@@ -70,7 +70,7 @@ Our proceedings are non-archival meaning that you will keep all copyrights.
 
 Despite our proceedings being non-archival we will strictly not include any paper where at the time of putting the proceedings online, portions of that paper are under the copyright of some other publisher. The reason is that normally the rights granted to the authors are rather restricted; they might be allowed to upload the specific entire paper on their own institution's webpage, but this does not include allowing others (like us workshop organizers) to distribute that material or parts of it. This means that all submitted work must be entirely original -- just as at any conference. If in doubt, contact the organizers.
 
-We do allow and also explicitly encourage the submission of papers that at the time of submission are under review at another conference. Note that other conferences usually allow material that is under review at a workshop in parallel, but do not allow papers currently being under review at another archival conference or journal (HPlan is non-archival). If however the paper is also accepted at the respective conference, it will not be included in our proceedings to prevent any possible copyright infringements. We will still mention the paper as being accepted at the workshop and expect the paper be part of the program (and thus presented like all other papers), but no final paper can be submitted for our workshop/proceedings. Instead, the proceedings will include links to the respective conference paper version. Please check out websites and proceedings of the previous years ([hplan.hierarchical-task.net](hplan.hierarchical-task.net)) to see examples of how this looks.
+We do allow and also explicitly encourage the submission of papers that at the time of submission are under review at another conference. Note that other conferences usually allow material that is under review at a workshop in parallel, but do not allow papers currently being under review at another archival conference or journal (HPlan is non-archival). If however the paper is also accepted at the respective conference, it will not be included in our proceedings to prevent any possible copyright infringements. We will still mention the paper as being accepted at the workshop and expect the paper be part of the program (and thus presented like all other papers), but no final paper can be submitted for our workshop/proceedings. Instead, the proceedings will include links to the respective conference paper version. Please check out websites and proceedings of the previous years ([hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)) to see examples of how this looks.
 
 
 
@@ -87,7 +87,7 @@ TBA
  - Pascal Bercher, pascal.bercher at anu.edu.au, [webpage](https://comp.anu.edu.au/people/pascal-bercher/)
  - Daniel Höller, hoeller  at cs.uni-saarland.de, [webpage](http://fai.cs.uni-saarland.de/hoeller/)
  - Julia Wichlacz, wichlacz at cs.uni-saarland.de, [webpage](http://fai.cs.uni-saarland.de/wichlacz/)
- - Ron Alford,  ronwalf at volus.net, [webpage](https://www.volus.net/)
+ - Ron Alford, ronwalf at volus.net, [webpage](https://www.volus.net/)
 
 ### Program Committee
 
@@ -113,6 +113,6 @@ The actual schedule is TBA
 
 ## Further Information
 
-- On the HPlan website [hplan.hierarchical-task.net](hplan.hierarchical-task.net) you find (among other things) a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2022.hierarchical-task.net](hplan2022.hierarchical-task.net) for last year's edition.
-- Note that this year the second IPC on Hierarchical Planning will take place! See [ipc2023.hierarchical-task.net](ipc2023.hierarchical-task.net). The link to the first IPC as well as any future ones can be found on [ipc.hierarchical-task.net](ipc.hierarchical-task.net).
+- On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find (among other things) a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2022.hierarchical-task.net](https://hplan2022.hierarchical-task.net) for last year's edition.
+- Note that this year the second IPC on Hierarchical Planning will take place! See [ipc2023.hierarchical-task.net](https://ipc2023.hierarchical-task.net). The link to the first IPC as well as any future ones can be found on [ipc.hierarchical-task.net](https://ipc.hierarchical-task.net).
 - We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic, moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email. 
