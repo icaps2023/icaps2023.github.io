@@ -110,10 +110,16 @@ theme = 'mainroad'
     parent = "program"
     weight = 10
   [[menu.main]]
+    identifier = "doctoral-consortium"
+    name = "Doctoral Consortium"
+    url = "/program/dc"
+    parent = "program"
+    weight = 20
+  [[menu.main]]
     identifier = "ws"
     name = "Workshops"
     parent = "program"
-    weight = 20
+    weight = 30
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
