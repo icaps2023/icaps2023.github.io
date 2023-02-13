@@ -45,6 +45,12 @@ theme = 'mainroad'
     name = "Calls"
     weight = 4000
   [[menu.main]]
+    identifier = "demo_track"
+    name = "System Demonstrations"
+    url = "/calls/demo_track"
+    parent = "calls"
+    weight = 5
+  [[menu.main]]
     identifier = "main_track"
     name = "Main Track"
     url = "/calls/main_track"
