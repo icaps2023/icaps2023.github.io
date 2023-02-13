@@ -45,12 +45,6 @@ theme = 'mainroad'
     name = "Calls"
     weight = 4000
   [[menu.main]]
-    identifier = "demo_track"
-    name = "System Demonstrations"
-    url = "/calls/demo_track"
-    parent = "calls"
-    weight = 5
-  [[menu.main]]
     identifier = "main_track"
     name = "Main Track"
     url = "/calls/main_track"
@@ -87,11 +81,17 @@ theme = 'mainroad'
     parent = "calls"
     weight = 60
   [[menu.main]]
+    identifier = "demo_track"
+    name = "System Demonstrations"
+    url = "/calls/demo_track"
+    parent = "calls"
+    weight = 70
+  [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
     url = "/calls/partnership_call"
     parent = "calls"
-    weight = 70
+    weight = 80
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
