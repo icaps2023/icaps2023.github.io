@@ -87,11 +87,17 @@ theme = 'mainroad'
     parent = "calls"
     weight = 70
   [[menu.main]]
+    identifier = "dc"
+    name = "Doctoral Consortium"
+    url = "/calls/dc"
+    parent = "calls"
+    weight = 80  
+  [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
     url = "/calls/partnership_call"
     parent = "calls"
-    weight = 80
+    weight = 90
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
