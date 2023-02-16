@@ -1,0 +1,25 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+<table style="width: 100%">
+   <tr><tr/>
+   <tr>
+	{{ range $level := $data.levels }}
+         <td style="vertical-align: top; width: 25%">
+		 <strong><h4> {{ print $level.rank }} </h4></strong>
+		 {{ range $org := $level.list }}
+		 <figure style="padding: 10px">
+			 <a href="{{ print $org.link }}">
+				 {{ if gt $org.width 0 }}
+				 <img src="{{ print $org.logo }}" width="{{ $org.width }}">
+				 {{ end }}
+				 {{ if gt $org.height 0 }}
+				 <img src="{{ print $org.logo }}" height="{{ $org.height }}">
+				 {{ end }}
+		 	 </a>
+		 </figure>
+		 {{ end}}
+	 </td>
+	{{ end }}
+   </tr>
+</table>
