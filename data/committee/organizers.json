@@ -97,7 +97,12 @@
 				"name" : "Sebastian Sardina",
 				"institution": "RMIT University",
 				"country": "Australia"
-			}			
+			},
+                {
+                    "name": "Laura Barbulescu",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA"
+                }			
 		]
 	},
         {
