@@ -44,7 +44,7 @@ The seventh edition of the workshop on  Integrated Planning, Acting, and Executi
 
 Submissions may be regular papers (up to 8 pages plus references)  or short position/challenge papers (up to 4 pages plus references). All papers should conform to the AAAI formatting guidelines and  style ([https://aaai.org/Publications/Templates/AuthorKit23.zip](https://aaai.org/Publications/Templates/AuthorKit23.zip)).
 
-The papers must be submitted in a PDF format via EasyChair system (TBD). Submissions will be reviewed by at least two referees.
+The papers must be submitted in a PDF format via EasyChair system ([https://easychair.org/my/conference?conf=intex2023](https://easychair.org/my/conference?conf=intex2023)). Submissions will be reviewed by at least two referees.
 
 We welcome existing publications from other venues that are appropriate for discussion at this workshop.  Please note in the title area if this work is already accepted at  another venue. If the work is under review at another venue  (e.g., IJCAI-2023) please notify the organizers so we can avoid  potential reviewing conflicts.
 
