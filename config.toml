@@ -131,6 +131,7 @@ theme = 'mainroad'
     identifier = "ws"
     name = "Workshops"
     parent = "program"
+    url = "/program/ws_overview"
     weight = 30
 # WORKSHOPS
   [[menu.main]]

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# KEPS 2023
+# Knowledge Engineering for Planning and Scheduling (KEPS 2023)
 
 2023 Workshop on Knowledge Engineering for Planning and Scheduling \
 Prague, Czech Republic \
