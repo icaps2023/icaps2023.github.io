@@ -1,18 +1,24 @@
 {
 	"levels": [
 		{
-			"rank": "Silver partners",
+			"rank": "Silver Partners",
 			"list": [
 				{
 					"logo": "/img/partners/filuta-logo-symbol.svg",
 					"height": "-1",
 					"width": "140",
 					"link": "https://filuta.ai"
+				},
+				{
+					"logo": "/img/partners/alicetechnologies.jpg",
+					"height": "-1",
+					"width": "140",
+					"link": "http://www.alicetechnologies.com"
 				}
 			]
 		},
 		{
-			"rank": "Bronze partners",
+			"rank": "Bronze Partners",
 			"list": [
 				{
 					"logo": "/img/partners/sift-logo-text.svg",

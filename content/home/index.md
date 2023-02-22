@@ -14,6 +14,4 @@ ICAPS 2023 is part of the ICAPS conference series, the premier forum for exchang
 
 ---
 
-#### ICAPS is kindly supported by:
-
 {{< sponsors_table_json "/data/sponsors/sponsors.json" >}}
