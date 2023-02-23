@@ -9,11 +9,8 @@ theme = 'mainroad'
   title2 = "on Automated Planning and Scheduling"
   subtitle = "Prague, Czech Republic, July 8-13, 2023" # Logo subtitle
 
-[Params.sidebar]
-   widgets = ["social"]
-
-[Params.widgets.social]
-   twitter = "ICAPSConference"
+#[Params]
+#   customCSS = ["css/bootstrap-table.css"]
 
 [Params.style.vars]
      highlightColor = "#f5821f"
