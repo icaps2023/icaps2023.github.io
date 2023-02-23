@@ -29,7 +29,6 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 - Access to opt-in database of attendee contact information who are interested in being recruited
 - Exhibition Space (2 x 3 m)
 - 4 Complimentary registrations allowing access to all conference events
-- Optional company name and logo displayed on Best Paper Award and Best Student Paper Award
 - Choose two of the named events/awards
 
 ### Silver Partner: 75000 - 149999 CZK (3400 - 6999 USD) 
@@ -38,7 +37,6 @@ If you are interested in supporting financially ICAPS 2023, please contact Spons
 - Access to opt-in database of attendee contact information who are interested in being recruited
 - Exhibition Space (2 x 3 m)
 - 2 Complimentary registrations allowing access to all conference events
-- Optional company name and logo displayed on Best Demo Award
 - Choose one of the named events/awards
 
 ### Bronze Partner: 25000 - 74999 CZK (1100 - 3399 USD)
