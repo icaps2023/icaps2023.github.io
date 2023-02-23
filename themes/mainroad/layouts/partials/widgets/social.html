@@ -10,14 +10,14 @@
 			</a>
 		</div>
 		{{- end }}
+		
 		{{- with .Site.Params.widgets.social.twitter }}
 		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Twitter" rel="noopener noreferrer" href="https://twitter.com/{{ . }}" target="_blank">
-				{{ partial "svg/twitter.svg" (dict "class" "widget-social__link-icon") }}
-				<span>Twitter</span>
-			</a>
+			<a class="twitter-timeline" data-height="600" href="https://twitter.com/{{ . }}">Tweets by ICAPSConference</a>
+			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
 		{{- end }}
+		
 		{{- with .Site.Params.widgets.social.instagram }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="Instagram" rel="noopener noreferrer" href="https://www.instagram.com/{{ . }}" target="_blank">
