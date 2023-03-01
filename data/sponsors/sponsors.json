@@ -1,0 +1,39 @@
+{
+	"levels": [
+		{
+			"rank": "Silver Partners",
+			"list": [
+				{
+					"logo": "/img/partners/filuta-logo-symbol.svg",
+					"height": "-1",
+					"width": "140",
+					"link": "https://filuta.ai"
+				},
+				{
+					"logo": "/img/partners/alicetechnologies.jpg",
+					"height": "-1",
+					"width": "140",
+					"link": "http://www.alicetechnologies.com"
+				}
+			]
+		},
+		{
+			"rank": "Bronze Partners",
+			"list": [
+				{
+					"logo": "/img/partners/sift-logo-text.svg",
+					"height": "-1",
+					"width": "200",
+					"link": "https://sift.net"
+				},
+				{
+					"logo": "/img/partners/RSJ_logo.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://rsj.com/en/"
+				}
+
+			]
+		}
+	]
+}

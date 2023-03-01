@@ -14,6 +14,4 @@ ICAPS 2023 is part of the ICAPS conference series, the premier forum for exchang
 
 ---
 
-#### ICAPS is kindly supported by:
-
-{{< figure src="/img/sift-logo-text.svg" width="200" link="https://sift.net" >}}
+{{< sponsors_table_json "/data/sponsors/sponsors.json" >}}

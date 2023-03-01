@@ -47,21 +47,14 @@ Every submission will be reviewed by members of the program committee according 
 At least one author of each accepted paper must attend the workshop in order to present the paper. Authors must register for the ICAPS conference in order to attend the workshop.
 
 
-### Policy on Previously Published Materials (optional) 
+### Policy on Previously Published Materials
 
 Please do not submit papers that are already accepted for the ICAPS main conference. All other submissions, e.g. papers under review for IJCAI'23, are welcome. Authors submitting papers rejected from the ICAPS main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Also, it is your responsibility to ensure that other venues your work is submitted to allow for papers to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN).
 
 
 ## Workshop Committee
 
-### Organizing Committee
-
- - Daniel Höller, Saarland University, Germany
- - Jörg Hoffmann, Saarland University, Germany
- - Sylvie Thiebaux, University of Toulouse, France, and Australian National University, Australia
-
-
-### Program Committee
+Organizing and Program Committee:
 
  - Sara Bernardini, Royal Holloway University of London, UK
  - Jesse Davis, KU Leuven, Belgium

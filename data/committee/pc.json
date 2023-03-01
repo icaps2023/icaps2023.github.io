@@ -1,0 +1,866 @@
+{
+    "items": [
+        {
+            "position": "Senior Program Committee",
+            "people": [
+                {
+                    "name": "Chris Beck",
+                    "institution": "University of Toronto"
+                },
+                {
+                    "name": "Pascal Bercher",
+                    "institution": "Australian National University"
+                },
+                {
+                    "name": "Sara Bernardini",
+                    "institution": "Royal Holloway, University of London"
+                },
+                {
+                    "name": "Susanne Biundo",
+                    "institution": "University of Ulm"
+                },
+                {
+                    "name": "Ronen Brafman",
+                    "institution": "Ben-Gurion University"
+                },
+                {
+                    "name": "Andrew Coles",
+                    "institution": "King's College London"
+                },
+                {
+                    "name": "Hector Geffner",
+                    "institution": "ICREA & Universitat Pompeu Fabra"
+                },
+                {
+                    "name": "Erez Karpas",
+                    "institution": "Technion"
+                },
+                {
+                    "name": "Michael Katz",
+                    "institution": "IBM"
+                },
+                {
+                    "name": "Hoong Chuin Lau",
+                    "institution": "Singapore Management University"
+                },
+                {
+                    "name": "Thomas McCluskey",
+                    "institution": "University of Huddersfield"
+                },
+                {
+                    "name": "Felipe Meneguzzi",
+                    "institution": "University of Aberdeen"
+                },
+                {
+                    "name": "Andrea Micheli",
+                    "institution": "Fondazione Bruno Kessler"
+                },
+                {
+                    "name": "Christian Muise",
+                    "institution": "Queen's University"
+                },
+                {
+                    "name": "Cédric Pralet",
+                    "institution": "ONERA Toulouse"
+                },
+                {
+                    "name": "Marco Roveri",
+                    "institution": "University of Trento"
+                },
+                {
+                    "name": "Gabriele Röger",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Guy Shani",
+                    "institution": "Ben Gurion University"
+                },
+                {
+                    "name": "Shirin Sohrabi",
+                    "institution": "IBM"
+                },
+                {
+                    "name": "Siddharth Srivastava",
+                    "institution": "Arizona State University"
+                },
+                {
+                    "name": "Neil Yorke-Smith",
+                    "institution": "Delft University of Technology"
+                },
+                {
+                    "name": "Hankz Hankui Zhuo",
+                    "institution": "Sun Yat-sen University"
+                }
+            ]
+        },
+        {
+            "position": "Program Committee",
+            "people": [
+                {
+                    "name": "Vaneet Aggarwal",
+                    "institution": "Purdue University"
+                },
+                {
+                    "name": "Diego Aineto Garcia",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Zlatan Ajanovic",
+                    "institution": "TU Delft"
+                },
+                {
+                    "name": "Alexandre Albore",
+                    "institution": "ONERA"
+                },
+                {
+                    "name": "Ron Alford",
+                    "institution": "MITRE Corporation"
+                },
+                {
+                    "name": "Bo An",
+                    "institution": "Nanyang Technological University"
+                },
+                {
+                    "name": "Siddharth Aravindan",
+                    "institution": "National University of Singapore"
+                },
+                {
+                    "name": "Masataro Asai",
+                    "institution": "IBM"
+                },
+                {
+                    "name": "Dor Atzmon",
+                    "institution": "Royal Holloway, University of London"
+                },
+                {
+                    "name": "Iman Awaad",
+                    "institution": "Hochschule Bonn-Rhein-Sieg University of Applied Sciences"
+                },
+                {
+                    "name": "Laura Barbulescu",
+                    "institution": "Carnegie Mellon University"
+                },
+                {
+                    "name": "Gregor Behnke",
+                    "institution": "University of Amsterdam"
+                },
+                {
+                    "name": "J. Benton",
+                    "institution": "NASA"
+                },
+                {
+                    "name": "Gloria Beraldo",
+                    "institution": "National Research Council of Italy (CNR-ISTC) & University of Padova"
+                },
+                {
+                    "name": "Arthur Bit-Monnot",
+                    "institution": "LAAS-CNRS"
+                },
+                {
+                    "name": "Mark Boddy",
+                    "institution": "Galois"
+                },
+                {
+                    "name": "Luigi Bonassi",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Blai Bonet",
+                    "institution": "Universidad Simon Bolivar"
+                },
+                {
+                    "name": "Daniel Borrajo",
+                    "institution": "JP Morgan"
+                },
+                {
+                    "name": "Eli Boyarski",
+                    "institution": "Ben-Gurion University of the Negev"
+                },
+                {
+                    "name": "Olivier Buffet",
+                    "institution": "INRIA / LORIA"
+                },
+                {
+                    "name": "Vadim Bulitko",
+                    "institution": "Univeresity of Alberta"
+                },
+                {
+                    "name": "Shaowei Cai",
+                    "institution": "Institute of Software, Chinese Academy of Sciences"
+                },
+                {
+                    "name": "Alberto Camacho",
+                    "institution": "X, The Moonshot Factory"
+                },
+                {
+                    "name": "Matteo Cardellini",
+                    "institution": "University of Genova"
+                },
+                {
+                    "name": "Yaniel Carreno",
+                    "institution": "Edinburgh Centre for Robotics"
+                },
+                {
+                    "name": "Sandra Castellanos",
+                    "institution": "LIG - MAGMA"
+                },
+                {
+                    "name": "Isabel Cenamor",
+                    "institution": "Xplain Iberica AG"
+                },
+                {
+                    "name": "Shao-Hung Chan",
+                    "institution": "University of Southern California"
+                },
+                {
+                    "name": "Shih-Fen Cheng",
+                    "institution": "Singapore Management University"
+                },
+                {
+                    "name": "Lukas Chrpa",
+                    "institution": "Czech Technical University in Prague"
+                },
+                {
+                    "name": "Andre Augusto Cire",
+                    "institution": "University of Toronto"
+                },
+                {
+                    "name": "Gabriella Cortellessa",
+                    "institution": "National Research Council of Italy (CNR-ISTC)"
+                },
+                {
+                    "name": "Dustin Dannenhauer",
+                    "institution": "Parallax Advanced Research"
+                },
+                {
+                    "name": "Riccardo De Benedictis",
+                    "institution": "National Research Council of Italy (CNR-ISTC)"
+                },
+                {
+                    "name": "Frits de Nils",
+                    "institution": "Monash University"
+                },
+                {
+                    "name": "Lavindra de Silva",
+                    "institution": "University of Cambridge"
+                },
+                {
+                    "name": "Mathijs De Weerdt",
+                    "institution": "Delft University of Technology"
+                },
+                {
+                    "name": "Emir Demirović",
+                    "institution": "Delft University of Technology"
+                },
+                {
+                    "name": "Minh Do",
+                    "institution": "NASA"
+                },
+                {
+                    "name": "Christian Dornhege",
+                    "institution": "Intrinsic GmbH"
+                },
+                {
+                    "name": "Prashant Doshi",
+                    "institution": "University of Georgia"
+                },
+                {
+                    "name": "Stefan Edelkamp",
+                    "institution": "CTU Prague"
+                },
+                {
+                    "name": "Rebecca Eifler",
+                    "institution": "Saarland University"
+                },
+                {
+                    "name": "Salomé Eriksson",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Ariel Felner",
+                    "institution": "Ben-Gurion University"
+                },
+                {
+                    "name": "Patrick Ferber",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Fernando Fernandez",
+                    "institution": "Universidad Carlos III de Madrid"
+                },
+                {
+                    "name": "Juan Fernández-Olivares",
+                    "institution": "Universidad de Granada"
+                },
+                {
+                    "name": "Alberto Finzi",
+                    "institution": "University of Naples Federico II"
+                },
+                {
+                    "name": "Daniel Fišer",
+                    "institution": "Saarland University"
+                },
+                {
+                    "name": "Santiago Franco",
+                    "institution": "Royal Holloway University of London"
+                },
+                {
+                    "name": "Jeremy Frank",
+                    "institution": "NASA"
+                },
+                {
+                    "name": "Simone Fratini",
+                    "institution": "European Space Agency - ESA/ESOC"
+                },
+                {
+                    "name": "Raquel Fuentetaja",
+                    "institution": "Universidad Carlos III de Madrid"
+                },
+                {
+                    "name": "Daniel Furelos-Blanco",
+                    "institution": "Imperial College London"
+                },
+                {
+                    "name": "Angel Garcia-Olaya",
+                    "institution": "Universidad Carlos III de Madrid"
+                },
+                {
+                    "name": "Sankalp Garg",
+                    "institution": "Carnegie Mellon university"
+                },
+                {
+                    "name": "Alfonso Gerevini",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Nicola Gigante",
+                    "institution": "Free University of Bozen-Bolzano"
+                },
+                {
+                    "name": "Mark Giuliano",
+                    "institution": "Space Telescope Institute of Technology"
+                },
+                {
+                    "name": "Daniel Gnad",
+                    "institution": "Linköping University"
+                },
+                {
+                    "name": "Robert P. Goldman",
+                    "institution": "SIFT, LLC"
+                },
+                {
+                    "name": "Matthew Gombolay",
+                    "institution": "Georgia Institute of Technology"
+                },
+                {
+                    "name": "Alban Grastien",
+                    "institution": "Australian National University"
+                },
+                {
+                    "name": "Charles Gretton",
+                    "institution": "Australian National University"
+                },
+                {
+                    "name": "Sachin Grover",
+                    "institution": "Parc, a Xerox Company"
+                },
+                {
+                    "name": "Christophe Guettier",
+                    "institution": "SAFRAN"
+                },
+                {
+                    "name": "Daniel Guimarans",
+                    "institution": "Amazon"
+                },
+                {
+                    "name": "Vicenç Gómez",
+                    "institution": "Universitat Pompeu Fabra"
+                },
+                {
+                    "name": "Jin-Kao Hao",
+                    "institution": "University of Angers"
+                },
+                {
+                    "name": "Patrik Haslum",
+                    "institution": "ANU"
+                },
+                {
+                    "name": "Nick Hawes",
+                    "institution": "University of Oxford"
+                },
+                {
+                    "name": "Keyang He",
+                    "institution": "University of Georgia"
+                },
+                {
+                    "name": "Malte Helmert",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Laura Hiatt",
+                    "institution": "U.S. Naval Research Laboratory"
+                },
+                {
+                    "name": "Joerg Hoffmann",
+                    "institution": "Saarland University"
+                },
+                {
+                    "name": "Till Hofmann",
+                    "institution": "RWTH Aachen University"
+                },
+                {
+                    "name": "Daniel Höller",
+                    "institution": "Saarland University"
+                },
+                {
+                    "name": "Luca Iocchi",
+                    "institution": "Sapienza University of Rome"
+                },
+                {
+                    "name": "Sergio Jimenez Celorrio",
+                    "institution": "Universitat Politècnica de València"
+                },
+                {
+                    "name": "Anders Jonsson",
+                    "institution": "Universitat Pompeu Fabra"
+                },
+                {
+                    "name": "Leslie Kaelbling",
+                    "institution": "MIT"
+                },
+                {
+                    "name": "Mustafa O. Karabag",
+                    "institution": "University of Texas at Austin"
+                },
+                {
+                    "name": "Sammie Katt",
+                    "institution": "Northeastern University"
+                },
+                {
+                    "name": "Thomas Keller",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Jane Jean Kiam",
+                    "institution": "Universität der Bundeswehr München"
+                },
+                {
+                    "name": "Scott Kiesel",
+                    "institution": "Amazon Robotics"
+                },
+                {
+                    "name": "Lucas Kletzander",
+                    "institution": "TU Wien"
+                },
+                {
+                    "name": "Antonin Komenda",
+                    "institution": "Czech Technical University in Prague"
+                }, 
+                {
+                    "name": "Anurag Koul",
+                    "institution": "Microsoft Research"
+                },
+                {
+                    "name": "Anagha Kulkarni",
+                    "institution": "Invitae"
+                },
+                {
+                    "name": "T. K. Satish Kumar",
+                    "institution": "University of Southern California"
+                },
+                {
+                    "name": "Uwe Köckemann",
+                    "institution": "Örebro University"
+                },
+                {
+                    "name": "Philippe Laborie",
+                    "institution": "LocalSolver"
+                },
+                {
+                    "name": "Bruno Lacerda",
+                    "institution": "University of Oxford"
+                },
+                {
+                    "name": "Leonardo Lamanna",
+                    "institution": "Fondazione Bruno Kessler"
+                },
+                {
+                    "name": "Levi H. S. Lelis",
+                    "institution": "University of Alberta"
+                },
+                {
+                    "name": "Chu-Min Li",
+                    "institution": "Université de Picardie Jules Verne"
+                },
+                {
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University"
+                },
+                {
+                    "name": "Carlos Linares Lopez",
+                    "institution": "Universidad Carlos III de Madrid"
+                },
+                {
+                    "name": "Alan Lindsay",
+                    "institution": "Heriot-Watt University"
+                },
+                {
+                    "name": "Jiajing Ling",
+                    "institution": "Singapore Management University"
+                },
+                {
+                    "name": "Yongmei Liu",
+                    "institution": "Sun Yat-sen University"
+                },
+                {
+                    "name": "Siow Meng Low",
+                    "institution": "Singapore Management University"
+                },
+                {
+                    "name": "Meghna Lowalekar",
+                    "institution": "Swiggy"
+                },
+                {
+                    "name": "Hang Ma",
+                    "institution": "Simon Fraser University"
+                },
+                {
+                    "name": "Mauricio Magnaguagno",
+                    "institution": "Independent Researcher"
+                },
+                {
+                    "name": "Adrien Maillard",
+                    "institution": "Jet Propulsion Laboratory"
+                },
+                {
+                    "name": "Masoumeh Mansouri",
+                    "institution": "University of Birmingham"
+                },
+                {
+                    "name": "Marco Maratea",
+                    "institution": "DIBRIS, University of Genova"
+                },
+                {
+                    "name": "Jakub Marecek",
+                    "institution": "Czech Technical University"
+                },
+                {
+                    "name": "Reuth Mirsky",
+                    "institution": "Bar Ilan University"
+                },
+                {
+                    "name": "Argaman Mordoch",
+                    "institution": "Ben Gurion University"
+                },
+                {
+                    "name": "Bob Morris",
+                    "institution": "NASA"
+                },
+                {
+                    "name": "Nysret Musliu",
+                    "institution": "TU Wien"
+                },
+                {
+                    "name": "Karen Myers",
+                    "institution": "SRI International"
+                },
+                {
+                    "name": "Siriaam Natarajan",
+                    "institution": "University of Texas at Dallas"
+                },
+                {
+                    "name": "Daniel Neider",
+                    "institution": "TU Dortmund University"
+                },
+                {
+                    "name": "Grigory Neustroev",
+                    "institution": "Delft University of Technology"
+                },
+                {
+                    "name": "M. A. Hakim Newton",
+                    "institution": "University of Newcastle"
+                },
+                {
+                    "name": "Angelo Oddi",
+                    "institution": "National Research Council of Italy (CNR-ISTC)"
+                },
+                {
+                    "name": "Conny Olz",
+                    "institution": "Institute of Artificial Intelligence, Ulm University"
+                },
+                {
+                    "name": "Hector Palacios",
+                    "institution": "ServiceNow Research"
+                },
+                {
+                    "name": "Simon Parkinson",
+                    "institution": "University of Huddersfield"
+                },
+                {
+                    "name": "Sunandita Patra",
+                    "institution": "JPMorgan AI Research"
+                },
+                {
+                    "name": "Federico Pecora",
+                    "institution": "Amazon Robotics"
+                },
+                {
+                    "name": "Damien Pellier",
+                    "institution": "Laboratoire d'Informatique de Grenoble"
+                },
+                {
+                    "name": "Francesco Percassi",
+                    "institution": "University of Huddersfield"
+                },
+                {
+                    "name": "André Grahi Pereira",
+                    "institution": "Federal University of Rio Grande do Sul"
+                },
+                {
+                    "name": "Ramon Pereira",
+                    "institution": "University of Manchester"
+                },
+                {
+                    "name": "Wiktor Piotrowski",
+                    "institution": "Palo Alto Research Center"
+                },
+                {
+                    "name": "Florian Pommerening",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Kanna Rajan",
+                    "institution": "Faculty of Engineering, University of Porto, Portugal and The RAND Corporation"
+                },
+                {
+                    "name": "Masood Feyzbakhsh Rankooh",
+                    "institution": "Tampere University"
+                },
+                {
+                    "name": "Riccardo Rasconi",
+                    "institution": "National Research Council of Italy (CNR-ISTC)"
+                },
+                {
+                    "name": "Marcus Ritt",
+                    "institution": "Universidade Federal do Rio Grande do Sul"
+                },
+                {
+                    "name": "Alessandro Ronca",
+                    "institution": "Sapienza University of Rome"
+                },
+                {
+                    "name": "Stefan Ropke",
+                    "institution": "Technical University of Denmark"
+                },
+                {
+                    "name": "Leonardo Rosa Amado",
+                    "institution": "PUCRS"
+                },
+                {
+                    "name": "Louis-Martin Rousseau",
+                    "institution": " Polytechnique Montréal"
+                },
+                {
+                    "name": "Zachary Rubinstein",
+                    "institution": "Carnegie Mellon University"
+                },
+                {
+                    "name": "Hana Rudová",
+                    "institution": "Masaryk University"
+                },
+                {
+                    "name": "Wheeler Ruml",
+                    "institution": "Unersity of new Hampshire"
+                },
+                {
+                    "name": "Alessandro Saetti",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Miguel A. Salido",
+                    "institution": "Universitat Politècnica de València"
+                },
+                {
+                    "name": "Scott Sanner",
+                    "institution": "University of Toronto"
+                },
+                {
+                    "name": "Buser Say",
+                    "institution": "Monash University"
+                },
+                {
+                    "name": "Enrico Scala",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Dominik Schreiber",
+                    "institution": "Karlsruhe Institute of Technology"
+                },
+                {
+                    "name": "Laura Sebastia",
+                    "institution": "Universitat Politècnica de València"
+                },
+                 {
+                    "name": "Javier Segovia-Aguas",
+                    "institution": "Universitat Pompeu Fabra"
+                },
+                {
+                    "name": "Jendrik Seipp",
+                    "institution": "Linköping University"
+                },
+                {
+                    "name": "Ivan Serina",
+                    "institution": "University of Brescia"
+                },
+                {
+                    "name": "Vikas Shivashankar",
+                    "institution": "Amazon Robotics"
+                },
+                {
+                    "name": "Alexander Shleyfman",
+                    "institution": "Bar-Ilan University"
+                },
+                {
+                    "name": "Silvan Sievers",
+                    "institution": "University of Basel"
+                },
+                {
+                    "name": "Thiago D. Simão",
+                    "institution": "Radbound University"
+                },
+                {
+                    "name": "Arambam James Singh",
+                    "institution": "Sngapore Management University"
+                },
+                {
+                    "name": "Pieter Smet",
+                    "institution": "KU Leuven"
+                },
+                {
+                    "name": "David Smith",
+                    "institution": "Independent Researcher"
+                },
+                {
+                    "name": "David Speck",
+                    "institution": "University of Freiburg"
+                },
+                {
+                    "name": "Sarath Sreedharan",
+                    "institution": "Colorado State University"
+                },
+                {
+                    "name": "Mohan Sridharan",
+                    "institution": "University of Birmingham"
+                },
+                {
+                    "name": "Sabine Storandt",
+                    "institution": "University of Konstanz"
+                },
+                {
+                    "name": "Nathan Sturtevant",
+                    "institution": "University of Alberta"
+                },
+                {
+                    "name": "Simon Ståhlberg",
+                    "institution": "Linköping University"
+                },
+                {
+                    "name": "Premysl Sucha",
+                    "institution": "Czech Technical University"
+                },
+                {
+                    "name": "Armando Tacchella",
+                    "institution": "University of Genova"
+                },
+                {
+                    "name": "Prasad Tadepalli",
+                    "institution": "Oregon State University"
+                },
+                {
+                    "name": "Ayal Taitler",
+                    "institution": "University of Toronto"
+                },
+                {
+                    "name": "Florent Teichteil-Königsbuch",
+                    "institution": "Airbus Central Research & Technology"
+                },
+                {
+                    "name": "Ufuk Topcu",
+                    "institution": "University of Texas at Austin"
+                },
+                {
+                    "name": "Álvaro Torralba",
+                    "institution": "Aalborg University"
+                },
+                {
+                    "name": "Felipe Trevizan",
+                    "institution": "Australia National University"
+                },
+                {
+                    "name": "Alessandro Umbrico",
+                    "institution": "National Research Council of Italy (CNR-ISTC)"
+                },
+                {
+                    "name": "Tommaso Urli",
+                    "institution": "Satalia"
+                },
+                {
+                    "name": "Rick Valenzano",
+                    "institution": "Toronto Metropolitan University"
+                },
+                {
+                    "name": "Willem-Jan Van Hoeve",
+                    "institution": "Carnegie Mellon University"
+                },
+                {
+                    "name": "Martijn van Otterlo",
+                    "institution": "Open University"
+                },
+                {
+                    "name": "Greet Vanden Berghe",
+                    "institution": "Katholieke Universiteit Leuven"
+                },
+                {
+                    "name": "Tiago Stegun Vaquero",
+                    "institution": "Jet Propulsion Laboratory, California Institute of Technology"
+                },
+                {
+                    "name": "Ramiro Varela",
+                    "institution": "University of Oviedo"
+                },
+                {
+                    "name": "Petr Vilim",
+                    "institution": "Coenzyme Fr"
+                },
+                {
+                    "name": "Mark Wallace",
+                    "institution": "Monash University"
+                },
+                {
+                    "name": "Christabel Wayllace",
+                    "institution": "University of Alberta"
+                },
+                {
+                    "name": "Feng Wu",
+                    "institution": "University of Science and Technology of China"
+                },
+                {
+                    "name": "Konstantin Yokovlev",
+                    "institution": "Russian Academy of Sciences"
+                },
+                {
+                    "name": "Peng Yu",
+                    "institution": "Mobi Systems"
+                },
+                {
+                    "name": "Yingqian Zhang",
+                    "institution": "Eindhoven University of Technology"
+                },
+                {
+                    "name": "Rong Zhou",
+                    "institution": "Google"
+                }
+            ]
+        }
+    ]
+}

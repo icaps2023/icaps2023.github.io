@@ -77,6 +77,8 @@ Accepted papers will be published with **CEUR-WS proceedings**, under the [**IAO
 - Iman Awaad, Bonn-Rhein-Sieg University, Germany
 - Daniel Bessler, University of Bremen, Germany
 - Stefano Borgo, CNR-ISTC, Italy
+- Chiara Di Francescoromano, University of Trento, Italy
+- Lucia Goméz Alvaréz, TU Dresden, Germany
 - Masoumeh Iran Mansouri, University of Birmingham, UK
 - Marianna Nicolosi Asmundo, University of Catania, Italy
 - Andrea Orlandini, CNR-ISTC, Italy

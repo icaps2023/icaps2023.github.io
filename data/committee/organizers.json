@@ -97,7 +97,12 @@
 				"name" : "Sebastian Sardina",
 				"institution": "RMIT University",
 				"country": "Australia"
-			}			
+			},
+                {
+                    "name": "Laura Barbulescu",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA"
+                }			
 		]
 	},
         {
@@ -105,7 +110,7 @@
             "people": [
                 {
                     "name": "Tiago S. Vaquero",
-                    "institution": "NASA",
+                    "institution": "Jet Propulsion Laboratory, California Institute of Technology",
                     "country": "USA"
                 },
 		{
@@ -150,7 +155,7 @@
             "people": [
                 {
                     "name": "Iman Awaad",
-                    "institution": "Bonn-Rhein-Sieg University",
+                    "institution": "Hochschule Bonn-Rhein-Sieg University of Applied Sciences",
                     "country": "Germany"
                 },
                 {

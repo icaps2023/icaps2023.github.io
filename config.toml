@@ -81,11 +81,23 @@ theme = 'mainroad'
     parent = "calls"
     weight = 60
   [[menu.main]]
+    identifier = "demo_track"
+    name = "System Demonstrations"
+    url = "/calls/demo_track"
+    parent = "calls"
+    weight = 70
+  [[menu.main]]
+    identifier = "dc"
+    name = "Doctoral Consortium"
+    url = "/calls/dc"
+    parent = "calls"
+    weight = 80  
+  [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
     url = "/calls/partnership_call"
     parent = "calls"
-    weight = 70
+    weight = 90
 # COMPETITIONS
   [[menu.main]]
     identifier = "competitions"
@@ -110,10 +122,17 @@ theme = 'mainroad'
     parent = "program"
     weight = 10
   [[menu.main]]
+    identifier = "doctoral-consortium"
+    name = "Doctoral Consortium"
+    url = "/program/dc"
+    parent = "program"
+    weight = 20
+  [[menu.main]]
     identifier = "ws"
     name = "Workshops"
     parent = "program"
-    weight = 20
+    url = "/program/ws_overview"
+    weight = 30
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
@@ -139,12 +158,12 @@ theme = 'mainroad'
     parent = "ws"
     url = "/program/workshops/plato"
     weight = 30
-#  [[menu.main]]
-#    identifier = "prl"
-#    name = "PRL"
-#    parent = "ws"
-#    url = "/program/workshops/prl"
-#    weight = 40
+  [[menu.main]]
+    identifier = "prl"
+    name = "PRL"
+    parent = "ws"
+    url = "/program/workshops/prl"
+    weight = 40
   [[menu.main]]
     identifier = "rddps"
     name = "RDDPS"
@@ -163,24 +182,24 @@ theme = 'mainroad'
     parent = "ws"
     url = "/program/workshops/spark"
     weight = 70
-#  [[menu.main]]
-#    identifier = "planrob"
-#    name = "PlanRob"
-#    parent = "ws"
-#    url = "/program/workshops/planrob"
-#    weight = 80
-#  [[menu.main]]
-#    identifier = "intex"
-#    name = "IntEx"
-#    parent = "ws"
-#    url = "/program/workshops/intex"
-#    weight = 90
-#  [[menu.main]]
-#    identifier = "pair"
-#    name = "PAIR"
-#    parent = "ws"
-#    url = "/program/workshops/pair"
-#    weight = 100
+  [[menu.main]]
+    identifier = "planrob"
+    name = "PlanRob"
+    parent = "ws"
+    url = "/program/workshops/planrob"
+    weight = 80
+  [[menu.main]]
+    identifier = "intex"
+    name = "IntEx"
+    parent = "ws"
+    url = "/program/workshops/intex"
+    weight = 90
+  [[menu.main]]
+    identifier = "pair"
+    name = "PAIR"
+    parent = "ws"
+    url = "/program/workshops/pair"
+    weight = 100
   [[menu.main]]
     identifier = "hsdip"
     name = "HSDIP"
@@ -197,13 +216,13 @@ theme = 'mainroad'
     name = "Organizers"
     url = "/committees/organizers"
     parent = "committees"
-    weight = 10
-#  [[menu.main]]
-#    identifier = "program_committees"
-#    name = "Program Committees"
-#    url = "/committees/program_committees"
-#    parent = "committees"
-#    weight = 20
+    weight = 100
+  [[menu.main]]
+    identifier = "pc"
+    name = "Program Committee"
+    url = "/committees/program_committees"
+    parent = "committees"
+    weight = 200
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
