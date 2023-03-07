@@ -67,7 +67,22 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 
 ### Program Committee
 
-TBC
+- Sandra Castellanos, Grenoble Computer Science Laboratory, Université Grenoble Alpes
+- Matteo Cardellini, Università degli Studi di Genova
+- Francesco Percassi, University of Huddersfield
+- Luigi Bonassi, Università degli Studi di Brescia
+- Andrea Orlandini, CNR
+- Lee Mccluskey, University of Huddersfield
+- Susana Fernandez, Universidad Carlos III de Madrid
+- Simon Parkinson, University of Huddersfield
+- Eva Onaindia, Universitat Politècnica de València
+- Alan Lindsay, Heriot-Watt University
+- Roman Barták, Charles University
+- Simone Fratini, European Space Agency - ESA/ESOC
+- Alessandro Umbrico, National Research Council of Italy (CNR-ISTC)
+- Alba Gragera, Universidad Carlos III de Madrid
+- Yaniel Carreno, BAE Systems Digital Intelligence & Edinburgh Centre for Robotics
+- Raquel Fuentetaja, Universidad Carlos III de Madrid
 
 ## List of Accepted Papers
 
