@@ -58,14 +58,22 @@ We are pleased to accept papers based on recent publications from other (non-ICA
 
 Submissions of papers being reviewed at other venues are welcome since this is a non-archival venue and we will not require a transfer of copyright. If such papers are currently under blind review, please anonymize the submission.
 
-### Oranizing Committee
+## List of Accepted Papers
+
+TBD
+
+## Workshop Schedule
+
+TBD
+
+## Organising Committee
 
 - Lukas Chrpa, Czech Technical University
 - Ron Petrick, Heriot-Watt University
 - Mauro Vallati, University of Huddersfield
 - Tiago Vaquero, NASA JPL
 
-### Program Committee
+## Program Committee
 
 - Sandra Castellanos, Grenoble Computer Science Laboratory, Université Grenoble Alpes
 - Matteo Cardellini, Università degli Studi di Genova
@@ -84,12 +92,5 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 - Yaniel Carreno, BAE Systems Digital Intelligence & Edinburgh Centre for Robotics
 - Raquel Fuentetaja, Universidad Carlos III de Madrid
 
-## List of Accepted Papers
-
-TBD
-
-## Workshop Schedule
-
-TBD
 
 
