@@ -83,6 +83,7 @@ Accepted papers will be published with **CEUR-WS proceedings**, under the [**IAO
 - Marianna Nicolosi Asmundo, University of Catania, Italy
 - Andrea Orlandini, CNR-ISTC, Italy
 - Ron Petrick, Herriot-Watt University, UK
+- Daniele Francesco Santamaria, University of Catania, Italy
 - Guillaume Sarthou, LAAS CNRS, France
 - Uli Sattler, University of Manchester, UK
 - Biplav Srivastava, University of South Carolina, USA
