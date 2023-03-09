@@ -1,0 +1,27 @@
+{
+	"keynotes": [
+		{
+			"name": "Hadas Kress-Gazit",
+			"img" : "/img/keynotes/kressgazit.jpg",
+			"title": "On Synthesis and planning for robot behaviors",
+			"webpage" : "https://www.i3s.unice.fr/~villata/Home.html",
+			"abstract": "In this talk I will describe formal synthesis for robotics - creating correct-by-construction robot behaviors from high-level specification, typically given in temporal logic. I will highlight recent advances in the field, focus on how synthesis can be leveraged for providing feedback and repairing behaviors when things go wrong, and discuss the similarities and differences between synthesis and planning.",
+			"bio": "Hadas Kress-Gazit is the Geoffrey S.M. Hedrick Sr. Professor at the Sibley School of Mechanical and Aerospace Engineering at Cornell University. She received her Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania in 2008 and has been at Cornell since 2009. Her research focuses on formal methods for robotics and automation and more specifically on synthesis for robotics – automatically creating verifiable robot controllers for complex high-level tasks. Her group explores different types of robotic systems including modular robots, soft robots and swarms and synthesizes ideas from different communities such as robotics, formal methods, control, and hybrid systems. She is an IEEE fellow and has received multiple awards for her research, teaching and advocacy for groups traditionally underrepresented in STEM."
+		},
+		{
+			"name": "Sheila McIlriath",
+			"img" : "/img/keynotes/mcilraith.jpg",
+			"title": "",
+			"webpage" : "https://www.cs.toronto.edu/~sheila",
+			"abstract": "",
+			"bio": "Sheila McIlraith is a Professor in the Department of Computer Science at the University of Toronto, a Canada CIFAR AI Chair (Vector Institute), and an Associate Director at the Schwartz Reisman Institute for Technology and Society. Prior to joining U of T, McIlraith spent six years as a Research Scientist at Stanford University, and one year at Xerox PARC. McIlraith’s research is in the area of AI knowledge representation and reasoning, automated planning, and machine learning where she currently studies sequential decision-making, broadly construed, with a focus on human-compatible AI. McIlraith is a Fellow of the ACM and the Association for the Advancement of Artificial Intelligence (AAAI). She and co-authors have been recognized with two 10-year test-of-time awards, one from the International Semantic Web Conference (ISWC) in 2011, and a second from the International Conference on Automated Planning and Scheduling (ICAPS) in 2022, with Christian Muise and Chris Beck."
+		},
+		{
+			"name": "Serena Villata",
+			"img" : "/img/keynotes/villata.png",
+			"title": "Formal and Natural Arguments for Effective Explanations",
+			"abstract": "Explanatory Artificial Intelligence (XAI) is a main topic in AI research nowadays, given, on the one side, the predominance of black box methods, and on the other side, the application of these methods to sensitive scenarios like medicine and autonomous vehicles. Some approaches highlight the need to build explanations which are clearly interpretable and possibly convincing, leading to the investigation of the generation of argument-based explanations. In this talk, I will firstly discuss formal argument-based explanations, which are intended to be not only rational, but \"manifestly\" rational, such that arguers can see for themselves the rationale behind inferential steps taken. Then I will focus on an even more challenging task, targeting the generation of natural language argument-based explanations. I will conclude with a discussion on synergies and mutual relationships between argumentation, XAI and planning.",
+			"bio": "Serena Villata is a research director in computer science at the CNRS and she pursues her research at the I3S laboratory in Sophia Antipolis (France). Her research area is Artificial Intelligence (AI), and her current work focuses on artificial argumentation, with a specific focus on legal and medical texts, political debates and social network harmful content (abusive language, disinformation). Her work conjugates argument-based reasoning frameworks with natural language arguments extracted from text. She is the author of more than 150 scientific publications in AI. Since July 2019, she has been awarded with a Chaire in Artificial Intelligence at the Interdisciplinary Institute for Artificial Intelligence 3IA Cote d'Azur on \"Artificial Argumentation for Humans\". She became the Deputy Scientific Director of the 3IA Cote d'Azur Institute in January 2021. Since December 2019, she is a member of the National Committee for Digital Ethics (CNPEN)."		
+		}
+	]
+}

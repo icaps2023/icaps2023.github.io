@@ -131,11 +131,17 @@ theme = 'mainroad'
     parent = "program"
     weight = 20
   [[menu.main]]
+    identifier = "keynotes"
+    name = "Keynotes"
+    url = "/program/keynotes"
+    parent = "program"
+    weight = "30"
+  [[menu.main]]
     identifier = "ws"
     name = "Workshops"
     parent = "program"
     url = "/program/ws_overview"
-    weight = 30
+    weight = 40
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
