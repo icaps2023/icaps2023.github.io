@@ -1,0 +1,37 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+
+{{ range $keynote := $data.keynotes }}
+
+<div style="display: inline-block; width: 20%; vertical-align: top; border-style: solid; border-radius: 5%; border-color: orange; margin-top: 1%; margin-bottom: 1%;">
+	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="{{ print $keynote.img }}" />		
+</div>
+
+<div style="display: inline-block; width: 70%;  padding-left: 2%;">
+	<div>
+		<h2 style="color: orange">{{ print $keynote.name }} </h2>
+	</div>
+	<div style="padding-left: 1%">
+	 	<h3>{{ print $keynote.title }}</h3>
+	</div>
+	<div style="padding-left: 1%; margin-bottom: 1%;">
+		{{ print $keynote.abstract }}
+	</div>
+	
+	<hr />
+</div>
+
+
+<div style="display: block; width: 100%; margin-bottom: 3%">
+	<div style="padding-left: 1%">
+	 	<h5>Short Bio</h5>
+	</div>
+	<div style="margin-bottom: 1%; padding-left: 1%">
+		{{ print $keynote.bio }}
+	</div>
+</div>
+
+<hr />
+
+{{ end }}
