@@ -9,9 +9,6 @@ theme = 'mainroad'
   title2 = "on Automated Planning and Scheduling"
   subtitle = "Prague, Czech Republic, July 8-13, 2023" # Logo subtitle
 
-#[Params]
-#   customCSS = ["css/bootstrap-table.css"]
-
 [Params.style.vars]
      highlightColor = "#f5821f"
 
@@ -39,6 +36,12 @@ theme = 'mainroad'
     url = "/attending/venue"
     parent = "attending"
     weight = 10
+  [[menu.main]]
+    identifier = "travel"
+    name = "Travel Information"
+    url = "/attending/travel"
+    parent = "attending"
+    weight = 20
 # CALLS
   [[menu.main]]
     identifier = "calls"
