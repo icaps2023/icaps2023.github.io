@@ -58,7 +58,7 @@ Authors may submit *long papers* (up to 8 pages plus up to one page of reference
 
 In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
-Submissions will be done via *easychair*, the link will be published in time.
+Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2023).
 
 ### Workshop Proceedings
 
