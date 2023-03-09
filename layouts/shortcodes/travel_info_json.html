@@ -1,0 +1,34 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+{{ range $option := $data.options }}
+
+<div style="display: inline-block; width: 31%; padding: 1%; margin: 1%; margin-bottom: 3%; border-style: solid; border-color: orange; border-radius: 5%; vertical-align:top">
+
+	<div style="width: 100%; padding: 2%">
+		<img style="padding: 1%; border-radius: 5%" src="{{ $option.img }}" />
+	</div>
+	
+	<div style="width: 100%; padding: 1%; margin-bottom: 1%;">
+			
+		<h3>Arriving by {{ $option.means }}</h3>
+	
+		<p>{{ print $option.description }}</p>
+		
+		<a href="{{ print $option.url }}">Official website</a>
+	
+	</div>
+	
+	<hr />
+	
+	<div style="width: 100%; padding: 1%; margin-bottom: 1%;">
+		
+		<p>{{ print $option.howto }}</p>
+	</div>
+</div>
+
+
+{{ end }}
+
+
+

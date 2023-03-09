@@ -1,0 +1,28 @@
+{
+	"options": [
+		{
+			"img": "/img/travel/plane.jpg",
+			"means": "Plane",
+			"description": "Prague has an international airport Václav Havel Airport Prague (PRG), originally Prague-Ruzyně. It has direct connections to major European airports and some overseas destinations, e.g., New York.",
+			"url": "https://www.prg.aero/en#/",
+			"howto": "The easiest way to get to the city center is by using Bus #119 to Metro Line A station Nádraží Veleslavín.",
+			"resource" : "https://www.prg.aero/en/public-transport-buses"
+			
+		},
+		{
+			"img": "/img/travel/train.jpg",
+			"means": "Train",
+			"description": "The main train station in Prague is Praha hlavní nádraží, There are direct train connections to European cities such as Wien, Berlin, or München.",
+			"url": "https://www.cd.cz/en/stanice/5457076/",
+			"howto": "Prague main train station is directly in the city center, close to Wenceslas Square. There is Metro Line C station Hlavní nádraží."
+			
+		},
+		{
+			"img": "/img/travel/bus.jpg",		
+			"means": "Bus",
+			"description": "The major bus terminal in Prague is Praha - Florenc. There are direct bus connections to many European cities.",
+			"url": "http://florenc.cz/index.php?lan=en",
+			"howto": "The bus terminal is very close to the city center. There is Metro Lines B/C station Florenc."
+		}
+	]
+}
