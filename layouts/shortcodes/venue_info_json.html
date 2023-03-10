@@ -1,0 +1,33 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+{{ range $option := $data.options }}
+
+<div style="width: 98%; padding: 1%; margin: 1%; margin-left: 1%; border-style: solid; border-color: orange; border-radius: 3%; vertical-align:top">
+
+	<div style="display: inline-block; width: 69%; padding: 1%; vertical-align: top;">
+	
+		<h4>Reaching the {{ print $option.venue }} Venue</h4>
+		<p>{{ print $option.description }}</p>
+	</div>
+	
+	<div style="display: inline-block; width: 30%; padding: 1%; vertical-align: top; border-left: solid orange">
+	
+		<div style="margin:0; padding: 1%">
+			<a href="{{ print $option.url }}" target="_blank"><img style="border-radius: 5%" src="{{ print $option.map }}" /></a>
+		</div>
+		
+		<hr style="margin-top: 3%;"/>
+	
+		<div style="margin:0; padding:0">
+			<p style="font-size: 12px;">{{ print $option.caption }}</p>
+		</div>
+	
+	</div>
+</div>
+
+
+{{ end }}
+
+
+
