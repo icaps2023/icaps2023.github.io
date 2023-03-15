@@ -72,6 +72,12 @@ theme = 'mainroad'
     parent = "calls"
     weight = 40
   [[menu.main]]
+    identifier = "journal_track"
+    name = "Journal Track"
+    url = "/calls/journal_track"
+    parent = "calls"
+    weight = 45         
+  [[menu.main]]
     identifier = "workshop_call"
     name = "Call for Workshop Proposals"
     url = "/calls/workshop_call"
@@ -94,7 +100,7 @@ theme = 'mainroad'
     name = "Doctoral Consortium"
     url = "/calls/dc"
     parent = "calls"
-    weight = 80  
+    weight = 80
   [[menu.main]]
     identifier = "partnership_call"
     name = "Call for Partnership"
