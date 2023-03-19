@@ -22,26 +22,26 @@ The motivation for using hierarchical planning formalisms is manifold. It ranges
 
 Topics of interests include but are not limited to:
 
- - theoretical foundations, e.g., complexity results
- - heuristics, search, and other solving techniques for plan generation
- - techniques and foundations for providing modeling support
- - challenges and lessons learned from modeling systems (using hierarchical models)
- - applications of hierarchical planning
- - plan explanation for hierarchical models
- - hierarchical plan repair techniques
- - techniques for verifying solutions of hierarchical planning problems
- - techniques for automated learning and synthesis of hierarchical models
+- theoretical foundations, e.g., complexity results
+- heuristics, search, and other solving techniques for plan generation
+- techniques and foundations for providing modeling support
+- challenges and lessons learned from modeling systems (using hierarchical models)
+- applications of hierarchical planning
+- plan explanation for hierarchical models
+- hierarchical plan repair techniques
+- techniques for verifying solutions of hierarchical planning problems
+- techniques for automated learning and synthesis of hierarchical models
 
  
  
 ## Important Dates
 
- - Submission Deadline: March 24, 2023 (AoE)
- - Author Notification: April 28, 2023
- - Camera-Ready Deadline: TBA
- - ICAPS 2023 Workshops: July 9-10, 2023
+- Submission Deadline: <s>March 24, 2023</s> March 31, 2023 (AoE), also see note below!
+- Author Notification: April 28, 2023
+- Camera-Ready Deadline: TBA
+- ICAPS 2023 Workshops: July 9-10, 2023
 
-
+Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
  
 ## Submission Details
 
