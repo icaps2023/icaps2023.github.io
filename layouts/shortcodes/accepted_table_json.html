@@ -1,0 +1,91 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+<style>
+
+	.paper-row {
+		margin:0; 
+		padding: 0; 
+		margin-bottom: 1%;
+	}
+
+	.paper {
+		width: 85%; 
+		display: inline-block; 
+		padding: 1%; 
+		margin-left: 1%; 
+		vertical-align: middle;
+	}
+
+	.paper:hover {
+
+		width: 85%; 
+		display: inline-block; 
+		padding: 1%; 
+		margin-left: 1%; 
+		vertical-align: middle;
+
+		border: solid orange; 
+		border-radius: 3%;
+	
+	}
+
+</style>
+
+<hr />
+
+<div>
+
+	{{ range $track := $data.tracks }}
+	
+	<div style="margin: 1%; padding: 1%; display: inline-block; width: 20%; border: orange solid; border-radius: 3%; text-align: center; veretical-align: middle;">
+	
+		<a href="http://localhost:1313/program/accepted/#{{ $track.name }}">{{ print $track.name }}</a>
+	
+	</div>
+	
+	{{ end  }}
+	
+</div>
+
+<hr />
+
+
+{{ range $track := $data.tracks }}
+
+
+<div style="width: 95%;  padding-left: 2%;">
+
+	<div>
+		<h2 style="color: orange"><a name="{{ print $track.name }}">{{ print $track.name }} Track</a></h2>
+	</div>
+	
+	<p>Find below the list of the <strong>{{ len $track.papers }} papers</strong> accepted to the <strong>{{ print $track.name }} Track</strong></p>
+	
+	
+	{{ range $index, $paper := $track.papers }}
+	
+	<div class="paper-row">
+	
+		<div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid orange; border-radius: 3%;">
+			{{ print $index  }}
+		</div>
+		
+		<div class="paper">
+		
+			<div><strong>{{ print $paper.title }}</strong></div>
+			<div style="padding: 1%">{{ print $paper.authors }}</div>
+		
+		</div>
+	</div>
+	
+	
+
+	{{ end }} 
+	
+	
+</div>
+
+<hr />
+
+{{ end }}
