@@ -15,6 +15,7 @@
 		padding: 1%; 
 		margin-left: 1%; 
 		vertical-align: middle;
+		border: solid white; 
 	}
 
 	.paper:hover {
@@ -24,9 +25,34 @@
 		padding: 1%; 
 		margin-left: 1%; 
 		vertical-align: middle;
-
 		border: solid orange; 
 		border-radius: 3%;
+	
+	}
+	
+	.shortcut {
+	
+		margin-bottom: 2%; 
+		margin-left: 4%;
+		padding: 1%; 
+		display: inline-block; 
+		width: 20%; 
+		border: white solid; 
+		text-align: center; 
+		vertical-align: middle;
+	}
+	
+	.shortcut:hover {
+	
+		margin-bottom: 2%; 
+		margin-left: 4%;
+		padding: 1%; 
+		display: inline-block; 
+		width: 20%; 
+		border: orange solid; 
+		border-radius: 3%; 
+		text-align: center; 
+		vertical-align: middle;
 	
 	}
 
@@ -38,9 +64,9 @@
 
 	{{ range $track := $data.tracks }}
 	
-	<div style="margin: 1%; padding: 1%; display: inline-block; width: 20%; border: orange solid; border-radius: 3%; text-align: center; veretical-align: middle;">
+	<div class="shortcut">
 	
-		<a href="{{ print $.Site.BaseURL }}/program/accepted/#{{ $track.name }}">{{ print $track.name }}</a>
+		<a href="{{ print $.Site.BaseURL }}/program/accepted/#{{ $track.name }}">{{ print $track.name }} Track</a>
 	
 	</div>
 	
@@ -67,8 +93,9 @@
 	
 	<div class="paper-row">
 	
-		<div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid orange; border-radius: 3%;">
-			{{ print $index  }}
+		<div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid 1px orange; border-radius: 3%;">
+			{{ $counter := add $index 1 }}
+			{{ print $counter  }}
 		</div>
 		
 		<div class="paper">

@@ -12,7 +12,7 @@ draft: false
 - July 11-13 2023	Main Conference
 - July 14-16, 2023	Symposium on Combinatorial Search (SoCS)
 
-## Additional information about the program 
+## Additional Information about the Program 
 
 
 - A total of 12 **Workshops** have been accepted to ICAPS 2023. Check the [workshop page](https://icaps23.icaps-conference.org/program/ws_overview) for additional information about their organization.
@@ -20,4 +20,4 @@ draft: false
 - ICAPS 2023 will host 3 **Keynotes**. Check the [keynote page](https://icaps23.icaps-conference.org/program/keynotes) for additional information about their talks.
 
 
-- Check the list **Accepted Papers** on the [conference webpage](http://localhost:1313/program/accepted).
+- Check the list **Accepted Papers** on the [conference webpage](https://icaps23.icaps-conference.org/program/accepted).
