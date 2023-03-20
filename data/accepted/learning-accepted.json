@@ -1,0 +1,86 @@
+[
+ {
+  "number": 215,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Reinforcement Learning for Omega-Regular Specifications on Continuous-Time MDP",
+  "authors": "Amin Falah, Shibashis Guha and Ashutosh Trivedi"
+ },
+ {
+  "number": 473,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "An End-to-End Reinforcement Learning Approach for Job-Shop Scheduling Problems Based on Constraint Programming",
+  "authors": "Pierre Tassel, Martin Gebser and Konstantin Schekotihin"
+ },
+ {
+  "number": 1299,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Size-Agnostic Learning for Fast and Robust Resource-Constrained Scheduling",
+  "authors": "Florent Teichteil-Königsbuch, Guillaume Povéda, Guillermo Gonzalez de Garibay Barba, Tim Luchterhand and Sylvie Thiebaux"
+ },
+ {
+  "number": 1564,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Automaton-guided Curriculum Generation for Reinforcement Learning Agents",
+  "authors": "Yash Shukla, Abhishsek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov"
+ },
+ {
+  "number": 3161,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Imitation Improvement Learning for Large-scale Capacitated Vehicle Routing Problems",
+  "authors": "Viet Bui and Tien Mai"
+ },
+ {
+  "number": 4148,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Timed Partial Order Inference Algorithm",
+  "authors": "Kandai Watanabe, Bardh Hoxha, Danil Prokhorov, Georgios Fainekos, Morteza Lahijanian, Sriram Sankaranarayanan and Tomoya Yamaguchi"
+ },
+ {
+  "number": 4629,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Deceptive Reinforcement Learning in Model-Free Domains",
+  "authors": "Alan Lewis and Tim Miller"
+ },
+ {
+  "number": 7212,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Exploration Policies for On-the-fly Controller Synthesis: a Reinforcement Learning Approach",
+  "authors": "Tomás Delgado, Marco Sánchez Sorondo, Víctor Braberman and Sebastián Uchitel"
+ },
+ {
+  "number": 7324,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Task Phasing: Automated Curriculum Learning from Demonstrations",
+  "authors": "Vaibhav Bajaj, Guni Sharon and Peter Stone"
+ },
+ {
+  "number": 7581,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Learning Local Heuristics for Search-Based Navigation Planning",
+  "authors": "Rishi Veerapaneni, Muhammad Suhail Saleem and Maxim Likhachev"
+ },
+ {
+  "number": 9143,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Goal Recognition as a Deep Learning Task: the GRNet Approach",
+  "authors": "Mattia Chiari, Alfonso Emilio Gerevini, Luca Putelli, Francesco Percassi and Ivan Serina"
+ },
+ {
+  "number": 9210,
+  "track number": 4,
+  "track name": "LearnTrack",
+  "title": "Safe MDP Planning by Learning Temporal Patterns of Undesirable Trajectories and Averting Negative Side Effects",
+  "authors": "Siow Meng Low, Akshat Kumar and Scott Sanner"
+ }
+]

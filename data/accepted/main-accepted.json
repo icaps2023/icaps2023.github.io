@@ -1,0 +1,394 @@
+[
+ {
+  "number": 159,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Explainable Goal Recognition: A Framework Based on Weight of Evidence",
+  "authors": "Abeer Alshehri, Timothy Miller and Mor Vered"
+ },
+ {
+  "number": 322,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Efficient Evaluation of Large Abstractions for Decoupled Search: Merge-and-Shrink and Symbolic Pattern Databases",
+  "authors": "Daniel Gnad, Silvan Sievers and Álvaro Torralba"
+ },
+ {
+  "number": 331,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems",
+  "authors": "Ashwin Kumar, Yevgeniy Vorobeychik and William Yeoh"
+ },
+ {
+  "number": 489,
+  "track number": 1,
+  "track name": "Main",
+  "title": "An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem",
+  "authors": "Quang Anh Pham, Hoong Chuin Lau, Minh Hoàng Hà and Lam Vu"
+ },
+ {
+  "number": 640,
+  "track number": 1,
+  "track name": "Main",
+  "title": "A Best-First Search Algorithm for FOND Planning and Heuristic Functions to Optimize Solution Size",
+  "authors": "Frederico Messa and André Grahl Pereira"
+ },
+ {
+  "number": 717,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Finding Matrix Multiplication Algorithms with Classical Planning",
+  "authors": "David Speck, Paul Höft, Daniel Gnad and Jendrik Seipp"
+ },
+ {
+  "number": 824,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Online Planning for Constrained POMDPs with Continuous Spaces through Dual Ascent",
+  "authors": "Arec Jamgochian, Anthony Corso and Mykel Kochenderfer"
+ },
+ {
+  "number": 1065,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Optimality Certificates for Classical Planning",
+  "authors": "Esther Mugdan, Remo Christen and Salomé Eriksson"
+ },
+ {
+  "number": 1385,
+  "track number": 1,
+  "track name": "Main",
+  "title": "On Using Action Inheritance and Modularity in PDDL Domain Modelling",
+  "authors": "Alan Lindsay"
+ },
+ {
+  "number": 1532,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Robust Metric Hybrid Planning in Stochastic Nonlinear Domains using Mathematical Optimization",
+  "authors": "Buser Say"
+ },
+ {
+  "number": 1763,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Falsification of Cyber-Physical Systems Using PDDL+ Planning",
+  "authors": "Diego Aineto, Enrico Scala, Eva Onaindia and Ivan Serina"
+ },
+ {
+  "number": 1852,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Exploiting Geometric Constraints in Multi-Agent Pathfinding",
+  "authors": "Dor Atzmon, Sara Bernardini, Fabio Fagnani and David Fairbairn"
+ },
+ {
+  "number": 1871,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Landmark Progression in Heuristic Search",
+  "authors": "Clemens Büchner, Thomas Keller, Salomé Eriksson and Malte Helmert"
+ },
+ {
+  "number": 1908,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Priority-Based Search for the Virtual Network Embedding Problem",
+  "authors": "Yi Zheng, Hang Ma, Sven Koenig, Erik Kline and T. K. Satish Kumar"
+ },
+ {
+  "number": 1947,
+  "track number": 1,
+  "track name": "Main",
+  "title": "The Small Solution Hypothesis for MAPF on Strongly Connected Directed Graphs Is True",
+  "authors": "Bernhard Nebel"
+ },
+ {
+  "number": 2921,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Improving Zero-Shot Coordination Performance Based on Policy Similarity",
+  "authors": "Lebin Yu, Yunbo Qiu, Quanming Yao, Xudong Zhang and Jian Wang"
+ },
+ {
+  "number": 3452,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Operator Pruning using Lifted Mutex Groups via Compilation on Lifted Level",
+  "authors": "Daniel Fišer"
+ },
+ {
+  "number": 3549,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Safety Shielding under Delayed Observation",
+  "authors": "Filip Cano Córdoba, Alexander Palmisano, Martin Fränzle, Roderick Bloem and Bettina Könighofer"
+ },
+ {
+  "number": 3596,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Generalizing Action Justification and Causal Links to Policies",
+  "authors": "Sarath Sreedharan, Christian Muise and Subbarao Kambhampati"
+ },
+ {
+  "number": 3859,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Parallel Batch Processing for the Coating Problem",
+  "authors": "Matthias Horn, Emir Demirović and Neil Yorke-Smith"
+ },
+ {
+  "number": 4098,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Convexity Hierarchies in Grid Networks",
+  "authors": "Johannes Blum, Sabine Storandt and Ruoying Li"
+ },
+ {
+  "number": 4269,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning with Multiple Action-Cost Estimates",
+  "authors": "Eyal Weiss and Gal Kaminka"
+ },
+ {
+  "number": 4335,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Deadline-Aware Multi-Agent Tour Planning",
+  "authors": "Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig"
+ },
+ {
+  "number": 4882,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning for Temporally Extended Goals in Pure-Past Linear Temporal Logic",
+  "authors": "Luigi Bonassi, Giuseppe De Giacomo, Marco Favorito, Francesco Fuggitti, Alfonso Emilio Gerevini and Enrico Scala"
+ },
+ {
+  "number": 4942,
+  "track number": 1,
+  "track name": "Main",
+  "title": "W-restrained Bidirectional Bounded-Suboptimal Heuristic Search",
+  "authors": "Dor Atzmon, Shahaf Shperberg, Netanel Sabah, Ariel Felner and Nathan Sturtevant"
+ },
+ {
+  "number": 5455,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning with Multi-agent Belief using Justified Perspectives",
+  "authors": "Guang Hu, Tim Miller and Nir Lipovetzky"
+ },
+ {
+  "number": 5469,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Efficient Reasoning about Infeasible One Machine Sequencing",
+  "authors": "Raúl Mencía, Carlos Mencía and Joao Marques-Silva"
+ },
+ {
+  "number": 5579,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Adaptation and Communication in Human Robot Teaming to Handle Discrepancy in Agents' Beliefs about Plans",
+  "authors": "Yuening Zhang and Brian Williams"
+ },
+ {
+  "number": 5640,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning over Integers: Macros and Undecidability",
+  "authors": "Daniel Gnad, Malte Helmert, Peter Jonsson and Alexander Shleyfman"
+ },
+ {
+  "number": 5775,
+  "track number": 1,
+  "track name": "Main",
+  "title": "On Partial Satisfaction Planning with Total-Order HTNs",
+  "authors": "Gregor Behnke, David Speck, Michael Katz and Shirin Sohrabi"
+ },
+ {
+  "number": 5858,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning for Attacker Entrapment in Adversarial Settings",
+  "authors": "Brittany Cates, Anagha Kulkarni and Sarath Sreedharan"
+ },
+ {
+  "number": 5860,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Runahead A* : Speculative Parallelism for A* with Slow Expansions",
+  "authors": "Mohammad Bakhshalipour, Mohamad Qadri, Dominic Guri, Seyed Borna Ehsani, Maxim Likhachev and Phillip Gibbons"
+ },
+ {
+  "number": 5926,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Lifted Stackelberg Planning",
+  "authors": "Philipp Sauer, Marcel Steinmetz, Robert Kuennemann and Joerg Hoffmann"
+ },
+ {
+  "number": 6085,
+  "track number": 1,
+  "track name": "Main",
+  "title": "A Theory of Merge-and-Shrink for Stochastic Shortest Path Problems",
+  "authors": "Thorsten Klößner, Álvaro Torralba, Marcel Steinmetz and Silvan Sievers"
+ },
+ {
+  "number": 6129,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search",
+  "authors": "Edward Lam, Daniel Harabor, Peter J. Stuckey and Jiaoyang Li"
+ },
+ {
+  "number": 6332,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Efficient Multi-Query Bi-Objective Search via  Contraction Hierarchies",
+  "authors": "Han Zhang, Oren Salzman, Ariel Felner, T. K. Satish Kumar, Carlos Hernández Ulloa and Sven Koenig"
+ },
+ {
+  "number": 6440,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
+  "authors": "Ryo Kuroiwa and Chris Beck"
+ },
+ {
+  "number": 6471,
+  "track number": 1,
+  "track name": "Main",
+  "title": "A Constraint Programming Solution to the Guillotine Rectangular Cutting Problem",
+  "authors": "Sergey Polyakovskiy and Peter Stuckey"
+ },
+ {
+  "number": 6666,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Fixing Plans for PDDL+ Problems: Theoretical and Practical Implications",
+  "authors": "Francesco Percassi, Enrico Scala and Mauro Vallati"
+ },
+ {
+  "number": 6685,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Act-Then-Measure: Reinforcement Learning for Partially Observable Environments with Active Measuring",
+  "authors": "Merlijn Krale, Thiago D. Simão and Nils Jansen"
+ },
+ {
+  "number": 6979,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Sensitivity Analysis for Dynamic Control of PSTNs with Skewed Distributions",
+  "authors": "Rosy Chen, Yiran Ma, Siqi Wu and James Boerkoel"
+ },
+ {
+  "number": 7123,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Automatic Metamorphic Test Oracles for Action-Policy Testing",
+  "authors": "Jan Eisenhut, Álvaro Torralba, Maria Christakis and Joerg Hoffmann"
+ },
+ {
+  "number": 7227,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Generating Domain Abstractions for Optimal Classical Planning with Counterexample-Guided Abstraction Refinement",
+  "authors": "Raphael Kreft, Clemens Büchner, Silvan Sievers and Malte Helmert"
+ },
+ {
+  "number": 7537,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Planning in Multi-Agent Domains with Untruthful Announcements",
+  "authors": "Loc Pham, Tran Cao Son and Enrico Pontelli"
+ },
+ {
+  "number": 7652,
+  "track number": 1,
+  "track name": "Main",
+  "title": "A Column Generation Approach to Correlated Simple Temporal Networks",
+  "authors": "Andrew Murray, Ashwin Arulselvan, Michael Cashmore, Marc Roper and Jeremy Frank"
+ },
+ {
+  "number": 7807,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Symmetry Detection and Breaking in Linear Cost-Optimal Numeric Planning",
+  "authors": "Alexander Shleyfman, Ryo Kuroiwa and J. Christopher Beck"
+ },
+ {
+  "number": 8471,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Grounding Planning Tasks Using Tree Decompositions and Iterated Solving",
+  "authors": "Augusto B. Corrêa, Markus Hecher, Malte Helmert, Davide Mario Longo, Florian Pommerening and Stefan Woltran"
+ },
+ {
+  "number": 8586,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Model Checking for Adversarial Multi-Agent Reinforcement Learning with Reactive Defense Methods",
+  "authors": "Dennis Groß, Christoph Schmidl, Nils Jansen and Guillermo Perez"
+ },
+ {
+  "number": 8855,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Multi Agent Path Finding Under Obstacle Uncertainty",
+  "authors": "Bar Shofer, Guy Shani and Roni Stern"
+ },
+ {
+  "number": 9037,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Goal Recognition with Timing Information",
+  "authors": "Chenyuan Zhang, Charles Kemp and Nir Lipovetzky"
+ },
+ {
+  "number": 9354,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
+  "authors": "Ryo Kuroiwa and Chris Beck"
+ },
+ {
+  "number": 9485,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Beyond Pairwise Reasoning in Multi-Agent Path Finding",
+  "authors": "Bojie Shen, Zhe Chen, Jiaoyang Li, Muhammad Aamir Cheema, Daniel Harabor and Peter Stuckey"
+ },
+ {
+  "number": 9519,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Can They Come Together? A Computational Complexity Analysis of Conjunctive Possible Effects of Compound HTN Planning Tasks",
+  "authors": "Conny Olz and Pascal Bercher"
+ },
+ {
+  "number": 9579,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Cost Splitting for Multi-Objective Conflict-Based Search",
+  "authors": "Cheng Ge, Han Zhang, Jiaoyang Li and Sven Koenig"
+ },
+ {
+  "number": 9685,
+  "track number": 1,
+  "track name": "Main",
+  "title": "A Planning Approach to Repair Domains with Incomplete Action Effects",
+  "authors": "Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya and Fernando Fernández"
+ },
+ {
+  "number": 9776,
+  "track number": 1,
+  "track name": "Main",
+  "title": "Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding",
+  "authors": "Zhongqiang Ren, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset"
+ }
+]
