@@ -66,4 +66,6 @@ If enough authors will agree, SPARK-2023 proceedings will be published in the [C
  - Shirin Sohrabi Araghi, IBM Research, US
  - Sabine Storandt, Universität Konstanz, DE
 
-Contact: spark2023@easychair.org
+Contact: <spark2023@easychair.org>
+
+

@@ -1,3 +1,9 @@
+---
+title: "PlanRob"
+date: 2023-02-01T14:30:17+01:00
+draft: false
+---
+
 # Planning and Robotics (PlanRob 2023)
 
 ICAPS'23 Workshop \
@@ -53,36 +59,27 @@ Accepted papers will be published on the workshop's website.
 
 The organisers are investigating the availability of journal editors in order to invite a selection of accepted papers from the workshop to a special issue or post-proceedings volume.
 
-### Workshop Proceedings (optional)
-
-TODO
-
-### Policy on Previously Published Materials (optional) 
-
-TODO
 
 ## Workshop Committee
-
-TODO
 
 ### Organizing Committee
 
 Iman Awaad, \
 Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany \
-iman.awaad@h-brs.de
+<iman.awaad@h-brs.de>
 
 Alberto Finzi, \
 Università di Napoli "Federico II", Italy \
-alberto.finzi@unina.it
+<alberto.finzi@unina.it>
 
 AndreA Orlandini, \
  Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy \
-andrea.orlandini@istc.cnr.it
+<andrea.orlandini@istc.cnr.it>
 
 
 ### Program Committee
 
-To Be Announced
+TBA
 
 ## List of Accepted Papers
 

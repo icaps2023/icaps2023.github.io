@@ -70,18 +70,6 @@ invited to use the appendix of their submissions for that purpose.
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/ICAPS).
 
 
-<!-- ### Workshop Proceedings (optional)
-
-TODO
-
-### Policy on Previously Published Materials (optional) 
-
-TODO -->
-
-<!-- ## Workshop Committee
-
-TODO -->
-
 ### Organizing Committee
 
 * Cameron Allen, Brown University, RI, USA 
@@ -93,19 +81,7 @@ TODO -->
 
 
 
-Please send your inquiries to prl.theworkshop@gmail.com
+Please send your inquiries to <prl.theworkshop@gmail.com>
 
-
-<!-- ### Program Committee
-
-TODO -->
-
-<!-- ## List of Accepted Papers
-
-TBD -->
-
-<!-- ## Workshop Schedule
-
-TBD -->
 
 

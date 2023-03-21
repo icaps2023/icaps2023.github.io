@@ -76,5 +76,7 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 **Thorsten Klößner**, Saarland University, Germany  
 **Sofia Lemons**, Earlham College, Indiana, USA
 
-Contact: hsdip@googlegroups.com
+Contact: <hsdip@googlegroups.com>
+
+
 
