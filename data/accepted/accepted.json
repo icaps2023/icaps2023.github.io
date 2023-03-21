@@ -146,7 +146,7 @@
 				},
 				{
 					"number": 5640,
-					"title": "Planning over Integers: Macros and Undecidability",
+					"title": "Planning over Integers: Compilations and Undecidability",
 					"authors": "Daniel Gnad, Malte Helmert, Peter Jonsson and Alexander Shleyfman"
 				},
 				{
@@ -369,7 +369,7 @@
 				},
 				{
 					"number": 1299,
-					"title": "Size-Agnostic Learning for Fast and Robust Resource-Constrained Scheduling",
+					"title": "Fast and Robust Resource-Constrained Scheduling with Graph Neural Networks",
 					"authors": "Florent Teichteil-Königsbuch, Guillaume Povéda, Guillermo Gonzalez de Garibay Barba, Tim Luchterhand and Sylvie Thiebaux"
 				},
 				{
