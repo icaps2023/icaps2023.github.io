@@ -105,8 +105,9 @@ Submissions are anonymous, and must conform to the AAAI-23 instructions for doub
 
 We accept full paper submissions. Papers must be formatted in AAAI two-column, camera-ready style; see the 2023 author kit for details: [http://www.aaai.org/Publications/Templates/AuthorKit23.zip](http://www.aaai.org/Publications/Templates/AuthorKit23.zip)
 
-Submissions may have up to 9 pages with pages 8 and 9 containing nothing but references.
+Contributions may have up to 9 pages with pages 8 and 9 containing nothing but references.
 
+Submissions should be made in PDF through [EasyChair](https://easychair.org/my/conference?conf=pair2023).
 
 ## Workshop Committee
 
