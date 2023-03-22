@@ -107,7 +107,7 @@ We accept full paper submissions. Papers must be formatted in AAAI two-column, c
 
 Contributions may have up to 9 pages with pages 8 and 9 containing nothing but references.
 
-Submissions should be made in PDF through [EasyChair](https://easychair.org/my/conference?conf=pair2023).
+Submissions should be made in PDF through the following link https://easychair.org/my/conference?conf=pair2023.
 
 ## Workshop Committee
 
