@@ -35,10 +35,10 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-Paper submission: **March 31, 2023** (was March 24, 2023)
-Notification of acceptance: **April 28, 2023** (was April 21, 2023)
-Camera-ready version due: June 16
-Workshop Date: July 09-10
+- Paper submission: **March 31, 2023** (was March 24, 2023)
+- Notification of acceptance: **April 28, 2023** (was April 21, 2023)
+- Camera-ready version due: June 16
+- Workshop Date: July 09-10
 
 The reference time-zone for all deadlines is UTC-12: Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
 

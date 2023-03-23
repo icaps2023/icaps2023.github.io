@@ -41,11 +41,13 @@ The workshop is open to both application and theoretical contributions that see 
 
 ## Important Dates
 
-- **Submission: March 24, 2023**
+- Submission: **March 31, 2023 (EXTENDED)**
 - Notification: April 14, 2023
 - Camera-ready: April 25, 2023
 - Workshop: July 9-10, 2023
 - Conference: July 8-13, 2023
+
+The reference time-zone for all deadlines is **UTC-12**. Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
 
 ## Submission Details
 

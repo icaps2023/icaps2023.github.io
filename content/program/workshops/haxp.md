@@ -40,10 +40,10 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-Paper submission deadline: March 24 UTC-12
-Notification of acceptance: April 30 UTC-12
-Camera-ready paper submissions: TBD 
-Workshop date: TBD (July 8-13)
+* Paper submission deadline: **March 31 UTC-12 (EXTENDED)**
+* Notification of acceptance: April 30 UTC-12
+* Camera-ready paper submissions: TBD 
+* Workshop date: TBD (July 8-13)
 
 ## Submission Details
 

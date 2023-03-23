@@ -43,7 +43,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 **Please refer to the [PRL workshop website](https://prl-theworkshop.github.io) for the latest information.**
 
-Paper submission deadline: March 17th, AOE
+Paper submission deadline: **March 30th, AOE (EXTENDED)**
 
 Paper acceptance notification: April 27th, AOE 
 
