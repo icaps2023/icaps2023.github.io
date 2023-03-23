@@ -35,8 +35,8 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-Paper submission: **March 24, 2023**
-Notification of acceptance: April 21
+Paper submission: **March 31, 2023** (was March 24, 2023)
+Notification of acceptance: **April 28, 2023** (was April 21, 2023)
 Camera-ready version due: June 16
 Workshop Date: July 09-10
 
