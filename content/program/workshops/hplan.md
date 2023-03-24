@@ -36,7 +36,7 @@ Topics of interests include but are not limited to:
  
 ## Important Dates
 
-- Submission Deadline: <s>March 24, 2023</s> March 31, 2023 (AoE), also see note below!
+- Submission Deadline: ~~March 24, 2023~~ **March 31, 2023** (AoE), also see note below!
 - Author Notification: April 28, 2023
 - Camera-Ready Deadline: TBA
 - ICAPS 2023 Workshops: July 9-10, 2023
