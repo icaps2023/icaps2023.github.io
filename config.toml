@@ -253,6 +253,13 @@ theme = 'mainroad'
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
+    
+    
+[markup.goldmark.renderer]
+  unsafe = true
+  
+  
+  
     name = "Code of Conduct"
     url = "/code_of_conduct"
     weight = 10000

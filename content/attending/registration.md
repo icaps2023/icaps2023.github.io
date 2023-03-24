@@ -11,7 +11,11 @@ The registration for the **33rd International Conference on Automated Planning a
 
 To register, you are kindly asked to complete
 
-{{< registration_form >}}
+<div style="width: 100%; padding: 1%; text-align: center;">
+
+ <p><a href="https://web.action-m.com/icaps-2023-registration-form/?lang=en" target="_blank"><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM</span></a></p>
+
+</div>
 
 
 and pay the registration fee. Registering early will save you money, and also it will help us to organize things better!
