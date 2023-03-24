@@ -33,7 +33,7 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-- Submission deadline: March 30, 2023
+- Submission deadline: ~~March 30, 2023~~ **April 4, 2023**
 - Notification of acceptance/rejection: April 28, 2023
 - Camera-ready upload: May 12, 2023
 - Workshop: 09/10 July, 2023
