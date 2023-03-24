@@ -6,10 +6,9 @@ draft: false
 
 # Scheduling and Planning Applications woRKshop (SPARK)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
+ICAPS'23 Workshop
+Prague, Czech Republic
 July 9-10, 2023
-
 
 ## Aim and Scope of the Workshop
 
@@ -39,9 +38,9 @@ Topics of the workshop include, but are not limited to:
 
 ## Important Dates
 
- - Paper submission: March 24, 2023
- - Notification: April 14, 2023
- - Camera-ready: April 25, 2023
+ - Paper submission: ~~March 24, 2023~~ **April 4, 2023**
+ - Notification: ~~April 14, 2023~~ **April 28, 2023**
+ - Camera-ready: ~~April 25, 2023~~ **May 22, 2023**
  - Workshop dates: July 9-10, 2023
  - Conference dates: July 8-13, 2023
 
@@ -66,6 +65,32 @@ If enough authors will agree, SPARK-2023 proceedings will be published in the [C
  - Shirin Sohrabi Araghi, IBM Research, US
  - Sabine Storandt, Universität Konstanz, DE
 
-Contact: <spark2023@easychair.org>
+Contact: spark2023@easychair.org
+
+### Program Committee
+
+ - Laura Barbulescu
+ - Mark Boddy
+ - Andrew Branch
+ - Lukas Chrpa
+ - Gabriella Cortellessa
+ - Andreas Ernst
+ - Simone Fratini
+ - Rongge Guo
+ - Safia Kedad-Sidhoum
+ - Andrea Micheli
+ - Nysret Musliu
+ - Stephanie Roussel
+ - Enrico Scala
+ - Alessandro Umbrico
+
+## List of Accepted Papers
+
+TBD
+
+## Workshop Schedule
+
+TBD
+
 
 
