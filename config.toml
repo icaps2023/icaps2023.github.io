@@ -42,6 +42,12 @@ theme = 'mainroad'
     url = "/attending/travel"
     parent = "attending"
     weight = 20
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/attending/registration"
+    parent = "attending"
+    weight = "30"
 # CALLS
   [[menu.main]]
     identifier = "calls"
@@ -250,3 +256,12 @@ theme = 'mainroad'
     name = "Code of Conduct"
     url = "/code_of_conduct"
     weight = 10000
+    
+    
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
