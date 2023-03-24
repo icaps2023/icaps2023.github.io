@@ -42,6 +42,12 @@ theme = 'mainroad'
     url = "/attending/travel"
     parent = "attending"
     weight = 20
+#  [[menu.main]]
+#    identifier = "registration"
+#    name = "Registration"
+#    url = "/attending/registration"
+#    parent = "attending"
+#    weight = "30"
 # CALLS
   [[menu.main]]
     identifier = "calls"
