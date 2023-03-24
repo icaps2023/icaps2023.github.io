@@ -28,7 +28,7 @@ Given this, the workshop welcomes contributions to any topic that roughly falls 
 
 ## Important Dates
 
- - Submission Deadline: March 24, 2023 (AoE)
+ - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023 (AoE)**
  - Author Notification: April 28, 2023
  - Camera-Ready Deadline: June 10, 2023 (AoE)
  - ICAPS 2023 Workshops: July 9-10, 2023
