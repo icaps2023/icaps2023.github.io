@@ -256,3 +256,12 @@ theme = 'mainroad'
     name = "Code of Conduct"
     url = "/code_of_conduct"
     weight = 10000
+    
+    
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

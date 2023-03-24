@@ -6,9 +6,19 @@ draft: false
 
 # Registration
 
-The registration for the 33rd International Conference on Automated Planning and Scheduling (ICAPS) 2023 will be handled by Ms. Milena Zeithamlová, a conference local arrangements chair.
+The registration for the **33rd International Conference on Automated Planning and Scheduling (ICAPS) 2023** will be handled by **Ms. Milena Zeithamlová**, a conference local arrangements chair.
 
-To register, you are kindly asked to complete **REGISTRATION FORM** (_will be open soon_) and pay the registration fee. Registering early will save you money, and also it will help us to organize things better!
+
+To register, you are kindly asked to complete
+
+
+<div style="width: 100%; padding: 1%; text-align: center;">
+
+ <p><a href="https://web.action-m.com/icaps-2023-registration-form/?lang=en" target="_blank"><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM</span></a></p>
+
+</div>
+ 
+and pay the registration fee. Registering early will save you money, and also it will help us to organize things better!
 
 The deadline for **early registration is May 5, 2023** and the **late registration deadline is July 5, 2023**.
 
@@ -69,7 +79,7 @@ Please indicate your PROFORMA INVOICE number and your name as payment descriptio
 
 ## Confirmation / Proforma Invoice / Invoice
 
-Once you have completed the online **REGISTRATION FORM** (_will be open soon_) you will receive the email confirmation.
+Once you have completed the online [**REGISTRATION FORM**](https://web.action-m.com/icaps-2023-registration-form/?lang=en) you will receive the email confirmation.
 
 In the case of
 * **credit card payment**, the **proforma invoice** corresponding to your payment (pdf document) will be attached to the confirmation email. Confirmation email contents very important information including the status of your card payment. After your successful payment authorization, you will receive immediately a final **invoice**. (If the card payment is declined by the authorization centre, just click on the link of payment status and fill the card details again or use another card).
@@ -90,7 +100,7 @@ If you cannot attend, your registration is transferable to another participant (
 
 ## Invitation Letter & Questions? 
 
-If you need a Letter of Invitation to obtain a visa, please contact local arrangements chair **Ms. Milena Zeithamlova** (<milena@action-m.com>) with the following recommended information: 
+If you need a Letter of Invitation to obtain a visa, please contact local arrangements chair **Ms. Milena Zeithamlová** (<milena@action-m.com>) with the following recommended information: 
 
 Title of your paper: \
 Work: \
