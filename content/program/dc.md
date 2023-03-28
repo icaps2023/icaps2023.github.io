@@ -16,6 +16,23 @@ As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. The Me
 
 We encourage current doctoral students (students whose Ph.D. is in progress) to apply for the Mentoring Program. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
 
+### Mentors 
+
+(Listed alphabetically by last name)
+
+* Christopher Beck
+* Riccardo De Benedictis
+* Minh Do
+* Nicola Gigante
+* Malte Helmert
+* Michael Katz
+* Andrea Micheli
+* Ron Petrick
+* David Smith
+* Shirin Sohrabi
+* Alessandro Umbrico
+* Neil Yorke-Smith
+
 ## Application Procedure for the Mentoring Program
 
 To participate in the Mentoring Program, an application is required. Applicants for the Mentoring Program should submit a **single PDF** file at [https://easychair.org/my/conference?conf=icaps23](https://easychair.org/my/conference?conf=icaps23)  (**Doctoral Consortium Submission**) containing:

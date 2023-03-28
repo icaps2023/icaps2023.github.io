@@ -48,6 +48,18 @@ theme = 'mainroad'
     url = "/attending/registration"
     parent = "attending"
     weight = "30"
+  [[menu.main]]
+    identifier = "accomodation"
+    name = "Accomodation"
+    url = "/attending/accomodation"
+    parent = "attending"
+    weight = "40"
+  [[menu.main]]
+    identifier = "student-support"
+    name = "Student Support"
+    url = "/attending/students"
+    parent = "attending"
+    weight = "50"
 # CALLS
   [[menu.main]]
     identifier = "calls"
@@ -253,13 +265,13 @@ theme = 'mainroad'
 # CODE OF CONDUCT
   [[menu.main]]
     identifier = "code_of_conduct"
-    
-    
-[markup.goldmark.renderer]
-  unsafe = true
-  
-  
-  
     name = "Code of Conduct"
     url = "/code_of_conduct"
     weight = 10000
+
+    
+[markup.goldmark.renderer]
+  unsafe = true  
+  
+  
+    
