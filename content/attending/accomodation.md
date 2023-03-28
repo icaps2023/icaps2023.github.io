@@ -46,7 +46,10 @@ The check-in time is 15:00, check-out time is 12:00. Credit card will be re
 
 **Cancellation policy**: If canceling the stay 2 days before the arrival, no fee is charged. If you cancel less than 2 days before arrival, the first night will be charged.
 
-**Contact to the reservation department**: TBA
+**Contact to the reservation department**: \
+Ms Marketa + Mr Kristian \
+Tel.: +420 255 117 861 / +420 255 117 862 \
+E-mail: <prague@mamashelter.com>
 
 
 <hr style="margin-top: 1%; margin-bottom: 1%;" />
@@ -58,7 +61,8 @@ The check-in time is 15:00, check-out time is 12:00. Credit card will be re
 
 
  <div style="display: inline-block; width: 38%; padding: 1%; border-radius: 5px; vertical-align: middle;">
-	<img style="border-radius: 5px;" src="/img/accomodation/hotel-mama-room.png" />
+	<img style="border-radius: 5px; margin-bottom: 5%;" src="/img/accomodation/hotel-mama-room.png" />
+	<img style="border-radius: 5px; margin-bottom: 5%;" src="/img/accomodation/hotel-mama-room-2.jpeg" />
  </div>
 
 
