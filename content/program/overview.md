@@ -7,10 +7,11 @@ draft: false
 
 ## ICAPS 2023 Schedule at a Glance
 
+- July 7-8, 2023	[International Workshop on Planning & Scheduling for Space](https://sites.google.com/view/iwpss2023/) (IWPSS)
 - July 8, 2023		Doctoral Consortium
 - July 9-10 2023	Workshops and Tutorials
 - July 11-13 2023	Main Conference
-- July 14-16, 2023	Symposium on Combinatorial Search (SoCS)
+- July 14-16, 2023	[Symposium on Combinatorial Search](https://socs23.search-conference.org/) (SoCS)
 
 ## Additional Information about the Program 
 
