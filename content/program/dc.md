@@ -27,6 +27,7 @@ We encourage current doctoral students (students whose Ph.D. is in progress) to 
 * Malte Helmert
 * Michael Katz
 * Andrea Micheli
+* Christian Muise
 * Ron Petrick
 * David Smith
 * Shirin Sohrabi
