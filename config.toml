@@ -49,9 +49,9 @@ theme = 'mainroad'
     parent = "attending"
     weight = "30"
   [[menu.main]]
-    identifier = "accomodation"
-    name = "Accomodation"
-    url = "/attending/accomodation"
+    identifier = "accommodation"
+    name = "Accommodation"
+    url = "/attending/accommodation"
     parent = "attending"
     weight = "40"
   [[menu.main]]

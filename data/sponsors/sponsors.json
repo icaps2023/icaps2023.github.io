@@ -1,6 +1,28 @@
 {
 	"levels": [
 		{
+			"rank": "Platinum Partners",
+			"list": [
+				{
+					"logo": "/img/partners/nsf.jpeg",
+					"height": "-1",
+					"width": "140",
+					"link": "https://www.nsf.gov"
+				}
+			]
+		},
+		{
+			"rank": "Gold Partners",
+			"list": [
+				{
+					"logo": "/img/partners/aij.jpeg",
+					"height": "-1",
+					"width": "140",
+					"link": "https://aij.ijcai.org/"
+				}
+			]
+		},
+		{
 			"rank": "Silver Partners",
 			"list": [
 				{
@@ -14,6 +36,12 @@
 					"height": "-1",
 					"width": "140",
 					"link": "http://www.alicetechnologies.com"
+				},
+				{
+					"logo": "/img/partners/dsmith.jpg",
+					"height": "-1",
+					"width": "140",
+					"link": "http://psresearch.xyz"
 				}
 			]
 		},
