@@ -14,9 +14,11 @@ ICAPS 2023 will take place at the **Charles University** in Prague, Czech Repub
 
  <div style="display: inline-block; width: 38%; padding: 1%; vertical-align: middle; border-right: 1px solid orange;">
  
-  <img style="border-radius: 5px;" src="/img/venue/dc-venue.png" />
+  <div style="padding: 1%; margin-bottom: 1%;"><img style="border-radius: 5px;" src="/img/venue/dc-venue.png" /></div>
+  
+  <hr style="margin-top: 1%; margin-bottom: 1%;" />
  	
- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1279.9557393657963!2d14.4028023!3d50.0879442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94e220bd1abf%3A0xdbc36558fd05ccd7!2sUniverzita%20Karlova%2C%20Matematicko-fyzik%C3%A1ln%C3%AD%20fakulta%2C%20Informatick%C3%A1%20sekce!5e0!3m2!1sit!2sit!4v1680163186712!5m2!1sit!2sit" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+ <div style="padding: 1%; margin-top: 1%; border-radius: 5px;"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1279.9557393657963!2d14.4028023!3d50.0879442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470b94e220bd1abf%3A0xdbc36558fd05ccd7!2sUniverzita%20Karlova%2C%20Matematicko-fyzik%C3%A1ln%C3%AD%20fakulta%2C%20Informatick%C3%A1%20sekce!5e0!3m2!1sit!2sit!4v1680163186712!5m2!1sit!2sit" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
  </div>
 
  <div style="display: inline-block; width: 60%; padding: 1%; vertical-align: middle;">
@@ -60,9 +62,11 @@ ICAPS 2023 will take place at the **Charles University** in Prague, Czech Repub
  
  <div style="display: inline-block; width: 38%; padding: 1%; vertical-align: middle; border-left: 1px solid orange;">
  
-  <img style="border-radius: 5px;" src="/img/venue/main-venue.png" />
+  <div style="padding: 1%; margin-bottom: 1%;"><img style="border-radius: 5px;" src="/img/venue/main-venue.png" /></div>
   
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2558.413165042903!2d14.4476954!3d50.1159902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470beb844e8653eb%3A0xb93dc2639df67788!2sIMPAKT%20Building%20(Charles%20University%2C%20Faculty%20of%20Mathematics%20and%20Physics)!5e0!3m2!1sit!2sit!4v1680163759462!5m2!1sit!2sit" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <hr style="margin-top: 1%; margin-bottom: 1%;" />
+  
+   <div style="padding: 1%; margin-top: 1%; border-radius: 5px;"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2558.413165042903!2d14.4476954!3d50.1159902!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470beb844e8653eb%3A0xb93dc2639df67788!2sIMPAKT%20Building%20(Charles%20University%2C%20Faculty%20of%20Mathematics%20and%20Physics)!5e0!3m2!1sit!2sit!4v1680163759462!5m2!1sit!2sit" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
   
  </div>
  
