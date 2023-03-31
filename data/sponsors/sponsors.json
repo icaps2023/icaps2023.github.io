@@ -18,7 +18,7 @@
 					"logo": "/img/partners/aij.jpeg",
 					"height": "-1",
 					"width": "140",
-					"link": "https://aij.ijcai.org/"
+					"link": "https://aij.ijcai.org"
 				}
 			]
 		},
@@ -36,6 +36,12 @@
 					"height": "-1",
 					"width": "140",
 					"link": "http://www.alicetechnologies.com"
+				},
+				{
+					"logo": "/img/partners/jpmorgan.png",
+					"height": "-1",
+					"width": "140",
+					"link": "https://www.jpmorgan.com"
 				},
 				{
 					"logo": "/img/partners/dsmith.jpg",
@@ -58,7 +64,13 @@
 					"logo": "/img/partners/RSJ_logo.png",
 					"height": "-1",
 					"width": "200",
-					"link": "https://rsj.com/en/"
+					"link": "https://rsj.com/en"
+				},
+				{
+					"logo": "/img/partners/sony.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://ai.sony"
 				}
 
 			]
