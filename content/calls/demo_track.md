@@ -24,7 +24,7 @@ The extended abstracts and videos for accepted demonstrations will be available 
 
 ## Summary of Important Dates
 
-* Submission Deadline: April 7th, 2023 AoE.
+* Submission Deadline: April ~~7th~~ 14th, 2023 AoE.
 * Notification of demo acceptance: April 28th, 2023.
 
 ## System Demo Program Chairs
