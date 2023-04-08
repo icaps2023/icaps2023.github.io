@@ -82,7 +82,8 @@ To participate in the Mentoring Program, an application is required. Applicants 
 
 ## Student Support
 
-We are looking into ways to provide student support partly covering travel and/or registration costs. Details about possible applications for student support will be posted on the ICAPS-23 website at [https://icaps23.icaps-conference.org/program/dc](https://icaps23.icaps-conference.org/program/dc)
+We are looking into ways to provide student support partly covering travel and/or registration costs. Details about possible applications for student support will be posted on the ICAPS-23 website at [https://icaps23.icaps-conference.org/attending/students](https://icaps23.icaps-conference.org/attending/students)
+
 
 For any questions or problems, please contact the DC chairs:
 

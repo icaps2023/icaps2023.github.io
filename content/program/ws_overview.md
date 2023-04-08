@@ -8,19 +8,170 @@ draft: false
 Here is the list of the worskhops accepted to ICAPS 2023
 
 
-| Acronym | Title | Organizers |
-| :---: | :---: | :---:	|
-| [FINPLAN](https://icaps23.icaps-conference.org/program/workshops/finplan) | **Planning and Scheduling for Financial Services** | Parisa Zehtabi, Alberto Pozanco, William Yeoh, Biplav Srivastava |
-| [HAXP](https://icaps23.icaps-conference.org/program/workshops/haxp) | **Human-Aware and Explainable Planning** | Rebecca Eifler, Benjamin Krarup, Alan Lindsay, Lindsay Sanneman, Sarath Sreedharan, Silvia Tulli, Stylianos Loukas Vasileiou |
-| [PLATO](https://icaps23.icaps-conference.org/program/workshops/plato) | **PLanning and onTology wOrkshop** | Emilio M. Sanfilippo, Alessandro Umbrico |
-| [PRL](https://icaps23.icaps-conference.org/program/workshops/prl) | **Bridging the Gap Between AI Planning and Reinforcement Learning** | Cameron Allen, Timo P. Gros, Michael Katz, Harsha Kokel, Hector Palacios, Sarath Sreedharan |
-| [RDDPS](https://icaps23.icaps-conference.org/program/workshops/rddps) | **Workshop on Reliable Data-Driven Planning and Scheduling** | Sara Bernardini, Jesse Davis, Alan Fern, Daniel Holler, Joerg Hoffmann, Michael Katz, Michele Lombardi, Scott Scanner, Marcel Steinmetz, Sylvie Thiebaux, Eyal Weiss | 
-| [HPLAN](https://icaps23.icaps-conference.org/program/workshops/hplan) | **Workshop on Hierarchical Planning** | Pascal Bercher, Daniel Holler, Julia Wichlacz |  
-| [SPARK](https://icaps23.icaps-conference.org/program/workshops/spark) | **Scheduling and Planning Application woRKshop** |  Riccardo De Benedictis, Marco Roveri, Shirin Sohrabi Araghi, Sabine Storandt | 
-| [PlanRob](https://icaps23.icaps-conference.org/program/workshops/planrob) | **Planning and Robotics** | Iman Awaad, Alberto Finzi, Andrea Orlandini | 
-| [IntEx](https://icaps23.icaps-conference.org/program/workshops/intex) | **Integrated Acting, Planning and Execution** | Sunadita Patra, Wiktor Piotrowski, Mak Roberts, Tiago Stegun Vaquero |
-| [PAIR](https://icaps23.icaps-conference.org/program/workshops/pair) | **Plan, Activity and Intent Recognition** | Richard Magnotti, Simona Ondrckova, Denson George, Kristyna Pantuckova, Christopher Geib |
-| [HSDIP](https://icaps23.icaps-conference.org/program/workshops/hsdip) | **Heuristics and Search for Domain-Independent Planning** | Clemens Buchner, Daniel Gnad, Thorsten Klossner, Sofia Lemons |
-| [KEPS](https://icaps23.icaps-conference.org/program/workshops/keps) | **Knowledge Engineering for Planning and Scheduling** | Lukas Chrpa, Ron Petrick, Mauro Vallati, Tiago Vaquero |
+<div style="width: 90%; margin: 2%; margin-left: 5%;">
+
+ <div style="width: 95%; padding: 1%; background-color: orange;">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<h5>Acronym</h5>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<h5>Workshop Title</h5>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<h5>Organizer(s)</h5>
+ 	</div>
+ </div>
+ 
+  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/finplan" target="_blank">FINPLAN</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Planning and Scheduling for Financial Services</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Parisa Zehtabi, Alberto Pozanco, William Yeoh, Biplav Srivastava</p>
+ 	</div>
+ </div>
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/haxp" target="_blank">HAXP</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Human-Aware and Explainable Planning</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Rebecca Eifler, Benjamin Krarup, Alan Lindsay, Lindsay Sanneman, Sarath Sreedharan, Silvia Tulli, Stylianos Loukas Vasileiou</p>
+ 	</div>
+ </div>
+  
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/plato" target="_blank">PLATO</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>PLanning and onTology wOrkshop</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Emilio M. Sanfilippo, Alessandro Umbrico</p>
+ 	</div>
+ </div>
+
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/prl" target="_blank">PRL</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Bridging the Gap Between AI Planning and Reinforcement Learning</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Cameron Allen, Timo P. Gros, Michael Katz, Harsha Kokel, Hector Palacios, Sarath Sreedharan</p>
+ 	</div>
+ </div>
+  
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/rddps" target="_blank">RDDPS</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Workshop on Reliable Data-Driven Planning and Scheduling</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Sara Bernardini, Jesse Davis, Alan Fern, Daniel Holler, Joerg Hoffmann, Michael Katz, Michele Lombardi, Scott Scanner, Marcel Steinmetz, Sylvie Thiebaux, Eyal Weiss</p>
+ 	</div>
+ </div>
+
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/hplan" target="_blank">HPLAN</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Workshop on Hierarchical Planning</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Pascal Bercher, Daniel Holler, Julia Wichlacz</p>
+ 	</div>
+ </div>
+
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/spark" target="_blank">SPARK</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Scheduling and Planning Application woRKshop</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Riccardo De Benedictis, Marco Roveri, Shirin Sohrabi Araghi, Sabine Storandt</p>
+ 	</div>
+ </div> 
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/planrob" target="_blank">PlanRob</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Planning and Robotics</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Iman Awaad, Alberto Finzi, Andrea Orlandini</p>
+ 	</div>
+ </div>
+
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/intex" target="_blank">IntEx</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Integrated Acting, Planning and Execution</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Sunadita Patra, Wiktor Piotrowski, Mak Roberts, Tiago Stegun Vaquero</p>
+ 	</div>
+ </div>
+
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/pair" target="_blank">PAIR</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Plan, Activity and Intent Recognition</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Richard Magnotti, Simona Ondrckova, Denson George, Kristyna Pantuckova, Christopher Geib</p>
+ 	</div>
+ </div>
+ 
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/hsdip" target="_blank">HSDIP</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Heuristics and Search for Domain-Independent Planning</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Clemens Buchner, Daniel Gnad, Thorsten Klossner, Sofia Lemons</p>
+ 	</div>
+ </div>
+ 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 10%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/keps" target="_blank">KEPS</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 60%; text-align:center; vertical-align: middle;">
+ 		<p><strong>Knowledge Engineering for Planning and Scheduling</strong></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>Lukas Chrpa, Ron Petrick, Mauro Vallati, Tiago Vaquero</p>
+ 	</div>
+ </div>
+
+</div>
 
 

@@ -172,79 +172,105 @@ theme = 'mainroad'
     parent = "program"
     url = "/program/ws_overview"
     weight = 40
+  [[menu.main]]
+    identifier = "tutorials"
+    parent = "program"
+    name = "Tutorials"
+    url = "/program/tutorial_overview"
+    weight = "50"
+# TUTORIALS
+  [[menu.main]]
+    identifier = "mdp_modeling"    
+    name = "Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym" 
+    parent = "tutorials"
+    url = "/program/tutorials/mdp_modeling"
+    weight = "10"
+  [[menu.main]]
+    identifier = "hard"    
+    name = "How hard can it be? The computational complexity of planning" 
+    parent = "tutorials"
+    url = "/program/tutorials/hard"
+    weight = "20"
+  [[menu.main]]
+    identifier = "tnetworks"    
+    name = "Recent Advances in Temporal Networks for Planning and Scheduling" 
+    parent = "tutorials"
+    url = "/program/tutorials/tnetworks"
+    weight = "30"    
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
     name = "KEPS"
     parent = "ws"
     url = "/program/workshops/keps"
-    weight = 8000
+    weight = 10
   [[menu.main]]
     identifier = "finplan"
     name = "FinPlan"
     parent = "ws"
     url = "/program/workshops/finplan"
-    weight = 10
+    weight = 20
   [[menu.main]]
     identifier = "haxp" 
     name = "HAXP"
     parent = "ws"
     url = "/program/workshops/haxp"
-    weight = 20
+    weight = 30
   [[menu.main]]
     identifier = "plato"
     name = "PLATO"
     parent = "ws"
     url = "/program/workshops/plato"
-    weight = 30
+    weight = 40
   [[menu.main]]
     identifier = "prl"
     name = "PRL"
     parent = "ws"
     url = "/program/workshops/prl"
-    weight = 40
+    weight = 50
   [[menu.main]]
     identifier = "rddps"
     name = "RDDPS"
     parent = "ws"
     url = "/program/workshops/rddps"
-    weight = 50
+    weight = 60
   [[menu.main]]
     identifier = "hplan"
     name = "HPlan"
     url = "/program/workshops/hplan"
     parent = "ws"
-    weight = 60
+    weight = 70
   [[menu.main]]
     identifier = "spark"
     name = "SPARK"
     parent = "ws"
     url = "/program/workshops/spark"
-    weight = 70
+    weight = 80
   [[menu.main]]
     identifier = "planrob"
     name = "PlanRob"
     parent = "ws"
     url = "/program/workshops/planrob"
-    weight = 80
+    weight = 90
   [[menu.main]]
     identifier = "intex"
     name = "IntEx"
     parent = "ws"
     url = "/program/workshops/intex"
-    weight = 90
+    weight = 100
   [[menu.main]]
     identifier = "pair"
     name = "PAIR"
     parent = "ws"
     url = "/program/workshops/pair"
-    weight = 100
+    weight = 110
   [[menu.main]]
     identifier = "hsdip"
     name = "HSDIP"
     parent = "ws"
     url = "/program/workshops/hsdip"
-    weight = 110
+    weight = 120
+
 # COMMITTEES
   [[menu.main]]
     identifier = "committees"
