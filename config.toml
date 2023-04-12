@@ -196,7 +196,13 @@ theme = 'mainroad'
     name = "Recent Advances in Temporal Networks for Planning and Scheduling" 
     parent = "tutorials"
     url = "/program/tutorials/tnetworks"
-    weight = "30"    
+    weight = "30"
+  [[menu.main]]
+    identifier = "model"    
+    name = "Model Acquisition in the Modern Era" 
+    parent = "tutorials"
+    url = "/program/tutorials/model"
+    weight = "40"        
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"

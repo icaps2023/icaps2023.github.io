@@ -46,6 +46,15 @@ Here is the list of the tutorials accepted to ICAPS 2023
  		<p>Luke Hunsberger</p>
  	</div>
  </div>
+ 
+ <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 50%;">
+ 		<p><a href="/program/tutorials/model" target="_blank">Model Acquisition in the Modern Era</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 49%;">
+ 		<p>Christian Muise, Tathagata Chakraborti</p>
+ 	</div>
+ </div>
 
 </div>
 
