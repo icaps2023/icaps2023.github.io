@@ -32,7 +32,7 @@ draft: false
 ## Reservations
 
 
-Individual reservations are due by **May 10, 2023**. There is a LIMITED number of rooms at the ICAPS discount rate that is available for stays on July 6–15, 2023 (a fewer rooms are available outside the conference days).
+Individual reservations are due by **May 19, 2023**. There is a LIMITED number of rooms at the ICAPS discount rate that is available for stays on July 6–15, 2023 (a fewer rooms are available outside the conference days).
 
 To reserve the room at the conference hotel use
 
