@@ -46,9 +46,19 @@ The check-in time is 15:00, check-out time is 12:00. Credit card will be re
 
 **Cancellation policy**: If canceling the stay 2 days before the arrival, no fee is charged. If you cancel less than 2 days before arrival, the first night will be charged.
 
+**Before the reservation link is open, you can reserve your room by contacting  the reservation department**:
+
+Ms Marketa \
+Tel.: +420 225 117 861 \
+E-mail: <prague@mamashelter.com>
+ 
+Please state: \
+Subject: ICAPS 2023 \
+Your Name and Last name, Country, Dates of arrival and departure, Number of nights, Type of room, Number of persons, Notes.
+
 **Contact to the reservation department**: \
-Ms Marketa + Mr Kristian \
-Tel.: +420 255 117 861 / +420 255 117 862 \
+Ms Marketa \
+Tel.: +420 225 117 861  \
 E-mail: <prague@mamashelter.com>
 
 
