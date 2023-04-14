@@ -48,19 +48,13 @@ The check-in time is 15:00, check-out time is 12:00. Credit card will be re
 
 **Before the reservation link is open, you can reserve your room by contacting  the reservation department**:
 
-Ms Marketa \
+Ms Marketa Filova\
 Tel.: +420 225 117 861 \
 E-mail: <prague@mamashelter.com>
  
 Please state: \
 Subject: ICAPS 2023 \
 Your Name and Last name, Country, Dates of arrival and departure, Number of nights, Type of room, Number of persons, Notes.
-
-**Contact to the reservation department**: \
-Ms Marketa \
-Tel.: +420 225 117 861  \
-E-mail: <prague@mamashelter.com>
-
 
 <hr style="margin-top: 1%; margin-bottom: 1%;" />
 
