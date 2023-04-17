@@ -47,7 +47,7 @@ Submissions will go through an expedited selection process led by the track chai
 
 ## Summary of Important Dates
 
-* Submission deadline: **April 7, 2023**
+* Submission deadline: ~~April 7, 2023~~ **April 25, 2023**
 * Notification of acceptance: **April 30, 2023**
 * ICAPS main conference: July 8-13, 2023
 
