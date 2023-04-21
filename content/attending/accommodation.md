@@ -38,7 +38,7 @@ To reserve the room at the conference hotel use
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
- <p><span style="font-weight: bold;font-size: 16px; color:orange; ">ON-LINE BOOKING LINK</span> (to be available later)</p>
+ <p><span style="font-weight: bold;font-size: 16px; color:orange; "><a href="http://www.accorhotels.com/lien_externe.svlt?goto=rech_resa&destination=B0X1&sourceid=ICAPS&dayIn=10&monthIn=07&yearIn=2023&nightNb=3&preferredCode=ICAPS&merchantid=par-accorFR">ON-LINE BOOKING LINK</a></span></p>
 
 </div>
 
@@ -46,7 +46,7 @@ The check-in time is 15:00, check-out time is 12:00. Credit card will be re
 
 **Cancellation policy**: If canceling the stay 2 days before the arrival, no fee is charged. If you cancel less than 2 days before arrival, the first night will be charged.
 
-**Before the reservation link is open, you can reserve your room by contacting  the reservation department**:
+**Contact to the reservation department**:
 
 Ms Marketa Filova\
 Tel.: +420 225 117 861 \
