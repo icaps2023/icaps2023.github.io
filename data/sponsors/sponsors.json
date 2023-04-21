@@ -71,6 +71,12 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://ai.sony"
+				},
+				{
+					"logo": "/img/partners/googlelogo_color_416x140dp.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://research.google/"
 				}
 
 			]
