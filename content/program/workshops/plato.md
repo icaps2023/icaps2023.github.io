@@ -42,8 +42,8 @@ The workshop is open to both application and theoretical contributions that see 
 ## Important Dates
 
 - Submission: **March 31, 2023 (EXTENDED)**
-- Notification: April 14, 2023
-- Camera-ready: April 25, 2023
+- Notification: May 2, 2023
+- Camera-ready: May 27, 2023
 - Workshop: July 9-10, 2023
 - Conference: July 8-13, 2023
 
