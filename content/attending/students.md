@@ -14,6 +14,6 @@ Please apply for student support by submitting a request through [EasyChair](htt
 * a recommendation letter (in PDF) signed by your supervisor/advisor;
 * in fields Title and Keywords, please write “N/A” (EasyChair requires these fields in every submission).
 
-**The deadline for applying is May 1, 2023**. 
+**The deadline for applying is May 1, 2023 (AoE)**. 
 
 Notification is on May 4 (one day before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel** and **registration expenses** after the conference or as a discounted registration fee.
