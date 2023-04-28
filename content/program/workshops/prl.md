@@ -83,5 +83,20 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 
 Please send your inquiries to <prl.theworkshop@gmail.com>
 
+## List of Accepted Papers
 
+* **pyRDDLGym: From RDDL to Gym Environments** (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
+* **Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning** (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
+* **Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning** (Ángel Aso Mollar, Eva Onaindia)
+* **Model Learning to Solve Minecraft Tasks** (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
+* **Towards a Unified Framework for Sequential Decision Making** (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
+* **Policy Refinement with Human Feedback for Safe Reinforcement Learning** (Ali Baheri)
+* **Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules** (Dominik Drexler, Jendrik Seipp, Hector Geffner)
+* **Learning General Policies with Policy Gradient Methods** (Simon Ståhlberg, Blai Bonet, Hector Geffner)
+* **Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning** (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
+* **Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning** (Ali Baheri)
+* **Multi-Agent Reinforcement Learning with Epistemic Priors** (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
+* **Preemptive Restraining Bolts** (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
+* **Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model** (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
+* **Value Function Learning via Prolonged Backward Heuristic Search** (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
 
