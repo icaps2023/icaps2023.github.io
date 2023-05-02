@@ -36,8 +36,8 @@ The seventh edition of the workshop on  Integrated Planning, Acting, and Executi
 ## Important Dates
 
 * Paper submission deadline: ~~March 31, 2023~~ **April 7, 2023 AoE**
-* Notification of acceptance/rejection: May 5, 2023
-* Camera-ready deadline: June 2, 2023 AoE
+* Notification of acceptance/rejection: May 1, 2023
+* Camera-ready deadline: May 22, 2023 AoE
 * Workshop: July 9-10, 2023
 
 ## Submission Details
