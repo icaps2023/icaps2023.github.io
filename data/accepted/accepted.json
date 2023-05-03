@@ -418,6 +418,61 @@
 					  "authors": "Siow Meng Low, Akshat Kumar and Scott Sanner"
 			  	}
 			]
+		},
+		{
+			"number": 5,
+			"name" :"Journal",
+			"papers": [
+				{
+					"number": 1,
+					"title": "ProSeqqo: A Generic Solver for Process Planning and Sequencing in Industrial Robotics",
+					"authors": "László Zahorán (EPIC InnoLabs Nonprofit Ltd., Budapest, Hungary) and András Kovács (Institute for Computer Science and Control (SZTAKI))",
+					"journal": "Robotics and Computer-Integrated Manufacturing",
+					"url": "https://www.sciencedirect.com/science/article/pii/S0736584522000746"
+				},
+				{
+					"number": 2,
+					"title": "Planning with Perspectives -- Decomposing Epistemic Planning using Functional STRIPS.",
+					"authors": "Guang Hu (The University of Melbourne), Tim Miller (The University of Melbourne) and Nir Lipovetzky (The University of Melbourne)",
+					"journal": "JAIR",
+					"url": "https://www.jair.org/index.php/jair/article/view/13446"					
+				},
+				{
+					"number": 3,
+					"title": "Unavoidable deadends in deterministic partially observable contingent planning",
+					"authors": "Guy Shani (Ben Gurion University), Lera Shtotland (ben gurion university), Dorin Shmaryahu (Ben-Gurion University of the Negev) and Ronen Brafman (Computer Science, Ben Gurion University)",
+					"journal": "JAAMAS",
+					"url": "https://link.springer.com/article/10.1007/s10458-022-09570-w"
+				},
+				{
+					"number": 4,
+					"title": "Online Learning of Variable Ordering Heuristics for Constraint Optimisation Problems",
+					"authors": "Floris Doolaard (Delft University of Technology) and Neil Yorke-Smith (Delft University of Technology)",
+					"journal": "AMAI",
+					"url": "https://link.springer.com/article/10.1007/s10472-022-09816-z"
+				},
+				{
+					"number": 5,
+					"title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+					"authors": "Shreya Parjan (Jet Propulsion Laboratory, California Institute of Technology) and Steve Chien (Jet Propulsion Laboratory, California Institute of Technology)",
+					"journal": "JAIS",
+					"url": "https://arc.aiaa.org/doi/abs/10.2514/1.I011215"
+				},
+				{
+					"number": 6,
+					"title": "Multi-UAV Planning for Cooperative Wildfire Coverage and Tracking with Quality-of-Service Guarantees",
+					"authors": "Esmaeil Seraj (Georgia Institute of Technology), Andrew Silva (Georgia Institute of Technology) and Matthew Gombolay (Georgia Institute of Technology)",
+					"journal": "JAAMAS",
+					"url": "https://link.springer.com/article/10.1007/s10458-022-09566-6"
+				},
+				{
+					"number": 7,
+					"title": "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles",
+					"authors": "Zlatan Ajanovic (TU Delft), Enrico Regolin (University of Pavia), Barys Shyrokau (TU Delft), Hana Ćatić (University of Sarajevo), Martin Horn (Graz University of Technology) and Antonella Ferrara (University of Pavia)",
+					"journal": "EAAI",
+					"url": "https://www.sciencedirect.com/science/article/pii/S0952197623000775"
+				}
+			]
 		}
 	]
 }

@@ -36,7 +36,7 @@
 		margin-left: 4%;
 		padding: 1%; 
 		display: inline-block; 
-		width: 20%; 
+		width: 15%; 
 		border: white solid; 
 		text-align: center; 
 		vertical-align: middle;
@@ -48,7 +48,7 @@
 		margin-left: 4%;
 		padding: 1%; 
 		display: inline-block; 
-		width: 20%; 
+		width: 15%; 
 		border: orange solid; 
 		border-radius: 3%; 
 		text-align: center; 
@@ -102,6 +102,12 @@
 		
 			<div><strong>{{ print $paper.title }}</strong></div>
 			<div style="padding: 1%">{{ print $paper.authors }}</div>
+			
+			{{ with $paper.journal }}
+			
+			<div style="padding: 2%"><strong>{{ print $paper.journal }}</strong> -  <a href="{{ $paper.url }}" target="_blank">{{ print $paper.url }}</a></div>
+			
+			{{ end }}	
 		
 		</div>
 	</div>
