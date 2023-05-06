@@ -10,9 +10,33 @@ ICAPS'23 Workshop \
 Prague, Czech Republic \
 July 9-10, 2023
 
+**We merged with the Plan, Activity, and Intent Recognition ([PAIR](../pair)) Workshop**
+
 ## Aim and Scope of the Workshop
 
 As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: [HAXP](http://xaip.mybluemix.net)
+
+## List of Accepted Papers
+
+* **Explanation Framework for Optimization-Based Scheduling: Evaluating Contributions of Constraints and Parameters by Shapley Values** | 
+    Yuta Tsuchiya, Masaki Hamamoto 
+* **Comparing AI planning algorithms with humans on the Tower of London task** | Chenyuan Zhang, Nir Lipovetzky, Charles Kemp 
+* **TIPs: Transparency Information Pacts** | Phillip Walker, Ugur Kuter, Christopher A Miller, Helen Wauck, Matthew DeHaven, Christopher Geib 
+* **Specifying Goals to Deep Neural Networks with Answer Set Programming** | Forest Agostinelli 
+* **DR-HAI: Argumentation-based Dialectical Reconciliation in Human-AI Interactions** | Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh 
+* **Action Policy Explanations in Oversubscription Planning** | Aleena Siji, Rebecca Eifler, Daniel Fišer, Jörg Hoffmann 
+* **Learning and Recognizing Human Behaviour with Relational Decision Trees** | Stanislav Sitanskiy, Laura Sebastia, Eva Onaindia 
+* **Formal Explanations of Neural Network Policies for Planning** | Renee Selvey, Alban Grastien, Sylvie Thiebaux 
+* **Towards Human-Aware AI via Planning with Epistemic Preferences** | Toryn Q. Klassen, Christian Muise, Sheila A. McIlraith 
+* **Outcome Prediction and Explainability for Mission Operations of Autonomous Spacecraft** | Alberto Candela, Tiago Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi, Rebecca Castano 
+* **Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning** | Juan Carlos Saborío and Joachim Hertzberg
+* **Recognizing Hierarchical Plans via Earley Parsing** | Kristýna Pantůčková and Roman Barták
+* **Bridging the Gap between Structural and Semantic Similarity in Diverse Planning** | Joan Espasa Arxer, Ian Gent, Alice Toniolo and Mustafa Abdelwahed
+
+
+## Workshop Schedule
+
+You can find the schedule here: [HAXP Schedule](http://xaip.mybluemix.net/2023)
 
 
 ## Topics of Interest
@@ -40,10 +64,10 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-Paper submission deadline: March 24 UTC-12
-Notification of acceptance: April 30 UTC-12
-Camera-ready paper submissions: TBD 
-Workshop date: TBD (July 8-13)
+* Paper submission deadline: **March 31 UTC-12 (EXTENDED)**
+* Notification of acceptance: May 01 UTC-12
+* Camera-ready paper submissions: TBD 
+* Workshop date: TBD (July 8-13)
 
 ## Submission Details
 
@@ -68,34 +92,22 @@ At least one author of each accepted paper must attend the workshop in order to 
 We are excited that ICAPS is going to be a physical conference this year. However, we understand that not everyone will be able to travel to Prague, due to factors such as personal health or travel restrictions. Although not guaranteed yet, there might be limited support for remote presentations for those who cannot attend the in-person event.
 
 
-
 ## Organizing Committee
 
-[Rebecca Eifler](http://fai.cs.uni-saarland.de/eifler/) | Saarland University
-[Benjamin Krarup](https://uk.linkedin.com/in/benjamin-krarup) | King’s College London 
-[Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University
-[Lindsay Sanneman](https://www.lindsaysanneman.com/) | King’s College London 
-[Sarath Sreedharan](http://sarathsreedharan.com/) | Colorado State University
-[Silvia Tulli](https://silviatulli.com/) | Técnico
-[Stylianos Loukas Vasileiou](https://thestlucas.com/) | Washington University in St. Louis
+* [Rebecca Eifler](http://fai.cs.uni-saarland.de/eifler/) | Saarland University
+* [Benjamin Krarup](https://uk.linkedin.com/in/benjamin-krarup) | King’s College London 
+* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University
+* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | King’s College London 
+* [Sarath Sreedharan](http://sarathsreedharan.com/) | Colorado State University
+* [Silvia Tulli](https://silviatulli.com/) | Técnico
+* [Stylianos Loukas Vasileiou](https://thestlucas.com/) | Washington University in St. Louis
 
 ## Steering Committee
 
-[Jeremy Frank](https://www.nasa.gov/content/jeremy-frank) | NASA
-[Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | General Motors 
-[Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University
-[Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University
-[David Smith](http://psresearch.xyz/) | PS Research
-[William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis
-
-
-
-## List of Accepted Papers
-
-TBD
-
-## Workshop Schedule
-
-TBD
-
+* [Jeremy Frank](https://www.nasa.gov/content/jeremy-frank) | NASA
+* [Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | General Motors 
+* [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University
+* [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University
+* [David Smith](http://psresearch.xyz/) | PS Research
+* [William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis
 

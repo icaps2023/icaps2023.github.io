@@ -28,7 +28,7 @@ Given this, the workshop welcomes contributions to any topic that roughly falls 
 
 ## Important Dates
 
- - Submission Deadline: March 24, 2023 (AoE)
+ - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023 (AoE)**
  - Author Notification: April 28, 2023
  - Camera-Ready Deadline: June 10, 2023 (AoE)
  - ICAPS 2023 Workshops: July 9-10, 2023
@@ -71,7 +71,11 @@ Organizing and Program Committee:
 
 ## List of Accepted Papers
 
-TBD
+ - Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba: **Safe Learning of PDDL Domains with Conditional Effects**
+ - Xandra Schuler, Jan Eisenhut, Daniel Höller, Daniel Fišer and Joerg Hoffmann: **Action Policy Testing with Heuristic-Based Bias Functions**
+ - Yuta Takata and Alex Fukunaga: **Plausibility-Based Heuristics for Latent Space Classical Planning**
+ - Marcel Vinzent, Min Wu, Haoze Wu and Joerg Hoffmann: **Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification**
+ - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates**
 
 ## Workshop Schedule
 

@@ -37,8 +37,6 @@ This wide-spread diversity of applications and disciplines, while producing a we
 
 This workshop seeks to bring together researchers and practitioners from diverse backgrounds, to share ideas and recent results. It will aim to identify important research directions and to identify opportunities for synthesis and unification. The workshop will especially emphasize a discussion of challenges and trends: Reasoning with incomplete or incorrect knowledge of others, learning activity and behavioral models from interaction and observations, agent modeling on the web and in open multi-agent systems, modeling multiple agents and the interactions between them, inferring the capabilities of agents from observations, and using agent modeling for coordination and teamwork. Contributions are sought in the following areas of research: 
 
- 
-
   * Plan, activity, intent, or behavior recognition 
 
   * Adversarial planning, opponent modeling 
@@ -94,7 +92,7 @@ Due to the diversity of disciplines engaging in this area, related contributions
 
 ## Important Dates
 
-03/24/2023: paper submission deadline \
+**04/09/2023: paper submission deadline** \
 04/25/2023: paper acceptance deadline
 
 ## Submission Details
@@ -105,34 +103,35 @@ Papers must be in trouble-free, high-resolution PDF format, formatted for US Let
 
 Submissions are anonymous, and must conform to the AAAI-23 instructions for double-blind review. 
 
-We accept full paper submissions. Papers must be formatted in AAAI two-column, camera-ready style; see the 2023 author kit for details: http://www.aaai.org/Publications/Templates/AuthorKit23.zip
+We accept full paper submissions. Papers must be formatted in AAAI two-column, camera-ready style; see the 2023 author kit for details: [http://www.aaai.org/Publications/Templates/AuthorKit23.zip](http://www.aaai.org/Publications/Templates/AuthorKit23.zip)
 
-Submissions may have up to 9 pages with pages 8 and 9 containing nothing but references.
+Contributions may have up to 9 pages with pages 8 and 9 containing nothing but references.
 
+Submissions should be made in PDF through the following link https://easychair.org/my/conference?conf=pair2023.
 
 ## Workshop Committee
 
-[Primary contact] Richard Magnotti, Rutgers University, richard.magnotti@rutgers.edu 
+[Primary contact] Richard Magnotti, Rutgers University, <richard.magnotti@rutgers.edu>
 
-[Primary contact] Simona Ondrckova, Charles University, ondrckova@ktiml.mff.cuni.cz 
+[Primary contact] Simona Ondrckova, Charles University, <ondrckova@ktiml.mff.cuni.cz>
 
-Denson George, Rutgers University, dg1013@cs.rutgers.edu   
+Denson George, Rutgers University, <dg1013@cs.rutgers.edu>
 
-Kristyna Pantuckova, Charles University, pantuckova@ktiml.mff.cuni.cz  
+Kristyna Pantuckova, Charles University, <pantuckova@ktiml.mff.cuni.cz>
 
-Christopher Geib, SIFT, cgeib@sift.net   
+Christopher Geib, SIFT, <cgeib@sift.net>
 
 ### Oranizing Committee
 
-[Primary contact] Richard Magnotti, Rutgers University, richard.magnotti@rutgers.edu 
+[Primary contact] Richard Magnotti, Rutgers University, <richard.magnotti@rutgers.edu>
 
-[Primary contact] Simona Ondrckova, Charles University, ondrckova@ktiml.mff.cuni.cz 
+[Primary contact] Simona Ondrckova, Charles University, <ondrckova@ktiml.mff.cuni.cz>
 
-Denson George, Rutgers University, dg1013@cs.rutgers.edu   
+Denson George, Rutgers University, <dg1013@cs.rutgers.edu>
 
-Kristyna Pantuckova, Charles University, pantuckova@ktiml.mff.cuni.cz  
+Kristyna Pantuckova, Charles University, <pantuckova@ktiml.mff.cuni.cz>
 
-Christopher Geib, SIFT, cgeib@sift.net   
+Christopher Geib, SIFT, <cgeib@sift.net>
 
 ### Program Committee
 
@@ -145,3 +144,5 @@ TBD
 ## Workshop Schedule
 
 TBD
+
+

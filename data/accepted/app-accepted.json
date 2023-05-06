@@ -1,0 +1,51 @@
+[
+ {
+  "number": 189,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Dynamic Weight Setting for Personnel Scheduling with Many Objectives",
+  "authors": "Lucas Kletzander and Nysret Musliu"
+ },
+ {
+  "number": 529,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Solving the Multi-Choice Two Dimensional Shelf Strip Packing Problem with Time Windows",
+  "authors": "Matthias Horn, Emir Demirović and Neil Yorke-Smith"
+ },
+ {
+  "number": 1388,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Heuristic Search For Physics-Based Problems: Angry Birds in PDDL+",
+  "authors": "Wiktor Piotrowski, Yoni Sher, Sachin Grover, Roni Stern and Shiwali Mohan"
+ },
+ {
+  "number": 2500,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Combining Clinical and Spatial Constraints into Temporal Planning to Personalize Physical Rehabilitation",
+  "authors": "Alessandro Umbrico, Marco Benadduci, Roberta Bevilacqua, Amedeo Cesta, Elvira Maranesi, Andrea Orlandini, Gabriella Cortellessa and Francesca Fracasso"
+ },
+ {
+  "number": 5733,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Combining Heuristic Search and Linear Programming to Compute Realistic Financial Plans",
+  "authors": "Alberto Pozanco, Kassiani Papasotiriou and Daniel Borrajo"
+ },
+ {
+  "number": 6492,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Moving trains like pebbles: a feasibility study on tree yards",
+  "authors": "Issa Hanou, Mathijs de Weerdt and Jesse Mulderij"
+ },
+ {
+  "number": 6700,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children",
+  "authors": "Saad Khan, Simon Parkinson, Monika Roopak, Rachel Armitage and Andrew Barlow"
+ }
+]

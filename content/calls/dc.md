@@ -16,6 +16,53 @@ As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. The Me
 
 We encourage current doctoral students (students whose Ph.D. is in progress) to apply for the Mentoring Program. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
 
+### Mentors 
+
+(Listed alphabetically by last name)
+
+* Christopher Beck
+* Riccardo De Benedictis
+* Sara Bernardini
+* Minh Do
+* Jeremy Frank
+* Nicola Gigante
+* Malte Helmert
+* Michael Katz
+* Masoumeh Iran Mansouri
+* Andrea Micheli
+* Christian Muise
+* Ron Petrick
+* David Smith
+* Shirin Sohrabi
+* Alessandro Umbrico
+* Neil Yorke-Smith
+
+
+## Invited Talk
+
+<div style="width: 90%; padding: 1%; margin-left: 5%;">
+
+ <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
+ 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="/img/erez.jpeg" />
+ </div>
+ 
+ <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
+  <h2><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a></h2>
+  <h3>Looking for Serendipity – Where (Some) Research Questions Come From?</h3>
+  <p>Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.</p>
+ 	
+ </div>
+ 
+ 
+ <div style="width: 98%; margin: 1%; margin-top: 1%; padding: 1%; border-top: 1px solid orange">
+  <h5>Short Bio</h5>
+  <p>Erez Karpas is an Associate Professor at the Faculty of Data and Decision Sciences (formerly known as Industrial Engineering and Management) at the Technion – Israel Institute of Technology. Prior to that he was a postdoctoral fellow at the Model-based Embedded and Robotic Systems group at MIT, and before that we completed his PhD at the Technion (2012), and his M.Sc. (2005) and B.Sc. (2001) at Ben Gurion University. His main research interest is in automated planning and robotics.</p>
+ 
+ </div>
+
+
+</div>
+
 ## Application Procedure for the Mentoring Program
 
 To participate in the Mentoring Program, an application is required. Applicants for the Mentoring Program should submit a **single PDF** file at [https://easychair.org/my/conference?conf=icaps23](https://easychair.org/my/conference?conf=icaps23)  (**Doctoral Consortium Submission**) containing:
@@ -35,7 +82,8 @@ To participate in the Mentoring Program, an application is required. Applicants 
 
 ## Student Support
 
-We are looking into ways to provide student support partly covering travel and/or registration costs. Details about possible applications for student support will be posted on the ICAPS-23 website at [https://icaps23.icaps-conference.org/program/dc](https://icaps23.icaps-conference.org/program/dc)
+We are looking into ways to provide student support partly covering travel and/or registration costs. Details about possible applications for student support will be posted on the ICAPS-23 website at [https://icaps23.icaps-conference.org/attending/students](https://icaps23.icaps-conference.org/attending/students)
+
 
 For any questions or problems, please contact the DC chairs:
 

@@ -12,5 +12,7 @@ draft: false
 ## 2023
 - **January 16-19, 2023** - Author feedback period
 - **February 4, 2023** - Notification of acceptance or rejection
+- **May 5, 2023** - Early registration deadline
+- **May 19, 2023** - Conference hotel booking deadline
 - **July 8-13, 2023** - ICAPS 2023 Conference
 

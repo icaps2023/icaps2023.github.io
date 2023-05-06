@@ -36,7 +36,7 @@ Topics of interests include but are not limited to:
  
 ## Important Dates
 
-- Submission Deadline: <s>March 24, 2023</s> March 31, 2023 (AoE), also see note below!
+- Submission Deadline: ~~March 24, 2023~~ **March 31, 2023** (AoE), also see note below!
 - Author Notification: April 28, 2023
 - Camera-Ready Deadline: TBA
 - ICAPS 2023 Workshops: July 9-10, 2023
@@ -146,3 +146,6 @@ The actual schedule is TBA.
 - On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find (among other things) a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2022.hierarchical-task.net](https://hplan2022.hierarchical-task.net) for last year's edition.
 - Note that this year the second IPC on Hierarchical Planning will take place! See [ipc2023.hierarchical-task.net](https://ipc2023.hierarchical-task.net). The link to the first IPC as well as any future ones can be found on [ipc.hierarchical-task.net](https://ipc.hierarchical-task.net).
 - We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic, moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email. 
+
+
+

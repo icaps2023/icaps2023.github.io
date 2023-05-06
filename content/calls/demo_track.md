@@ -14,7 +14,7 @@ Researchers from all sub-areas of AI planning and scheduling are encouraged to s
 
 ## Submission Instructions
 
-Potential exhibitors should submit their applications via [EasyChair](https://easychair.org/conferences/?conf=icaps2023) and select the System Demonstration Track.
+Potential exhibitors should submit their applications via [EasyChair](https://www.easychair.org/conferences/?conf=icaps23) and select the System Demonstration Track.
 
 The submission should consist of an extended abstract of no more than 2 pages using the latest [AAAI template](https://www.aaai.org/Publications/Templates/AuthorKit23.zip). This should include the title of the proposed demonstration, the list of authors and their affiliations, and an abstract of up to 250 words. It should describe the technical content of the demonstration, with the appropriate credits and references. Authors may upload supplementary material to describe any non-standard hardware or software requirements, or other requested logistical arrangements. We plan to provide for each demonstration a table, chairs, poster board, power strip, and a large display, but will try to accommodate special requests.
 
@@ -24,7 +24,7 @@ The extended abstracts and videos for accepted demonstrations will be available 
 
 ## Summary of Important Dates
 
-* Submission Deadline: April 7th, 2023 AoE.
+* Submission Deadline: April ~~7th~~ 14th, 2023 AoE.
 * Notification of demo acceptance: April 28th, 2023.
 
 ## System Demo Program Chairs

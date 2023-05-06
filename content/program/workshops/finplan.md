@@ -3,10 +3,11 @@ title: "FinPlan"
 date: 2023-02-01T14:30:17+01:00
 draft: false
 ---
+
 # Planning and Scheduling for Financial Services (FinPlan'23)
 
-ICAPS'23 Workshop \
-Prague, Czech Republic \
+ICAPS'23 Workshop
+Prague, Czech Republic
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
@@ -33,7 +34,7 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-- Submission deadline: March 30, 2023
+- Submission deadline [EXTENDED]: April 4, 2023
 - Notification of acceptance/rejection: April 28, 2023
 - Camera-ready upload: May 12, 2023
 - Workshop: 09/10 July, 2023
@@ -49,9 +50,11 @@ We invite two kinds of submissions:
 Please note that paper submissions should not be anonymous, and will undergo single-blind peer review. Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. Submissions should be formatted using the ICAPS style. The final submission must be in PDF. Papers should be submitted on Easychair submission page: https://easychair.org/conferences/?conf=finplan23
 
 Papers should follow the [AAAI author kit instructions for formatting](https://www.aaai.org/Publications/Templates/AuthorKit23.zip).
+### Workshop Proceedings (optional)
 
+TODO
 
-### Policy on Previously Published Materials
+### Policy on Previously Published Materials (optional) 
 
 The proceedings will not be archived, and recently accepted papers at other venues are also welcomed.
 
@@ -80,5 +83,6 @@ TBD
 ## Workshop Schedule
 
 TBD
+
 
 

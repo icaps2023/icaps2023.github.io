@@ -43,7 +43,7 @@ We invite submissions at the intersection of AI Planning and Reinforcement Learn
 
 **Please refer to the [PRL workshop website](https://prl-theworkshop.github.io) for the latest information.**
 
-Paper submission deadline: March 17th, AOE
+Paper submission deadline: **March 30th, AOE (EXTENDED)**
 
 Paper acceptance notification: April 27th, AOE 
 
@@ -70,18 +70,6 @@ invited to use the appendix of their submissions for that purpose.
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=PRL/2023/ICAPS).
 
 
-<!-- ### Workshop Proceedings (optional)
-
-TODO
-
-### Policy on Previously Published Materials (optional) 
-
-TODO -->
-
-<!-- ## Workshop Committee
-
-TODO -->
-
 ### Organizing Committee
 
 * Cameron Allen, Brown University, RI, USA 
@@ -93,19 +81,22 @@ TODO -->
 
 
 
-Please send your inquiries to prl.theworkshop@gmail.com
+Please send your inquiries to <prl.theworkshop@gmail.com>
 
+## List of Accepted Papers
 
-<!-- ### Program Committee
-
-TODO -->
-
-<!-- ## List of Accepted Papers
-
-TBD -->
-
-<!-- ## Workshop Schedule
-
-TBD -->
-
+* **pyRDDLGym: From RDDL to Gym Environments** (Ayal Taitler, Michael Gimelfarb, Jihwan Jeong, Sriram Gopalakrishnan, Martin Mladenov, Xiaotian Liu, Scott Sanner)
+* **Inapplicable Actions Learning for Knowledge Transfer in Reinforcement Learning** (Leo Ardon, Alberto Pozanco, Daniel Borrajo, Sumitra Ganesh)
+* **Meta-operators for Enabling Parallel Planning Using Deep Reinforcement Learning** (Ángel Aso Mollar, Eva Onaindia)
+* **Model Learning to Solve Minecraft Tasks** (Yarin Benyamin, Argaman Mordoch, Roni Stern, Shahaf S. Shperberg)
+* **Towards a Unified Framework for Sequential Decision Making** (Carlos Núñez-Molina, Pablo Mesejo, Juan Fernández-Olivares)
+* **Policy Refinement with Human Feedback for Safe Reinforcement Learning** (Ali Baheri)
+* **Learning Hierarchical Policies by Iteratively Reducing the Width of Sketch Rules** (Dominik Drexler, Jendrik Seipp, Hector Geffner)
+* **Learning General Policies with Policy Gradient Methods** (Simon Ståhlberg, Blai Bonet, Hector Geffner)
+* **Mind the Uncertainty: Risk-Aware and Actively Exploring Model-Based Reinforcement Learning** (Marin Vlastelica, Sebastian Blaes, Cristina Pinneri, Georg Martius)
+* **Joint Learning of Policy with Unknown Temporal Constraints for Safe Reinforcement Learning** (Ali Baheri)
+* **Multi-Agent Reinforcement Learning with Epistemic Priors** (Thayne T. Walker, Jaime S. Ide, Minkyu Choi, Michael John Guarino, Kevin Alcedo)
+* **Preemptive Restraining Bolts** (Giovanni Varricchione, Natasha Alechina, Mehdi Dastani, Giuseppe De Giacomo, Brian Logan, Giuseppe Perelli)
+* **Hierarchical Planning for Rope Manipulation using Knot Theory and a Learned Inverse Model** (Matan Sudry, Tom Jurgenson, Aviv Tamar, Erez Karpas)
+* **Value Function Learning via Prolonged Backward Heuristic Search** (Zlatan Ajanovic, Bakir Lacevic, Jens Kober)
 

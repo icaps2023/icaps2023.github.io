@@ -41,11 +41,13 @@ The workshop is open to both application and theoretical contributions that see 
 
 ## Important Dates
 
-- **Submission: March 24, 2023**
-- Notification: April 14, 2023
-- Camera-ready: April 25, 2023
+- Submission: **March 31, 2023 (EXTENDED)**
+- Notification: May 2, 2023
+- Camera-ready: May 27, 2023
 - Workshop: July 9-10, 2023
 - Conference: July 8-13, 2023
+
+The reference time-zone for all deadlines is **UTC-12**. Your submissions will be on time so long as there is still some place in the world where the deadline has not yet passed.
 
 ## Submission Details
 
@@ -97,7 +99,11 @@ For inquiries please send an email to <plato2023@easychair.org>
 
 ## List of Accepted Papers
 
-TBD
+- **Challenges on Deriving Planning Problems from Ontologies**, Milerie Santos Texeira, Michael Welt, Birte Glimm (University of Ulm)
+- **Plan and Ontology-Based Dialogue Policies for Healthcare**, Milene Santos Texeira (University of Ulm), Mauro Dragoni (FBK)
+- **Ontology-Guided Knowledge Graph Construction to Support Scheduling in a Train Maintenance Depot**, Emannuel Papadakis, Thomas Leo McCluskey, Hassna Louadah, Gareth Tucker (University of Huddersfield)
+- **Planning with Ontology-Enhanced States Using Problem-Dependent Rewritings**, Tobias John (University of Oslo), Patrick Koopmann (TU Dresden)
+- **Building and Using a Planning Ontology from Past Data for Performance Efficiency**, Bharath Muppasani, Vishal Pallagani, Biplav Srivastava (University of South Carolina), Raghava Mutharaju (IIIT-Delhi)
 
 ## Workshop Schedule
 

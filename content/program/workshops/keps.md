@@ -40,7 +40,7 @@ We seek original papers ranging from experience reports to the description of ne
 
 ## Important Dates
 
-- Paper submission deadline: March 24, 2023 (UTC-12 time zone)
+- Paper submission deadline: March 31, 2023 (UTC-12 time zone)
 - Notification: April 25, 2023
 - Camera-ready paper submission: May 20, 2023
 

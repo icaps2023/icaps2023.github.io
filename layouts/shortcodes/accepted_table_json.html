@@ -1,0 +1,124 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+<style>
+
+	.paper-row {
+		margin:0; 
+		padding: 0; 
+		margin-bottom: 1%;
+	}
+
+	.paper {
+		width: 85%; 
+		display: inline-block; 
+		padding: 1%; 
+		margin-left: 1%; 
+		vertical-align: middle;
+		border: solid white; 
+	}
+
+	.paper:hover {
+
+		width: 85%; 
+		display: inline-block; 
+		padding: 1%; 
+		margin-left: 1%; 
+		vertical-align: middle;
+		border: solid orange; 
+		border-radius: 3%;
+	
+	}
+	
+	.shortcut {
+	
+		margin-bottom: 2%; 
+		margin-left: 4%;
+		padding: 1%; 
+		display: inline-block; 
+		width: 15%; 
+		border: white solid; 
+		text-align: center; 
+		vertical-align: middle;
+	}
+	
+	.shortcut:hover {
+	
+		margin-bottom: 2%; 
+		margin-left: 4%;
+		padding: 1%; 
+		display: inline-block; 
+		width: 15%; 
+		border: orange solid; 
+		border-radius: 3%; 
+		text-align: center; 
+		vertical-align: middle;
+	
+	}
+
+</style>
+
+<hr />
+
+<div>
+
+	{{ range $track := $data.tracks }}
+	
+	<div class="shortcut">
+	
+		<a href="{{ print $.Site.BaseURL }}/program/accepted/#{{ $track.name }}">{{ print $track.name }} Track</a>
+	
+	</div>
+	
+	{{ end  }}
+	
+</div>
+
+<hr />
+
+
+{{ range $track := $data.tracks }}
+
+
+<div style="width: 95%;  padding-left: 2%;">
+
+	<div>
+		<h2 style="color: orange"><a name="{{ print $track.name }}">{{ print $track.name }} Track</a></h2>
+	</div>
+	
+	<p>Find below the list of the <strong>{{ len $track.papers }} papers</strong> accepted to the <strong>{{ print $track.name }} Track</strong></p>
+	
+	
+	{{ range $index, $paper := $track.papers }}
+	
+	<div class="paper-row">
+	
+		<div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid 1px orange; border-radius: 3%;">
+			{{ $counter := add $index 1 }}
+			{{ print $counter  }}
+		</div>
+		
+		<div class="paper">
+		
+			<div><strong>{{ print $paper.title }}</strong></div>
+			<div style="padding: 1%">{{ print $paper.authors }}</div>
+			
+			{{ with $paper.journal }}
+			
+			<div style="padding: 2%"><strong>{{ print $paper.journal }}</strong> -  <a href="{{ $paper.url }}" target="_blank">{{ print $paper.url }}</a></div>
+			
+			{{ end }}	
+		
+		</div>
+	</div>
+	
+	
+
+	{{ end }} 
+	
+	
+</div>
+
+<hr />
+
+{{ end }}

@@ -34,16 +34,16 @@ Examples of typical topics for submissions to this workshop are:
 ## Important Dates
 
 **Submission deadline:**  
-31 March 2023 (UTC-12 timezone)
+~~31 March 2023 (UTC-12 timezone)~~ April 7, 2023 (UTC-12 timezone)
 
 **Open discussion:**  
-20-27 April 2023
+~~20-27 April 2023~~ April 27 - May 4, 2023
 
 **Notification:**  
-5 May 2023
+May 5 2023
 
 **Workshop:**  
-09/10 July 2023
+July 9/10 2023
 
 ## Submission Details
 
@@ -76,5 +76,7 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 **Thorsten Klößner**, Saarland University, Germany  
 **Sofia Lemons**, Earlham College, Indiana, USA
 
-Contact: hsdip@googlegroups.com
+Contact: <hsdip@googlegroups.com>
+
+
 

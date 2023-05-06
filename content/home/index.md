@@ -15,4 +15,8 @@ The ICAPS 2023 program committee invites paper submissions related to automated 
 
 ---
 
+**ICAPS 2023** is collocated with [International Workshop on Planning & Scheduling for Space](https://sites.google.com/view/iwpss2023) (IWPSS, July 7-8) and [Symposium on Combinatorial Search](https://socs23.search-conference.org) (SoCS, July 14-16).
+
+---
+
 {{< sponsors_table_json "/data/sponsors/sponsors.json" >}}
