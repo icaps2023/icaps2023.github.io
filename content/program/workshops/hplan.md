@@ -113,7 +113,7 @@ TBA
 - Xing Tan, Lakehead University
 - Daniel Höller, Saarland University
 - Sunandita Patra, IIT Kharagpur
-- Robert Goldman, SIFT, LLC	ordinary PC member	Apr 25, 03:46	information on Robert P. Goldman	update Robert P. Goldman, Smart Information Flow Technologies (SIFT)
+- Robert Goldman, Smart Information Flow Technologies (SIFT)
 - Kutluhan Erol, Izmir University of Economics
 - Felipe Meneguzzi, University of Aberdeen
 - Simona Ondrčková, Charles University
