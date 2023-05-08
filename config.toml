@@ -202,7 +202,13 @@ theme = 'mainroad'
     name = "Model Acquisition in the Modern Era" 
     parent = "tutorials"
     url = "/program/tutorials/model"
-    weight = "40"        
+    weight = "40"
+  [[menu.main]]
+    identifier = "up"    
+    name = "Unified Planning: A Python Library Making Planning Technology Accessible" 
+    parent = "tutorials"
+    url = "/program/tutorials/up"
+    weight = "50"
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
