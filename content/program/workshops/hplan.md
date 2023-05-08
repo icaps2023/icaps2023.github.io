@@ -42,7 +42,9 @@ Topics of interests include but are not limited to:
 - ICAPS 2023 Workshops: July 9-10, 2023
 
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
- 
+
+
+
 ## Submission Details
 
 The formatting guidelines (author kit, etc.) are the same as for ICAPS 2023. Like at the main conference, there will be a high quality double-blind review process against the standard ICAPS criteria of significance, soundness, scholarship, clarity, and reproducibility. However, submissions may be less evolved than at the main conference.
@@ -60,11 +62,15 @@ In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
 Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2023).
 
+
+
 ### Workshop Proceedings
 
 Please be aware that we put all accepted papers into a single proceedings that we will make publicly available (check out previous years' editions if interested: [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net)).
 
 Our proceedings are non-archival meaning that you will keep all copyrights. 
+
+
 
 ### Policy on Previously Published Materials
 
@@ -89,17 +95,41 @@ TBA
  - Julia Wichlacz, wichlacz at cs.uni-saarland.de, [webpage](http://fai.cs.uni-saarland.de/wichlacz/)
  - Ron Alford, ronwalf at volus.net, [webpage](https://www.volus.net/)
 
+
+
 ### Program Committee
 
-TBA
+- Ron Alford, The MITRE Corporation
+- Pascal Bercher, the Australian National University
+- Susanne Biundo, Ulm University
+- Pascal Lauer, Saarland University
+- Rouxi Li, University of Maryland, College Park
+- Jane Jean Kiam, Universität der Bundeswehr München
+- Songtuan Lin, the Australian National University
+- Ugur Kuter, Smart Information Flow Technologies (SIFT)
+- Damien Pellier, Laboratoire d'Informatique de Grenoble
+- Julia Wichlacz, Saarland University
+- Gregor Behnke, University of Amsterdam
+- Xing Tan, Lakehead University
+- Daniel Höller, Saarland University
+- Sunandita Patra, IIT Kharagpur
+- Robert Goldman, SIFT, LLC	ordinary PC member	Apr 25, 03:46	information on Robert P. Goldman	update Robert P. Goldman, Smart Information Flow Technologies (SIFT)
+- Kutluhan Erol, Izmir University of Economics
+- Felipe Meneguzzi, University of Aberdeen
+- Simona Ondrčková, Charles University
+- Conny Olz, Ulm University
 
-However, if you'd like to join our team, feel free to reach out to us!
+If you'd like to be part of our team in any of the future years, please reach out to the organizers!
 
 
 
 ## List of Accepted Papers
 
-TBA
+Accepted at HPlan and included in proceedings:
+<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/program/workshops/hplan/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
+
+Accepted at HPlan and at another conference:
+<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/program/workshops/hplan/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
 
 
 
@@ -107,7 +137,7 @@ TBA
 
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
 
-The actual schedule is TBA
+The actual schedule is TBA.
 
 
 
