@@ -55,6 +55,15 @@ Here is the list of the tutorials accepted to ICAPS 2023
  		<p>Christian Muise, Tathagata Chakraborti</p>
  	</div>
  </div>
+ 
+ <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 50%;">
+ 		<p><a href="/program/tutorials/up" target="_blank">Unified Planning: A Python Library Making Planning Technology Accessible</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 49%;">
+ 		<p>Andrea Micheli, Arthur Bit-Monnot, Gabriele Röger, Sebastian Stock</p>
+ 	</div>
+ </div>
 
 </div>
 
