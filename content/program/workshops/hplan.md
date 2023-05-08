@@ -113,7 +113,7 @@ TBA
 - Xing Tan, Lakehead University
 - Daniel Höller, Saarland University
 - Sunandita Patra, IIT Kharagpur
-- Robert Goldman, SIFT, LLC	ordinary PC member	Apr 25, 03:46	information on Robert P. Goldman	update Robert P. Goldman, Smart Information Flow Technologies (SIFT)
+- Robert Goldman, Smart Information Flow Technologies (SIFT)
 - Kutluhan Erol, Izmir University of Economics
 - Felipe Meneguzzi, University of Aberdeen
 - Simona Ondrčková, Charles University
@@ -125,7 +125,7 @@ If you'd like to be part of our team in any of the future years, please reach ou
 
 ## List of Accepted Papers
 
-Accepted at HPlan and included in proceedings:
+#### Accepted at HPlan and included in proceedings:
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
 
 <hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
@@ -134,7 +134,7 @@ Accepted at HPlan and at another conference:
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
 
 
-
+<br><br>
 ## Workshop Schedule
 
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
