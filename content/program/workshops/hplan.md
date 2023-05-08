@@ -128,7 +128,7 @@ If you'd like to be part of our team in any of the future years, please reach ou
 Accepted at HPlan and included in proceedings:
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
 
-<hr style="width: 100%; padding: 1%; margin-top: 2%; margin-bottom: 2%; color: orange;" />
+<hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
 
 Accepted at HPlan and at another conference:
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
