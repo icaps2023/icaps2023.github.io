@@ -126,10 +126,10 @@ If you'd like to be part of our team in any of the future years, please reach ou
 ## List of Accepted Papers
 
 Accepted at HPlan and included in proceedings:
-<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/program/workshops/hplan/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
+<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
 
 Accepted at HPlan and at another conference:
-<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/program/workshops/hplan/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
+<script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
 
 
 
