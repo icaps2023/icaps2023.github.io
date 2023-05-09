@@ -79,11 +79,46 @@ AndreA Orlandini, \
 
 ### Program Committee
 
-TBA
+Zlatan Ajanovic TU Delft, Netherlands\
+Roman Barták Charles University, Czech Republic\
+Riccardo Caccavale Università degli studi di Napoli Federico II, Italy\
+Gerard Canal King's College London, UK\
+Nick Hawes University of Oxford, UK\
+Felix Ingrand LAAS/CNRS, France\
+Erez Karpas Technion, Israel\
+Oscar Lima German Research Center for Artificial Intelligence - DFKI, Germany\
+Tim Niemueller Intrinsic Innovation GmbH, Germany\
+Ron Petrick Heriot-Watt University, UK\
+Tom Silver Massachusetts Institute of Technology, USA\
+Mohan Sridharan University of Birmingham, UK\
+Charlie Street University of Birmingham, UK\
+Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy\
 
 ## List of Accepted Papers
 
-TBD
+Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. Combined Task and Motion Planning Via Sketch Decompositions \
+
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities\
+
+Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: Parameter Tuning Using Deep Reinforcement Learning\
+
+Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. Planning for Learning Object Properties\
+
+Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. Adaptive Robot Navigation through Integrated Task and Motion Planning\
+
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems\
+
+Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg. A Physics-Based Simulated Robotics Testbed for Planning and Acting Research\
+
+Valentin Hartmann and Marc Toussaint. Towards computing low-makespan solutions for multi-arm multi-task planning problems\
+
+Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi. A novel algorithm for parallelizing actions of a sequential plan\
+
+Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi. Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions\
+
+Anthony Favier, Shashank Shekhar and Rachid Alami. Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind\
+
+David Zahrádka, Daniel Kubišta and Miroslav Kulich. Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem\
 
 ## Workshop Schedule
 
