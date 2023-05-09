@@ -38,7 +38,7 @@ Topics of interests include but are not limited to:
 
 - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023** (AoE), also see note below!
 - Author Notification: April 28, 2023
-- Camera-Ready Deadline: TBA
+- Camera-Ready Deadline: June 3, 2023
 - ICAPS 2023 Workshops: July 9-10, 2023
 
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
@@ -125,16 +125,18 @@ If you'd like to be part of our team in any of the future years, please reach ou
 
 ## List of Accepted Papers
 
-#### Accepted at HPlan and included in proceedings:
+#### Accepted at HPlan and included in proceedings
+The following publications will be included in the proceedings once it's ready.
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Olz2023TOLookAhead$).*$"></script>
 
 <hr style="width: 100%; margin-top: 5%; border: 1px solid orange;" />
 
-Accepted at HPlan and at another conference:
+#### Accepted at HPlan and another venue
+The following publications will be excluded from the proceedings to preven copyright issues. We will provide a link instead.
 <script src="https://bibbase.org/show?bib=https://icaps23.icaps-conference.org/bib/hplan2023.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Olz2023TOLookAhead"></script>
 
 
-<br><br>
+<br>
 ## Workshop Schedule
 
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
