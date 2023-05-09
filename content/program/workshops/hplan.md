@@ -137,6 +137,7 @@ The following publications will be excluded from the proceedings to preven copyr
 
 
 <br>
+
 ## Workshop Schedule
 
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
