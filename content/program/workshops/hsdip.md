@@ -78,5 +78,51 @@ Submissions sent to other conferences are allowed. It is the responsibility of t
 
 Contact: <hsdip@googlegroups.com>
 
+### Program Committee
 
+**Clemens Büchner**, University of Basel, Switzerland  
+**Rebecca Eifler**, Saarland University, Germany  
+**Salomé Eriksson**, University of Basel, Switzerland  
+**Daniel Fišer**, Saarland University, Germany  
+**Daniel Gnad**, Linköping University, Sweden  
+**Michael Katz**, IBM T.J. Watson Research Center, USA  
+**Thorsten Klößner**, Saarland University, Germany  
+**Pascal Lauer**, Saarland University, Germany  
+**Sofia Lemons**, Earlham College, Indiana, USA  
+**David Speck**, Linköping University, Sweden  
+**Marcel Steinmetz**, Saarland University, Germany  
+**Silvan Sievers**, University of Basel, Switzerland  
+
+## List of Accepted Papers
+* **On Reducing Action Labels in Planning Domains**  
+  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
+* **Novelty and Lifted Helpful Actions in Generalized Planning**  
+  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
+* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
+  Stephen Wissow, Masataro Asai
+* **K\* and Partial Order Reduction for Top-quality Planning**  
+  Michael Katz, Junkyu Lee
+* **Any-Start-Time Planning for SIPP**  
+  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
+* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
+  Oriel Uzan, Guy Shani
+* **K\* Search Over Orbit Space for Top-k Planning**  
+  Michael Katz, Junkyu Lee
+* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
+  Alice Petrov, Christian Muise
+* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
+  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
+* **Action Schema Networks for Numerical Planning**  
+  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
+* **Triangle Search: An Anytime Beam Search**  
+  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
+* **On K\* Search for Top-k Planning**  
+  Junkyu Lee, Michael Katz, Shirin Sohrabi
+  
+## Workshop Schedule
+
+We are not ready to communicate a schedule yet.
+
+### Invited Talk
+We are excited to announce **Álvaro Torralba** as invited speaker.
 
