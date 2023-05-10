@@ -16,4 +16,4 @@ Please apply for student support by submitting a request through [EasyChair](htt
 
 **The deadline for applying is May 1, 2023 (AoE)**. 
 
-Notification is on May 4 (one day before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel** and **registration expenses** after the conference or as a discounted registration fee.
+Notification is on May 4 (one day before the early registration deadline). Scholarships will be provided to you as (partial) **reimbursement of travel and registration expenses** after the conference or as a **discounted registration fee**.
