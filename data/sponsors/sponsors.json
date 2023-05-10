@@ -77,8 +77,13 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://research.google/"
+				},
+				{
+					"logo": "/img/partners/IBM_60_RGB.gif",
+					"height": "-1",
+					"width": "200",
+					"link": "https://research.ibm.com/"
 				}
-
 			]
 		}
 	]
