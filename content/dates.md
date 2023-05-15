@@ -14,5 +14,6 @@ draft: false
 - **February 4, 2023** - Notification of acceptance or rejection
 - **May 5, 2023** - Early registration deadline
 - **May 19, 2023** - Conference hotel booking deadline
+- **July 5, 2023** - Late registration deadline
 - **July 8-13, 2023** - ICAPS 2023 Conference
 
