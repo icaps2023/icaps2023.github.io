@@ -96,6 +96,8 @@ Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy
 
 ## List of Accepted Papers
 
+Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. Robofriend: An Adpative Storytelling Robotic Teddy Bear
+
 Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. Combined Task and Motion Planning Via Sketch Decompositions 
 
 Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
@@ -105,6 +107,8 @@ Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: Parameter Tuning Using De
 Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. Planning for Learning Object Properties
 
 Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. Adaptive Robot Navigation through Integrated Task and Motion Planning
+
+Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri. The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
 
 Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
 
