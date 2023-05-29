@@ -209,6 +209,12 @@ theme = 'mainroad'
     parent = "tutorials"
     url = "/program/tutorials/up"
     weight = "50"
+  [[menu.main]]
+    identifier = "llms"    
+    name = "On the role of Large Language Models in Planning" 
+    parent = "tutorials"
+    url = "/program/tutorials/llms"
+    weight = "60"
 # WORKSHOPS
   [[menu.main]]
     identifier = "keps"
