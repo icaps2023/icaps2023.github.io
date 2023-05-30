@@ -101,13 +101,20 @@
 		<div class="paper">
 		
 			<div><strong>{{ print $paper.title }}</strong></div>
+			
+			
 			<div style="padding: 1%">{{ print $paper.authors }}</div>
 			
 			{{ with $paper.journal }}
 			
 			<div style="padding: 2%"><strong>{{ print $paper.journal }}</strong> -  <a href="{{ $paper.url }}" target="_blank">{{ print $paper.url }}</a></div>
 			
-			{{ end }}	
+			{{ end }}
+			
+			{{ with $paper.paper }}
+			
+			<div style="padding: 1%"><a href="{{ print $paper.paper }}" target="_blank">Check the PDF</a></div>
+			{{ end }}
 		
 		</div>
 	</div>

@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Recent Advances in Temporal Networks for Planning and Scheduling - ICAPS 2023</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div id="banner-main" class="logo logo--mixed">
+		<a class="logo__link" href="/home" title="The 33rd International Conference" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/icapslogo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">The 33rd International Conference</div>
+					<div class="logo__title">on Automated Planning and Scheduling</div>
+					<div class="logo__tagline">Prague, Czech Republic, July 8-13, 2023</div>
+				</div>
+		</a>
+	</div>
+
+		
+<nav class="menu">
+  <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+    <span class="menu__btn-title" tabindex="-1">Menu</span>
+  </button>
+  <ul class="menu__list">
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/home">
+        
+          <span class="menu__text">Home</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/dates">
+        
+          <span class="menu__text">Dates</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Attending</span>
+        <label class="drop-icon" for="Attending">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Attending">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/venue">
+			    
+			    <span class="menu__text">Venue</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/travel">
+			    
+			    <span class="menu__text">Travel Information</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/registration">
+			    
+			    <span class="menu__text">Registration</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/accommodation">
+			    
+			    <span class="menu__text">Accommodation</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/students">
+			    
+			    <span class="menu__text">Student Support</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Calls</span>
+        <label class="drop-icon" for="Calls">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Calls">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/main_track">
+			    
+			    <span class="menu__text">Main Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/application_track">
+			    
+			    <span class="menu__text">Application Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/learning_track">
+			    
+			    <span class="menu__text">Learning Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/robotics_track">
+			    
+			    <span class="menu__text">Robotics Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/journal_track">
+			    
+			    <span class="menu__text">Journal Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/workshop_call">
+			    
+			    <span class="menu__text">Call for Workshop Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/tutorial_call">
+			    
+			    <span class="menu__text">Call for Tutorial Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/demo_track">
+			    
+			    <span class="menu__text">System Demonstrations</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/partnership_call">
+			    
+			    <span class="menu__text">Call for Partnership</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/competitions">
+        
+          <span class="menu__text">Competitions</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/submissions">
+        
+          <span class="menu__text">Submissions</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Program</span>
+        <label class="drop-icon" for="Program">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Program">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/overview">
+			    
+			    <span class="menu__text">Program Overview</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/accepted">
+			    
+			    <span class="menu__text">Accepted Papers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/keynotes">
+			    
+			    <span class="menu__text">Keynotes</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/ws_overview">
+			
+			<span class="menu__text">Workshops</span>
+			<label class="drop-icon" for="Workshops">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Workshops">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/keps">
+				    
+				    <span class="menu__text">KEPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/finplan">
+				    
+				    <span class="menu__text">FinPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/haxp">
+				    
+				    <span class="menu__text">HAXP</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/plato">
+				    
+				    <span class="menu__text">PLATO</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/prl">
+				    
+				    <span class="menu__text">PRL</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/rddps">
+				    
+				    <span class="menu__text">RDDPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hplan">
+				    
+				    <span class="menu__text">HPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/spark">
+				    
+				    <span class="menu__text">SPARK</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/planrob">
+				    
+				    <span class="menu__text">PlanRob</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/intex">
+				    
+				    <span class="menu__text">IntEx</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/pair">
+				    
+				    <span class="menu__text">PAIR</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hsdip">
+				    
+				    <span class="menu__text">HSDIP</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/tutorial_overview">
+			
+			<span class="menu__text">Tutorials</span>
+			<label class="drop-icon" for="Tutorials">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Tutorials">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/mdp_modeling">
+				    
+				    <span class="menu__text">Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/hard">
+				    
+				    <span class="menu__text">How hard can it be? The computational complexity of planning</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/tnetworks">
+				    
+				    <span class="menu__text">Recent Advances in Temporal Networks for Planning and Scheduling</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/model">
+				    
+				    <span class="menu__text">Model Acquisition in the Modern Era</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/up">
+				    
+				    <span class="menu__text">Unified Planning: A Python Library Making Planning Technology Accessible</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/llms">
+				    
+				    <span class="menu__text">On the role of Large Language Models in Planning</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Committees</span>
+        <label class="drop-icon" for="Committees">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Committees">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/organizers">
+			    
+			    <span class="menu__text">Organizers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/program_committees">
+			    
+			    <span class="menu__text">Program Committee</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/code_of_conduct">
+        
+          <span class="menu__text">Code of Conduct</span>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+	</div>
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<div class="content post__content clearfix">
+			<h1 id="recent-advances-in-temporal-networks-for-planning-and-scheduling">Recent Advances in Temporal Networks for Planning and Scheduling</h1>
+<h2 id="description">Description</h2>
+<p>Temporal networks are structures for representing and reasoning about time (e.g., in planning and scheduling applications).  Different flavors of temporal networks differ in their expressiveness and the complexity of the algorithms for solving relevant problems.  The most basic kind of temporal network is a Simple Temporal Network (STN). STNs have a solid theoretical foundation and numerous practical algorithms for manipulating STNs have been presented in the literature over the past 30 years.</p>
+<p>STNs with Uncertainty (STNUs) accommodate actions with uncertain durations.  Although STNUs have been studied for over 20 years, much more efficient algorithms have been presented recently, not only for determining the important &ldquo;dynamic controllability&rdquo; (DC) property, but also for converting DC STNUs into a &ldquo;dispatchable&rdquo; form that preserves maximum flexibility while requiring minimal computation during real-time execution.  Recent advances in the theory and practice of Conditional STNs (CSTNs) and Conditional STNUs (CSTNUs) have also brought these more expressive kinds of temporal networks closer to practical application.</p>
+<p>This tutorial surveys the recent advances in temporal networks while also providing hands-on experience with a recently developed library of related algorithms implemented in the Python/Cython framework.</p>
+<h2 id="target-audience">Target Audience</h2>
+<p>This tutorial is aimed at researchers and developers interested in practical algorithms for representing and reasoning about time.  No special theoretic or algorithmic background is required.</p>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>
+<p>Simple Temporal Networks (STNs)</p>
+<ul>
+<li>Basic definitions of STN, STN graph, distance matrix, and STN consistency</li>
+<li>Brief survey of consistency-checking algorithms, including: Floyd-Warshall,</li>
+<li>Bellman-Ford, Johnson, Directed and Partial Path Consistency</li>
+<li>Dispatchability: Efficient execution of STNs in real time</li>
+<li>Python/Cython for STN algorithms</li>
+</ul>
+</li>
+<li>
+<p>Simple Temporal Networks with Uncertainty (STNUs)</p>
+<ul>
+<li>Basic definitions of STNU, STNU graph, and dynamic controllability (DC)</li>
+<li>Survey of most recent (2016-2022) DC-checking algorithms for STNUs</li>
+<li>Dispatchability for STNUs</li>
+<li>Python/Cython for STNU algorithms</li>
+</ul>
+</li>
+<li>
+<p>Extensions of STNs and STNUs</p>
+<ul>
+<li>Conditional STNs; Conditional STNs with Uncertainty</li>
+<li>Chance-Constrained Probabilistic STNs</li>
+</ul>
+</li>
+</ul>
+<h2 id="organizers">Organizers</h2>
+<h3 id="luke-hunsberger">Luke Hunsberger</h3>
+<p>Luke Hunsberger earned his B.A. and M.A. in Mathematics from the University of Oregon, and his Ph.D. in Computer Science from Harvard University.  He is currently a Professor of Computer Science at Vassar College in Poughkeepsie, NY USA, where he has been teaching and doing research since 2002.  Initially, Luke&rsquo;s research was in collaborative multi-agent systems, presenting (with Barbara Grosz) an architecture for collaboration-capable computer agents that highlighted how constraints on intentions in the group context motivated agents to participate in group decision making mechanisms.  Luke&rsquo;s interest in temporal reasoning grew out of an initial attempt to build a collaborative computer agent.  Initially, he focused on Simple Temporal Networks (STNs) and STNs with Uncertainty (STNUs), contributing both theoretical foundations and practical algorithms. Later, in joint work with Roberto Posenato (University of Verona), he published several new algorithms for managing STNUs, Conditional STNs (CSTNs) and Conditional STNUs (CSTNUs).  In addition, their  collaboration with researchers from the University of Trento led to an explication of the connections between various kinds of Temporal Networks and Timed Game Automata (TGAs).</p>
+
+		</div>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2023 ICAPS 2023.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on ICAPS 2023</title>
+    <link>https://icaps23.icaps-conference.org/program/</link>
+    <description>Recent content in Programs on ICAPS 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Apr 2023 23:10:17 +0100</lastBuildDate><atom:link href="https://icaps23.icaps-conference.org/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How hard can it be? The computational complexity of planning</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/hard/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/hard/</guid>
+      <description>How hard can it be? The computational complexity of planning Description Understanding the computational complexity of a problem is one of the first steps to understand the problem deeply. Automated planning problems are not an exception, and indeed the complexity of planning is a well studied topic in the literature of the field.
+Most people in the planning community are familiar with the seminal result by Bylander showing that classical STRIPS planning is PSPACE-complete, but the topic is far from being exhausted by this result.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/mdp_modeling/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/mdp_modeling/</guid>
+      <description>Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym Description RDDL (pronounced riddle) is the Relational Dynamic Influence Diagram Language, the domain modeling language used in the ICAPS 2011, 2014, 2018 and the current 2023 Probabilistic Planning and Reinforcement Learning track of the International Planning Competitions. RDDL has been developed to compactly model real-world stochastic planning problems, i.e., Markov Decision Processes (MDPs), and specifically factored MDPs with highly structured transition and reward functions.</description>
+    </item>
+    
+    <item>
+      <title>Model Acquisition in the Modern Era</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/model/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/model/</guid>
+      <description>Model Acquisition in the Modern Era Description This tutorial will cover some of the landmark methods in the area of planning action model acquisition that our community has produced over the years. From OBSERVER in the early 90’s to the modern forms of action-label-only LOCM techniques, we will cover both the concepts behind these approaches and grounded hands-on examples for attendees to try for themselves.
+Target Audience The content will be accessible to all those with a foundational understanding of classical planning.</description>
+    </item>
+    
+    <item>
+      <title>On the role of Large Language Models in Planning</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/llms/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/llms/</guid>
+      <description>On the role of Large Language Models in Planning Description Large Language Models (LLMs, or n-gram models on steroids) that have been trained originally to generate text by repeatedly predicting the next word in the context of a window of previous words, have captured the attention of the AI (and the world) community. Part of the reason for this is their ability to produce meaningful completions for prompts relating to almost any area of human intellectual endeavors.</description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Temporal Networks for Planning and Scheduling</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/tnetworks/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/tnetworks/</guid>
+      <description>Recent Advances in Temporal Networks for Planning and Scheduling Description Temporal networks are structures for representing and reasoning about time (e.g., in planning and scheduling applications). Different flavors of temporal networks differ in their expressiveness and the complexity of the algorithms for solving relevant problems. The most basic kind of temporal network is a Simple Temporal Network (STN). STNs have a solid theoretical foundation and numerous practical algorithms for manipulating STNs have been presented in the literature over the past 30 years.</description>
+    </item>
+    
+    <item>
+      <title>Unified Planning: A Python Library Making Planning Technology Accessible</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorials/up/</link>
+      <pubDate>Fri, 07 Apr 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorials/up/</guid>
+      <description>Unified Planning: A Python Library Making Planning Technology Accessible Description The Unified Planning framework (UP) is a Python library giving uniform access to a large variety of planning approaches and engines. It is designed around two concepts: advanced modeling primitives to express planning problems mixing declarative and procedural paradigms; and ``operation modes&#39;&#39;, which define the classes of interaction with planning engines. The library has been developed as part of the Horizon 2020 AIPlan4EU project and will at the end of the year 2023 become an independent open-source project that is free to use and extend by everyone.</description>
+    </item>
+    
+    <item>
+      <title>Doctoral consortium</title>
+      <link>https://icaps23.icaps-conference.org/program/dc/</link>
+      <pubDate>Thu, 09 Feb 2023 10:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/dc/</guid>
+      <description>ICAPS 2023 Doctoral Consortium The Doctoral Consortium (DC) is intended to give Ph.D. students the opportunity to closely interact with established researchers and get feedback on their research, provide advice on career possibilities and build a professional network, improving the cohesion of new researchers with the ICAPS community.
+The DC is open to all doctoral student attendees of the conference and will take place on July 8th (the day before ICAPS workshops and tutorials).</description>
+    </item>
+    
+    <item>
+      <title>PRL</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/prl/</link>
+      <pubDate>Wed, 08 Feb 2023 09:00:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/prl/</guid>
+      <description>Bridging the Gap Between AI Planning and Reinforcement Learning (PRL) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop While AI Planning and Reinforcement Learning communities focus on similar sequential decision-making problems, these communities remain somewhat unaware of each other on specific problems, techniques, methodologies, and evaluations.
+This workshop aims to encourage discussion and collaboration between researchers in the fields of AI planning and reinforcement learning.</description>
+    </item>
+    
+    <item>
+      <title>IntEx</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/intex/</link>
+      <pubDate>Sat, 04 Feb 2023 21:00:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/intex/</guid>
+      <description>IntEx: Integrated Acting, Planning and Execution ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Automated planners are increasingly being integrated into online acting systems. The integration may, for example, embed a domain-independent temporal planner in a manufacturing system (e.g., the Xerox printer application) or autonomous vehicles (e.g., a planetary rover or anunderwater glider). The integration may resemble something more like an &amp;ldquo;acting and planning stack&amp;rdquo; where an automated planner produces an activity or task plan that is further refined by an actor before being executed by the execution platform of the actor, such as, a reactive controller (e.</description>
+    </item>
+    
+    <item>
+      <title>PAIR</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/pair/</link>
+      <pubDate>Sat, 04 Feb 2023 21:00:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/pair/</guid>
+      <description>PAIR: Plan, Activity, and Intent Recognition 2023 ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023 http://www.planrec.org/PAIR/
+Aim and Scope of the Workshop Plan recognition, activity recognition, and intent recognition all involve making inferences about other actors from observations of their behavior, i.e., their interaction with the environment and with each other. The observed actors may be software agents, robots, or humans. This synergistic area of research combines and unifies techniques from user modeling, machine vision, intelligent user interfaces, human/computer interaction, autonomous and multi-agent systems, natural language understanding, and machine learning.</description>
+    </item>
+    
+    <item>
+      <title>HAXP</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/haxp/</link>
+      <pubDate>Fri, 03 Feb 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/haxp/</guid>
+      <description>HAXP: Human-Aware and Explainable Planning ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+We merged with the Plan, Activity, and Intent Recognition (PAIR) Workshop
+Aim and Scope of the Workshop As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems.</description>
+    </item>
+    
+    <item>
+      <title>HPlan</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/hplan/</link>
+      <pubDate>Fri, 03 Feb 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/hplan/</guid>
+      <description>Workshop on Hierarchical Planning (HPlan) 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023) Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop The motivation for using hierarchical planning formalisms is manifold. It ranges from an explicit and predefined guidance of the plan generation process and the ability to represent complex problem solving and behavior patterns to the option of having different abstraction layers when communicating with a human user or when planning co-operatively.</description>
+    </item>
+    
+    <item>
+      <title>RDDPS</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/rddps/</link>
+      <pubDate>Fri, 03 Feb 2023 23:10:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/rddps/</guid>
+      <description>Workshop on Reliable Data-Driven Planning and Scheduling ICAPS&#39;23 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Data-driven AI is the dominating trend in AI at this time. From a planning and scheduling perspective – and for sequential decision making in general – this is manifested in two major kinds of technical artifacts that are rapidly gaining importance. The first are planning models that are (partially) learned from data (e.</description>
+    </item>
+    
+    <item>
+      <title>HSDIP</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/hsdip/</link>
+      <pubDate>Thu, 02 Feb 2023 19:30:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/hsdip/</guid>
+      <description>Heuristics and Search for Domain-independent Planning (HSDIP 2023) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Heuristics and search algorithms are the two key components of heuristic search, one of the main approaches to many variations of domain-independent planning, including classical planning, temporal planning, planning under uncertainty and adversarial planning. This workshop seeks to understand the underlying principles of current heuristics and search methods, their limitations, ways for overcoming those limitations, as well as the synergy between heuristics and search.</description>
+    </item>
+    
+    <item>
+      <title>FinPlan</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/finplan/</link>
+      <pubDate>Wed, 01 Feb 2023 14:30:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/finplan/</guid>
+      <description>Planning and Scheduling for Financial Services (FinPlan&#39;23) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Planning and scheduling are mature fields in terms of base techniques and algorithms to solve goal-oriented tasks. Planning approaches have been successfully applied to many domains including classical domains (e.g., logistics and Mars rovers) and, more recently, in oil and gas as well as mining industries. Similarly, scheduling approaches have also been applied to many industrial applications.</description>
+    </item>
+    
+    <item>
+      <title>KEPS</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/keps/</link>
+      <pubDate>Wed, 01 Feb 2023 14:30:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/keps/</guid>
+      <description>Knowledge Engineering for Planning and Scheduling (KEPS 2023) 2023 Workshop on Knowledge Engineering for Planning and Scheduling Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Despite the progress in automated planning and scheduling systems, these systems still need to be fed by carefully engineered domain and problem descriptions and they need to be fine-tuned for particular domains and problems. Knowledge engineering for AI planning and scheduling deals with the acquisition, design, validation and maintenance of domain models, and the selection and optimization of appropriate machinery to work on them.</description>
+    </item>
+    
+    <item>
+      <title>PlanRob</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/planrob/</link>
+      <pubDate>Wed, 01 Feb 2023 14:30:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/planrob/</guid>
+      <description>Planning and Robotics (PlanRob 2023) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop AI Planning &amp;amp; Scheduling (P&amp;amp;S) methods are key to enabling intelligent robots to perform autonomous, flexible, and interactive behaviours. Researchers in the P&amp;amp;S community have continued to develop approaches and produce planners, representations, as well as heuristics that robotics researchers can make use of. However, there remain numerous challenges complicating the uptake, use and successful integration of P&amp;amp;S technology in robotics, many of which have been addressed by robotics researchers with novel solutions.</description>
+    </item>
+    
+    <item>
+      <title>PLATO</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/plato/</link>
+      <pubDate>Wed, 01 Feb 2023 14:30:17 +0100</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/plato/</guid>
+      <description>PLanning And onTology wOrkshop (PLATO) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop Automated Planning and Ontology are two well-established fields of Artificial Intelligence (AI). The former investigates techniques to formally model and reason about the effects of actions, and decide the combinations of actions that allow an agent to achieve goals. The latter investigates techniques to formally define knowledge (by formally describing domain entities and their interrelations), allowing agents to process information about objects, and events, and incrementally build and verify beliefs.</description>
+    </item>
+    
+    <item>
+      <title>Keynotes</title>
+      <link>https://icaps23.icaps-conference.org/program/keynotes/</link>
+      <pubDate>Thu, 29 Sep 2022 13:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/keynotes/</guid>
+      <description>ICAPS 2023 Keynotes   Hadas Kress-Gazit   On Synthesis and planning for robot behaviors  In this talk I will describe formal synthesis for robotics - creating correct-by-construction robot behaviors from high-level specification, typically given in temporal logic. I will highlight recent advances in the field, focus on how synthesis can be leveraged for providing feedback and repairing behaviors when things go wrong, and discuss the similarities and differences between synthesis and planning.</description>
+    </item>
+    
+    <item>
+      <title>List of Accepted Papers</title>
+      <link>https://icaps23.icaps-conference.org/program/accepted/</link>
+      <pubDate>Thu, 29 Sep 2022 13:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/accepted/</guid>
+      <description>List of Papers Accepted to ICAPS 2023  .paper-row { margin:0; padding: 0; margin-bottom: 1%; } .paper { width: 85%; display: inline-block; padding: 1%; margin-left: 1%; vertical-align: middle; border: solid white; } .paper:hover { width: 85%; display: inline-block; padding: 1%; margin-left: 1%; vertical-align: middle; border: solid orange; border-radius: 3%; } .shortcut { margin-bottom: 2%; margin-left: 4%; padding: 1%; display: inline-block; width: 15%; border: white solid; text-align: center; vertical-align: middle; } .</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://icaps23.icaps-conference.org/program/overview/</link>
+      <pubDate>Thu, 29 Sep 2022 13:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/overview/</guid>
+      <description>Preliminary Program Overview ICAPS 2023 Schedule at a Glance  July 7-8, 2023	International Workshop on Planning &amp;amp; Scheduling for Space (IWPSS) July 8, 2023	Doctoral Consortium July 9-10 2023	Workshops and Tutorials July 11-13 2023	Main Conference July 14-16, 2023	Symposium on Combinatorial Search (SoCS)  Additional Information about the Program   A total of 12 Workshops have been accepted to ICAPS 2023. Check the workshop page for additional information about their organization.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial Program Overview</title>
+      <link>https://icaps23.icaps-conference.org/program/tutorial_overview/</link>
+      <pubDate>Thu, 29 Sep 2022 13:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/tutorial_overview/</guid>
+      <description>Tutorial Program Overview Here is the list of the tutorials accepted to ICAPS 2023
+Tutorial Title  Organizer(s)   How hard can it be? The computational complexity of planning
+ Nicola Gigante
+  Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym
+ Scott Scanner, Ayal Taitler
+  Recent Advances in Temporal Networks for Planning and Scheduling
+ Luke Hunsberger
+  Model Acquisition in the Modern Era</description>
+    </item>
+    
+    <item>
+      <title>Workshop Program Overview</title>
+      <link>https://icaps23.icaps-conference.org/program/ws_overview/</link>
+      <pubDate>Thu, 29 Sep 2022 13:27:57 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/ws_overview/</guid>
+      <description>Workshop Program Overview Here is the list of the worskhops accepted to ICAPS 2023
+Acronym  Workshop Title  Organizer(s)   FINPLAN
+ Planning and Scheduling for Financial Services
+ Parisa Zehtabi, Alberto Pozanco, William Yeoh, Biplav Srivastava
+  HAXP
+ Human-Aware and Explainable Planning
+ Rebecca Eifler, Benjamin Krarup, Alan Lindsay, Lindsay Sanneman, Sarath Sreedharan, Silvia Tulli, Stylianos Loukas Vasileiou
+  PLATO
+ PLanning and onTology wOrkshop</description>
+    </item>
+    
+    <item>
+      <title>SPARK</title>
+      <link>https://icaps23.icaps-conference.org/program/workshops/spark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/program/workshops/spark/</guid>
+      <description>Scheduling and Planning Applications woRKshop (SPARK) ICAPS&#39;23 Workshop Prague, Czech Republic July 9-10, 2023
+Aim and Scope of the Workshop This workshop series aims to provide a stable forum on relevant topics connected to application-focused research and the deployment of P&amp;amp;S systems. The immediate legacy began in 2007 with the ICAPS&#39;07 Workshop on `Moving Planning and Scheduling Systems into the Real World’, and continued in 2008-2022 with successful yearly editions. 2023 is the 16th edition of SPARK.</description>
+    </item>
+    
+  </channel>
+</rss>
