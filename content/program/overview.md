@@ -6,8 +6,6 @@ draft: false
 
 # ICAPS 2023 Schedule
 
-## Schedule
-
 {{< schedule_json "/data/schedule.json" >}}
 
 

@@ -5,6 +5,9 @@
 			"label": "learning1",
 			"title" : "Learning 1",
 			"length" : 60,
+			"day": "July 11",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 AM (CET)",
 			"papers": [
 				{
 					"number": 215,
@@ -37,6 +40,9 @@
 			"label": "learning2",
 			"title" : "Learning 2",
 			"length" : 60,
+			"day": "July 12",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
 			"papers": [
 			
 				{
@@ -71,6 +77,9 @@
 			"label": "learning3",
 			"title" : "Learning 3 + Main Track (RL)",
 			"length" : 60,
+			"day": "July 13",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 AM (CET)",
 			"papers": [
 			
 				{
@@ -116,6 +125,9 @@
 			"label": "robotics1",
 			"title" : "Robotics 1",
 			"length" : 60,
+			"day": "July 11",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
 			"papers": [
 				{
 					"number": 5251,
@@ -148,6 +160,9 @@
 			"label": "apps1",
 			"title" : "Novel Applications 1",
 			"length" : 52.5,
+			"day": "July 12",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
 			"papers": [
 			
 				{
@@ -180,8 +195,11 @@
 		{
 			"number": 6,
 			"label": "apps2",
-			"title" : "Novel Applications 1",
+			"title" : "Novel Applications 2",
 			"length" : 52.2,
+			"day": "July 13",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
 			"papers": [
 				{
 					"number": 189,
@@ -214,8 +232,40 @@
 			"label": "main1",
 			"title" : "Main - Numeric Planning",
 			"length" : 60,
+			"day": "July 11",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 AM (CET)",
 			"papers": [
-				
+				{	
+					"number": 6666,
+					"title": "Fixing Plans for PDDL+ Problems: Theoretical and Practical Implications",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 7807,
+					"title": "Symmetry Detection and Breaking in Linear Cost-Optimal Numeric Planning",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 5640,
+					"title": "Planning over Integers: Compilations and Undecidability",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 1532,
+					"title": "Robust Metric Hybrid Planning in Stochastic Nonlinear Domains using Mathematical Optimization",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 1763,
+					"title": "Falsification of Cyber-Physical Systems Using PDDL+ Planning",
+					"type": "Short",
+					"duration": 7.5
+				}
 			]
 		},
 		{
@@ -223,44 +273,69 @@
 			"label": "main5",
 			"title" : "Main - Multi-Agent Planning",
 			"length" : 60,
+			"day": "July 12",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 AM (CET)",
 			"papers": [
-				
+				{	
+					"number": 5455,
+					"title": "Planning with Multi-agent Belief using Justified Perspectives",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 4335,
+					"title": "Deadline-Aware Multi-Agent Tour Planning",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 5858,
+					"title": "Planning for Attacker Entrapment in Adversarial Settings",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 8586,
+					"title": "Model Checking for Adversarial Multi-Agent Reinforcement Learning with Reactive Defense Methods",
+					"type": "Long",
+					"duration": 15
+				}
 			]
 		},
 		{
 			"number": 9,
-			"label": "main6",
+			"label": "main8",
 			"title" : "Main - Optimization Problems",
 			"length" : 60,
+			"day": "July 13",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 AM (CET)",
 			"papers": [
-				
-			]
-		},
-		{
-			"number": 10,
-			"label": "main11",
-			"title" : "Main - Multi-Agent Pathfinding and Search",
-			"length" : 60,
-			"papers": [
-				
-			]
-		},
-		{
-			"number": 11,
-			"label": "main6",
-			"title" : "Main - Planning Under Uncertainty",
-			"length" : 60,
-			"papers": [
-				
-			]
-		},
-		{
-			"number": 12,
-			"label": "main9",
-			"title" : "Main - Explanation and Recognition",
-			"length" : 60,
-			"papers": [
-				
+				{	
+					"number": 9354,
+					"title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6440,
+					"title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 489,
+					"title": "An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6471,
+					"title": "A Constraint Programming Solution to the Guillotine Rectangular Cutting Problem",
+					"type": "Long",
+					"duration": 15
+				}	
 			]
 		},
 		{
@@ -268,8 +343,163 @@
 			"label": "main2",
 			"title" : "Main - Classical Planning",
 			"length" : 60,
+			"day": "July 11",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
 			"papers": [
-				
+				{	
+					"number": 1065,
+					"title": "Optimality Certificates for Classical Planning",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 4882,
+					"title": "Planning for Temporally Extended Goals in Pure-Past Linear Temporal Logic",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 4269,
+					"title": "Planning with Multiple Action-Cost Estimates",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 9685,
+					"title": "A Planning Approach to Repair Domains with Incomplete Action Effects",
+					"type": "Long",
+					"duration": 15
+				}
+			]
+		},
+		{
+			"number": 11,
+			"label": "main6",
+			"title" : "Main - Planning Under Uncertainty",
+			"length" : 60,
+			"day": "July 12",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
+			"papers": [
+				{	
+					"number": 3549,
+					"title": "Safety Shielding under Delayed Observation",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 7652,
+					"title": "A Column Generation Approach to Correlated Simple Temporal Networks",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6085,
+					"title": "A Theory of Merge-and-Shrink for Stochastic Shortest Path Problems",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 640,
+					"title": "A Best-First Search Algorithm for FOND Planning and Heuristic Functions to Optimize Decompressed Solution Size",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 824,
+					"title": "Online Planning for Constrained POMDPs with Continuous Spaces through Dual Ascent",
+					"type": "Short",
+					"duration": 7.5
+				}
+			]
+		},
+		{
+			"number": 12,
+			"label": "main9",
+			"title" : "Main - Explanation and Recognition",
+			"length" : 60,
+			"day": "July 13",
+			"start": "11:40 AM (CET)",
+			"end": "12:40 PM (CET)",
+			"papers": [
+				{	
+					"number": 159,
+					"title": "Explainable Goal Recognition: A Framework Based on Weight of Evidence",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 9037,
+					"title": "Goal Recognition with Timing Information",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 3596,
+					"title": "Generalizing Action Justification and Causal Links to Policies",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 5579,
+					"title": "Adaptation and Communication in Human Robot Teaming to Handle Discrepancy in Agents' Beliefs about Plans",
+					"type": "Long",
+					"duration": 15
+				}
+			]
+		},
+		{
+			"number": 17,
+			"label": "main3",
+			"title" : "Main - Scheduling, HTN, and Lifted Planning",
+			"length" : 90,
+			"day": "July 11",
+			"start": "2:00 PM (CET)",
+			"end": "3:30 PM (CET)",
+			"papers": [
+				{	
+					"number": 9519,
+					"title": "Can They Come Together? A Computational Complexity Analysis of Conjunctive Possible Effects of Compound HTN ",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 5775,
+					"title": "On Partial Satisfaction Planning with Total-Order HTNs",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 3452,
+					"title": "Operator Pruning using Lifted Mutex Groups via Compilation on Lifted Level",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 5926,
+					"title": "Lifted Stackelberg Planning",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 5469,
+					"title": "Efficient Reasoning about Infeasible One Machine Sequencing",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6979,
+					"title": "Sensitivity Analysis for Dynamic Control of PSTNs with Skewed Distributions",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 3859,
+					"title": "Parallel Batch Processing for the Coating Problem",
+					"type": "Long",
+					"duration": 15
+				}
 			]
 		},
 		{
@@ -277,7 +507,52 @@
 			"label": "main7",
 			"title" : "Main - Classical Planning and Search",
 			"length" : 90,
+			"day": "July 12",
+			"start": "2:00 PM (CET)",
+			"end": "3:30 PM (CET)",
 			"papers": [
+				{	
+					"number": 1385,
+					"title": "On Using Action Inheritance and Modularity in PDDL Domain Modelling",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 1871,
+					"title": "Landmark Progression in Heuristic Search",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 8471,
+					"title": "Grounding Planning Tasks Using Tree Decompositions and Iterated Solving",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 322,
+					"title": "Efficient Evaluation of Large Abstractions for Decoupled Search: Merge-and-Shrink and Symbolic Pattern Databases",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 7227,
+					"title": "Computing Domain Abstractions for Optimal Classical Planning with Counterexample-Guided Abstraction Refinement",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 717,
+					"title": "Finding Matrix Multiplication Algorithms with Classical Planning",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 5860,
+					"title": "Runahead A* : Speculative Parallelism for A* with Slow Expansions",
+					"type": "Long",
+					"duration": 15
+				}
 				
 			]
 		},
@@ -286,8 +561,47 @@
 			"label": "main10",
 			"title" : "Main - Multi-Agent Pathfinding 2",
 			"length" : 90,
+			"day": "July 13",
+			"start": "2:00 PM (CET)",
+			"end": "3:30 PM (CET)",
 			"papers": [
-				
+			
+				{	
+					"number": 1852,
+					"title": "Exploiting Geometric Constraints in Multi-Agent Pathfinding",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 9776,
+					"title": "Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 9579,
+					"title": "Cost Splitting for Multi-Objective Conflict-Based Search",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 8855,
+					"title": "Multi Agent Path Finding Under Obstacle Uncertainty",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 331,
+					"title": "Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 1908,
+					"title": "Priority-Based Search for the Virtual Network Embedding Problem",
+					"type": "Long",
+					"duration": 15
+				}
 			]
 		},
 		{
@@ -295,17 +609,75 @@
 			"label": "main4",
 			"title" : "Main - Reinforcement Learning and Pathfinding",
 			"length" : 60,
+			"day": "July 11",
+			"start": "4:00 PM (CET)",
+			"end": "5:00 PM (CET)",
 			"papers": [
-				
+				{	
+					"number": 7537,
+					"title": "Planning in Multi-Agent Domains with Untruthful Announcements",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 7123,
+					"title": "Automatic Metamorphic Test Oracles for Action-Policy Testing",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6685,
+					"title": "Act-Then-Measure: Reinforcement Learning for Partially Observable Environments with Active Measuring",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 4098,
+					"title": "Convexity Hierarchies in Grid Networks",
+					"type": "Long",
+					"duration": 15
+				}	
 			]
 		},
 		{
-			"number": 17,
-			"label": "main3",
-			"title" : "Main - Scheduling, HTN, and Lifted Planning",
-			"length" : 90,
+			"number": 10,
+			"label": "main11",
+			"title" : "Main - Multi-Agent Pathfinding and Search",
+			"length" : 60,
+			"day": "July 13",
+			"start": "4:00 PM (CET)",
+			"end": "5:00 PM (CET)",
 			"papers": [
-				
+				{	
+					"number": 6129,
+					"title": "Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{	
+					"number": 9485,
+					"title": "Beyond Pairwise Reasoning in Multi-Agent Path Finding",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 1947,
+					"title": "The Small Solution Hypothesis for MAPF on Strongly Connected Directed Graphs Is True",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 6332,
+					"title": "Efficient Multi-Query Bi-Objective Search via Contraction Hierarchies",
+					"type": "Long",
+					"duration": 15
+				},
+				{	
+					"number": 4942,
+					"title": "W-restrained Bidirectional Bounded-Suboptimal Heuristic Search",
+					"type": "Short",
+					"duration": 7.5
+				}
 			]
 		},
 		{
@@ -313,7 +685,28 @@
 			"label": "journal1",
 			"title" : "Journal Track 1",
 			"length" : 90,
+			"day": "July 11",
+			"start": "4:00 PM (CET)",
+			"end": "5:00 PM (CET)",
 			"papers": [
+				{
+					"number": 100,
+					"title": "Planning with Perspectives -- Decomposing Epistemic Planning using Functional STRIPS",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 101,
+					"title": "Unavoidable deadends in deterministic partially observable contingent planning",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 102,
+					"title": "Online Learning of Variable Ordering Heuristics for Constraint Optimisation Problems",
+					"type": "Long",
+					"duration": 15
+				}
 				
 			]
 		},
@@ -322,8 +715,34 @@
 			"label": "journal2",
 			"title" : "Journal Track 2",
 			"length" : 90,
+			"day": "July 13",
+			"start": "4:00 PM (CET)",
+			"end": "5:00 PM (CET)",
 			"papers": [
-				
+				{
+					"number": 103,
+					"title": "ProSeqqo: A Generic Solver for Process Planning and Sequencing in Industrial Robotics",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 104,
+					"title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 105,
+					"title": "Multi-UAV Planning for Cooperative Wildfire Coverage and Tracking with Quality-of-Service Guarantees",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 106,
+					"title": "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles",
+					"type": "Long",
+					"duration": 15
+				}
 			]
 		}
 	]

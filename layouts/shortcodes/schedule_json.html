@@ -203,7 +203,7 @@ body {
 <div class="calendar">
 
   <div class="timeline">
-    <div class="spacer" style="padding: 20%;">UTC</div>
+    <div class="spacer" style="padding: 20%;">CET</div>
     <div class="time-marker"> 9:00 AM</div>
     	    	<div></div>
 <!--    <div class="time-marker">10:00 AM</div>-->
@@ -437,9 +437,18 @@ body {
 {{ range $session := $data.sessions }}
 
 	<div style="margin: 0; margin-bottom: 3%; padding: 0;">
+	
+		<div style="width: 100%; background-color: orange; padding: 2%;">
 
-		<div style="width: 100%; background-color: orange; padding: 2%; font-weight: bold;">
-			<a name="{{ $session.label }}" href="#{{ $session.label }}" style="color:black">{{ print $session.title }}</a>
+			<div style="display:inline-block; width: 38%; font-weight: bold;">
+				<a name="{{ $session.label }}" href="#{{ $session.label }}" style="color:black">{{ print $session.title }}</a>
+			</div>
+			
+			<div style="display:inline-block; width: 60%; text-align:right;">
+			
+				{{ print $session.day }} | {{ print $session.start }} - {{ print $session.end }}
+			</div>
+			
 		</div>
 		
 		<div style="width: 100%;">
