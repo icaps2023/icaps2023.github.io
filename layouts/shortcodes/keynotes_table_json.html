@@ -10,7 +10,7 @@
 
 <div style="display: inline-block; width: 70%;  padding-left: 2%;">
 	<div>
-		<h2 style="color: orange">{{ print $keynote.name }} </h2>
+		<h2 style="color: orange"><a name="{{ print $keynote.label }}" href="#{{ print $keynote.label}}">{{ print $keynote.name }}</a></h2>
 	</div>
 	<div style="padding-left: 1%">
 	 	<h3>{{ print $keynote.title }}</h3>

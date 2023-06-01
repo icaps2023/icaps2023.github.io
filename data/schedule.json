@@ -1,0 +1,331 @@
+{
+	"sessions": [
+		{
+			"number": 1,
+			"label": "learning1",
+			"title" : "Learning 1",
+			"length" : 60,
+			"papers": [
+				{
+					"number": 215,
+					"title": "Reinforcement Learning for Omega-Regular Specifications on Continuous-Time MDP",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 7212,
+					"title": "Exploration Policies for On-the-fly Controller Synthesis: a Reinforcement Learning Approach",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 473,
+					"title": "An End-to-End Reinforcement Learning Approach for Job-Shop Scheduling Problems Based on Constraint Programming",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 4629,
+					"title": "Deceptive Reinforcement Learning in Model-Free Domains",
+					"type": "Long",
+					"duration": 15
+				}
+			]
+		},
+		{
+			"number": 2,
+			"label": "learning2",
+			"title" : "Learning 2",
+			"length" : 60,
+			"papers": [
+			
+				{
+					"number": 3161,
+					"title": "Imitation Improvement Learning for Large-scale Capacitated Vehicle Routing Problems",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 4148,
+					"title": "Timed Partial Order Inference Algorithm",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 9143,
+					"title": "Goal Recognition as a Deep Learning Task: the GRNet Approach",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 9210,
+					"title": "Safe MDP Planning by Learning Temporal Patterns of Undesirable Trajectories and Averting Negative Side Effects",
+					"type": "Long",
+					"duration": 15
+				}
+				
+			]
+		},
+		{
+			"number": 3,
+			"label": "learning3",
+			"title" : "Learning 3 + Main Track (RL)",
+			"length" : 60,
+			"papers": [
+			
+				{
+					"number": 1299,
+					"title": "Fast and Robust Resource-Constrained Scheduling with Graph Neural Networks",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 7581,
+					"title": "Learning Local Heuristics for Search-Based Navigation Planning",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{
+					"number": 1564,
+					"title": "Automaton-guided Curriculum Generation for Reinforcement Learning Agents",
+					"type": "Long",
+					"duration": 15 
+				},
+				{
+					"number": 7324,
+					"title": "Task Phasing: Automated Curriculum Learning from Demonstrations",
+					"type": "Long",
+					"duration": 15 
+				},
+				
+				
+				
+				
+				
+				{
+					"number": 2921,
+					"title": "Improving Zero-Shot Coordination Performance Based on Policy Similarity",
+					"type": "Short",
+					"duration": 7.5
+				}
+				
+			]
+		},
+		{
+			"number": 4,
+			"label": "robotics1",
+			"title" : "Robotics 1",
+			"length" : 60,
+			"papers": [
+				{
+					"number": 5251,
+					"title": "Planning for Automated Testing of Implicit Constraints in Behavior Trees",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 7001,
+					"title": "Understanding Natural Language in Context",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 349,
+					"title": "Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 6364,
+					"title": "Planning for Manipulation Among Movable Objects: Deciding Which Objects Go Where, In What Order, And How",
+					"type": "Long",
+					"duration": 15
+				}
+			]
+		},
+		{
+			"number": 5,
+			"label": "apps1",
+			"title" : "Novel Applications 1",
+			"length" : 52.5,
+			"papers": [
+			
+				{
+					"number": 1388,
+					"title": "Heuristic Search For Physics-Based Problems: Angry Birds in PDDL+",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 529,
+					"title": "Solving the Multi-Choice Two Dimensional Shelf Strip Packing Problem with Time Windows",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 2500,
+					"title": "Combining Clinical and Spatial Constraints into Temporal Planning to Personalize Physical Rehabilitation",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": -1,
+					"title": "Modeling and Solving Parallel Machine Scheduling with Contamination Constraints in the Agricultural Industry",
+					"type": "Abstract",
+					"duration": 7.5
+				}
+				
+			]
+		},
+		{
+			"number": 6,
+			"label": "apps2",
+			"title" : "Novel Applications 1",
+			"length" : 52.2,
+			"papers": [
+				{
+					"number": 189,
+					"title": "Dynamic Weight Setting for Personnel Scheduling with Many Objectives",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 6700,
+					"title": "Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children",
+					"type": "Long",
+					"duration": 15
+				},
+				{
+					"number": 5733,
+					"title": "Combining Heuristic Search and Linear Programming to Compute Realistic Financial Plans",
+					"type": "Short",
+					"duration": 7.5
+				},
+				{
+					"number": 6492,
+					"title": "Moving trains like pebbles: a feasibility study on tree yards",
+					"type": "Long",
+					"duration": 15
+				}
+			]
+		},
+		{
+			"number": 7,
+			"label": "main1",
+			"title" : "Main - Numeric Planning",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 8,
+			"label": "main5",
+			"title" : "Main - Multi-Agent Planning",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 9,
+			"label": "main6",
+			"title" : "Main - Optimization Problems",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 10,
+			"label": "main11",
+			"title" : "Main - Multi-Agent Pathfinding and Search",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 11,
+			"label": "main6",
+			"title" : "Main - Planning Under Uncertainty",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 12,
+			"label": "main9",
+			"title" : "Main - Explanation and Recognition",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 13,
+			"label": "main2",
+			"title" : "Main - Classical Planning",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 14,
+			"label": "main7",
+			"title" : "Main - Classical Planning and Search",
+			"length" : 90,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 15,
+			"label": "main10",
+			"title" : "Main - Multi-Agent Pathfinding 2",
+			"length" : 90,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 16,
+			"label": "main4",
+			"title" : "Main - Reinforcement Learning and Pathfinding",
+			"length" : 60,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 17,
+			"label": "main3",
+			"title" : "Main - Scheduling, HTN, and Lifted Planning",
+			"length" : 90,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 100,
+			"label": "journal1",
+			"title" : "Journal Track 1",
+			"length" : 90,
+			"papers": [
+				
+			]
+		},
+		{
+			"number": 101,
+			"label": "journal2",
+			"title" : "Journal Track 2",
+			"length" : 90,
+			"papers": [
+				
+			]
+		}
+	]
+}
+
