@@ -100,7 +100,7 @@ Contact: spark2023@easychair.org
 [9:00 - 9:15] - Workshop Open
 ---
 [9:15 - 10:30] - **First session**
- - "Supporting Decision-Making for City Management through Automated Planning and Execution". Riccardo De Benedictis, Gloria Beraldo, Amedeo Cesta and Gabriella Cortellessa.
+ - "Modelling the Spread of COVID-19 in Indoor Spaces using Automated Probabilistic Planning". Mohamed Harmanani.
  - "PARIS: Planning Algorithms for Reconfiguring Independent Sets". Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers and David Speck.
  - "Planning for Proofs". Alice Petrov and Christian Muise.
 ---
@@ -112,7 +112,7 @@ Contact: spark2023@easychair.org
 [12:30-2:15] Lunch
 ---
 [2:15 - 3:30] - **Second session**
- - "Modelling the Spread of COVID-19 in Indoor Spaces using Automated Probabilistic Planning". Mohamed Harmanani.
+ - "Supporting Decision-Making for City Management through Automated Planning and Execution". Riccardo De Benedictis, Gloria Beraldo, Amedeo Cesta and Gabriella Cortellessa.
  - "Using Planning to Construct Code Reuse Attacks in Obfuscated Programs". Naiqian Zhang, Daroc Alden, Dongpeng Xu, Shuai Wang, Trent Jaeger and Wheeler Ruml.
  - "Towards Rolling Stock Preventive Maintenance Scheduling - Short-term Scheduling Optimisation". Hassna Louadah, Thomas Leo McCluskey, Gareth Tucker and Emmanouil Papadakis.
 ---
