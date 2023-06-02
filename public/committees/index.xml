@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Committees on ICAPS 2023</title>
+    <link>https://icaps23.icaps-conference.org/committees/</link>
+    <description>Recent content in Committees on ICAPS 2023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Feb 2023 23:38:14 +0200</lastBuildDate><atom:link href="https://icaps23.icaps-conference.org/committees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program Committee</title>
+      <link>https://icaps23.icaps-conference.org/committees/program_committees/</link>
+      <pubDate>Sat, 04 Feb 2023 23:38:14 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/committees/program_committees/</guid>
+      <description>ICAPS&#39;23 Committee   Senior Program Committee    Chris Beck, University of Toronto	 Pascal Bercher, Australian National University	 Sara Bernardini, Royal Holloway, University of London	 Susanne Biundo, University of Ulm	 Ronen Brafman, Ben-Gurion University	 Andrew Coles, King&amp;#39;s College London	 Hector Geffner, ICREA &amp;amp; Universitat Pompeu Fabra	 Erez Karpas, Technion	 Michael Katz, IBM	 Hoong Chuin Lau, Singapore Management University	 Thomas McCluskey, University of Huddersfield	 Felipe Meneguzzi, University of Aberdeen	 Andrea Micheli, Fondazione Bruno Kessler	 Christian Muise, Queen&amp;#39;s University	 Cédric Pralet, ONERA Toulouse	 Marco Roveri, University of Trento	 Gabriele Röger, University of Basel	 Guy Shani, Ben Gurion University	 Shirin Sohrabi, IBM	 Siddharth Srivastava, Arizona State University	 Neil Yorke-Smith, Delft University of Technology	 Hankz Hankui Zhuo, Sun Yat-sen University	     Program Committee    Vaneet Aggarwal, Purdue University	 Diego Aineto Garcia, University of Brescia	 Zlatan Ajanovic, TU Delft	 Alexandre Albore, ONERA	 Ron Alford, MITRE Corporation	 Bo An, Nanyang Technological University	 Siddharth Aravindan, National University of Singapore	 Masataro Asai, IBM	 Dor Atzmon, Royal Holloway, University of London	 Iman Awaad, Hochschule Bonn-Rhein-Sieg University of Applied Sciences	 Laura Barbulescu, Carnegie Mellon University	 Gregor Behnke, University of Amsterdam	 J.</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://icaps23.icaps-conference.org/committees/organizers/</link>
+      <pubDate>Thu, 29 Sep 2022 13:38:14 +0200</pubDate>
+      
+      <guid>https://icaps23.icaps-conference.org/committees/organizers/</guid>
+      <description>Conference Organisers   Conference Chairs    Roman Barták, Charles University, Czech Republic  AndreA Orlandini, CNR-ISTC, Italy      Program Chairs    Sven Koenig, USC, USA  Roni Stern, Ben Gurion University, Israel  Mauro Vallati, University of Huddersfield, UK      Local Arrangements Chair    Milena Zeithamlová, Action M Agency, Czech Republic      Robotics Track Chairs    Tim Niemueller, Intrinsic Innovation, Germany  Ron Petrick, Heriot-Watt University, UK      Industry and Applications Track Chairs    Daniel Harabor, Monash University, Australia  Hana Rudová, Masaryk University, Czech Republic      Planning and Learning Track Chairs    Alan Fern, Oregon State University, USA  Eva Onaindia, UPV, Spain      Journal Track    Sebastian Sardina, RMIT University, Australia  Laura Barbulescu, Carnegie Mellon University, USA      System Demo Chairs    Tiago S.</description>
+    </item>
+    
+  </channel>
+</rss>

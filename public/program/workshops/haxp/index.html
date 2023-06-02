@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>HAXP - ICAPS 2023</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div id="banner-main" class="logo logo--mixed">
+		<a class="logo__link" href="/home" title="The 33rd International Conference" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/icapslogo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">The 33rd International Conference</div>
+					<div class="logo__title">on Automated Planning and Scheduling</div>
+					<div class="logo__tagline">Prague, Czech Republic, July 8-13, 2023</div>
+				</div>
+		</a>
+	</div>
+
+		
+<nav class="menu">
+  <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+    <span class="menu__btn-title" tabindex="-1">Menu</span>
+  </button>
+  <ul class="menu__list">
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/home">
+        
+          <span class="menu__text">Home</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/dates">
+        
+          <span class="menu__text">Dates</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Attending</span>
+        <label class="drop-icon" for="Attending">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Attending">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/venue">
+			    
+			    <span class="menu__text">Venue</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/travel">
+			    
+			    <span class="menu__text">Travel Information</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/registration">
+			    
+			    <span class="menu__text">Registration</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/accommodation">
+			    
+			    <span class="menu__text">Accommodation</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/students">
+			    
+			    <span class="menu__text">Student Support</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Calls</span>
+        <label class="drop-icon" for="Calls">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Calls">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/main_track">
+			    
+			    <span class="menu__text">Main Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/application_track">
+			    
+			    <span class="menu__text">Application Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/learning_track">
+			    
+			    <span class="menu__text">Learning Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/robotics_track">
+			    
+			    <span class="menu__text">Robotics Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/journal_track">
+			    
+			    <span class="menu__text">Journal Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/workshop_call">
+			    
+			    <span class="menu__text">Call for Workshop Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/tutorial_call">
+			    
+			    <span class="menu__text">Call for Tutorial Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/demo_track">
+			    
+			    <span class="menu__text">System Demonstrations</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/partnership_call">
+			    
+			    <span class="menu__text">Call for Partnership</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/competitions">
+        
+          <span class="menu__text">Competitions</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/submissions">
+        
+          <span class="menu__text">Submissions</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Program</span>
+        <label class="drop-icon" for="Program">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Program">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/overview">
+			    
+			    <span class="menu__text">Program Overview</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/accepted">
+			    
+			    <span class="menu__text">Accepted Papers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/keynotes">
+			    
+			    <span class="menu__text">Keynotes</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/ws_overview">
+			
+			<span class="menu__text">Workshops</span>
+			<label class="drop-icon" for="Workshops">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Workshops">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/keps">
+				    
+				    <span class="menu__text">KEPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/finplan">
+				    
+				    <span class="menu__text">FinPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/haxp">
+				    
+				    <span class="menu__text">HAXP</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/plato">
+				    
+				    <span class="menu__text">PLATO</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/prl">
+				    
+				    <span class="menu__text">PRL</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/rddps">
+				    
+				    <span class="menu__text">RDDPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hplan">
+				    
+				    <span class="menu__text">HPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/spark">
+				    
+				    <span class="menu__text">SPARK</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/planrob">
+				    
+				    <span class="menu__text">PlanRob</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/intex">
+				    
+				    <span class="menu__text">IntEx</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/pair">
+				    
+				    <span class="menu__text">PAIR</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hsdip">
+				    
+				    <span class="menu__text">HSDIP</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/tutorial_overview">
+			
+			<span class="menu__text">Tutorials</span>
+			<label class="drop-icon" for="Tutorials">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Tutorials">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/mdp_modeling">
+				    
+				    <span class="menu__text">Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/hard">
+				    
+				    <span class="menu__text">How hard can it be? The computational complexity of planning</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/tnetworks">
+				    
+				    <span class="menu__text">Recent Advances in Temporal Networks for Planning and Scheduling</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/model">
+				    
+				    <span class="menu__text">Model Acquisition in the Modern Era</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/up">
+				    
+				    <span class="menu__text">Unified Planning: A Python Library Making Planning Technology Accessible</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/llms">
+				    
+				    <span class="menu__text">On the role of Large Language Models in Planning</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Committees</span>
+        <label class="drop-icon" for="Committees">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Committees">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/organizers">
+			    
+			    <span class="menu__text">Organizers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/program_committees">
+			    
+			    <span class="menu__text">Program Committee</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/code_of_conduct">
+        
+          <span class="menu__text">Code of Conduct</span>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+	</div>
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<div class="content post__content clearfix">
+			<h1 id="haxp-human-aware-and-explainable-planning">HAXP: Human-Aware and Explainable Planning</h1>
+<p>ICAPS'23 Workshop <br>
+Prague, Czech Republic <br>
+July 9-10, 2023</p>
+<p><strong>We merged with the Plan, Activity, and Intent Recognition (<a href="../pair">PAIR</a>) Workshop</strong></p>
+<h2 id="aim-and-scope-of-the-workshop">Aim and Scope of the Workshop</h2>
+<p>As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: <a href="http://xaip.mybluemix.net">HAXP</a></p>
+<h2 id="list-of-accepted-papers">List of Accepted Papers</h2>
+<ul>
+<li><strong>Explanation Framework for Optimization-Based Scheduling: Evaluating Contributions of Constraints and Parameters by Shapley Values</strong> |
+Yuta Tsuchiya, Masaki Hamamoto</li>
+<li><strong>Comparing AI planning algorithms with humans on the Tower of London task</strong> | Chenyuan Zhang, Nir Lipovetzky, Charles Kemp</li>
+<li><strong>TIPs: Transparency Information Pacts</strong> | Phillip Walker, Ugur Kuter, Christopher A Miller, Helen Wauck, Matthew DeHaven, Christopher Geib</li>
+<li><strong>Specifying Goals to Deep Neural Networks with Answer Set Programming</strong> | Forest Agostinelli</li>
+<li><strong>DR-HAI: Argumentation-based Dialectical Reconciliation in Human-AI Interactions</strong> | Stylianos Loukas Vasileiou, Ashwin Kumar, William Yeoh</li>
+<li><strong>Action Policy Explanations in Oversubscription Planning</strong> | Aleena Siji, Rebecca Eifler, Daniel Fišer, Jörg Hoffmann</li>
+<li><strong>Learning and Recognizing Human Behaviour with Relational Decision Trees</strong> | Stanislav Sitanskiy, Laura Sebastia, Eva Onaindia</li>
+<li><strong>Formal Explanations of Neural Network Policies for Planning</strong> | Renee Selvey, Alban Grastien, Sylvie Thiebaux</li>
+<li><strong>Towards Human-Aware AI via Planning with Epistemic Preferences</strong> | Toryn Q. Klassen, Christian Muise, Sheila A. McIlraith</li>
+<li><strong>Outcome Prediction and Explainability for Mission Operations of Autonomous Spacecraft</strong> | Alberto Candela, Tiago Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi, Rebecca Castano</li>
+<li><strong>Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning</strong> | Juan Carlos Saborío and Joachim Hertzberg</li>
+<li><strong>Recognizing Hierarchical Plans via Earley Parsing</strong> | Kristýna Pantůčková and Roman Barták</li>
+<li><strong>Bridging the Gap between Structural and Semantic Similarity in Diverse Planning</strong> | Joan Espasa Arxer, Ian Gent, Alice Toniolo and Mustafa Abdelwahed</li>
+</ul>
+<h2 id="workshop-schedule">Workshop Schedule</h2>
+<p>You can find the schedule here: <a href="http://xaip.mybluemix.net/2023">HAXP Schedule</a></p>
+<h2 id="topics-of-interest">Topics of Interest</h2>
+<p>The workshop includes - but is not limited to - the following topics:</p>
+<ul>
+<li>Human-aware planning, scheduling, and execution.</li>
+<li>Human monitoring, plan &amp; goal recognition, and behavior prediction.</li>
+<li>Mixed-initiative planning and scheduling systems.</li>
+<li>Learning methods for planning/scheduling in the presence of humans.</li>
+<li>Explanations of behavior in sequential decision-making/decision-support.</li>
+<li>Explanation of scheduling/allocation decisions to human stakeholders.</li>
+<li>Improving interpretability and explainability of AI planning/scheduling systems.</li>
+<li>Generating predictable and interpretable behavior.</li>
+<li>Methods for reward, goal, preference, or constraint specification for reinforcement learning agents.</li>
+<li>Creating interpretable and adaptive user interfaces for planning/scheduling systems.</li>
+<li>Proactive assistance and decision-support in human-AI collaborative scenarios.</li>
+<li>Cognitive modeling, social interaction, and theory of mind.</li>
+<li>Safety, ethics, fairness, transparency and responsible behavior generation in the context of planning/scheduling systems.</li>
+<li>Representation and acquisition of human behavioral models.</li>
+<li>Theories and applications of human behavior models.</li>
+<li>Trust, communication, and collaboration in human-AI teams.</li>
+<li>Benchmarking planning/scheduling domains for human-AI interaction.</li>
+</ul>
+<h2 id="important-dates">Important Dates</h2>
+<ul>
+<li>Paper submission deadline: <strong>March 31 UTC-12 (EXTENDED)</strong></li>
+<li>Notification of acceptance: May 01 UTC-12</li>
+<li>Camera-ready paper submissions: TBD</li>
+<li>Workshop date: TBD (July 8-13)</li>
+</ul>
+<h2 id="submission-details">Submission Details</h2>
+<p>We invite submissions of the following types:</p>
+<ul>
+<li>Full technical papers making an original contribution; up to 9 pages including references.</li>
+<li>Short technical papers making an original contribution; up to 5 pages including references.</li>
+<li>Position papers proposing HAXP challenges, outlining HAXP ideas, debating issues relevant to HAXP; up to 5 pages including references.</li>
+</ul>
+<p>Submissions will be hosted on <a href="https://openreview.net/group?id=icaps-conference.org/ICAPS/2023/Workshop/HAXP">OpenReview</a></p>
+<p>Papers must be prepared according to the instructions for ICAPS 2023 (in AAAI format) available at: <a href="https://www.aaai.org/Publications/Templates/AuthorKit23.zip">Paper template</a></p>
+<p>Authors who are considering submitting to the workshop papers rejected from the main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.</p>
+<p>Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, the significance of the contribution, and technical quality. Authors can select if they want their submissions to be single-blind or double-blind.</p>
+<p>The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper.</p>
+<p>At least one author of each accepted paper must attend the workshop in order to present the paper. All participants need to register to the main ICAPS conference. There will be no separate registration required.</p>
+<p>We are excited that ICAPS is going to be a physical conference this year. However, we understand that not everyone will be able to travel to Prague, due to factors such as personal health or travel restrictions. Although not guaranteed yet, there might be limited support for remote presentations for those who cannot attend the in-person event.</p>
+<h2 id="organizing-committee">Organizing Committee</h2>
+<ul>
+<li><a href="http://fai.cs.uni-saarland.de/eifler/">Rebecca Eifler</a> | Saarland University</li>
+<li><a href="https://uk.linkedin.com/in/benjamin-krarup">Benjamin Krarup</a> | King’s College London</li>
+<li><a href="https://researchportal.hw.ac.uk/en/persons/alan-lindsay">Alan Lindsay</a>| Heriot-Watt University</li>
+<li><a href="https://www.lindsaysanneman.com/">Lindsay Sanneman</a> | King’s College London</li>
+<li><a href="http://sarathsreedharan.com/">Sarath Sreedharan</a> | Colorado State University</li>
+<li><a href="https://silviatulli.com/">Silvia Tulli</a> | Técnico</li>
+<li><a href="https://thestlucas.com/">Stylianos Loukas Vasileiou</a> | Washington University in St. Louis</li>
+</ul>
+<h2 id="steering-committee">Steering Committee</h2>
+<ul>
+<li><a href="https://www.nasa.gov/content/jeremy-frank">Jeremy Frank</a> | NASA</li>
+<li><a href="https://il.linkedin.com/in/claudiagoldman">Claudia Goldman</a> | General Motors</li>
+<li><a href="http://fai.cs.uni-saarland.de/hoffmann/">Jörg Hoffmann</a>| Saarland University</li>
+<li><a href="https://rakaposhi.eas.asu.edu/">Subbarao Kambhampati</a> | Arizona State University</li>
+<li><a href="http://psresearch.xyz/">David Smith</a> | PS Research</li>
+<li><a href="https://sites.wustl.edu/wyeoh/">William Yeoh</a> | Washington University in St. Louis</li>
+</ul>
+
+		</div>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2023 ICAPS 2023.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

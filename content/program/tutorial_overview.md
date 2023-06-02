@@ -64,6 +64,15 @@ Here is the list of the tutorials accepted to ICAPS 2023
  		<p>Andrea Micheli, Arthur Bit-Monnot, Gabriele Röger, Sebastian Stock</p>
  	</div>
  </div>
+ 
+ <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 50%;">
+ 		<p><a href="/program/tutorials/llms" target="_blank">On the role of Large Language Models in Planning</a></p>
+ 	</div>
+ 	<div style="display:inline-block; width: 49%;">
+ 		<p>Subbarao Kambhampati, Karthik Valmeekam, Matthew Marquez, Lin Guan</p>
+ 	</div>
+ </div>
 
 </div>
 

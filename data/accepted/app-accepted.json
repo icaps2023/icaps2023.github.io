@@ -47,5 +47,13 @@
   "track name": "NovelApps",
   "title": "Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children",
   "authors": "Saad Khan, Simon Parkinson, Monika Roopak, Rachel Armitage and Andrew Barlow"
+ },
+ {
+  "number": 8,
+  "track number": 2,
+  "track name": "NovelApps",
+  "title": "Modeling and Solving Parallel Machine Scheduling with Contamination Constraints in the Agricultural Industry",
+  "authors": "Felix Winter, Sebastian Meiswinkel, Nysret Musliu, Daniel Walkiewicz",
+  "paper": "/papers/icaps23_industry_paper8.pdf"
  }
 ]

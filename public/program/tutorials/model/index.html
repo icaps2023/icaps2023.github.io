@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Model Acquisition in the Modern Era - ICAPS 2023</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div id="banner-main" class="logo logo--mixed">
+		<a class="logo__link" href="/home" title="The 33rd International Conference" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/img/icapslogo.png">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">The 33rd International Conference</div>
+					<div class="logo__title">on Automated Planning and Scheduling</div>
+					<div class="logo__tagline">Prague, Czech Republic, July 8-13, 2023</div>
+				</div>
+		</a>
+	</div>
+
+		
+<nav class="menu">
+  <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+    <span class="menu__btn-title" tabindex="-1">Menu</span>
+  </button>
+  <ul class="menu__list">
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/home">
+        
+          <span class="menu__text">Home</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/dates">
+        
+          <span class="menu__text">Dates</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Attending</span>
+        <label class="drop-icon" for="Attending">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Attending">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/venue">
+			    
+			    <span class="menu__text">Venue</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/travel">
+			    
+			    <span class="menu__text">Travel Information</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/registration">
+			    
+			    <span class="menu__text">Registration</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/accommodation">
+			    
+			    <span class="menu__text">Accommodation</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/attending/students">
+			    
+			    <span class="menu__text">Student Support</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Calls</span>
+        <label class="drop-icon" for="Calls">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Calls">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/main_track">
+			    
+			    <span class="menu__text">Main Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/application_track">
+			    
+			    <span class="menu__text">Application Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/learning_track">
+			    
+			    <span class="menu__text">Learning Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/robotics_track">
+			    
+			    <span class="menu__text">Robotics Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/journal_track">
+			    
+			    <span class="menu__text">Journal Track</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/workshop_call">
+			    
+			    <span class="menu__text">Call for Workshop Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/tutorial_call">
+			    
+			    <span class="menu__text">Call for Tutorial Proposals</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/demo_track">
+			    
+			    <span class="menu__text">System Demonstrations</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/calls/partnership_call">
+			    
+			    <span class="menu__text">Call for Partnership</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/competitions">
+        
+          <span class="menu__text">Competitions</span>
+        
+      </a>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/submissions">
+        
+          <span class="menu__text">Submissions</span>
+        
+      </a>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Program</span>
+        <label class="drop-icon" for="Program">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Program">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/overview">
+			    
+			    <span class="menu__text">Program Overview</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/accepted">
+			    
+			    <span class="menu__text">Accepted Papers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/dc">
+			    
+			    <span class="menu__text">Doctoral Consortium</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/program/keynotes">
+			    
+			    <span class="menu__text">Keynotes</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/ws_overview">
+			
+			<span class="menu__text">Workshops</span>
+			<label class="drop-icon" for="Workshops">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Workshops">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/keps">
+				    
+				    <span class="menu__text">KEPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/finplan">
+				    
+				    <span class="menu__text">FinPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/haxp">
+				    
+				    <span class="menu__text">HAXP</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/plato">
+				    
+				    <span class="menu__text">PLATO</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/prl">
+				    
+				    <span class="menu__text">PRL</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/rddps">
+				    
+				    <span class="menu__text">RDDPS</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hplan">
+				    
+				    <span class="menu__text">HPlan</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/spark">
+				    
+				    <span class="menu__text">SPARK</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/planrob">
+				    
+				    <span class="menu__text">PlanRob</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/intex">
+				    
+				    <span class="menu__text">IntEx</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/pair">
+				    
+				    <span class="menu__text">PAIR</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/workshops/hsdip">
+				    
+				    <span class="menu__text">HSDIP</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+        	<li class="menu__item menu__dropdown">
+		      <a class="menu__link" href="/program/tutorial_overview">
+			
+			<span class="menu__text">Tutorials</span>
+			<label class="drop-icon" for="Tutorials">▾</label>
+			
+		      </a>
+		      <input type="checkbox" id="Tutorials">
+		      <ul class="submenu__list">
+			
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/mdp_modeling">
+				    
+				    <span class="menu__text">Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/hard">
+				    
+				    <span class="menu__text">How hard can it be? The computational complexity of planning</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/tnetworks">
+				    
+				    <span class="menu__text">Recent Advances in Temporal Networks for Planning and Scheduling</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/model">
+				    
+				    <span class="menu__text">Model Acquisition in the Modern Era</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/up">
+				    
+				    <span class="menu__text">Unified Planning: A Python Library Making Planning Technology Accessible</span>
+				    
+				  </a>
+				  </li>
+			  
+        			<li class="menu__item">
+				  <a class="menu__link" href="/program/tutorials/llms">
+				    
+				    <span class="menu__text">On the role of Large Language Models in Planning</span>
+				    
+				  </a>
+				  </li>
+			  
+			</ul>
+		</li>
+          
+        
+      </ul>
+    </li>
+    <li class="menu__item menu__dropdown">
+      <a class="menu__link" href="">
+        
+        <span class="menu__text">Committees</span>
+        <label class="drop-icon" for="Committees">▾</label>
+        
+      </a>
+      <input type="checkbox" id="Committees">
+      <ul class="submenu__list">
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/organizers">
+			    
+			    <span class="menu__text">Organizers</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+        
+		<li class="menu__item">
+			  <a class="menu__link" href="/committees/program_committees">
+			    
+			    <span class="menu__text">Program Committee</span>
+			    
+			  </a>
+		</li>
+          
+          	
+          
+        
+      </ul>
+    </li>
+    
+    
+    <li class="menu__item">
+      <a class="menu__link" href="/code_of_conduct">
+        
+          <span class="menu__text">Code of Conduct</span>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+	</div>
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<div class="content post__content clearfix">
+			<h1 id="model-acquisition-in-the-modern-era">Model Acquisition in the Modern Era</h1>
+<h2 id="description">Description</h2>
+<p>This tutorial will cover some of the landmark methods in the area of planning action model acquisition that our community has produced over the years. From OBSERVER in the early 90’s to the modern forms of action-label-only LOCM techniques, we will cover both the concepts behind these approaches and grounded hands-on examples for attendees to try for themselves.</p>
+<p><img src="https://mulab.ai/img/projects/macq/treemap.png" alt="Treemap"></p>
+<h2 id="target-audience">Target Audience</h2>
+<p>The content will be accessible to all those with a foundational understanding of classical planning. Familiarity with propositional logic will an asset, but not essential. For the hands-on portion, access to a laptop will also be necessary.</p>
+<h2 id="outline">Outline</h2>
+<p>The tutorial will focus on a handful of the most impactful model acquisition techniques over the years, selected from those we have successfully reproduced in the MACQ software framework. This will amount to some subset of OBSERVER, SLAF, ARMS, AMDN, and LOCM. The half-day tutorial will be divided into two equal parts, likely interleaved to continuously offer attendees the opportunity to see the concepts demonstrated on real data.</p>
+<h3 id="concepts">Concepts</h3>
+<p>The first core component will be a traditional tutorial on the model acquisition techniques directly. Initial motivation on the need to analyze discrete sequential data will be given, focusing heavily on application areas such as embodied robotics and business process mining. Following this, the suite of techniques, in increasing difficulty, will be described.</p>
+<h3 id="hands-on">Hands-on</h3>
+<p>After each module covering a new model acquisition technique, we will turn to hands-on exploration of the method in the <a href="https://macq.planning.domains/">MACQ framework</a>. A development environment for using MACQ is already realized through a combination of the MACQ software and the <a href="https://hub.docker.com/r/aiplanning/planutils">planutils Docker image</a>. This will allow participants to quickly start playing around with the methods they are learning about, with nothing more than a laptop that has Docker installed.</p>
+<p><img src="https://mulab.ai/img/projects/macq/extraction.png" alt="Model Extraction"></p>
+<h2 id="organizers">Organizers</h2>
+<h3 id="christian-muise">Christian Muise</h3>
+<p>Christian is an Assistant Professor at Queen’s University in Kingston, Canada. He completed my PhD under the supervision of Professors Sheila McIlraith and J. Christopher Beck in the area of Automated Planning, with the Knowledge Representation and Reasoning Group at the University of Toronto. Following his PhD, Christian was a post-doc for two years with the University of Melbourne’s Agentlab studying techniques for multi-agent planning with a project on human-agent collaboration, and then subsequently a Research Fellow with the MERS group at MIT’s CSAIL. Just prior to joining Queen’s Christian was a Research Staff Member for two years at the MIT-IBM Watson AI Lab.</p>
+<h3 id="tathagata-chakraborti">Tathagata Chakraborti</h3>
+<p>Tathagata is a Research Staff Member at IBM Research AI in the AI Composition Lab, Cambridge (MA). His research interests include human-AI interaction, especially planning and collaborative decision-making with humans in the loop, with applications in human-agent teaming and decision support.</p>
+
+		</div>
+	</article>
+</main>
+
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2023 ICAPS 2023.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>
