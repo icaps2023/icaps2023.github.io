@@ -61,20 +61,20 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 ## List of Accepted Papers
 
 - [Partial Grounding in Planning using Small Language Models](./KEPS-23_paper_1243.pdf), Felipe Areces, Benjamin Ocampo, Carlos Areces, Martin Dominguez and Daniel Gnad.
-- Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees, Michael Welt, Birte Glimm and Milene Santos-Teixeira.
-- Towards a Framework for Intelligent Urban Traffic Routing, Matyas Svadlenka and Lukas Chrpa.
-- Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft, Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano.
-- PDSim: Planning Domain Simulation and Animation with the Unity Game Engine, Emanuele De Pellegrin and Ron Petrick.
-- Taming Discretised PDDL+ through Multiple Discretisations, Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala and Mauro Vallati.
-- Exploring the Limitations of using Large Language Models to Fix Planning Tasks, Alba Gragera and Alberto Pozanco.
-- Learning to Act for Perceiving in Partially Unknown Environments, Leonardo Lamanna, Mohamadreza Faridghasemnia, Alfonso Emilio Gerevini, Alessandro Saetti, Alessandro Saffiotti, Luciano Serafini and Paolo Traverso.
-- Scheduling Problems in PDDL, Jan Dolejsi, Derek Long and Michal Stolba.
-- Extracting planning domains from execution traces: a progress report, Simona Gugliermo, Erik Schaffernicht, Christos Koniaris and Alessandro Saffiotti.
-- Autonomous Capability Assessment of Black-Box Sequential Decision-Making Systems, Pulkit Verma, Rushang Karia and Siddharth Srivastava.
-- Planning with Qualitative Action-Trajectory Constraints in PDDL, Luigi Bonassi, Alfonso Emilio Gerevini and Enrico Scala.
-- First Steps Towards Planning for Targeted Medicine, Lee-Or Alon, Hana Weitman and Gal Kaminka.
-- Challenges in Modelling and Solving Plotting with PDDL, Joan Espasa Arxer, Ian Miguel, Peter Nightingale, Mateu Villaret and András Z. Salamon.
-- A Good Snowman is Hard to Plan, Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret.
+- [Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees](./KEPS-23_paper_1551.pdf), Michael Welt, Birte Glimm and Milene Santos-Teixeira.
+- [Towards a Framework for Intelligent Urban Traffic Routing](./KEPS-23_paper_1704.pdf), Matyas Svadlenka and Lukas Chrpa.
+- [Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft](./KEPS-23_paper_1936.pdf), Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano.
+- [PDSim: Planning Domain Simulation and Animation with the Unity Game Engine](./KEPS-23_paper_2186.pdf), Emanuele De Pellegrin and Ron Petrick.
+- [Taming Discretised PDDL+ through Multiple Discretisations](./KEPS-23_paper_3184.pdf), Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala and Mauro Vallati.
+- [Exploring the Limitations of using Large Language Models to Fix Planning Tasks](./KEPS-23_paper_3645.pdf), Alba Gragera and Alberto Pozanco.
+- [Learning to Act for Perceiving in Partially Unknown Environments](./KEPS-23_paper_4521.pdf), Leonardo Lamanna, Mohamadreza Faridghasemnia, Alfonso Emilio Gerevini, Alessandro Saetti, Alessandro Saffiotti, Luciano Serafini and Paolo Traverso.
+- [Scheduling Problems in PDDL](./KEPS-23_paper_4664.pdf), Jan Dolejsi, Derek Long and Michal Stolba.
+- [Extracting planning domains from execution traces: a progress report](./KEPS-23_paper_4717.pdf), Simona Gugliermo, Erik Schaffernicht, Christos Koniaris and Alessandro Saffiotti.
+- [Autonomous Capability Assessment of Black-Box Sequential Decision-Making Systems](./KEPS-23_paper_5561.pdf), Pulkit Verma, Rushang Karia and Siddharth Srivastava.
+- [Planning with Qualitative Action-Trajectory Constraints in PDDL](./KEPS-23_paper_8042.pdf), Luigi Bonassi, Alfonso Emilio Gerevini and Enrico Scala.
+- [First Steps Towards Planning for Targeted Medicine](./KEPS-23_paper_8750.pdf), Lee-Or Alon, Hana Weitman and Gal Kaminka.
+- [Challenges in Modelling and Solving Plotting with PDDL](./KEPS-23_paper_9200.pdf), Joan Espasa Arxer, Ian Miguel, Peter Nightingale, Mateu Villaret and András Z. Salamon.
+- [A Good Snowman is Hard to Plan](./KEPS-23_paper_9560.pdf), Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret.
 
 
 ## Workshop Schedule
