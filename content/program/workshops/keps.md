@@ -60,7 +60,22 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 
 ## List of Accepted Papers
 
-TBD
+- [Partial Grounding in Planning using Small Language Models](./KEPS-23_paper_1243.pdf), Felipe Areces, Benjamin Ocampo, Carlos Areces, Martin Dominguez and Daniel Gnad.
+- Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees, Michael Welt, Birte Glimm and Milene Santos-Teixeira.
+- Towards a Framework for Intelligent Urban Traffic Routing, Matyas Svadlenka and Lukas Chrpa.
+- Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft, Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano.
+- PDSim: Planning Domain Simulation and Animation with the Unity Game Engine, Emanuele De Pellegrin and Ron Petrick.
+- Taming Discretised PDDL+ through Multiple Discretisations, Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala and Mauro Vallati.
+- Exploring the Limitations of using Large Language Models to Fix Planning Tasks, Alba Gragera and Alberto Pozanco.
+- Learning to Act for Perceiving in Partially Unknown Environments, Leonardo Lamanna, Mohamadreza Faridghasemnia, Alfonso Emilio Gerevini, Alessandro Saetti, Alessandro Saffiotti, Luciano Serafini and Paolo Traverso.
+- Scheduling Problems in PDDL, Jan Dolejsi, Derek Long and Michal Stolba.
+- Extracting planning domains from execution traces: a progress report, Simona Gugliermo, Erik Schaffernicht, Christos Koniaris and Alessandro Saffiotti.
+- Autonomous Capability Assessment of Black-Box Sequential Decision-Making Systems, Pulkit Verma, Rushang Karia and Siddharth Srivastava.
+- Planning with Qualitative Action-Trajectory Constraints in PDDL, Luigi Bonassi, Alfonso Emilio Gerevini and Enrico Scala.
+- First Steps Towards Planning for Targeted Medicine, Lee-Or Alon, Hana Weitman and Gal Kaminka.
+- Challenges in Modelling and Solving Plotting with PDDL, Joan Espasa Arxer, Ian Miguel, Peter Nightingale, Mateu Villaret and András Z. Salamon.
+- A Good Snowman is Hard to Plan, Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret.
+
 
 ## Workshop Schedule
 
