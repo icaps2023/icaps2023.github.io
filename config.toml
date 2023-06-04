@@ -144,8 +144,8 @@ theme = 'mainroad'
     weight = 7000
   [[menu.main]]
     identifier = "overview"
-    name = "Program Overview"
-    url = "/program/overview"
+    name = "Schedule"
+    url = "/program/schedule"
     parent = "program"
     weight = 10
   [[menu.main]]

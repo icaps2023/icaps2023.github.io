@@ -1,0 +1,59 @@
+{
+	"workshops": [
+		{
+			"acronym": "Complexity",
+			"title": "How hard can it be? The computational complexity of planning",
+			"organizers": "Nicola Gigante",
+			"url": "/program/tutorials/hard",
+			"schedule": "July 9, 2:00 PM - 5:00 PM (CET)",
+			"room": "N7",
+			"description": "Understanding the computational complexity of a problem is one of the first steps to understand the problem deeply. Automated planning problems are not an exception, and indeed the complexity of planning is a well studied topic in the literature of the field. Most people in the planning community are familiar with the seminal result by Bylander showing that classical STRIPS planning is PSPACE-complete, but the topic is far from being exhausted by this result. Different kinds of planning problems, such as temporal, timeline-based, FOND, conformant or numeric planning, have been studied to prove their complexity and, in some cases, their undecidability. The resulting picture is unexpectedly jagged and interesting, and sheds light over the nature of these problems and of the algorithmic techniques that one can hope to find to solve them. This tutorial provides an introduction and a thorough overview of the computational complexity of many kinds of planning problems, of the techniques used to prove such complexity results, and of some implications of these results to the practice of automated planning. The tutorial will not be a flat list of results and proofs, but aims to give a broad intuition of the results, their reason and implications, while going technical when needed. The tutorial is targeted both at novices that want to obtain a solid theoretical background of the field, and to experienced researchers aiming at an up-to-date picture of the topic. A basic background on complexity theory will be refreshed as needed."
+		},
+		{
+			"acronym": "MDPS_RDDL",
+			"title": "Introduction to MDP Modeling and Interaction via RDDL and pyRDDLGym",
+			"organizers": "Scott Scanner, Ayal Taitler",
+			"url": "/program/tutorials/mdp_modeling",
+			"schedule": "July 10, 9:00 AM - 12:40 PM (CET)",
+			"room": "N7",
+			"description": "RDDL (pronounced riddle) is the Relational Dynamic Influence Diagram Language, the domain modeling language used in the ICAPS 2011, 2014, 2018 and the current 2023 Probabilistic Planning and Reinforcement Learning track of the International Planning Competitions. RDDL has been developed to compactly model real-world stochastic planning problems, i.e., Markov Decision Processes (MDPs), and specifically factored MDPs with highly structured transition and reward functions. In this tutorial we will cover the basics of RDDL and present recent language extensions and capabilities through the incremental development and extension of running examples based on real-world domains. We will also introduce pyRDDLGym, a new Python framework for the generation of Gym environments from RDDL descriptions, allowing for standard Gym interaction with RL agents, while also exposing the model for Planning agents. We will also demonstrate additional capabilities of pyRDDLGym including DBN and XADD-based conditional probability function generation, generic and custom visualization, and baseline planners including MCTS (via PROST) and Planning by Backpropagation (via JaxPlan)."
+		},
+		{
+			"acronym": "TNetworks",
+			"title": "Recent Advances in Temporal Networks for Planning and Scheduling",
+			"organizers": "Luke Hunsberger",
+			"url": "/program/tutorials/tnetworks",
+			"schedule": "July 9, 2:00 PM - 5:00 PM (CET)",
+			"room": "N8",
+			"description": "Temporal networks are structures for representing and reasoning about time (e.g., in planning and scheduling applications). Different flavors of temporal networks differ in their expressiveness and the complexity of the algorithms for solving relevant problems. The most basic kind of temporal network is a Simple Temporal Network (STN). STNs have a solid theoretical foundation and numerous practical algorithms for manipulating STNs have been presented in the literature over the past 30 years. STNs with Uncertainty (STNUs) accommodate actions with uncertain durations. Although STNUs have been studied for over 20 years, much more efficient algorithms have been presented recently, not only for determining the important “dynamic controllability” (DC) property, but also for converting DC STNUs into a “dispatchable” form that preserves maximum flexibility while requiring minimal computation during real-time execution. Recent advances in the theory and practice of Conditional STNs (CSTNs) and Conditional STNUs (CSTNUs) have also brought these more expressive kinds of temporal networks closer to practical application. This tutorial surveys the recent advances in temporal networks while also providing hands-on experience with a recently developed library of related algorithms implemented in the Python/Cython framework."
+		},
+		{
+			"acronym": "MACQ",
+			"title": "Model Acquisition in the Modern Era",
+			"organizers": "Christian Muise, Tathagata Chakraborti",
+			"url": "/program/tutorials/model",
+			"schedule": "July 10, 9:00 AM - 12:40 PM (CET)",
+			"room": "N8",
+			"description": "This tutorial will cover some of the landmark methods in the area of planning action model acquisition that our community has produced over the years. From OBSERVER in the early 90’s to the modern forms of action-label-only LOCM techniques, we will cover both the concepts behind these approaches and grounded hands-on examples for attendees to try for themselves."
+		},
+		{
+			"acronym": "UnifiedPlanning",
+			"title": "Unified Planning: A Python Library Making Planning Technology Accessible",
+			"organizers": "Andrea Micheli, Arthur Bit-Monnot, Gabriele Röger, Sebastian Stock", 
+			"url": "/program/tutorials/up",
+			"schedule": "July 9, 2:00 PM - 5:00 PM (CET)",
+			"room": "N7",
+			"description": "The Unified Planning framework (UP) is a Python library giving uniform access to a large variety of planning approaches and engines. It is designed around two concepts: advanced modeling primitives to express planning problems mixing declarative and procedural paradigms; and ``operation modes’’, which define the classes of interaction with planning engines. The library has been developed as part of the Horizon 2020 AIPlan4EU project and will at the end of the year 2023 become an independent open-source project that is free to use and extend by everyone. The tutorial will enable the participants to understand the design principles of the library, exploit it for their applications or to make their own planning technology available in the framework. It will in wide parts consist of a hands-on session using Jupyter notebooks. These can also be completed remotely or asynchronously without installation (using Google Colab) and will stay available after the tutorial."
+		},
+		{
+			"acronym": "LLMS_Planning",
+			"title": "On the role of Large Language Models in Planning",
+			"organizers": "Subbarao Kambhampati, Karthik Valmeekam, Matthew Marquez, Lin Guan",
+			"url": "/program/tutorials/llms",
+			"schedule": "July 10, 2:00 PM - 5:00 PM (CET)",
+			"room": "N8",
+			"description": "Large Language Models (LLMs, or n-gram models on steroids) that have been trained originally to generate text by repeatedly predicting the next word in the context of a window of previous words, have captured the attention of the AI (and the world) community. Part of the reason for this is their ability to produce meaningful completions for prompts relating to almost any area of human intellectual endeavors. This sheer versatility has also led to claims that these predictive text completion systems may be capable of abstract reasoning and planning. In this tutorial we take a critical look at the ability of LLMs to help in planning tasks–either in autonomous modes, or in assistive modes. We are particularly interested in characterizing these abilities–if any–in the context of problems and frameworks widely studied in the AI planning community. The tutorial will both point out the fundamental limitations of LLMs in generating plans that will normally require resolving subgoal interactions with combinatorial search, and also show constructive uses of LLMs as complementary technologies to the sound planners that are developed in the AI Planning community. In addition to presenting our own work in this area, we provide a critical survey of many related efforts, including by researchers outside of the planning community."
+		}
+	]
+}
+
