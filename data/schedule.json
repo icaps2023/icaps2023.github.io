@@ -313,14 +313,14 @@
 			"end": "11:10 AM (CET)",
 			"papers": [
 				{	
-					"number": 9354,
-					"title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
+					"number": 6440,
+					"title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
-					"number": 6440,
-					"title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
+					"number": 9354,
+					"title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
 					"type": "Long",
 					"duration": 15
 				},
