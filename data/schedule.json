@@ -12,24 +12,28 @@
 				{
 					"number": 215,
 					"title": "Reinforcement Learning for Omega-Regular Specifications on Continuous-Time MDP",
+					"authors": "Amin Falah, Shibashis Guha and Ashutosh Trivedi",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 7212,
 					"title": "Exploration Policies for On-the-fly Controller Synthesis: a Reinforcement Learning Approach",
+					"authors": "Tomás Delgado, Marco Sánchez Sorondo, Víctor Braberman and Sebastián Uchitel",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 473,
 					"title": "An End-to-End Reinforcement Learning Approach for Job-Shop Scheduling Problems Based on Constraint Programming",
+					"authors": "Pierre Tassel, Martin Gebser and Konstantin Schekotihin",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 4629,
 					"title": "Deceptive Reinforcement Learning in Model-Free Domains",
+					"authors": "Alan Lewis and Tim Miller",
 					"type": "Long",
 					"duration": 15
 				}
@@ -48,24 +52,28 @@
 				{
 					"number": 3161,
 					"title": "Imitation Improvement Learning for Large-scale Capacitated Vehicle Routing Problems",
+					"authors": "Viet Bui and Tien Mai",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 4148,
 					"title": "Timed Partial Order Inference Algorithm",
+					"authors": "Kandai Watanabe, Bardh Hoxha, Danil Prokhorov, Georgios Fainekos, Morteza Lahijanian, Sriram Sankaranarayanan and Tomoya Yamaguchi",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 9143,
 					"title": "Goal Recognition as a Deep Learning Task: the GRNet Approach",
+					"authors": "Mattia Chiari, Alfonso Emilio Gerevini, Luca Putelli, Francesco Percassi and Ivan Serina",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 9210,
 					"title": "Safe MDP Planning by Learning Temporal Patterns of Undesirable Trajectories and Averting Negative Side Effects",
+					"authors": "Siow Meng Low, Akshat Kumar and Scott Sanner",
 					"type": "Long",
 					"duration": 15
 				}
@@ -85,24 +93,28 @@
 				{
 					"number": 1299,
 					"title": "Fast and Robust Resource-Constrained Scheduling with Graph Neural Networks",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 7581,
 					"title": "Learning Local Heuristics for Search-Based Navigation Planning",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{
 					"number": 1564,
 					"title": "Automaton-guided Curriculum Generation for Reinforcement Learning Agents",
+					"authors": "",
 					"type": "Long",
 					"duration": 15 
 				},
 				{
 					"number": 7324,
 					"title": "Task Phasing: Automated Curriculum Learning from Demonstrations",
+					"authors": "",
 					"type": "Long",
 					"duration": 15 
 				},
@@ -114,6 +126,7 @@
 				{
 					"number": 2921,
 					"title": "Improving Zero-Shot Coordination Performance Based on Policy Similarity",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -132,24 +145,28 @@
 				{
 					"number": 5251,
 					"title": "Planning for Automated Testing of Implicit Constraints in Behavior Trees",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 7001,
 					"title": "Understanding Natural Language in Context",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 349,
 					"title": "Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 6364,
 					"title": "Planning for Manipulation Among Movable Objects: Deciding Which Objects Go Where, In What Order, And How",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -168,24 +185,28 @@
 				{
 					"number": 1388,
 					"title": "Heuristic Search For Physics-Based Problems: Angry Birds in PDDL+",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 529,
 					"title": "Solving the Multi-Choice Two Dimensional Shelf Strip Packing Problem with Time Windows",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 2500,
 					"title": "Combining Clinical and Spatial Constraints into Temporal Planning to Personalize Physical Rehabilitation",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": -1,
 					"title": "Modeling and Solving Parallel Machine Scheduling with Contamination Constraints in the Agricultural Industry",
+					"authors": "",
 					"type": "Abstract",
 					"duration": 7.5
 				}
@@ -204,24 +225,28 @@
 				{
 					"number": 189,
 					"title": "Dynamic Weight Setting for Personnel Scheduling with Many Objectives",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 6700,
 					"title": "Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 5733,
 					"title": "Combining Heuristic Search and Linear Programming to Compute Realistic Financial Plans",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{
 					"number": 6492,
 					"title": "Moving trains like pebbles: a feasibility study on tree yards",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -239,30 +264,35 @@
 				{	
 					"number": 6666,
 					"title": "Fixing Plans for PDDL+ Problems: Theoretical and Practical Implications",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7807,
 					"title": "Symmetry Detection and Breaking in Linear Cost-Optimal Numeric Planning",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5640,
 					"title": "Planning over Integers: Compilations and Undecidability",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 1532,
 					"title": "Robust Metric Hybrid Planning in Stochastic Nonlinear Domains using Mathematical Optimization",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1763,
 					"title": "Falsification of Cyber-Physical Systems Using PDDL+ Planning",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -280,24 +310,28 @@
 				{	
 					"number": 5455,
 					"title": "Planning with Multi-agent Belief using Justified Perspectives",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4335,
 					"title": "Deadline-Aware Multi-Agent Tour Planning",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5858,
 					"title": "Planning for Attacker Entrapment in Adversarial Settings",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8586,
 					"title": "Model Checking for Adversarial Multi-Agent Reinforcement Learning with Reactive Defense Methods",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -315,24 +349,28 @@
 				{	
 					"number": 6440,
 					"title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9354,
 					"title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 489,
 					"title": "An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6471,
 					"title": "A Constraint Programming Solution to the Guillotine Rectangular Cutting Problem",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}	
@@ -350,24 +388,28 @@
 				{	
 					"number": 1065,
 					"title": "Optimality Certificates for Classical Planning",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4882,
 					"title": "Planning for Temporally Extended Goals in Pure-Past Linear Temporal Logic",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4269,
 					"title": "Planning with Multiple Action-Cost Estimates",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9685,
 					"title": "A Planning Approach to Repair Domains with Incomplete Action Effects",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -385,30 +427,35 @@
 				{	
 					"number": 3549,
 					"title": "Safety Shielding under Delayed Observation",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 7652,
 					"title": "A Column Generation Approach to Correlated Simple Temporal Networks",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6085,
 					"title": "A Theory of Merge-and-Shrink for Stochastic Shortest Path Problems",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 640,
 					"title": "A Best-First Search Algorithm for FOND Planning and Heuristic Functions to Optimize Decompressed Solution Size",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 824,
 					"title": "Online Planning for Constrained POMDPs with Continuous Spaces through Dual Ascent",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -426,24 +473,28 @@
 				{	
 					"number": 159,
 					"title": "Explainable Goal Recognition: A Framework Based on Weight of Evidence",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9037,
 					"title": "Goal Recognition with Timing Information",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 3596,
 					"title": "Generalizing Action Justification and Causal Links to Policies",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5579,
 					"title": "Adaptation and Communication in Human Robot Teaming to Handle Discrepancy in Agents' Beliefs about Plans",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -461,42 +512,49 @@
 				{	
 					"number": 9519,
 					"title": "Can They Come Together? A Computational Complexity Analysis of Conjunctive Possible Effects of Compound HTN ",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5775,
 					"title": "On Partial Satisfaction Planning with Total-Order HTNs",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 3452,
 					"title": "Operator Pruning using Lifted Mutex Groups via Compilation on Lifted Level",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5926,
 					"title": "Lifted Stackelberg Planning",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 5469,
 					"title": "Efficient Reasoning about Infeasible One Machine Sequencing",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6979,
 					"title": "Sensitivity Analysis for Dynamic Control of PSTNs with Skewed Distributions",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 3859,
 					"title": "Parallel Batch Processing for the Coating Problem",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -514,42 +572,49 @@
 				{	
 					"number": 1385,
 					"title": "On Using Action Inheritance and Modularity in PDDL Domain Modelling",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1871,
 					"title": "Landmark Progression in Heuristic Search",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8471,
 					"title": "Grounding Planning Tasks Using Tree Decompositions and Iterated Solving",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 322,
 					"title": "Efficient Evaluation of Large Abstractions for Decoupled Search: Merge-and-Shrink and Symbolic Pattern Databases",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7227,
 					"title": "Computing Domain Abstractions for Optimal Classical Planning with Counterexample-Guided Abstraction Refinement",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 717,
 					"title": "Finding Matrix Multiplication Algorithms with Classical Planning",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 5860,
 					"title": "Runahead A* : Speculative Parallelism for A* with Slow Expansions",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -569,36 +634,42 @@
 				{	
 					"number": 1852,
 					"title": "Exploiting Geometric Constraints in Multi-Agent Pathfinding",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9776,
 					"title": "Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9579,
 					"title": "Cost Splitting for Multi-Objective Conflict-Based Search",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8855,
 					"title": "Multi Agent Path Finding Under Obstacle Uncertainty",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 331,
 					"title": "Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1908,
 					"title": "Priority-Based Search for the Virtual Network Embedding Problem",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -616,24 +687,28 @@
 				{	
 					"number": 7537,
 					"title": "Planning in Multi-Agent Domains with Untruthful Announcements",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7123,
 					"title": "Automatic Metamorphic Test Oracles for Action-Policy Testing",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6685,
 					"title": "Act-Then-Measure: Reinforcement Learning for Partially Observable Environments with Active Measuring",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4098,
 					"title": "Convexity Hierarchies in Grid Networks",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}	
@@ -651,30 +726,35 @@
 				{	
 					"number": 6129,
 					"title": "Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 9485,
 					"title": "Beyond Pairwise Reasoning in Multi-Agent Path Finding",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1947,
 					"title": "The Small Solution Hypothesis for MAPF on Strongly Connected Directed Graphs Is True",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6332,
 					"title": "Efficient Multi-Query Bi-Objective Search via Contraction Hierarchies",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4942,
 					"title": "W-restrained Bidirectional Bounded-Suboptimal Heuristic Search",
+					"authors": "",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -692,18 +772,21 @@
 				{
 					"number": 100,
 					"title": "Planning with Perspectives -- Decomposing Epistemic Planning using Functional STRIPS",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 101,
 					"title": "Unavoidable deadends in deterministic partially observable contingent planning",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 102,
 					"title": "Online Learning of Variable Ordering Heuristics for Constraint Optimisation Problems",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
@@ -722,24 +805,28 @@
 				{
 					"number": 103,
 					"title": "ProSeqqo: A Generic Solver for Process Planning and Sequencing in Industrial Robotics",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 104,
 					"title": "Decentralized Observation Allocation for a Large-Scale Constellation",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 105,
 					"title": "Multi-UAV Planning for Cooperative Wildfire Coverage and Tracking with Quality-of-Service Guarantees",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 106,
 					"title": "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles",
+					"authors": "",
 					"type": "Long",
 					"duration": 15
 				}
