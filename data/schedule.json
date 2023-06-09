@@ -93,28 +93,28 @@
 				{
 					"number": 1299,
 					"title": "Fast and Robust Resource-Constrained Scheduling with Graph Neural Networks",
-					"authors": "",
+					"authors": "Florent Teichteil-Königsbuch, Guillaume Povéda, Guillermo Gonzalez de Garibay Barba, Tim Luchterhand and Sylvie Thiebaux",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 7581,
 					"title": "Learning Local Heuristics for Search-Based Navigation Planning",
-					"authors": "",
+					"authors": "Rishi Veerapaneni, Muhammad Suhail Saleem and Maxim Likhachev",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{
 					"number": 1564,
 					"title": "Automaton-guided Curriculum Generation for Reinforcement Learning Agents",
-					"authors": "",
+					"authors": "Yash Shukla, Abhishsek Kulkarni, Robert Wright, Alvaro Velasquez and Jivko Sinapov",
 					"type": "Long",
 					"duration": 15 
 				},
 				{
 					"number": 7324,
 					"title": "Task Phasing: Automated Curriculum Learning from Demonstrations",
-					"authors": "",
+					"authors": "Vaibhav Bajaj, Guni Sharon and Peter Stone",
 					"type": "Long",
 					"duration": 15 
 				},
@@ -126,7 +126,7 @@
 				{
 					"number": 2921,
 					"title": "Improving Zero-Shot Coordination Performance Based on Policy Similarity",
-					"authors": "",
+					"authors": "Lebin Yu, Yunbo Qiu, Quanming Yao, Xudong Zhang and Jian Wang",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -145,28 +145,28 @@
 				{
 					"number": 5251,
 					"title": "Planning for Automated Testing of Implicit Constraints in Behavior Trees",
-					"authors": "",
+					"authors": "Uwe Köckemann, Daniele Calisi, Guglielmo Gemignani, Jennifer Renoux and Alessandro Saffiotti",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 7001,
 					"title": "Understanding Natural Language in Context",
-					"authors": "",
+					"authors": "Avichai Levy and Erez Karpas",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 349,
 					"title": "Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs",
-					"authors": "",
+					"authors": "Martina Stadler, Jacopo Banfi and Nicholas Roy",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 6364,
 					"title": "Planning for Manipulation Among Movable Objects: Deciding Which Objects Go Where, In What Order, And How",
-					"authors": "",
+					"authors": "Dhruv Saxena and Maxim Likhachev",
 					"type": "Long",
 					"duration": 15
 				}
@@ -185,28 +185,28 @@
 				{
 					"number": 1388,
 					"title": "Heuristic Search For Physics-Based Problems: Angry Birds in PDDL+",
-					"authors": "",
+					"authors": "Wiktor Piotrowski, Yoni Sher, Sachin Grover, Roni Stern and Shiwali Mohan",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 529,
 					"title": "Solving the Multi-Choice Two Dimensional Shelf Strip Packing Problem with Time Windows",
-					"authors": "",
+					"authors": "Matthias Horn, Emir Demirović and Neil Yorke-Smith",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 2500,
 					"title": "Combining Clinical and Spatial Constraints into Temporal Planning to Personalize Physical Rehabilitation",
-					"authors": "",
+					"authors": "Alessandro Umbrico, Marco Benadduci, Roberta Bevilacqua, Amedeo Cesta, Francesca Fracasso, Elvira Maranesi, Andrea Orlandini and Gabriella Cortellessa",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": -1,
 					"title": "Modeling and Solving Parallel Machine Scheduling with Contamination Constraints in the Agricultural Industry",
-					"authors": "",
+					"authors": "Felix Winter, Sebastian Meiswinkel, Nysret Musliu, Daniel Walkiewicz",
 					"type": "Abstract",
 					"duration": 7.5
 				}
@@ -225,28 +225,28 @@
 				{
 					"number": 189,
 					"title": "Dynamic Weight Setting for Personnel Scheduling with Many Objectives",
-					"authors": "",
+					"authors": "Lucas Kletzander and Nysret Musliu",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 6700,
 					"title": "Automated Planning to Prioritise Digital Forensics Investigation Cases Containing Indecent Images of Children",
-					"authors": "",
+					"authors": "Saad Khan, Simon Parkinson, Monika Roopak, Rachel Armitage and Andrew Barlow",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 5733,
 					"title": "Combining Heuristic Search and Linear Programming to Compute Realistic Financial Plans",
-					"authors": "",
+					"authors": "Alberto Pozanco, Kassiani Papasotiriou, Daniel Borrajo and Manuela Veloso",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{
 					"number": 6492,
 					"title": "Moving trains like pebbles: a feasibility study on tree yards",
-					"authors": "",
+					"authors": "Issa Hanou, Mathijs de Weerdt and Jesse Mulderij",
 					"type": "Long",
 					"duration": 15
 				}
@@ -264,35 +264,35 @@
 				{	
 					"number": 6666,
 					"title": "Fixing Plans for PDDL+ Problems: Theoretical and Practical Implications",
-					"authors": "",
+					"authors": "Francesco Percassi, Enrico Scala and Mauro Vallati",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7807,
 					"title": "Symmetry Detection and Breaking in Linear Cost-Optimal Numeric Planning",
-					"authors": "",
+					"authors": "Alexander Shleyfman, Ryo Kuroiwa and J. Christopher Beck",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5640,
 					"title": "Planning over Integers: Compilations and Undecidability",
-					"authors": "",
+					"authors": "Daniel Gnad, Malte Helmert, Peter Jonsson and Alexander",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 1532,
 					"title": "Robust Metric Hybrid Planning in Stochastic Nonlinear Domains using Mathematical Optimization",
-					"authors": "",
+					"authors": "Buser Say",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1763,
 					"title": "Falsification of Cyber-Physical Systems Using PDDL+ Planning",
-					"authors": "",
+					"authors": "Diego Aineto, Enrico Scala, Eva Onaindia and Ivan Serina",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -310,28 +310,28 @@
 				{	
 					"number": 5455,
 					"title": "Planning with Multi-agent Belief using Justified Perspectives",
-					"authors": "",
+					"authors": "Guang Hu, Tim Miller and Nir Lipovetzky",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4335,
 					"title": "Deadline-Aware Multi-Agent Tour Planning",
-					"authors": "",
+					"authors": "Taoan Huang, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5858,
 					"title": "Planning for Attacker Entrapment in Adversarial Settings",
-					"authors": "",
+					"authors": "Brittany Cates, Anagha Kulkarni and Sarath Sreedharan",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8586,
 					"title": "Model Checking for Adversarial Multi-Agent Reinforcement Learning with Reactive Defense Methods",
-					"authors": "",
+					"authors": "Dennis Groß, Christoph Schmidl, Nils Jansen and Guillermo Perez",
 					"type": "Long",
 					"duration": 15
 				}
@@ -349,28 +349,28 @@
 				{	
 					"number": 6440,
 					"title": "Domain-Independent Dynamic Programming: Generic State Space Search for Combinatorial Optimization",
-					"authors": "",
+					"authors": "Ryo Kuroiwa and Chris Beck",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9354,
 					"title": "Solving Domain-Independent Dynamic Programming Problems with Anytime Heuristic Search",
-					"authors": "",
+					"authors": "Ryo Kuroiwa and Chris Beck",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 489,
 					"title": "An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem",
-					"authors": "",
+					"authors": "Quang Anh Pham, Hoong Chuin Lau, Minh Hoàng Hà and Lam Vu",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6471,
 					"title": "A Constraint Programming Solution to the Guillotine Rectangular Cutting Problem",
-					"authors": "",
+					"authors": "Sergey Polyakovskiy and Peter Stuckey",
 					"type": "Long",
 					"duration": 15
 				}	
@@ -388,28 +388,28 @@
 				{	
 					"number": 1065,
 					"title": "Optimality Certificates for Classical Planning",
-					"authors": "",
+					"authors": "Esther Mugdan, Remo Christen and Salomé Eriksson",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4882,
 					"title": "Planning for Temporally Extended Goals in Pure-Past Linear Temporal Logic",
-					"authors": "",
+					"authors": "Luigi Bonassi, Giuseppe De Giacomo, Marco Favorito, Francesco Fuggitti, Alfonso Emilio Gerevini and Enrico Scala",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4269,
 					"title": "Planning with Multiple Action-Cost Estimates",
-					"authors": "",
+					"authors": "Eyal Weiss and Gal A. Kaminka",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9685,
 					"title": "A Planning Approach to Repair Domains with Incomplete Action Effects",
-					"authors": "",
+					"authors": "Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya and Fernando Fernández",
 					"type": "Long",
 					"duration": 15
 				}
@@ -427,35 +427,35 @@
 				{	
 					"number": 3549,
 					"title": "Safety Shielding under Delayed Observation",
-					"authors": "",
+					"authors": "Filip Cano Córdoba, Alexander Palmisano, Martin Fränzle, Roderick Bloem and Bettina Könighofer",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 7652,
 					"title": "A Column Generation Approach to Correlated Simple Temporal Networks",
-					"authors": "",
+					"authors": "Andrew Murray, Ashwin Arulselvan, Michael Cashmore, Marc Roper and Jeremy Frank",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6085,
 					"title": "A Theory of Merge-and-Shrink for Stochastic Shortest Path Problems",
-					"authors": "",
+					"authors": "Thorsten Klößner, Álvaro Torralba, Marcel Steinmetz and Silvan Sievers",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 640,
 					"title": "A Best-First Search Algorithm for FOND Planning and Heuristic Functions to Optimize Decompressed Solution Size",
-					"authors": "",
+					"authors": "Frederico Messa and André Grahl Pereira",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 824,
 					"title": "Online Planning for Constrained POMDPs with Continuous Spaces through Dual Ascent",
-					"authors": "",
+					"authors": "Arec Jamgochian, Anthony Corso and Mykel Kochenderfer",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -473,28 +473,28 @@
 				{	
 					"number": 159,
 					"title": "Explainable Goal Recognition: A Framework Based on Weight of Evidence",
-					"authors": "",
+					"authors": "Abeer Alshehri, Timothy Miller and Mor Vered",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9037,
 					"title": "Goal Recognition with Timing Information",
-					"authors": "",
+					"authors": "Chenyuan Zhang, Charles Kemp and Nir Lipovetzky",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 3596,
 					"title": "Generalizing Action Justification and Causal Links to Policies",
-					"authors": "",
+					"authors": "Sarath Sreedharan, Christian Muise and Subbarao Kambhampati",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5579,
 					"title": "Adaptation and Communication in Human Robot Teaming to Handle Discrepancy in Agents' Beliefs about Plans",
-					"authors": "",
+					"authors": "Yuening Zhang and Brian Williams",
 					"type": "Long",
 					"duration": 15
 				}
@@ -512,49 +512,49 @@
 				{	
 					"number": 9519,
 					"title": "Can They Come Together? A Computational Complexity Analysis of Conjunctive Possible Effects of Compound HTN ",
-					"authors": "",
+					"authors": "Conny Olz and Pascal Bercher",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5775,
 					"title": "On Partial Satisfaction Planning with Total-Order HTNs",
-					"authors": "",
+					"authors": "Gregor Behnke, David Speck, Michael Katz and Shirin Sohrabi",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 3452,
 					"title": "Operator Pruning using Lifted Mutex Groups via Compilation on Lifted Level",
-					"authors": "",
+					"authors": "Daniel Fišer",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 5926,
 					"title": "Lifted Stackelberg Planning",
-					"authors": "",
+					"authors": "Philipp Sauer, Marcel Steinmetz, Robert Kuennemann and Joerg Hoffmann",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 5469,
 					"title": "Efficient Reasoning about Infeasible One Machine Sequencing",
-					"authors": "",
+					"authors": "Raúl Mencía, Carlos Mencía and Joao Marques-Silva",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6979,
 					"title": "Sensitivity Analysis for Dynamic Control of PSTNs with Skewed Distributions",
-					"authors": "",
+					"authors": "Rosy Chen, Yiran Ma, Siqi Wu and James Boerkoel",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 3859,
 					"title": "Parallel Batch Processing for the Coating Problem",
-					"authors": "",
+					"authors": "Matthias Horn, Emir Demirović and Neil Yorke-Smith",
 					"type": "Long",
 					"duration": 15
 				}
@@ -572,49 +572,49 @@
 				{	
 					"number": 1385,
 					"title": "On Using Action Inheritance and Modularity in PDDL Domain Modelling",
-					"authors": "",
+					"authors": "Alan Lindsay",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1871,
 					"title": "Landmark Progression in Heuristic Search",
-					"authors": "",
+					"authors": "Clemens Büchner, Thomas Keller, Salomé Eriksson and Malte Helmert",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8471,
 					"title": "Grounding Planning Tasks Using Tree Decompositions and Iterated Solving",
-					"authors": "",
+					"authors": "Augusto B. Corrêa, Markus Hecher, Malte Helmert, Davide Mario Longo, Florian Pommerening and Stefan Woltran",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 322,
 					"title": "Efficient Evaluation of Large Abstractions for Decoupled Search: Merge-and-Shrink and Symbolic Pattern Databases",
-					"authors": "",
+					"authors": "Daniel Gnad, Silvan Sievers and Álvaro Torralba",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7227,
 					"title": "Computing Domain Abstractions for Optimal Classical Planning with Counterexample-Guided Abstraction Refinement",
-					"authors": "",
+					"authors": "Raphael Kreft, Clemens Büchner, Silvan Sievers and Malte Helmert",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 717,
 					"title": "Finding Matrix Multiplication Algorithms with Classical Planning",
-					"authors": "",
+					"authors": "David Speck, Paul Höft, Daniel Gnad and Jendrik Seipp",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 5860,
 					"title": "Runahead A* : Speculative Parallelism for A* with Slow Expansions",
-					"authors": "",
+					"authors": "Mohammad Bakhshalipour, Mohamad Qadri, Dominic Guri, Seyed Borna Ehsani, Maxim Likhachev and Phillip Gibbons",
 					"type": "Long",
 					"duration": 15
 				}
@@ -634,42 +634,42 @@
 				{	
 					"number": 1852,
 					"title": "Exploiting Geometric Constraints in Multi-Agent Pathfinding",
-					"authors": "",
+					"authors": "Dor Atzmon, Sara Bernardini, Fabio Fagnani and David Fairbairn",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9776,
 					"title": "Binary Branching Multi-Objective Conflict-Based Search for Multi-Agent Path Finding",
-					"authors": "",
+					"authors": "Zhongqiang Ren, Jiaoyang Li, Han Zhang, Sven Koenig, Sivakumar Rathinam and Howie Choset",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 9579,
 					"title": "Cost Splitting for Multi-Objective Conflict-Based Search",
-					"authors": "",
+					"authors": "Cheng Ge, Han Zhang, Jiaoyang Li and Sven Koenig",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 8855,
 					"title": "Multi Agent Path Finding Under Obstacle Uncertainty",
-					"authors": "",
+					"authors": "Bar Shofer, Guy Shani and Roni Stern",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 331,
 					"title": "Using Simple Incentives to Improve Two-Sided Fairness in Ridesharing Systems",
-					"authors": "",
+					"authors": "Ashwin Kumar, Yevgeniy Vorobeychik and William Yeoh",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1908,
 					"title": "Priority-Based Search for the Virtual Network Embedding Problem",
-					"authors": "",
+					"authors": "Yi Zheng, Hang Ma, Sven Koenig, Erik Kline and T. K. Satish Kumar",
 					"type": "Long",
 					"duration": 15
 				}
@@ -687,28 +687,28 @@
 				{	
 					"number": 7537,
 					"title": "Planning in Multi-Agent Domains with Untruthful Announcements",
-					"authors": "",
+					"authors": "Loc Pham, Tran Cao Son and Enrico Pontelli",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 7123,
 					"title": "Automatic Metamorphic Test Oracles for Action-Policy Testing",
-					"authors": "",
+					"authors": "Jan Eisenhut, Álvaro Torralba, Maria Christakis and Joerg Hoffmann",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6685,
 					"title": "Act-Then-Measure: Reinforcement Learning for Partially Observable Environments with Active Measuring",
-					"authors": "",
+					"authors": "Merlijn Krale, Thiago D. Simão and Nils Jansen",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4098,
 					"title": "Convexity Hierarchies in Grid Networks",
-					"authors": "",
+					"authors": "Johannes Blum, Sabine Storandt and Ruoying Li",
 					"type": "Long",
 					"duration": 15
 				}	
@@ -726,35 +726,35 @@
 				{	
 					"number": 6129,
 					"title": "Exact Anytime Multi-Agent Path Finding Using Branch-and-Cut-and-Price and Large Neighborhood Search",
-					"authors": "",
+					"authors": "Edward Lam, Daniel Harabor, Peter J. Stuckey and Jiaoyang Li",
 					"type": "Short",
 					"duration": 7.5
 				},
 				{	
 					"number": 9485,
 					"title": "Beyond Pairwise Reasoning in Multi-Agent Path Finding",
-					"authors": "",
+					"authors": "Bojie Shen, Zhe Chen, Jiaoyang Li, Muhammad Aamir Cheema, Daniel Harabor and Peter Stuckey",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 1947,
 					"title": "The Small Solution Hypothesis for MAPF on Strongly Connected Directed Graphs Is True",
-					"authors": "",
+					"authors": "Bernhard Nebel",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 6332,
 					"title": "Efficient Multi-Query Bi-Objective Search via Contraction Hierarchies",
-					"authors": "",
+					"authors": "Han Zhang, Oren Salzman, Ariel Felner, T. K. Satish Kumar, Carlos Hernández Ulloa and Sven Koenig",
 					"type": "Long",
 					"duration": 15
 				},
 				{	
 					"number": 4942,
 					"title": "W-restrained Bidirectional Bounded-Suboptimal Heuristic Search",
-					"authors": "",
+					"authors": "Dor Atzmon, Shahaf Shperberg, Netanel Sabah, Ariel Felner and Nathan Sturtevant",
 					"type": "Short",
 					"duration": 7.5
 				}
@@ -772,21 +772,21 @@
 				{
 					"number": 100,
 					"title": "Planning with Perspectives -- Decomposing Epistemic Planning using Functional STRIPS",
-					"authors": "",
+					"authors": "Guang Hu, Tim Miller and Nir Lipovetzky",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 101,
 					"title": "Unavoidable deadends in deterministic partially observable contingent planning",
-					"authors": "",
+					"authors": "Guy Shani, Lera Shtotland, Dorin Shmaryahu and Ronen Brafman",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 102,
 					"title": "Online Learning of Variable Ordering Heuristics for Constraint Optimisation Problems",
-					"authors": "",
+					"authors": "Floris Doolaard and Neil Yorke-Smith",
 					"type": "Long",
 					"duration": 15
 				}
@@ -805,28 +805,28 @@
 				{
 					"number": 103,
 					"title": "ProSeqqo: A Generic Solver for Process Planning and Sequencing in Industrial Robotics",
-					"authors": "",
+					"authors": "László Zahorán and András Kovács",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 104,
 					"title": "Decentralized Observation Allocation for a Large-Scale Constellation",
-					"authors": "",
+					"authors": "Shreya Parjan and Steve Chien",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 105,
 					"title": "Multi-UAV Planning for Cooperative Wildfire Coverage and Tracking with Quality-of-Service Guarantees",
-					"authors": "",
+					"authors": "Esmaeil Seraj, Andrew Silva and Matthew Gombolay",
 					"type": "Long",
 					"duration": 15
 				},
 				{
 					"number": 106,
 					"title": "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles",
-					"authors": "",
+					"authors": "Zlatan Ajanovic, Enrico Regolin, Barys Shyrokau, Hana Ćatić, Martin Horn and Antonella Ferrara",
 					"type": "Long",
 					"duration": 15
 				}

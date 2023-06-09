@@ -458,8 +458,9 @@ body {
 		
 		{{ range $paper := $session.papers }}
 		
-			<div style="padding:1%; border-bottom: 1px solid orange">
+			<div style="padding-top:1%; padding-left: 1%; border-bottom: 1px solid orange">
 				<p style="font-size: 16px;"><strong>{{ print $paper.title  }}</strong></p>
+				<p style="font-size: 16px;margin-left: 2%;">{{ print $paper.authors }}</p>
 				<p style="margin-left: 2%">{{ print $paper.type }} paper, time: {{ print $paper.duration }} min.
 			</div>
 		
