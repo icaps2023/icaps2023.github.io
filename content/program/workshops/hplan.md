@@ -82,7 +82,15 @@ We do allow and also explicitly encourage the submission of papers that at the t
 
 ## Invited Talk
 
-TBA
+**Hector Munoz-Avila** gives a talk on:  
+*Automated Learning of Hierarchical Knowledge for Planning and Acting*
+
+*Abstract:*  
+In this talk I will cover a variety of algorithms for learning hierarchical knowledge for planning developed together with collaborators over the years. This will include a variety of formalisms ranging from hierarchical task networks (HTNs) to hierarchical reinforcement learning. I will also present our studies on a variety of planning settings including deterministic planning, nondeterministic planning and planning and acting with a two-level architecture of feedforward neural networks. I will show results of empirical evaluation versus various baselines as well as theoretical analysis regarding the expressiveness of the resulting algorithms and architectures. This work has been published in AAAI, IJCAI, AAMAS and ACS conferences, among others. 
+
+*Bio:*  
+Dr. Munoz-Avila is a Program Director at NSF's Information and Intelligent Systems (IIS) Division, where he is cluster lead for the Information Integration and Informatics (III) program. Prior to joining NSF, Dr. Muñoz-Avila was a (tenured) professor of Computer Science and Engineering and of Cognitive Science at Lehigh University. He was founding co-director of Lehigh's Institute for Data, Intelligent Systems, and Computation (I-DISC). Dr. Muñoz-Avila is recipient of a National Science Foundation (NSF) CAREER and held a Lehigh Class of 1961 Professorship. He has been chair for various international scientific meetings including the Sixth International Conference on Case-Based Reasoning (ICCBR-05) and the twenty-fifth Innovative Applications of AI Conference (IAAI-13). He was funded by the Office of Naval Research (ONR), the National Science Foundation (NSF), the Defense Advanced Research Projects Agency (DARPA), the Naval Research Laboratory (NRL) and the Air Force Research Laboratory (AFRL).
+
 
 
 
