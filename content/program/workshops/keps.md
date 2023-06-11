@@ -79,7 +79,37 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 
 ## Workshop Schedule
 
-TBD
+KEPS is scheduled on the 9th of July 2023. 
+
+[9:50 - 11:10] - **Opening Remarks and Session 1: Applications**
+- "Towards a Framework for Intelligent Urban Traffic Routing", Matyas Svadlenka and Lukas Chrpa.
+- "First Steps Towards Planning for Targeted Medicine", Lee-Or Alon, Hana Weitman and Gal Kaminka.
+- "A Good Snowman is Hard to Plan", Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret.
+- "Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft", Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano.
+- "Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees", Michael Welt, Birte Glimm and Milene Santos-Teixeira.
+
+---
+[11:10 - 11:40] - Coffee Break
+
+---
+[11:40 - 13:00] - **Session 2: Modelling and Visualisation**
+- "Taming Discretised PDDL+ through Multiple Discretisations", Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala and Mauro Vallati.
+- "Planning with Qualitative Action-Trajectory Constraints in PDDL", Luigi Bonassi, Alfonso Emilio Gerevini and Enrico Scala.
+- "Scheduling Problems in PDDL", Jan Dolejsi, Derek Long and Michal Stolba.
+- "PDSim: Planning Domain Simulation and Animation with the Unity Game Engine", Emanuele De Pellegrin and Ron Petrick.
+- "Challenges in Modelling and Solving Plotting with PDDL", Joan Espasa Arxer, Ian Miguel, Peter Nightingale, Mateu Villaret and András Z. Salamon.
+
+---
+[13:00 - 14:00] - Lunch
+
+---
+[14:00 - 15:30] - **Session 3: Acquisition and Learning & Closing Remarks**
+- "Partial Grounding in Planning using Small Language Models", Felipe Areces, Benjamin Ocampo, Carlos Areces, Martin Dominguez and Daniel Gnad.
+- "Exploring the Limitations of using Large Language Models to Fix Planning Tasks", Alba Gragera and Alberto Pozanco.
+- "Learning to Act for Perceiving in Partially Unknown Environments", Leonardo Lamanna, Mohamadreza Faridghasemnia, Alfonso Emilio Gerevini, Alessandro Saetti, Alessandro Saffiotti, Luciano Serafini and Paolo Traverso.
+- "Extracting planning domains from execution traces: a progress report", Simona Gugliermo, Erik Schaffernicht, Christos Koniaris and Alessandro Saffiotti.
+- "Autonomous Capability Assessment of Black-Box Sequential Decision-Making Systems", Pulkit Verma, Rushang Karia and Siddharth Srivastava.
+
 
 ## Organising Committee
 
