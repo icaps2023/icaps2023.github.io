@@ -110,7 +110,7 @@ KEPS is scheduled on the 9th of July 2023.
 - "Extracting planning domains from execution traces: a progress report", Simona Gugliermo, Erik Schaffernicht, Christos Koniaris and Alessandro Saffiotti.
 - "Autonomous Capability Assessment of Black-Box Sequential Decision-Making Systems", Pulkit Verma, Rushang Karia and Siddharth Srivastava.
 
-
+---
 ## Organising Committee
 
 - Lukas Chrpa, Czech Technical University
