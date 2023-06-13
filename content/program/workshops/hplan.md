@@ -85,19 +85,20 @@ We do allow and also explicitly encourage the submission of papers that at the t
 
 <div style="width: 100%; margin: 0; padding: 3%;">
 
+<h3 style="color:orange;"><strong>Hector Munoz-Avila</strong></h3>
+<!-- <br><br> -->
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
 <img style="width:100%; border-radius: 3%; vertical-align: middle;" src="/img/Munoz-Avila.jpg" />
 </div>
 
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 
-<h3 style="color:orange;"><strong>Hector Munoz-Avila</strong></h3>
 
 <div style="margin:0; padding: 0; padding-left: 2%">
-<h5>Automated Learning of Hierarchical Knowledge for Planning and Acting</h5>
+<!-- <h5>Short Bio</h5> -->
 
 <p>
-In this talk I will cover a variety of algorithms for learning hierarchical knowledge for planning developed together with collaborators over the years. This will include a variety of formalisms ranging from hierarchical task networks (HTNs) to hierarchical reinforcement learning. I will also present our studies on a variety of planning settings including deterministic planning, nondeterministic planning and planning and acting with a two-level architecture of feedforward neural networks. I will show results of empirical evaluation versus various baselines as well as theoretical analysis regarding the expressiveness of the resulting algorithms and architectures. This work has been published in AAAI, IJCAI, AAMAS and ACS conferences, among others.
+Dr. Munoz-Avila is a Program Director at NSF's Information and Intelligent Systems (IIS) Division, where he is cluster lead for the Information Integration and Informatics (III) program. Prior to joining NSF, Dr. Muñoz-Avila was a (tenured) professor of Computer Science and Engineering and of Cognitive Science at Lehigh University. He was founding co-director of Lehigh's Institute for Data, Intelligent Systems, and Computation (I-DISC). Dr. Muñoz-Avila is recipient of a National Science Foundation (NSF) CAREER and held a Lehigh Class of 1961 Professorship. He has been chair for various international scientific meetings including the Sixth International Conference on Case-Based Reasoning (ICCBR-05) and the twenty-fifth Innovative Applications of AI Conference (IAAI-13). He was funded by the Office of Naval Research (ONR), the National Science Foundation (NSF), the Defense Advanced Research Projects Agency (DARPA), the Naval Research Laboratory (NRL) and the Air Force Research Laboratory (AFRL).
 </p>
 
 </div>
@@ -107,22 +108,13 @@ In this talk I will cover a variety of algorithms for learning hierarchical know
 <hr />
 
 <div style="width: 100%; padding: 2%; margin: 0;">
-<h6>Short Bio</h6>
-<p>Dr. Munoz-Avila is a Program Director at NSF's Information and Intelligent Systems (IIS) Division, where he is cluster lead for the Information Integration and Informatics (III) program. Prior to joining NSF, Dr. Muñoz-Avila was a (tenured) professor of Computer Science and Engineering and of Cognitive Science at Lehigh University. He was founding co-director of Lehigh's Institute for Data, Intelligent Systems, and Computation (I-DISC). Dr. Muñoz-Avila is recipient of a National Science Foundation (NSF) CAREER and held a Lehigh Class of 1961 Professorship. He has been chair for various international scientific meetings including the Sixth International Conference on Case-Based Reasoning (ICCBR-05) and the twenty-fifth Innovative Applications of AI Conference (IAAI-13). He was funded by the Office of Naval Research (ONR), the National Science Foundation (NSF), the Defense Advanced Research Projects Agency (DARPA), the Naval Research Laboratory (NRL) and the Air Force Research Laboratory (AFRL).</p>
+<h6>Automated Learning of Hierarchical Knowledge for Planning and Acting</h6>
+<p>
+In this talk I will cover a variety of algorithms for learning hierarchical knowledge for planning developed together with collaborators over the years. This will include a variety of formalisms ranging from hierarchical task networks (HTNs) to hierarchical reinforcement learning. I will also present our studies on a variety of planning settings including deterministic planning, nondeterministic planning and planning and acting with a two-level architecture of feedforward neural networks. I will show results of empirical evaluation versus various baselines as well as theoretical analysis regarding the expressiveness of the resulting algorithms and architectures. This work has been published in AAAI, IJCAI, AAMAS and ACS conferences, among others.
+</p>
 </div>
 
 </div>
-
-**Hector Munoz-Avila** gives a talk on:  
-*Automated Learning of Hierarchical Knowledge for Planning and Acting*
-
-*Abstract:*  
-In this talk I will cover a variety of algorithms for learning hierarchical knowledge for planning developed together with collaborators over the years. This will include a variety of formalisms ranging from hierarchical task networks (HTNs) to hierarchical reinforcement learning. I will also present our studies on a variety of planning settings including deterministic planning, nondeterministic planning and planning and acting with a two-level architecture of feedforward neural networks. I will show results of empirical evaluation versus various baselines as well as theoretical analysis regarding the expressiveness of the resulting algorithms and architectures. This work has been published in AAAI, IJCAI, AAMAS and ACS conferences, among others. 
-
-*Bio:*  
-Dr. Munoz-Avila is a Program Director at NSF's Information and Intelligent Systems (IIS) Division, where he is cluster lead for the Information Integration and Informatics (III) program. Prior to joining NSF, Dr. Muñoz-Avila was a (tenured) professor of Computer Science and Engineering and of Cognitive Science at Lehigh University. He was founding co-director of Lehigh's Institute for Data, Intelligent Systems, and Computation (I-DISC). Dr. Muñoz-Avila is recipient of a National Science Foundation (NSF) CAREER and held a Lehigh Class of 1961 Professorship. He has been chair for various international scientific meetings including the Sixth International Conference on Case-Based Reasoning (ICCBR-05) and the twenty-fifth Innovative Applications of AI Conference (IAAI-13). He was funded by the Office of Naval Research (ONR), the National Science Foundation (NSF), the Defense Advanced Research Projects Agency (DARPA), the Naval Research Laboratory (NRL) and the Air Force Research Laboratory (AFRL).
-
-
 
 
 ## Workshop Committee
