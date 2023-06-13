@@ -62,8 +62,7 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 
 - [Partial Grounding in Planning using Small Language Models](./KEPS-23_paper_1243.pdf), Felipe Areces, Benjamin Ocampo, Carlos Areces, Martin Dominguez and Daniel Gnad.
 - [Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees](./KEPS-23_paper_1551.pdf), Michael Welt, Birte Glimm and Milene Santos-Teixeira.
-- [Towards a Framework for Intelligent Urban Traffic Routing](./KEPS-23_paper_1704.pdf), Matyas Svadlenka and Lukas Chrpa.
-<!-- - [Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft](./KEPS-23_paper_1936.pdf), Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano. -->
+- [Towards a Framework for Intelligent Urban Traffic Routing](./KEPS-23_paper_1704.pdf), Matyas Svadlenka and Lukas Chrpa. <!-- - [Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft](./KEPS-23_paper_1936.pdf), Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano. -->
 - [PDSim: Planning Domain Simulation and Animation with the Unity Game Engine](./KEPS-23_paper_2186.pdf), Emanuele De Pellegrin and Ron Petrick.
 - [Taming Discretised PDDL+ through Multiple Discretisations](./KEPS-23_paper_3184.pdf), Matteo Cardellini, Marco Maratea, Francesco Percassi, Enrico Scala and Mauro Vallati.
 - [Exploring the Limitations of using Large Language Models to Fix Planning Tasks](./KEPS-23_paper_3645.pdf), Alba Gragera and Alberto Pozanco.
@@ -95,8 +94,7 @@ KEPS is scheduled on the 9th of July 2023.
 [11:40 - 12:40] - **Session 2: Applications**
 - "Towards a Framework for Intelligent Urban Traffic Routing", Matyas Svadlenka and Lukas Chrpa.
 - "First Steps Towards Planning for Targeted Medicine", Lee-Or Alon, Hana Weitman and Gal Kaminka.
-- "A Good Snowman is Hard to Plan", Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret.
-<!-- - "Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft", Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano. -->
+- "A Good Snowman is Hard to Plan", Miquel Bofill, Cristina Borralleras, Joan Espasa Arxer, Gerard Martin Teixidor, Gustavo A. Patow and Mateu Villaret. <!-- - "Outcome Prediction Framework for Mission Operations of Autonomous Spacecraft", Alberto Candela, Tiago Stegun Vaquero, Bennett Huffman, Nihal Dhamani, Federico Rossi and Rebecca Castano. -->
 - "Computing Minimal Unsolvable and Maximal Solvable Abstractions of Planning Problems via Hitting Set Trees", Michael Welt, Birte Glimm and Milene Santos-Teixeira.
 
 ---
