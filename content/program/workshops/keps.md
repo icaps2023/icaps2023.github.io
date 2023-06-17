@@ -81,7 +81,7 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 KEPS is scheduled on the 9th of July 2023. 
 
 ---
-[10:30 - 11:00] - Coffee Break (get you caffeine shot for enjoying all the talks)
+[10:30 - 11:00] - Coffee Break (get your caffeine shot for enjoying all the talks)
 
 ---
 [11:00 - 12:20] - **Opening Remarks and Session 1: Modelling and Visualisation**
