@@ -4,11 +4,18 @@ date: 2023-02-03T23:10:17+01:00
 draft: false
 ---
 
+<!--
+To test the webpage locally, do:
+- install HUGO: https://gohugo.io/installation/
+- call "hugo server" from root
+- open is locally: http://localhost:1313
+-->
+
 # Workshop on Hierarchical Planning (HPlan)
 
 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023) \
 Prague, Czech Republic \
-July 9-10, 2023
+Monday, July 10, 2023 (room N5)
 
 
 
@@ -37,9 +44,9 @@ Topics of interests include but are not limited to:
 ## Important Dates
 
 - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023** (AoE), also see note below!
-- Author Notification: April 28, 2023
-- Camera-Ready Deadline: June 3, 2023
-- ICAPS 2023 Workshops: July 9-10, 2023
+- Author Notification: ~~April 28, 2023~~
+- Camera-Ready Deadline: ~~June 3, 2023~~
+- Workshops Day: Monday, July 10 (room N5), 2023
 
 Note that at the date of the submission deadline, all papers need to be registered, which includes all relevant information such as title, abstract, authors, and kind of paper (long, short, etc.). **You will still be able to upload/update your paper until April 3 (AoE).**
 
@@ -173,7 +180,12 @@ The following publications will be excluded from the proceedings to preven copyr
 
 If you are interested in presenting work on hierarchical planning that was accepted or published at some other conference or journal (to promote your work to the hierarchical planning community), please contact the organizers. We will not include such a paper into our proceedings, but we are happy to discuss options for presenting such work. 
 
-The actual schedule is TBA.
+- 2:00 -- 2:05 &nbsp;&nbsp; &nbsp;  Welcome!
+- 2:05 -- 2:45 &nbsp;&nbsp; &nbsp;  Teaser Talks (all 8 presentations, 5 mins each)
+- 2:45 -- 3:30 &nbsp;&nbsp; &nbsp;  Poster Session
+- 3:30 -- 4:00 &nbsp;&nbsp; &nbsp;  afternoon coffee (break)
+- 4:00 -- 5:00 &nbsp;&nbsp; &nbsp;  Invited talk by Hector Munoz-Avila (see above) + Q&A
+
 
 
 
