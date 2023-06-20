@@ -87,7 +87,7 @@ HSDIP 2023 takes place on Monday, July 10, 2023.
 | 15:30 | | Coffee Break
 |---|---|:---|
 
-| 16:00 | | Session 2
+| 16:00 | | Session 4
 |---|---|:---|
 | | | On Reducing Action Labels in Planning Domains
 | | | Novelty and Lifted Helpful Action in Generalized Planning
