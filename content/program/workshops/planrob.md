@@ -96,33 +96,33 @@ Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy
 
 ## List of Accepted Papers
 
-Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. Robofriend: An Adpative Storytelling Robotic Teddy Bear
+Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. [Robofriend: An Adpative Storytelling Robotic Teddy Bear](./PlanRob-23_paper_1.pdf)
 
-Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. Combined Task and Motion Planning Via Sketch Decompositions 
+Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. [Combined Task and Motion Planning Via Sketch Decompositions](./PlanRob-23_paper_2.pdf)
 
-Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities](./PlanRob-23_paper_3.pdf)
 
-Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: Parameter Tuning Using Deep Reinforcement Learning
+Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: [Parameter Tuning Using Deep Reinforcement Learning](./PlanRob-23_paper_4.pdf)
 
-Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. Planning for Learning Object Properties
+Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. [Planning for Learning Object Properties](./PlanRob-23_paper_5.pdf)
 
-Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. Adaptive Robot Navigation through Integrated Task and Motion Planning
+Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. [Adaptive Robot Navigation through Integrated Task and Motion Planning](./PlanRob-23_paper_6.pdf)
 
-Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri. The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
+Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri. [The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion](./PlanRob-23_paper_7.pdf)
 
-Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. [A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems](./PlanRob-23_paper_8.pdf)
 
-Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg. A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
+Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg. [A Physics-Based Simulated Robotics Testbed for Planning and Acting Research](./PlanRob-23_paper_9.pdf)
 
-Valentin Hartmann and Marc Toussaint. Towards computing low-makespan solutions for multi-arm multi-task planning problems
+Valentin Hartmann and Marc Toussaint. [Towards computing low-makespan solutions for multi-arm multi-task planning problems](./PlanRob-23_paper_10.pdf)
 
-Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi. A novel algorithm for parallelizing actions of a sequential plan
+Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi. [A novel algorithm for parallelizing actions of a sequential plan](./PlanRob-23_paper_11.pdf)
 
-Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi. Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions
+Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi. [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](./PlanRob-23_paper_12.pdf)
 
-Anthony Favier, Shashank Shekhar and Rachid Alami. Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
+Anthony Favier, Shashank Shekhar and Rachid Alami. [Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind](./PlanRob-23_paper_13.pdf)
 
-David Zahrádka, Daniel Kubišta and Miroslav Kulich. Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
+David Zahrádka, Daniel Kubišta and Miroslav Kulich. [Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem](./PlanRob-23_paper_14.pdf)
 
 ## Workshop Schedule
 
