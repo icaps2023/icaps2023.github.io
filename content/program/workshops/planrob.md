@@ -126,6 +126,73 @@ David Zahrádka, Daniel Kubišta and Miroslav Kulich. Solving Robust Execution o
 
 ## Workshop Schedule
 
-TBD
+PlanRob is scheduled on the 10th of July 2023. 
+
+---
+[09:00 - 09:10] **PlanRob WS Introduction**
+--
+[09:10 - 10:10] **Session 1: Human-Aware Robotics**
+
+- Robofriend: An Adpative Storytelling Robotic Teddy Bear.
+Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus
+- Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves
+- Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
+Anthony Favier, Shashank Shekhar and Rachid Alami
+--
+[10:10 - 10:30] **Session 2: Planning and Learning (part 1)**
+
+- PTDRL: Parameter Tuning Using Deep Reinforcement Learning
+Elias Goldsztejn, Ronen Brafman and Tal Feiner
+
+---
+[10:30 - 11:00] - Coffee Break 
+
+---
+[11:00 - 12:20] - **Session 2: Planning and Learning (part 2)**
+
+- Planning for Learning Object Properties
+Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso
+
+[11:20 - 12:20] - **Session 3: Task and Motion Planning**
+- Combined Task and Motion Planning Via Sketch Decompositions
+Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner
+- Adaptive Robot Navigation through Integrated Task and Motion Planning
+Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami
+- Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions
+Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi
+
+---
+[12:20 - 14:00] - Lunch break
+
+---
+[14:00 - 15:00] - **Keynote speech by Michael Beetz (University of Bremen, Germany)**
+
+[11:20 - 12:20] - **Session 4: Algorithms  (part 1)**
+- The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
+Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri
+
+---
+[15:30 - 16:00] - Coffee Break
+
+---
+[16:00 - 16:20] - **Session 4: Algorithms (part 2)**
+- A novel algorithm for parallelizing actions of a sequential plan
+Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi
+
+---
+[16:20 - 17:40] - **Session 5: Frameworks and Testbeds**
+
+- Towards computing low-makespan solutions for multi-arm multi-task planning problems
+Valentin Hartmann and Marc Toussaint
+- Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
+David Zahrádka, Daniel Kubišta and Miroslav Kulich
+- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
+- A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
+Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg
+
+---
+[17:40 - 17:50] - **Closing remarks**
 
 
