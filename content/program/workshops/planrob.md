@@ -139,6 +139,7 @@ Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus
 Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves
 - Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
 Anthony Favier, Shashank Shekhar and Rachid Alami
+
 --
 [10:10 - 10:30] **Session 2: Planning and Learning (part 1)**
 
