@@ -79,6 +79,96 @@ Organizing and Program Committee:
 
 ## Workshop Schedule
 
-TBD
+<table cellpadding="2" cellspacing="2" class="waffle">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="2" style="height:20px"><strong>Welcome</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">13:55</td>
+			<td style="height:20px">14:00</td>
+			<td colspan="6" style="height:20px">Brief Welcome</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 1: Invited Talk</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">14:00</td>
+			<td style="height:20px">14:50</td>
+			<td colspan="6" style="height:20px"><em>Verifying Learning-Based Robotic Navigation Systems</em><br />
+			Guy Amir</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 2: Policy Testing and Verification</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">14:50</td>
+			<td style="height:20px">15:10</td>
+			<td colspan="6" style="height:20px"><em>Action Policy Testing with Heuristic-Based Bias Functions</em><br />
+			Xandra Schuler, Jan Eisenhut, Daniel H&ouml;ller, Daniel Fi&scaron;er and J&ouml;rg Hoffmann</td>
+		</tr>
+		<tr>
+			<td style="height:20px">15:10</td>
+			<td style="height:20px">15:30</td>
+			<td colspan="6" style="height:20px"><em>Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification</em><br />
+			Marcel Vinzent, Min Wu, Haoze Wu and J&ouml;rg Hoffmann</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>BREAK</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">15:30</td>
+			<td style="height:20px">16:00</td>
+			<td colspan="6" style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 3: Foundations &amp; Learned Planning Models</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:00</td>
+			<td style="height:20px">16:20</td>
+			<td colspan="6" style="height:20px"><em>A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates</em><br />
+			Eyal Weiss, Ariel Felner and Gal Kaminka</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:20</td>
+			<td style="height:20px">16:40</td>
+			<td colspan="6" style="height:20px"><em>Safe Learning of PDDL Domains with Conditional Effects</em><br />
+			Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:40</td>
+			<td style="height:20px">17:00</td>
+			<td colspan="6" style="height:20px"><em>Plausibility-Based Heuristics for Latent Space Classical Planning</em><br />
+			Yuta Takata and Alex Fukunaga</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 4: Open Discussion</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">17:00</td>
+			<td style="height:20px">17:30</td>
+			<td colspan="6" style="height:20px"><em>Open discussion</em></td>
+		</tr>
+	</tbody>
+</table>
+
 
 
