@@ -13,9 +13,9 @@
 			"name": "Sheila McIlriath",
 			"label": "mcilriath",
 			"img" : "/img/keynotes/mcilraith.jpg",
-			"title": "",
+			"title": "(Formal) Languages Help AI agents Learn, Plan, and Remember",
 			"webpage" : "https://www.cs.toronto.edu/~sheila",
-			"abstract": "",
+			"abstract": "Humans have evolved languages over tens of thousands of years to provide useful abstractions for understanding and interacting with each other and with the physical world. Language comes in many forms. In Computer Science and in the study of AI, we have historically used formal knowledge representation languages and programming languages to capture our understanding of the world and to communicate unambiguously with computers. Most recently, large (natural) language models have formed the basis for transformative changes in AI. In this talk I will discuss how (formal) language can help agents learn and plan. I’ll show how we can exploit the syntax and semantics of formal language and automata to aid in the specification of complex reward-worthy behavior, to improve the sample efficiency of reinforcement learning, and to help agents learn what to remember in support of planning.",
 			"bio": "Sheila McIlraith is a Professor in the Department of Computer Science at the University of Toronto, a Canada CIFAR AI Chair (Vector Institute), and an Associate Director at the Schwartz Reisman Institute for Technology and Society. Prior to joining U of T, McIlraith spent six years as a Research Scientist at Stanford University, and one year at Xerox PARC. McIlraith’s research is in the area of AI knowledge representation and reasoning, automated planning, and machine learning where she currently studies sequential decision-making, broadly construed, with a focus on human-compatible AI. McIlraith is a Fellow of the ACM and the Association for the Advancement of Artificial Intelligence (AAAI). She and co-authors have been recognized with two 10-year test-of-time awards, one from the International Semantic Web Conference (ISWC) in 2011, and a second from the International Conference on Automated Planning and Scheduling (ICAPS) in 2022, with Christian Muise and Chris Beck."
 		},
 		{
