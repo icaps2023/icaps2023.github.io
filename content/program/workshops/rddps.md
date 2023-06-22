@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'23 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) \
 Prague, Czech Republic \
-July 9-10, 2023
+July 10, 2023
 
 ## Aim and Scope of the Workshop
 
@@ -31,7 +31,7 @@ Given this, the workshop welcomes contributions to any topic that roughly falls 
  - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023 (AoE)**
  - Author Notification: April 28, 2023
  - Camera-Ready Deadline: June 10, 2023 (AoE)
- - ICAPS 2023 Workshops: July 9-10, 2023
+ - ICAPS 2023 Workshops: July 10, 2023
 
 
 ## Submission Details
@@ -78,6 +78,8 @@ Organizing and Program Committee:
  - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates**
 
 ## Workshop Schedule
+
+The workshop will take place on July 10.
 
 <table cellpadding="2" cellspacing="2" class="waffle">
 	<thead>
