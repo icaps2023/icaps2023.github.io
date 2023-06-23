@@ -44,6 +44,7 @@
 		"label": 2809,
 		"authors": "Filip Dvorak, Tomas Balyo, Slavomir Svancar, Josef Ryzi, Martin Dousek and Michal Ficek",
 		"title": "Filuta: Operationalized Composite AI Platform",
+		"video": "https://www.youtube.com/watch?v=5npMi6V9Te8",
 		"abstract": "This paper introduces the Filuta platform, which aims to address the limitations of current AI and ML tooling by providing a versatile environment for composing and integrating multiple modeling techniques, such as AI Planning, machine learning, scheduling, graph theory, constraint programming, linear programming, and large language models. Recognizing the value of the composition approach in solving real-world problems, the platform facilitates learning individual models from data subsets, enabling user augmentation, and generating stand-alone intelligent automation services. The paper further discusses the various stages of platform usage, from data ingestion and modeling to composition and deployment."
 	  },
 	  {
