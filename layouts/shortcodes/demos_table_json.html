@@ -5,7 +5,7 @@
 {{ range $demo := $data.demos }}
 
 <div style="display: inline-block; width: 20%; vertical-align: top; border-style: solid; border-radius: 5%; border-color: orange; margin-top: 1%; margin-bottom: 1%;">
-	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="/demos/img/{{ print $demo.label }}_thumbnail.png" />		
+	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="{{ print $demo.img }}" />		
 </div>
 
 <div style="display: inline-block; width: 70%;  padding-left: 2%;">
