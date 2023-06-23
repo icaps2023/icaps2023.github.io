@@ -167,17 +167,23 @@ theme = 'mainroad'
     parent = "program"
     weight = "30"
   [[menu.main]]
+    identifier = "demos"
+    parent = "program"
+    name = "Demos"
+    url = "/program/demos"
+    weight = "40"
+  [[menu.main]]
     identifier = "ws"
     name = "Workshops"
     parent = "program"
     url = "/program/ws_overview"
-    weight = 40
+    weight = 50
   [[menu.main]]
     identifier = "tutorials"
     parent = "program"
     name = "Tutorials"
     url = "/program/tutorial_overview"
-    weight = "50"
+    weight = "60"
 # TUTORIALS
   [[menu.main]]
     identifier = "mdp_modeling"    
