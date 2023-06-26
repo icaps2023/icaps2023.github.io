@@ -5,8 +5,8 @@ draft: false
 ---
 # Planning and Scheduling for Financial Services (FinPlan'23)
 
-ICAPS'23 Workshop
-Prague, Czech Republic
+ICAPS'23 Workshop \
+Prague, Czech Republic \
 July 9-10, 2023
 
 ## Aim and Scope of the Workshop
