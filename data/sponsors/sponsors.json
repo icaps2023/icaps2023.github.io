@@ -83,6 +83,12 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://research.ibm.com/"
+				},
+				{
+					"logo": "/img/partners/EurAI.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://eurai.org/"
 				}
 			]
 		}
