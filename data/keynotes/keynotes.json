@@ -10,8 +10,8 @@
 			"bio": "Hadas Kress-Gazit is the Geoffrey S.M. Hedrick Sr. Professor at the Sibley School of Mechanical and Aerospace Engineering at Cornell University. She received her Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania in 2008 and has been at Cornell since 2009. Her research focuses on formal methods for robotics and automation and more specifically on synthesis for robotics – automatically creating verifiable robot controllers for complex high-level tasks. Her group explores different types of robotic systems including modular robots, soft robots and swarms and synthesizes ideas from different communities such as robotics, formal methods, control, and hybrid systems. She is an IEEE fellow and has received multiple awards for her research, teaching and advocacy for groups traditionally underrepresented in STEM."
 		},
 		{
-			"name": "Sheila McIlriath",
-			"label": "mcilriath",
+			"name": "Sheila McIlraith",
+			"label": "mcilraith",
 			"img" : "/img/keynotes/mcilraith.jpg",
 			"title": "(Formal) Languages Help AI agents Learn, Plan, and Remember",
 			"webpage" : "https://www.cs.toronto.edu/~sheila",
