@@ -50,7 +50,7 @@ ICAPS 2023 will take place at the **Charles University** in Prague, Czech Repub
    
    <p><span style="font-size: 23px; font-weight: bold;">Workshop and Main Conference Venue</span></p> 
    
-   <p>ICAPS Workshops and Main Conference program will be held at Trója Campus of Faculty of Mathematics and Physis (building IMPAKT "N") situated next to the Vltava River. This is a new building of the <a href="https://cs.mff.cuni.cz/en/about-school" target="_blank">School of Computer Science</a>, Faculty of Mathematics and Physics, Charles University. Web page with some detailed information is <a href="https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja#n" target="_blank">available</a>.</p>
+   <p>ICAPS Workshops and Main Conference program will be held at Trója Campus of Faculty of Mathematics and Physics (building IMPAKT "N") situated next to the Vltava River. This is a new building of the <a href="https://cs.mff.cuni.cz/en/about-school" target="_blank">School of Computer Science</a>, Faculty of Mathematics and Physics, Charles University. Web page with some detailed information is <a href="https://www.mff.cuni.cz/en/internal-affairs/buildings-and-campuses/troja#n" target="_blank">available</a>.</p>
 
  <p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Pavilon+IMPAKT+(MFF+UK)/@50.1159902,14.4476954,17z/data=!4m15!1m8!3m7!1s0x470beb496fea9ea5:0xec13d6d7fcf033fa!2zViBIb2xlxaFvdmnEjWvDoWNoIDc0Ny8yLCAxODAgMDAgUHJhaGEgOC1MaWJlxYg!3b1!8m2!3d50.1159902!4d14.4502703!16s%2Fg%2F11cslxx8x6!3m5!1s0x470beb844e8653eb:0xb93dc2639df67788!8m2!3d50.1162662!4d14.4498247!16s%2Fg%2F11s5fsd9rw" target="_blank">V Holešovičkách 747/2, 180 00 Praha 8, Czech Republic</a></p>
  
