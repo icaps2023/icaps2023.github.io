@@ -9,49 +9,7 @@ The Doctoral Consortium (DC) is intended to give Ph.D. students the opportunity 
 
 The DC is open to all doctoral student attendees of the conference and will take place on **July 8th** (the day before ICAPS workshops and tutorials). Registering for the Doctoral Consortium will be part of the registration process for the conference and all students are invited to take part in it.
 
-
-## Mentoring Program
-
-As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. The Mentoring Program is designed to provide Ph.D. students with an opportunity for in-depth advice by senior members of the field regarding careers and research skills. Each student accepted to the program will be matched with an established researcher in the field who will provide research and career management advice at the **Doctoral Consortium day**.
-
-We encourage current doctoral students (students whose Ph.D. is in progress) to apply for the Mentoring Program. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
-
-### Mentors 
-
-(Listed alphabetically by last name)
-
-* Christopher Beck
-* Riccardo De Benedictis
-* Minh Do
-* Jeremy Frank
-* Nicola Gigante
-* Malte Helmert
-* Michael Katz
-* Masoumeh Iran Mansouri
-* Andrea Micheli
-* Christian Muise
-* Ron Petrick
-* David Smith
-* Shirin Sohrabi
-* Alessandro Umbrico
-* Neil Yorke-Smith
-
-### Chairs
-
-For any questions or problems, please contact the DC chairs:
-
-- Gabriella Cortellessa: <gabriella.cortellessa@istc.cnr.it>
-- Enrico Scala: <enrico.scala@unibs.it>
-
-### Important Dates for the Mentoring Program
-
-- Submission deadline: ~~March 30th, 2023~~
-- Notification deadline: ~~April 30th, 2023~~
-- DC Presentations: July 8th, 2023
-
-
-
-## DC Program
+## Program
 
 The Doctoral Consortium is scheduled on Saturday July 8 from 9:00 PM to 18:00 PM (CET) - Malá Strana Campus, Room S9
 
@@ -103,7 +61,7 @@ problems
 
 
 
-## Invited Talk
+### Invited Talk
 
 <div style="width: 90%; padding: 1%; margin-left: 5%;">
 
@@ -127,6 +85,50 @@ problems
 
 
 </div>
+
+
+## Mentoring Program
+
+As part of the Doctoral Consortium, ICAPS will offer a Mentoring Program. The Mentoring Program is designed to provide Ph.D. students with an opportunity for in-depth advice by senior members of the field regarding careers and research skills. Each student accepted to the program will be matched with an established researcher in the field who will provide research and career management advice at the **Doctoral Consortium day**.
+
+We encourage current doctoral students (students whose Ph.D. is in progress) to apply for the Mentoring Program. Students do not need to be accepted into the Mentoring Program to attend and participate in the Doctoral Consortium.
+
+### Mentors 
+
+(Listed alphabetically by last name)
+
+* Christopher Beck
+* Riccardo De Benedictis
+* Minh Do
+* Jeremy Frank
+* Nicola Gigante
+* Malte Helmert
+* Michael Katz
+* Masoumeh Iran Mansouri
+* Andrea Micheli
+* Christian Muise
+* Ron Petrick
+* David Smith
+* Shirin Sohrabi
+* Alessandro Umbrico
+* Neil Yorke-Smith
+
+### Chairs
+
+For any questions or problems, please contact the DC chairs:
+
+- Gabriella Cortellessa: <gabriella.cortellessa@istc.cnr.it>
+- Enrico Scala: <enrico.scala@unibs.it>
+
+### Important Dates for the Mentoring Program
+
+- Submission deadline: ~~March 30th, 2023~~
+- Notification deadline: ~~April 30th, 2023~~
+- DC Presentations: July 8th, 2023
+
+
+
+
 
 
 
