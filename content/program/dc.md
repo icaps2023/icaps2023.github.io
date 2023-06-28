@@ -36,24 +36,84 @@ We encourage current doctoral students (students whose Ph.D. is in progress) to 
 * Alessandro Umbrico
 * Neil Yorke-Smith
 
-### DC Chairs
+### Chairs
 
 For any questions or problems, please contact the DC chairs:
 
 - Gabriella Cortellessa: <gabriella.cortellessa@istc.cnr.it>
 - Enrico Scala: <enrico.scala@unibs.it>
 
+### Important Dates for the Mentoring Program
+
+- Submission deadline: ~~March 30th, 2023~~
+- Notification deadline: ~~April 30th, 2023~~
+- DC Presentations: July 8th, 2023
+
+
+
+## DC Program
+
+The Doctoral Consortium is scheduled on Saturday July 8 from 9:00 PM to 18:00 PM (CET) - Malá Strana Campus, Room S9
+
+
+[9:00 PM - 10:00 PM] Welcome and Invited Talk by <a href="#karpas">Erez Karpas</a>
+
+---
+[10:00 PM - 10:30 PM] Cofee Break
+
+---
+[10:30 PM - 12:15 PM] **First Session (5+2 mins for questions each)**
+- **Devin Thomas** Domain Specific Situation Planning
+- **Ashwin Kumar** Algorithmic Fairness for Temporal Resource Allocation Problems
+- **Merlijn Krale** Formal Guarantees for Complex Decision-Making Processes
+- **Luigi Bonassi** Effective Approaches for Handling Temporal Constraints in Automated Planning
+problems
+- **Paul Höft** Leaerning Dynamic Algorithms for Automatic Planning
+- **Mauricio Salerno** Eliminating Redundant Actions from Plans
+- **Renato Acampora** Timeline-Based Planning: Extension to Distributed Systems and Refinement Using Symbolic Techniques
+- **Yash Shukla** Towards Cross-Domain Knowledge Transfer for Robotics
+- **Mattia Chiari** A Deep Learning Approach to Goal Recognition
+- **Matteo Cardellini** Automated Planning and Scheduling for Industry 4.0
+- **Grigorios Mouratidis** Variations and Generalizations of Multi-Agent Path Finding (MAPF) with Optimal Task Assignments
+- **Sarah Carmesin** Robot Coverage Problems in Dynamic Environments
+- **Stylianos Loukas Vasileiou** Towards a Logical Account for Human-Aware Explanation Generation in Model Reconciliation Problems
+---
+[12:15 PM - 13:45 PM] Lunch
+
+---
+[13:45 PM - 14:45 PM] **Presentations (5+2 mins for questions each)**
+- **Argaman Mordoch** Learning Planning Action Models to Complete Gaming Tasks
+- **Chenyuan Zhang** Incorporating Timing Information in Planning Algorithms for Human Problem Solving
+- **Ryo Kuroiwa** Domain-Independent Dynamic Programming
+- **Stephen Wissow** Searching with Distributional Heuristics
+- **Ida Gjergji** Optimization Methods for Facility Location in Reverse Logistics
+- **Issa K. Hanou** Towards Neuro-Symbolic Rail Planning
+
+---
+[14:45 PM - 15:00 PM] **Wrap up and closing remarks**
+
+---
+[15:00 PM - 15:30 PM] Cofee Break
+
+---
+[15:00 PM - 17:00 PM] **Posters with mentors**
+
+---
+
+
+
+
 ## Invited Talk
 
 <div style="width: 90%; padding: 1%; margin-left: 5%;">
 
- <div style="display:inline-block; vertical-align:middle; width: 14%; vertical-align: middle; text-align: center; ">
- 	<img style="border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="/img/erez.jpeg" />
+ <div style="display:inline-block; vertical-align:middle; width: 20%; vertical-align: middle; text-align: center; ">
+ 	<img style="width: 90%; border-radius: 5px; border: solid orange; border-radius: 5px; padding: 1%;" src="/img/erez.jpeg" />
  </div>
  
- <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 85%;">
-  <h2><a href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a></h2>
-  <h3>Looking for Serendipity – Where (Some) Research Questions Come From?</h3>
+ <div style="display:inline-block; padding: 1%; vertical-align:middle; width: 75%;">
+  <h3><a name="karpas" href="https://karpase.net.technion.ac.il/" target="_blank">Erez Karpas</a></h3>
+  <h4>Looking for Serendipity – Where (Some) Research Questions Come From?</h4>
   <p>Serendipity is an unplanned fortunate discovery. In this talk, I will describe how I have stumbled on some very interesting research questions by paying attention to small details. I will then try to give some general advice on how to look for interesting research questions in your own work.</p>
  	
  </div>
@@ -67,13 +127,6 @@ For any questions or problems, please contact the DC chairs:
 
 
 </div>
-
-
-## Important Dates for the Mentoring Program
-
-- Submission deadline: ~~March 30th, 2023~~
-- Notification deadline: ~~April 30th, 2023~~
-- DC Presentations: July 8th, 2023
 
 
 
