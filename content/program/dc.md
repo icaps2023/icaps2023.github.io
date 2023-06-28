@@ -56,13 +56,13 @@ For any questions or problems, please contact the DC chairs:
 The Doctoral Consortium is scheduled on Saturday July 8 from 9:00 PM to 18:00 PM (CET) - Malá Strana Campus, Room S9
 
 
-[9:00 PM - 10:00 PM] Welcome and Invited Talk by <a href="#karpas">Erez Karpas</a>
+[9:00 PM - 10:00 PM] - Welcome and Invited Talk by <a href="#karpas">Erez Karpas</a>
 
 ---
 [10:00 PM - 10:30 PM] Cofee Break
 
 ---
-[10:30 PM - 12:15 PM] **First Session (5+2 mins for questions each)**
+[10:30 PM - 12:15 PM] - **First Session (5+2 mins for questions each)**
 - **Devin Thomas** Domain Specific Situation Planning
 - **Ashwin Kumar** Algorithmic Fairness for Temporal Resource Allocation Problems
 - **Merlijn Krale** Formal Guarantees for Complex Decision-Making Processes
@@ -81,7 +81,7 @@ problems
 [12:15 PM - 13:45 PM] Lunch
 
 ---
-[13:45 PM - 14:45 PM] **Presentations (5+2 mins for questions each)**
+[13:45 PM - 14:45 PM] - **Presentations (5+2 mins for questions each)**
 - **Argaman Mordoch** Learning Planning Action Models to Complete Gaming Tasks
 - **Chenyuan Zhang** Incorporating Timing Information in Planning Algorithms for Human Problem Solving
 - **Ryo Kuroiwa** Domain-Independent Dynamic Programming
@@ -90,13 +90,13 @@ problems
 - **Issa K. Hanou** Towards Neuro-Symbolic Rail Planning
 
 ---
-[14:45 PM - 15:00 PM] **Wrap up and closing remarks**
+[14:45 PM - 15:00 PM] - Wrap up and closing remarks
 
 ---
-[15:00 PM - 15:30 PM] Cofee Break
+[15:00 PM - 15:30 PM] - Cofee Break
 
 ---
-[15:00 PM - 17:00 PM] **Posters with mentors**
+[15:00 PM - 17:00 PM] - **Posters with mentors**
 
 ---
 
