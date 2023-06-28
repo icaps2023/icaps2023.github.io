@@ -799,8 +799,8 @@
 			"title" : "Journal Track 2",
 			"length" : 90,
 			"day": "July 13",
-			"start": "4:00 PM (CET)",
-			"end": "5:00 PM (CET)",
+			"start": "2:00 PM (CET)",
+			"end": "3:30 PM (CET)",
 			"papers": [
 				{
 					"number": 103,
