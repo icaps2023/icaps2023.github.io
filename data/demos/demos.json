@@ -57,6 +57,9 @@
 		"label": 3127,
 		"authors": "Emanuele De Pellegrin and Ron Petrick",
 		"title": "PDSim: Simulate Plans",
+		"video": "https://youtu.be/akeZf6-8Gew",
+		"poster": "/demos/posters/3127_poster.pdf",
+		"code": "https://github.com/Cryoscopic-E/PDSim",
 		"img": "/demos/img/3127_thumbnail.png",
 		"abstract": "This paper presents new additions and improvements to the Planning Domain Simulation (PDSim) project. PDSim is a plugin for the Unity game engine to simulate planning domains and plans. PDSim uses a novel way to translate the output of a planner to 2D or 3D animations and effects. Using these visualisation techniques, PDSim aims to help users evaluate the quality of a plan and improve domain and problem modelling. In this system demonstration, we present the structure and operation of the PDSim interface by illustrating how to set up a new simulation for planning problems, and how the user interface can be used for creating animations."
 	  },
