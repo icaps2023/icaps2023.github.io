@@ -7,7 +7,7 @@
 		"video": "https://youtu.be/4-GgOg2nuGE",
 		"img" : "/demos/img/194_thumbnail.png",
 		"poster": "/demos/posters/194_poster.pdf",
-		"code": "https://github.com/DFKI-NI/mobipick",
+		"code": "https://github.com/DFKI-NI/mobipick_labs",
 		"abstract": "In this demonstration we show the mobipick labs environment, which is a testbed for planning, execution and monitoring algorithms in a robotic domain. It provides a physicsbased simulation environment for a mobile robot together with full integration of the robot and easy-to-use interface for the robot’s capabilities. This gives users without a strong robotics background the opportunity to apply their planningrelated work to a robotic domain. Moreover, the framework includes a simple semantic and numeric environment representation, providing real-time knowledge in the form of facts that can be utilized to monitor the execution status. Finally we also demonstrate one possible solution using task planning to search and transport certain objects to a target location."
 	  },	
 	  {
@@ -57,6 +57,9 @@
 		"label": 3127,
 		"authors": "Emanuele De Pellegrin and Ron Petrick",
 		"title": "PDSim: Simulate Plans",
+		"video": "https://youtu.be/akeZf6-8Gew",
+		"poster": "/demos/posters/3127_poster.pdf",
+		"code": "https://github.com/Cryoscopic-E/PDSim",
 		"img": "/demos/img/3127_thumbnail.png",
 		"abstract": "This paper presents new additions and improvements to the Planning Domain Simulation (PDSim) project. PDSim is a plugin for the Unity game engine to simulate planning domains and plans. PDSim uses a novel way to translate the output of a planner to 2D or 3D animations and effects. Using these visualisation techniques, PDSim aims to help users evaluate the quality of a plan and improve domain and problem modelling. In this system demonstration, we present the structure and operation of the PDSim interface by illustrating how to set up a new simulation for planning problems, and how the user interface can be used for creating animations."
 	  },
