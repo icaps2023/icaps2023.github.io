@@ -169,7 +169,7 @@ Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi
 ---
 [14:00 - 15:00] - **"Plan-based control of robot agents -- reasoning with one's eyes and hands" Keynote speech by Michael Beetz (University of Bremen, Germany)**
 
-[11:20 - 12:20] - **Session 4: Algorithms  (part 1)**
+[15:10 - 15:30] - **Session 4: Algorithms  (part 1)**
 - The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
 Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri
 
