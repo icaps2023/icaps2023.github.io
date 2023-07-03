@@ -167,7 +167,7 @@ Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi
 [12:20 - 14:00] - Lunch break
 
 ---
-[14:00 - 15:00] - **Keynote speech by Michael Beetz (University of Bremen, Germany)**
+[14:00 - 15:00] - **"Plan-based control of robot agents -- reasoning with one's eyes and hands" Keynote speech by Michael Beetz (University of Bremen, Germany)**
 
 [11:20 - 12:20] - **Session 4: Algorithms  (part 1)**
 - The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
@@ -195,5 +195,14 @@ Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci
 
 ---
 [17:40 - 17:50] - **Closing remarks**
+
+## Keynote Talk
+
+Michael Beetz (University of Bremen, Germany)
+
+Title: Plan-based control of robot agents -- reasoning with one's eyes and hands
+
+Abstract: Robotic agents that can accomplish manipulation tasks with the competence of humans have been
+one of the grand research challenges for AI planning and robotics research for more than 50 years. However, while the fields made huge progress over the years, this ultimate goal is still out of reach. I believe that this is the case because the knowledge representation and reasoning methods -- including task and motion planning -- that have been proposed in AI so far are necessary but too abstract. In this talk I propose to address this problem by endowing robots with the capability to internally emulate and simulate their perception-action loops based on realistic images and faithful physics simulations, which are made machine-understandable by casting them as virtual symbolic knowledge bases. These capabilities allow robots to generate huge collections of machine-understandable manipulation experiences, which robotic agents can generalize into commonsense and intuitive physics knowledge applicable to open varieties of manipulation tasks. The combination of learning, representation, reasoning, and planning will equip robots with an understanding of the relation between their motions and the physical effects they cause at an unprecedented level of realism, depth, and breadth, and enable them to master human-scale manipulation tasks. This breakthrough will be achievable by combining leading-edge simulation and visual rendering technologies with mechanisms to semantically interpret and introspect internal simulation data structures and processes. Robots with such planning and plan execution capabilities can help us to better deal with important societal, humanitarian, and economic challenges of our aging societies.
 
 
