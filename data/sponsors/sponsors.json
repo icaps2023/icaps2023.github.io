@@ -89,7 +89,14 @@
 					"height": "-1",
 					"width": "200",
 					"link": "https://eurai.org/"
+				},
+				{
+					"logo": "/img/partners/jiuzhang.png",
+					"height": "-1",
+					"width": "200",
+					"link": "http://jiuzhangzhineng.com/"
 				}
+
 			]
 		}
 	]
