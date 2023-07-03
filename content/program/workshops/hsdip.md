@@ -19,29 +19,29 @@ The HSDIP workshop has always been welcoming of multidisciplinary work, for exam
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
 
 ## List of Accepted Papers
-* **On Reducing Action Labels in Planning Domains**  
+* **On Reducing Action Labels in Planning Domains** [(pdf)](https://openreview.net/pdf?id=FS5Ypo5wXWK)  
   Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
-* **Novelty and Lifted Helpful Actions in Generalized Planning**  
+* **Novelty and Lifted Helpful Actions in Generalized Planning** [(pdf)](https://openreview.net/pdf?id=4lRGuJCqkPc)  
   Chao Lei, Nir Lipovetzky, Krista A. Ehinger
-* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
+* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning** [(pdf)](https://openreview.net/pdf?id=XiMA7vvSkT)  
   Stephen Wissow, Masataro Asai
-* **K\* and Partial Order Reduction for Top-quality Planning**  
+* **K\* and Partial Order Reduction for Top-quality Planning** [(pdf)](https://openreview.net/pdf?id=VjHWRAiVSB)  
   Michael Katz, Junkyu Lee
-* **Any-Start-Time Planning for SIPP**  
+* **Any-Start-Time Planning for SIPP** [(pdf)](https://openreview.net/pdf?id=YQ7-QAqAlAV)  
   Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
-* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
+* **Online Planning for Stochastic Collaborative Privacy Preserving Planning** (PDF available by request to the organizing committee or authors.)  
   Oriel Uzan, Guy Shani
-* **K\* Search Over Orbit Space for Top-k Planning**  
+* **K\* Search Over Orbit Space for Top-k Planning** [(pdf)](https://openreview.net/pdf?id=pAocdmNGV5)  
   Michael Katz, Junkyu Lee
-* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
+* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning** [(pdf)](https://openreview.net/pdf?id=ocTyIiCroh)  
   Alice Petrov, Christian Muise
-* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
+* **PARIS: Planning Algorithms for Reconfiguring Independent Sets** [(pdf)](https://openreview.net/pdf?id=LE8nB7aHV4)  
   Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
-* **Action Schema Networks for Numerical Planning**  
+* **Action Schema Networks for Numerical Planning** [(pdf)](https://openreview.net/pdf?id=T5GyijA0a3m)  
   Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
-* **Triangle Search: An Anytime Beam Search**  
+* **Triangle Search: An Anytime Beam Search** [(pdf)](https://openreview.net/pdf?id=vJQ9iLJHBs)  
   Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
-* **On K\* Search for Top-k Planning**  
+* **On K\* Search for Top-k Planning** [(pdf)](https://openreview.net/pdf?id=VK9XF6MgQ8q)  
   Junkyu Lee, Michael Katz, Shirin Sohrabi
 
 ## Workshop Schedule
