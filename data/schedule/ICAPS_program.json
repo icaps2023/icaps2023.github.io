@@ -1,0 +1,289 @@
+{
+    "rows": [
+        {
+            "col0": "",
+            "col1": "N1",
+            "col2": "T1"
+        },
+        {
+            "col0": "SATURDAY (July 8, 2023)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "08:00-09:00",
+            "col1": "Registration  (Mal\u00e1 Strana)",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-17:00",
+            "col1": "Doctoral Consortium (Mal\u00e1 Strana)",
+            "col2": ""
+        },
+        {
+            "col0": "SUNDAY (July 9, 2023)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "08:00-09:00",
+            "col1": "Registration ",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-10:30",
+            "col1": "Workshops & Tutorial",
+            "col2": ""
+        },
+        {
+            "col0": "10:30-11:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "11:00-12:00",
+            "col1": "Workshops & Tutorial",
+            "col2": ""
+        },
+        {
+            "col0": "12:00-14:00",
+            "col1": "LUNCH ",
+            "col2": ""
+        },
+        {
+            "col0": "14:00-15:30",
+            "col1": "Workshops & Tutorials",
+            "col2": ""
+        },
+        {
+            "col0": "15:30-16:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "16:00-18:00",
+            "col1": "Workshops & Tutorials",
+            "col2": ""
+        },
+        {
+            "col0": "MONDAY (July 10, 2023)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "08:00-09:00",
+            "col1": "Registration ",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-10:30",
+            "col1": "Workshops & Tutorials",
+            "col2": ""
+        },
+        {
+            "col0": "10:30-11:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "11:00-12:00",
+            "col1": "Workshops & Tutorials",
+            "col2": ""
+        },
+        {
+            "col0": "12:00-14:00",
+            "col1": "LUNCH ",
+            "col2": ""
+        },
+        {
+            "col0": "14:00-15:30",
+            "col1": "Workshops & Tutorial",
+            "col2": ""
+        },
+        {
+            "col0": "15:30-16:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "16:00-17:30",
+            "col1": "Workshops & Tutorial",
+            "col2": ""
+        },
+        {
+            "col0": "17:00-18:00",
+            "col1": "Registration ",
+            "col2": ""
+        },
+        {
+            "col0": "18:00-20:00",
+            "col1": "Welcome Reception",
+            "col2": ""
+        },
+        {
+            "col0": "TUESDAY (July 11, 2023)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "08:00-09:00",
+            "col1": "Registration ",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-09:10",
+            "col1": " ICAPS Opening",
+            "col2": ""
+        },
+        {
+            "col0": "09:10-10:10",
+            "col1": " Invited Talk 1",
+            "col2": ""
+        },
+        {
+            "col0": "10:10-11:10",
+            "col1": "Main 1",
+            "col2": "Learning 1"
+        },
+        {
+            "col0": "11:10-11:40",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "11:40-12:40",
+            "col1": "Main 2",
+            "col2": "Robotics 1"
+        },
+        {
+            "col0": "12:40-14:00",
+            "col1": "LUNCH & ICAPS 101 Quiz",
+            "col2": ""
+        },
+        {
+            "col0": "14:00-15:30",
+            "col1": "Main 3",
+            "col2": "IPC results 1"
+        },
+        {
+            "col0": "15:30-16:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "16:00-17:00",
+            "col1": "Main 4",
+            "col2": "Journal 1"
+        },
+        {
+            "col0": "17:00-18:30",
+            "col1": "Poster & System Demo",
+            "col2": ""
+        },
+        {
+            "col0": "WEDNESDAY (July 12, 2022)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-10:10",
+            "col1": " Invited Talk 2",
+            "col2": ""
+        },
+        {
+            "col0": "10:10-11:10",
+            "col1": "Main 5",
+            "col2": "Learning 2"
+        },
+        {
+            "col0": "11:10-11:40",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "11:40-12:40",
+            "col1": "Main 6",
+            "col2": "Apps 1"
+        },
+        {
+            "col0": "12:40-14:00",
+            "col1": "LUNCH ",
+            "col2": ""
+        },
+        {
+            "col0": "14:00-15:30",
+            "col1": "Main 7",
+            "col2": "IPC results 2 & MAPF"
+        },
+        {
+            "col0": "15:30-16:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "16:00-17:00",
+            "col1": "Awards Ceremony",
+            "col2": ""
+        },
+        {
+            "col0": "17:00-18:30",
+            "col1": "Community Meeting",
+            "col2": ""
+        },
+        {
+            "col0": "19:45-22:30",
+            "col1": "Dinner on a Boat ",
+            "col2": ""
+        },
+        {
+            "col0": "THURSDAY (July 13, 2023)",
+            "col1": "",
+            "col2": ""
+        },
+        {
+            "col0": "09:00-10:10",
+            "col1": " Invited Talk 3",
+            "col2": ""
+        },
+        {
+            "col0": "10:10-11:10",
+            "col1": "Main 8",
+            "col2": "Learning 3"
+        },
+        {
+            "col0": "11:10-11:40",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "11:40-12:40",
+            "col1": "Main 9",
+            "col2": "Apps 2"
+        },
+        {
+            "col0": "12:40-14:00",
+            "col1": "LUNCH ",
+            "col2": ""
+        },
+        {
+            "col0": "14:00-15:30",
+            "col1": "Main 10",
+            "col2": "Journal 2"
+        },
+        {
+            "col0": "15:30-16:00",
+            "col1": "COFFEE BREAK",
+            "col2": ""
+        },
+        {
+            "col0": "16:00-17:00",
+            "col1": "Main 11",
+            "col2": ""
+        },
+        {
+            "col0": "17:00-17:10",
+            "col1": " ICAPS Closing",
+            "col2": ""
+        }
+    ]
+}

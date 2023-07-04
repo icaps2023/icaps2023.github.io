@@ -6,8 +6,11 @@ draft: false
 
 # ICAPS 2023 Schedule
 
-{{< schedule_json "/data/schedule.json" >}}
+{{< embed-pdf url="ICAPS_program_complete.pdf" hidePaginator="true" >}}
 
+---
+
+{{< detailed_schedule_json "/data/schedule.json" >}}
 
 
 
