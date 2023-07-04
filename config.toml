@@ -148,6 +148,37 @@ theme = 'mainroad'
     url = "/program/schedule"
     parent = "program"
     weight = 10
+# DAYS  
+  [[menu.main]]
+    identifier = "sunday"
+    name = "Sunday (July 9)"
+    url = "/program/schedule/sunday"
+    parent = "overview"
+    weight = 10
+  [[menu.main]]
+    identifier = "monday"
+    name = "Monday (July 10)"
+    url = "/program/schedule/monday"
+    parent = "overview"
+    weight = 11
+  [[menu.main]]
+    identifier = "tuesday"
+    name = "Tuesday (July 11)"
+    url = "/program/schedule/tuesday"
+    parent = "overview"
+    weight = 12
+  [[menu.main]]
+    identifier = "wednesday"
+    name = "Wednesday (July 12)"
+    url = "/program/schedule/wednesday"
+    parent = "overview"
+    weight = 13
+  [[menu.main]]
+    identifier = "thursday"
+    name = "Thursday (July 13)"
+    url = "/program/schedule/thursday"
+    parent = "overview"
+    weight = 14
   [[menu.main]]
     identifier = "accepted-papers"
     name = "Accepted Papers"
