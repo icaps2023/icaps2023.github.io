@@ -1,5 +1,5 @@
 ---
-title: "Doctoral consortium"
+title: "Doctoral Consortium"
 date: 2023-02-09T10:27:57+02:00
 draft: false
 ---
@@ -11,13 +11,13 @@ The DC is open to all doctoral student attendees of the conference and will take
 
 ## Program
 
-The Doctoral Consortium is scheduled on Saturday July 8 from 9:00 PM to 18:00 PM (CET) - Malá Strana Campus, Room S9
+The Doctoral Consortium is scheduled on Saturday, July 8 from 9:00 PM to 18:00 PM (CET) - Malá Strana Campus, Room S9
 
 
 [9:00 PM - 10:00 PM] - Welcome and Invited Talk by <a href="#karpas">Erez Karpas</a>
 
 ---
-[10:00 PM - 10:30 PM] Cofee Break
+[10:00 PM - 10:30 PM] Coffee Break
 
 ---
 [10:30 PM - 12:15 PM] - **First Session (5+2 mins for questions each)**
@@ -26,7 +26,7 @@ The Doctoral Consortium is scheduled on Saturday July 8 from 9:00 PM to 18:00 PM
 - **Merlijn Krale** Formal Guarantees for Complex Decision-Making Processes
 - **Luigi Bonassi** Effective Approaches for Handling Temporal Constraints in Automated Planning
 problems
-- **Paul Höft** Leaerning Dynamic Algorithms for Automatic Planning
+- **Paul Höft** Learning Dynamic Algorithms for Automatic Planning
 - **Mauricio Salerno** Eliminating Redundant Actions from Plans
 - **Renato Acampora** Timeline-Based Planning: Extension to Distributed Systems and Refinement Using Symbolic Techniques
 - **Yash Shukla** Towards Cross-Domain Knowledge Transfer for Robotics
@@ -51,7 +51,7 @@ problems
 [14:45 PM - 15:00 PM] - Wrap up and closing remarks
 
 ---
-[15:00 PM - 15:30 PM] - Cofee Break
+[15:00 PM - 15:30 PM] - Coffee Break
 
 ---
 [15:00 PM - 17:00 PM] - **Posters with mentors**
