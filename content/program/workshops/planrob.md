@@ -100,7 +100,7 @@ Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. [Robofriend: An 
 
 Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. [Combined Task and Motion Planning Via Sketch Decompositions](./PlanRob-23_paper_2.pdf)
 
-Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities](./PlanRob-23_paper_3.pdf)
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities](./PlanRob-23_paper_3bis.pdf)
 
 Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: [Parameter Tuning Using Deep Reinforcement Learning](./PlanRob-23_paper_4.pdf)
 
@@ -135,7 +135,7 @@ PlanRob is scheduled on the 10th of July 2023.
 
 - Robofriend: An Adpative Storytelling Robotic Teddy Bear.
 Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus
-- Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
+- Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities
 Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves
 - Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
 Anthony Favier, Shashank Shekhar and Rachid Alami
