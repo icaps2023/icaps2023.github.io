@@ -100,7 +100,7 @@ Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. [Robofriend: An 
 
 Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. [Combined Task and Motion Planning Via Sketch Decompositions](./PlanRob-23_paper_2.pdf)
 
-Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities](./PlanRob-23_paper_3.pdf)
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities](./PlanRob-23_paper_3.pdf)
 
 Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: [Parameter Tuning Using Deep Reinforcement Learning](./PlanRob-23_paper_4.pdf)
 
