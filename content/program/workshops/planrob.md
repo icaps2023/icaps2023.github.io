@@ -188,10 +188,10 @@ Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi
 Valentin Hartmann and Marc Toussaint
 - Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
 David Zahrádka, Daniel Kubišta and Miroslav Kulich
-- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
-Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
 - A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
 Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg
+- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
 
 ---
 [17:40 - 17:50] - **Closing remarks**
