@@ -95,8 +95,13 @@
 					"height": "-1",
 					"width": "200",
 					"link": ""
+				},
+				{
+					"logo": "/img/partners/cski.png",
+					"height": "-1",
+					"width": "200",
+					"link": "https://www.cski.cz/homepage/en"
 				}
-
 			]
 		}
 	]

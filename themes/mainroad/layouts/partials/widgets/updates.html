@@ -1,0 +1,11 @@
+{{ $data:= getJSON "/data/updates/updates.json" }}
+
+
+
+<div class="widget-updates widget">
+	<h1>Updates</h1>
+		{{ range $update := $data.updates }}
+		<p>{{ print $update.text }}</p>
+		{{ end }}
+</div>
+
