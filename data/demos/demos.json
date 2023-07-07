@@ -9,7 +9,7 @@
 		"img" : "/demos/img/194_thumbnail.png",
 		"poster": "/demos/posters/194_poster.pdf",
 		"code": "https://github.com/DFKI-NI/mobipick_labs",
-		"abstract": "In this demonstration we show the mobipick labs environment, which is a testbed for planning, execution and monitoring algorithms in a robotic domain. It provides a physicsbased simulation environment for a mobile robot together with full integration of the robot and easy-to-use interface for the robot’s capabilities. This gives users without a strong robotics background the opportunity to apply their planningrelated work to a robotic domain. Moreover, the framework includes a simple semantic and numeric environment representation, providing real-time knowledge in the form of facts that can be utilized to monitor the execution status. Finally we also demonstrate one possible solution using task planning to search and transport certain objects to a target location."
+		"abstract": "In this demonstration we show the mobipick labs environment, which is a testbed for planning, execution and monitoring algorithms in a robotic domain. It provides a physics-based simulation environment for a mobile robot together with full integration of the robot and easy-to-use interface for the robot’s capabilities. This gives users without a strong robotics background the opportunity to apply their planning-related work to a robotic domain. Moreover, the framework includes a simple semantic and numeric environment representation, providing real-time knowledge in the form of facts that can be utilized to monitor the execution status. Finally we also demonstrate one possible solution using task planning to search and transport certain objects to a target location."
 	  },	
 	  {
 		"label": 255,
@@ -23,11 +23,13 @@
 	  },
 	  {
 		"label": 692,
-		"authors": "Michael Katz, Jungkoo Kang, Tathagata Chakraborti and Shirin Sohrabi",
+		"authors": "Jungkoo Kang, Tathagata Chakraborti, Michael Katz, Shirin Sohrabi, Francesco Fuggitti",
 		"title": "Lemming: A Tool for Guided Plan Selection",
 		"room": "N6", 
 		"video": "https://ibm.biz/icaps-lemming",
 		"img": "/demos/img/692_thumbnail.png",
+		"poster": "/demos/posters/692_poster.pdf",
+		"code": "https://github.com/IBM/lemming",
 		"abstract": "Lemming is a visualization tool for the selection of plans for a given problem, allowing the user to efficiently whittle down the set of plans and select their plan(s) of choice. We propose three different user experiences for this process, all based on the principle that using landmarks as guidance can help cut down the set of choice points for the user. The live demonstration at the conference will allow the audience to interact with the tool on different domains and problems."
 	  },
 	  {
