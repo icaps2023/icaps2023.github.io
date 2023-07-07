@@ -145,7 +145,7 @@ theme = 'mainroad'
   [[menu.main]]
     identifier = "schedule"
     name = "Schedule"
-    url = "/schedule"
+    url = "/schedule/schedule"
     weight = 7500
 # DAYS  
   [[menu.main]]
