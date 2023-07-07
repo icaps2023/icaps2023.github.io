@@ -12,6 +12,11 @@ theme = 'mainroad'
 [Params.style.vars]
      highlightColor = "#f5821f"
 
+# Uncomment to enable updates from /data/updates/updates.json on sidebar
+#[Params.sidebar]
+#  home="right"
+#  widgets=["updates"]
+
 [menu]
 # HOME
   [[menu.main]]
