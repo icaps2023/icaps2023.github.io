@@ -6,8 +6,8 @@
 			"description": "The Doctoral Consortium will run at Malá Strana Campus of Charles University, Faculty of Mathematics and Physics situated in the center of Lesser Town, a historic quarter under the Prague Castle. The venue can be reached easily by public transport by Metro line A going to the station Malostranská and then either walking (10 minutes) or taking a tram (one stop, lines 12, 20, 22) to stop Malostranské náměstí, which is right in front of the faculty building. The easiest way to get there from the conference hotel, Mama Prague, is using tram line 23 from stop Veletržní palác (in front of the hotel) to stop Malostranská. Travel time is 6 minutes (the fare is 30 CZK, tariff 30 minutes).",
 			"map": "/img/travel/dc_route.png",			
 			"caption": "Path to the DC venue from the closest metro station Malostranská",
-			"url": "https://www.google.com/maps/dir/Malostransk%C3%A1/Univerzita+Karlova,+Matematicko-fyzik%C3%A1ln%C3%AD%E2%80%A6/@50.090273,14.4041836,16.72z/data=!4m15!4m14!1m5!1m1!1s0x470b94e0b8cbf319:0xd773d099f3bb7807!2m2!1d14.4094798!2d50.0909076!1m5!1m1!1s0x470b94e220bd1abf:0xdbc36558fd05ccd7!2m2!1d14.403655!2d50.088344!3e2!5i1"
-			
+			"url": "https://www.google.com/maps/dir/Malostransk%C3%A1/Univerzita+Karlova,+Matematicko-fyzik%C3%A1ln%C3%AD%E2%80%A6/@50.090273,14.4041836,16.72z/data=!4m15!4m14!1m5!1m1!1s0x470b94e0b8cbf319:0xd773d099f3bb7807!2m2!1d14.4094798!2d50.0909076!1m5!1m1!1s0x470b94e220bd1abf:0xdbc36558fd05ccd7!2m2!1d14.403655!2d50.088344!3e2!5i1",
+			"timetable": ""
 		},
 		{
 			"venue": "Workshop and Main Conference",
@@ -15,7 +15,8 @@
 			"description": "The workshops and conference main program will run at Troja Campus of Charles University, Faculty of Mathematics and Physics situated near Vltava River in Holešovice quarter. The venue can be reached by public transport by Metro line C going to station Nádraží Holešovice and then either walking (20 minutes, but not a nice walk) or taking a bus #201 to stop Kuchyňka (first stop after crossing the river), which is very close to the university building IMPAKT. From the conference hotel, Mama Prague, you can either walk (about 2.6 km/1.7 miles) or take a tram (#6 or #17) to Nádraží Holešovice and then bus #201 to stop Kuchyňka. Total travel time is about 15 minutes (the fare is 30 CZK, tariff 30 minutes).",
 			"map": "/img/travel/main_route.png",
 			"caption": "Path to the main ICAPS venue from the closest metro station Nádraží Holešovice",
-			"url": "https://www.google.com/maps/dir/N%C3%A1dra%C5%BE%C3%AD+Hole%C5%A1ovice,+Hole%C5%A1ovice,+Praha+7/Pavilon+IMPAKT+(MFF+UK)/@50.1128554,14.4399383,15.86z/data=!4m14!4m13!1m5!1m1!1s0x470b94cabeed687f:0x73396ac8ac0f716b!2m2!1d14.44075!2d50.108868!1m5!1m1!1s0x470beb844e8653eb:0xb93dc2639df67788!2m2!1d14.4498247!2d50.1162662!3e2"
+			"url": "https://www.google.com/maps/dir/N%C3%A1dra%C5%BE%C3%AD+Hole%C5%A1ovice,+Hole%C5%A1ovice,+Praha+7/Pavilon+IMPAKT+(MFF+UK)/@50.1128554,14.4399383,15.86z/data=!4m14!4m13!1m5!1m1!1s0x470b94cabeed687f:0x73396ac8ac0f716b!2m2!1d14.44075!2d50.108868!1m5!1m1!1s0x470beb844e8653eb:0xb93dc2639df67788!2m2!1d14.4498247!2d50.1162662!3e2",
+			"timetable": "/travel/timatable_201.pdf"
 		
 		}
 	]
