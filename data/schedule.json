@@ -45,8 +45,8 @@
 			"title" : "Learning 2",
 			"length" : 60,
 			"day": "July 12",
-			"start": "11:40 AM (CET)",
-			"end": "12:40 PM (CET)",
+			"start": "10:10 AM (CET)",
+			"end": "11:10 PM (CET)",
 			"papers": [
 			
 				{
@@ -764,7 +764,7 @@
 			"number": 100,
 			"label": "journal1",
 			"title" : "Journal Track 1",
-			"length" : 90,
+			"length" : 60,
 			"day": "July 11",
 			"start": "4:00 PM (CET)",
 			"end": "5:00 PM (CET)",
