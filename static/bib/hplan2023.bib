@@ -1,11 +1,23 @@
+# proceedings
+@Proceedings{HPlan2023proceedings,
+  editor          = {Pascal Bercher and Daniel H\"oller and Julia Wichlacz and Ron Alford},
+  title           = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
+  year            = {2023},
+  url_website     = {http://hplan2023.hierarchical-task.net},
+  url_proceedings = {https://icaps23.icaps-conference.org/papers/hplan/HPlanProceedings-2023.pdf}
+}
+
+
 #1
 @InProceedings{Olz2023TOLookAhead,
   author    = {Conny Olz and Pascal Bercher},
   title     = {A Look-Ahead Technique for Search-Based HTN Planning: Reducing the Branching Factor by Identifying Inevitable Task Refinements},
   booktitle = {Proceedings of the 16th International Symposium on Combinatorial Search (SoCS 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published},
-  abstract  = {In HTN planning the choice of decomposition methods used to refine compound tasks is key to finding a valid plan. Based on inferred preconditions and effects of compound tasks, we propose a look-ahead technique for search-based total-order HTN planning that can identify inevitable refinement choices and in some cases dead-ends. The former occurs when all but one decomposition method for some task are proved infeasible for turning a task network into a solution, whereas the latter occurs when all methods are proved infeasible. We show how it can be used for pruning, as well as to strengthen heuristics and to reduce the search branching factor. An empirical evaluation proves its potential as incorporating it improves an existing HTN planner such that it is the currently best performing one in terms of coverage and IPC score.}
+  doi       = {10.1609/socs.v16i1.27284},
+  pages     = {65--73},
+  abstract  = {In HTN planning the choice of decomposition methods used to refine compound tasks is key to finding a valid plan. Based on inferred preconditions and effects of compound tasks, we propose a look-ahead technique for search-based total-order HTN planning that can identify inevitable refinement choices and in some cases dead-ends. The former occurs when all but one decomposition method for some task are proven infeasible for turning a task network into a solution, whereas the latter occurs when all methods are proven infeasible. We show how it can be used for pruning, as well as to strengthen heuristics and to reduce the search branching factor. An empirical evaluation proves its potential as incorporating it improves an existing HTN planner such that it is the currently best performing one in terms of coverage and IPC score.},
+  url_paper = {https://ojs.aaai.org/index.php/SOCS/article/view/27284/27057}
 }
 
 #2
@@ -14,8 +26,9 @@
   title     = {Implicit Dependency Detection for HTN Plan Repair},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {10--18},
+  abstract  = {Two recent approaches to HTN replanning, IPyHOP and SHOPFIXER, replan by adapting the previously planned solution when an action fails. IPyHOP replans the entire solution tree after the failure, while SHOPFIXER uses pre-calculated dependency graphs to replace portions of the tree; neither uses forward simulation of the plan to predict where future failures might occur. This paper describes IPyHOPPER, which improves IPyHOP by retaining more of the information provided by the hierarchy and using forward simulation to repair minimal subtrees that contain future failures. Our experimental comparisons show that in domains where errors are not rare, IPyHOPPER is both faster and uses fewer iterations to repair than IPyHOP's repair mechanism. IPyHOPPER's repair speedups are similar to those of SHOPFIXER when given a probabilistic error model with nontrivial error rates.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_2.pdf}
 }
 
 #3
@@ -24,18 +37,20 @@
   title     = {On the Computational Complexity of Plan Verification, (Bounded) Plan-Optimality Verification, and Bounded Plan Existence},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back soon!},
-  abstract  = {In this paper we study the computational complexity of several reasoning tasks centered at the bounded plan existence problem. We do this for standard classical planning and hierarchical task network (HTN) planning and each for the grounded and the lifted representation. Whereas bounded plan existence complexity is known for classical planning, it has not been studied yet for HTN planning. For plan verification, results were available for both formalisms except the lifted representation of HTN planning. We will thus present the lower bound and the upper bound of the complexity of plan verification in lifted HTN planning and provide novel insights into its grounded counterpart, in which we show that verification is not just NP-complete in the general case, but already for a severely restricted special case. Finally, we show the computational complexity concerning the optimality of a given plan, i.e., answering the question whether such a plan is optimal, and discuss its connection to the bounded plan existence problem.}
+  pages     = {35--43},
+  abstract  = {In this paper we study the computational complexity of several reasoning tasks centered at the bounded plan existence problem. We do this for standard classical planning and hierarchical task network (HTN) planning and each for the grounded and the lifted representation. Whereas bounded plan existence complexity is known for classical planning, it has not been studied yet for HTN planning. For plan verification, results were available for both formalisms except the lifted representation of HTN planning. We will thus present the lower bound and the upper bound of the complexity of plan verification in lifted HTN planning and provide novel insights into its grounded counterpart, in which we show that verification is not just NP-complete in the general case, but already for a severely restricted special case. Finally, we show the computational complexity concerning the optimality of a given plan, i.e., answering the question whether such a plan is optimal, and discuss its connection to the bounded plan existence problem.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_3.pdf}
 }
 
 #4
 @InProceedings{Pellier2023HDDL2.1,
   author    = {Damien Pellier and Alexandre Albore and Humbert Fiorino and Rafael Bailon-Ruiz},
-  title     = {HDDL 2.1.alpha: Towards Defining a HTN Formalism with Time},
+  title     = {HDDL 2.1: Towards Defining a Formalism and a Semantics for Temporal HTN Planning},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {49--53},
+  abstract  = {Real world applications as in industry and robotics need modelling rich and diverse automated planning problems. Their resolution usually requires coordinated and concurrent action execution. In several cases, these problems are naturally decomposed in a hierarchical way and expressed by a Hierarchical Task Network (HTN) formalism. HDDL, a hierarchical extension of the Planning Domain Definition Language (PDDL), unlike PDDL 2.1 does not allow to represent planning problems with numerical and temporal constraints, which are essential for real world applications. We propose to fill the gap between HDDL and these operational needs and to extend HDDL by taking inspiration from PDDL 2.1 in order to express numerical and temporal expressions. This paper opens discussions on the semantics and the syntax needed for a future HDDL 2.1 extension.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_4.pdf}
 }
 
 #5 (withdrawn)
@@ -43,11 +58,12 @@
 #6
 @InProceedings{Cavrel2023TemporalHTNPlanning,
   author    = {Nicolas Cavrel and Damien Pellier and Humbert Fiorino},
-  title     = {On Guiding Search in HTN Temporal Planning with Classical Heuristics},
+  title     = {On Guiding Search in HTN Temporal Planning with non Temporal Heuristics},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {28--34},
+  abstract  = {The Hierarchical Task Network (HTN) formalism is used to express a wide variety of planning problems as task decompositions, and many techniques have been proposed to solve them. However, few works have been done on temporal HTN. This is partly due to the lack of a formal and consensual definition of what a temporal hierarchical planning problem is as well as the difficulty to develop heuristics in this context. In response to these inconveniences, we propose in this paper a new general POCL (Partial Order Causal Link) approach to represent and solve a temporal HTN problem by using existing heuristics developed to solve non temporal problems. We show experimentally that this approach is performant and can outperform the existing ones.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_6.pdf}
 }
 
 #7
@@ -56,18 +72,20 @@
   title     = {Integrating Deep Learning Techniques into Hierarchical Task Planning for Effect and Heuristic Predictions in 2D Domains},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {19--27},
+  abstract  = {In this paper, we present a novel approach that combines Hierarchical Task Planning (HTN) with deep learning techniques to address the challenges of scalability and efficiency in large-scale planning problems. Building upon the Hierarchical World State Planning (HWSP) algorithm, our method utilizes a multi-layered world state representation, which allows for planning at abstract levels without the need to consider lower-level details. We propose a deep learning method for predicting the effects of abstract tasks, which opens the door to enhancements in both planning performance and plan quality. Additionally, we employ the same approach to create a domain-dependent planning heuristic. Our contributions demonstrate the potential of integrating HTN planning with deep learning techniques, paving the way for future research in various application domains such as robotics, logistics, and urban planning. The proposed approach employs standard deep learning techniques, ensuring adaptability as the state of the art advances.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_7.pdf}
 }
 
 #8
 @InProceedings{Herail2023HTNParametersExtraction,
-  author    = {Philippe H{\'e}rail},
+  author    = {Philippe H{\'e}rail and Arthur Bit-Monnot},
   title     = {Extracting Hierarchical Task Networks Parameters from Demonstrations},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {1--9},
+  abstract  = {Hierarchical Task Networks (HTNs) are a common formalism in automated planning. However, HTN models are mostly designed by hand by expert users. While many of the state-of-the-art approaches for learning HTN try and learn the structure and its parameterization in a single step, other focus specifically on learning the structure of the model. Many of these structure-focused approaches, however, learn models with non-parameterized actions, task and methods, which limits their generalization capabilities. In this paper, we propose a constraint satisfaction-based approach for extracting parameters for a given HTN structure using a set of demonstration traces.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_8.pdf}
 }
 
 #9
@@ -76,6 +94,8 @@
   title     = {Can HTN Planning Make Flying Alone Safer?},
   booktitle = {Proceedings of the 6th ICAPS Workshop on Hierarchical Planning (HPlan 2023)},
   year      = {2023},
- Xpages     = {check back when proceedings are published.},
-  abstract  = {check back when proceedings are published.}
+  pages     = {44--48},
+  note      = {This is a challenge paper.},
+  abstract  = {Safety aspects in general aviation can be a limiting factor to gear toward introducing more single-pilot operations (SPOs), which are currently commonly practised by private pilots of ultralight aircraft, but are also a key to future developments in urban air mobility. The risks of SPOs are mainly due to the lack of redundancy, especially in case of emergeny; the development of reliable onboard companion technology is therefore deemed beneficial. This paper investigates how Hierarchical Task Networks (HTN), and more specifically the Hierarchical Domain Definition Language (HDDL), can be used to encode private pilots' maneuvers. Additionally, challenges are underlined on onboard companion technologies for SPOs, alongside with some features to be derived from hierarchical planning techniques to overcome these challenges.},
+  url_paper = {https://icaps23.icaps-conference.org/papers/hplan/HPlan2023_paper_9.pdf}
 }
