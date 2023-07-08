@@ -1,0 +1,40 @@
+{{ $file := .Get 0 }}
+{{ $data := getJSON $file }}
+
+
+{{ range $demo := $data.demos }}
+
+<div style="display: inline-block; width: 20%; vertical-align: top; border-style: solid; border-radius: 5%; border-color: orange; margin-top: 1%; margin-bottom: 1%;">
+	<img style="padding: 1%; width: 100%; border-radius: 5%;" src="{{ print $demo.img }}" />		
+</div>
+
+<div style="display: inline-block; width: 70%;  padding-left: 2%;">
+	<div>
+		<h3 style="color: orange"><a name="{{ print $demo.label }}" href="#{{ print $demo.label}}">{{ print $demo.title }}</a> <strong>(room {{ print $demo.room }})<strong/></h3>
+	</div>
+	<div style="padding-left: 1%">
+	 	<strong>{{ print $demo.authors }}</strong>
+	</div>
+	<div style="padding-left: 1%; margin-bottom: 1%; font-weight: normal;">
+		{{ print $demo.abstract }}
+	</div>
+	
+	<a href="/demos/papers/{{ print $demo.label }}_paper.pdf" target="_blank">Paper</a> 
+	{{ with $demo.poster }}
+	| <a href="{{ print $demo.poster }}" target="_blank">Poster</a> 
+	{{ end }}
+	{{ with $demo.video }}
+	| <a href="{{ print $demo.video }}" target="_blank">Video</a>
+	{{ end }}
+	{{ with $demo.code }}
+	| <a href="{{ print $demo.code }}" target="_blank">Code</a>
+	{{ end }}
+	
+	<br>
+	<br>
+</div>
+
+
+<hr />
+
+{{ end }}

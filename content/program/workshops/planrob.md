@@ -96,36 +96,113 @@ Alessandro Umbrico National Research Council of Italy (CNR-ISTC), Italy
 
 ## List of Accepted Papers
 
-Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. Robofriend: An Adpative Storytelling Robotic Teddy Bear
+Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. [Robofriend: An Adpative Storytelling Robotic Teddy Bear](./PlanRob-23_paper_1.pdf)
 
-Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. Combined Task and Motion Planning Via Sketch Decompositions 
+Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. [Combined Task and Motion Planning Via Sketch Decompositions](./PlanRob-23_paper_2.pdf)
 
-Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities](./PlanRob-23_paper_3bis.pdf)
 
-Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: Parameter Tuning Using Deep Reinforcement Learning
+Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: [Parameter Tuning Using Deep Reinforcement Learning](./PlanRob-23_paper_4.pdf)
 
-Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. Planning for Learning Object Properties
+Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso. [Planning for Learning Object Properties](./PlanRob-23_paper_5.pdf)
 
-Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. Adaptive Robot Navigation through Integrated Task and Motion Planning
+Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami. [Adaptive Robot Navigation through Integrated Task and Motion Planning](./PlanRob-23_paper_6.pdf)
 
-Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri. The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
+Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri. [The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion](./PlanRob-23_paper_7.pdf)
 
-Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg. [A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems](./PlanRob-23_paper_8.pdf)
 
-Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg. A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
+Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg. [A Physics-Based Simulated Robotics Testbed for Planning and Acting Research](./PlanRob-23_paper_9.pdf)
 
-Valentin Hartmann and Marc Toussaint. Towards computing low-makespan solutions for multi-arm multi-task planning problems
+Valentin Hartmann and Marc Toussaint. [Towards computing low-makespan solutions for multi-arm multi-task planning problems](./PlanRob-23_paper_10.pdf)
 
-Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi. A novel algorithm for parallelizing actions of a sequential plan
+Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi. [A novel algorithm for parallelizing actions of a sequential plan](./PlanRob-23_paper_11.pdf)
 
-Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi. Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions
+Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi. [Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions](./PlanRob-23_paper_12.pdf)
 
-Anthony Favier, Shashank Shekhar and Rachid Alami. Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
+Anthony Favier, Shashank Shekhar and Rachid Alami. [Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind](./PlanRob-23_paper_13.pdf)
 
-David Zahrádka, Daniel Kubišta and Miroslav Kulich. Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
+David Zahrádka, Daniel Kubišta and Miroslav Kulich. [Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem](./PlanRob-23_paper_14.pdf)
 
 ## Workshop Schedule
 
-TBD
+PlanRob is scheduled on the 10th of July 2023. 
+
+---
+[09:00 - 09:10] **PlanRob WS Introduction**
+--
+[09:10 - 10:10] **Session 1: Human-Aware Robotics**
+
+- Robofriend: An Adpative Storytelling Robotic Teddy Bear.
+Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus
+- Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves
+- Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
+Anthony Favier, Shashank Shekhar and Rachid Alami
+
+--
+[10:10 - 10:30] **Session 2: Planning and Learning (part 1)**
+
+- PTDRL: Parameter Tuning Using Deep Reinforcement Learning
+Elias Goldsztejn, Ronen Brafman and Tal Feiner
+
+---
+[10:30 - 11:00] - Coffee Break 
+
+---
+[11:00 - 12:20] - **Session 2: Planning and Learning (part 2)**
+
+- Planning for Learning Object Properties
+Leonardo Lamanna, Luciano Serafini, Mohamadreza Faridghasemnia, Alessandro Saffiotti, Alessandro Saetti, Alfonso Emilio Gerevini and Paolo Traverso
+
+[11:20 - 12:20] - **Session 3: Task and Motion Planning**
+- Combined Task and Motion Planning Via Sketch Decompositions
+Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner
+- Adaptive Robot Navigation through Integrated Task and Motion Planning
+Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami
+- Informed Steiner Trees: Sampling and Pruning for Multi-Goal Path Finding in High Dimensions
+Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi
+
+---
+[12:20 - 14:00] - Lunch break
+
+---
+[14:00 - 15:00] - **"Plan-based control of robot agents -- reasoning with one's eyes and hands" Keynote speech by Michael Beetz (University of Bremen, Germany)**
+
+[15:10 - 15:30] - **Session 4: Algorithms  (part 1)**
+- The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
+Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri
+
+---
+[15:30 - 16:00] - Coffee Break
+
+---
+[16:00 - 16:20] - **Session 4: Algorithms (part 2)**
+- A novel algorithm for parallelizing actions of a sequential plan
+Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi
+
+---
+[16:20 - 17:40] - **Session 5: Frameworks and Testbeds**
+
+- Towards computing low-makespan solutions for multi-arm multi-task planning problems
+Valentin Hartmann and Marc Toussaint
+- Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
+David Zahrádka, Daniel Kubišta and Miroslav Kulich
+- A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
+Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg
+- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
+
+---
+[17:40 - 17:50] - **Closing remarks**
+
+## Keynote Talk
+
+Michael Beetz (University of Bremen, Germany)
+
+Title: Plan-based control of robot agents -- reasoning with one's eyes and hands
+
+Abstract: Robotic agents that can accomplish manipulation tasks with the competence of humans have been
+one of the grand research challenges for AI planning and robotics research for more than 50 years. However, while the fields made huge progress over the years, this ultimate goal is still out of reach. I believe that this is the case because the knowledge representation and reasoning methods -- including task and motion planning -- that have been proposed in AI so far are necessary but too abstract. In this talk I propose to address this problem by endowing robots with the capability to internally emulate and simulate their perception-action loops based on realistic images and faithful physics simulations, which are made machine-understandable by casting them as virtual symbolic knowledge bases. These capabilities allow robots to generate huge collections of machine-understandable manipulation experiences, which robotic agents can generalize into commonsense and intuitive physics knowledge applicable to open varieties of manipulation tasks. The combination of learning, representation, reasoning, and planning will equip robots with an understanding of the relation between their motions and the physical effects they cause at an unprecedented level of realism, depth, and breadth, and enable them to master human-scale manipulation tasks. This breakthrough will be achievable by combining leading-edge simulation and visual rendering technologies with mechanisms to semantically interpret and introspect internal simulation data structures and processes. Robots with such planning and plan execution capabilities can help us to better deal with important societal, humanitarian, and economic challenges of our aging societies.
 
 

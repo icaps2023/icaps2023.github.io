@@ -18,6 +18,87 @@ The HSDIP workshop has always been welcoming of multidisciplinary work, for exam
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
 
+## List of Accepted Papers
+* **On Reducing Action Labels in Planning Domains** [(pdf)](https://openreview.net/pdf?id=FS5Ypo5wXWK)  
+  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
+* **Novelty and Lifted Helpful Actions in Generalized Planning** [(pdf)](https://openreview.net/pdf?id=4lRGuJCqkPc)  
+  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
+* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning** [(pdf)](https://openreview.net/pdf?id=XiMA7vvSkT)  
+  Stephen Wissow, Masataro Asai
+* **K\* and Partial Order Reduction for Top-quality Planning** [(pdf)](https://openreview.net/pdf?id=VjHWRAiVSB)  
+  Michael Katz, Junkyu Lee
+* **Any-Start-Time Planning for SIPP** [(pdf)](https://openreview.net/pdf?id=YQ7-QAqAlAV)  
+  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
+* **Online Planning for Stochastic Collaborative Privacy Preserving Planning** (PDF available by request to the organizing committee or authors.)  
+  Oriel Uzan, Guy Shani
+* **K\* Search Over Orbit Space for Top-k Planning** [(pdf)](https://openreview.net/pdf?id=pAocdmNGV5)  
+  Michael Katz, Junkyu Lee
+* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning** [(pdf)](https://openreview.net/pdf?id=ocTyIiCroh)  
+  Alice Petrov, Christian Muise
+* **PARIS: Planning Algorithms for Reconfiguring Independent Sets** [(pdf)](https://openreview.net/pdf?id=LE8nB7aHV4)  
+  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
+* **Action Schema Networks for Numerical Planning** [(pdf)](https://openreview.net/pdf?id=T5GyijA0a3m)  
+  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
+* **Triangle Search: An Anytime Beam Search** [(pdf)](https://openreview.net/pdf?id=vJQ9iLJHBs)  
+  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
+* **On K\* Search for Top-k Planning** [(pdf)](https://openreview.net/pdf?id=VK9XF6MgQ8q)  
+  Junkyu Lee, Michael Katz, Shirin Sohrabi
+
+## Workshop Schedule
+
+HSDIP 2023 takes place on Monday, July 10, 2023.
+
+---
+
+| 09:00 | | Opening Remarks
+|---|---|:---|
+
+| 09:15 | | Invited Talk: *Álvaro Torralba*
+|---|---|:---|
+| | | Contrastive Analysis: Heuristic Search Beyond Heuristics
+
+| 10:30 | | Coffee Break
+|---|---|:---|
+
+| 11:00 | | Session 1
+|---|---|:---|
+| | | On K* Search for Top-k Planning
+| | | K* Search Over Orbit Space for Top-k Planning
+| | | K* and Partial Order Reduction for Top-quality Planning
+
+---
+
+| 12:00 | | Lunch Break
+|---|---|:---|
+
+---
+
+| 13:30 | | Session 2
+|---|---|:---|
+| | | Triangle Search: An Anytime Beam Search
+| | | Any-Start-Time Planning for SIPP
+| | | Online Planning for Stochastic Collaborative Privacy Preserving Planning
+
+| 14:40 | | Session 3
+|---|---|:---|
+| | | Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning
+| | | Action Schema Networks for Numeraical Planning
+
+| 15:30 | | Coffee Break
+|---|---|:---|
+
+| 16:00 | | Session 4
+|---|---|:---|
+| | | On Reducing Action Labels in Planning Domains
+| | | Novelty and Lifted Helpful Action in Generalized Planning
+| | | From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning
+| | | PARIS: Planning Algorithms for Reconfiguring Independent Sets
+
+| 17:20 | | Closing Remarks
+|---|---|:---|
+
+---
+
 ## Topics of Interest
 
 Examples of typical topics for submissions to this workshop are:
@@ -92,37 +173,4 @@ Contact: <hsdip@googlegroups.com>
 **David Speck**, Linköping University, Sweden  
 **Marcel Steinmetz**, Saarland University, Germany  
 **Silvan Sievers**, University of Basel, Switzerland  
-
-## List of Accepted Papers
-* **On Reducing Action Labels in Planning Domains**  
-  Harsha Kokel, Junkyu Lee, Michael Katz, Kavitha Srinivas, Shirin Sohrabi
-* **Novelty and Lifted Helpful Actions in Generalized Planning**  
-  Chao Lei, Nir Lipovetzky, Krista A. Ehinger
-* **Scale-Adaptive Balancing of Exploration and Exploitation in Classical Planning**  
-  Stephen Wissow, Masataro Asai
-* **K\* and Partial Order Reduction for Top-quality Planning**  
-  Michael Katz, Junkyu Lee
-* **Any-Start-Time Planning for SIPP**  
-  Devin Wild Thomas, Solomon Eyal Shimony, Wheeler Ruml, Erez Karpas, Shahaf S. Shperberg, Andrew Coles
-* **Online Planning for Stochastic Collaborative Privacy Preserving Planning**  
-  Oriel Uzan, Guy Shani
-* **K\* Search Over Orbit Space for Top-k Planning**  
-  Michael Katz, Junkyu Lee
-* **From State Spaces to Semigroups: Leveraging Algebraic Formalism for Automated Planning**  
-  Alice Petrov, Christian Muise
-* **PARIS: Planning Algorithms for Reconfiguring Independent Sets**  
-  Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers, David Speck
-* **Action Schema Networks for Numerical Planning**  
-  Afifa Tariq, Richard Valenzano, Mikhail Soutchanski
-* **Triangle Search: An Anytime Beam Search**  
-  Sofia Lemons, Wheeler Ruml, Carlos Linares López, Robert Holte
-* **On K\* Search for Top-k Planning**  
-  Junkyu Lee, Michael Katz, Shirin Sohrabi
-  
-## Workshop Schedule
-
-We are not ready to communicate a schedule yet.
-
-### Invited Talk
-We are excited to announce **Álvaro Torralba** as invited speaker.
 

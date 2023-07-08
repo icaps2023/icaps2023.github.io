@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'23 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS) \
 Prague, Czech Republic \
-July 9-10, 2023
+July 10, 2023
 
 ## Aim and Scope of the Workshop
 
@@ -31,7 +31,7 @@ Given this, the workshop welcomes contributions to any topic that roughly falls 
  - Submission Deadline: ~~March 24, 2023~~ **March 31, 2023 (AoE)**
  - Author Notification: April 28, 2023
  - Camera-Ready Deadline: June 10, 2023 (AoE)
- - ICAPS 2023 Workshops: July 9-10, 2023
+ - ICAPS 2023 Workshops: July 10, 2023
 
 
 ## Submission Details
@@ -71,14 +71,107 @@ Organizing and Program Committee:
 
 ## List of Accepted Papers
 
- - Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba: **Safe Learning of PDDL Domains with Conditional Effects**
- - Xandra Schuler, Jan Eisenhut, Daniel Höller, Daniel Fišer and Joerg Hoffmann: **Action Policy Testing with Heuristic-Based Bias Functions**
- - Yuta Takata and Alex Fukunaga: **Plausibility-Based Heuristics for Latent Space Classical Planning**
- - Marcel Vinzent, Min Wu, Haoze Wu and Joerg Hoffmann: **Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification**
- - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates**
+ - Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba: **Safe Learning of PDDL Domains with Conditional Effects** [pdf](/papers/rddps/Mordoch-et-al-RDDPS23.pdf)
+ - Xandra Schuler, Jan Eisenhut, Daniel Höller, Daniel Fišer and Joerg Hoffmann: **Action Policy Testing with Heuristic-Based Bias Functions** [pdf](/papers/rddps/Schuler-et-el-RDDPS23.pdf)
+ - Yuta Takata and Alex Fukunaga: **Plausibility-Based Heuristics for Latent Space Classical Planning** [pdf](/papers/rddps/Takata-and-Fukunaga-RDDPS23.pdf)
+ - Marcel Vinzent, Min Wu, Haoze Wu and Joerg Hoffmann: **Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification** [pdf](/papers/rddps/Vinzent-et-al-RDDPS23.pdf)
+ - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates** [pdf](/papers/rddps/Weiss-et-al-RDDPS23.pdf)
+
 
 ## Workshop Schedule
 
-TBD
+The workshop will take place on July 10.
+
+<table cellpadding="2" cellspacing="2" class="waffle">
+	<thead>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="2" style="height:20px"><strong>Welcome</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">13:55</td>
+			<td style="height:20px">14:00</td>
+			<td colspan="6" style="height:20px">Brief Welcome</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 1: Invited Talk</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">14:00</td>
+			<td style="height:20px">14:50</td>
+			<td colspan="6" style="height:20px"><em>Verifying Learning-Based Robotic Navigation Systems</em><br />
+			Guy Amir</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 2: Policy Testing and Verification</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">14:50</td>
+			<td style="height:20px">15:10</td>
+			<td colspan="6" style="height:20px"><em>Action Policy Testing with Heuristic-Based Bias Functions</em><br />
+			Xandra Schuler, Jan Eisenhut, Daniel H&ouml;ller, Daniel Fi&scaron;er and J&ouml;rg Hoffmann</td>
+		</tr>
+		<tr>
+			<td style="height:20px">15:10</td>
+			<td style="height:20px">15:30</td>
+			<td colspan="6" style="height:20px"><em>Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification</em><br />
+			Marcel Vinzent, Min Wu, Haoze Wu and J&ouml;rg Hoffmann</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>BREAK</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">15:30</td>
+			<td style="height:20px">16:00</td>
+			<td colspan="6" style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 3: Foundations &amp; Learned Planning Models</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:00</td>
+			<td style="height:20px">16:20</td>
+			<td colspan="6" style="height:20px"><em>A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates</em><br />
+			Eyal Weiss, Ariel Felner and Gal Kaminka</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:20</td>
+			<td style="height:20px">16:40</td>
+			<td colspan="6" style="height:20px"><em>Safe Learning of PDDL Domains with Conditional Effects</em><br />
+			Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba</td>
+		</tr>
+		<tr>
+			<td style="height:20px">16:40</td>
+			<td style="height:20px">17:00</td>
+			<td colspan="6" style="height:20px"><em>Plausibility-Based Heuristics for Latent Space Classical Planning</em><br />
+			Yuta Takata and Alex Fukunaga</td>
+		</tr>
+		<tr>
+			<td style="height:20px">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan="8" style="height:20px"><strong>SESSION 4: Open Discussion</strong></td>
+		</tr>
+		<tr>
+			<td style="height:20px">17:00</td>
+			<td style="height:20px">17:30</td>
+			<td colspan="6" style="height:20px"><em>Open discussion</em></td>
+		</tr>
+	</tbody>
+</table>
+
 
 

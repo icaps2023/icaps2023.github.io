@@ -22,7 +22,6 @@ We encourage current doctoral students (students whose Ph.D. is in progress) to 
 
 * Christopher Beck
 * Riccardo De Benedictis
-* Sara Bernardini
 * Minh Do
 * Jeremy Frank
 * Nicola Gigante
@@ -76,8 +75,8 @@ To participate in the Mentoring Program, an application is required. Applicants 
 
 ## Important Dates for the Mentoring Program
 
-- Submission deadline: March 30th, 2023
-- Notification deadline: April 30th, 2023
+- Submission deadline: ~~March 30th, 2023~~
+- Notification deadline: ~~April 30th, 2023~~
 - DC Presentations: July 8th, 2023
 
 ## Student Support

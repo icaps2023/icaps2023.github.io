@@ -1,0 +1,178 @@
+{
+	"demos": [
+	  {
+		"label": 194,
+		"authors": "Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg",
+		"title": "Mobipick Labs System Demonstration",
+		"room": "N6", 
+		"video": "https://youtu.be/4-GgOg2nuGE",
+		"img" : "/demos/img/194_thumbnail.png",
+		"poster": "/demos/posters/194_poster.pdf",
+		"code": "https://github.com/DFKI-NI/mobipick_labs",
+		"abstract": "In this demonstration we show the mobipick labs environment, which is a testbed for planning, execution and monitoring algorithms in a robotic domain. It provides a physics-based simulation environment for a mobile robot together with full integration of the robot and easy-to-use interface for the robot’s capabilities. This gives users without a strong robotics background the opportunity to apply their planning-related work to a robotic domain. Moreover, the framework includes a simple semantic and numeric environment representation, providing real-time knowledge in the form of facts that can be utilized to monitor the execution status. Finally we also demonstrate one possible solution using task planning to search and transport certain objects to a target location."
+	  },	
+	  {
+		"label": 255,
+		"authors": "Bojie Shen, Zhe Chen, Muhammad Aamir Cheema, Daniel Harabor and Peter J. Stuckey",
+		"title": "Tracking Progress in Multi-Agent Path Finding",
+		"room": "N6", 
+		"video": "https://youtu.be/qtG6-h4FZxU",
+		"img": "/demos/img/255_thumbnail.png",
+		"poster": "/demos/posters/255_poster.pdf",
+		"abstract": "Multi-Agent Path Finding (MAPF) is an important core problem for many new and emerging industrial applications. Many works appear on this topic each year, and a large number of substantial advancements and performance improvements have been reported. Yet measuring overall progress in MAPF is difficult: there are many potential competitors, and the computational burden for comprehensive experimentation is prohibitively large. Moreover, detailed data from past experimentation is usually unavailable. In this work, we introduce a set of methodological and visualisation tools that can help the community establish clear indicators for state-of-theart MAPF performance and facilitate large-scale comparisons between MAPF solvers. Our objectives are to lower the barriers of entry for new researchers and to further promote the study of MAPF."
+	  },
+	  {
+		"label": 692,
+		"authors": "Jungkoo Kang, Tathagata Chakraborti, Michael Katz, Shirin Sohrabi, Francesco Fuggitti",
+		"title": "Lemming: A Tool for Guided Plan Selection",
+		"room": "N6", 
+		"video": "https://ibm.biz/icaps-lemming",
+		"img": "/demos/img/692_thumbnail.png",
+		"poster": "/demos/posters/692_poster.pdf",
+		"code": "https://github.com/IBM/lemming",
+		"abstract": "Lemming is a visualization tool for the selection of plans for a given problem, allowing the user to efficiently whittle down the set of plans and select their plan(s) of choice. We propose three different user experiences for this process, all based on the principle that using landmarks as guidance can help cut down the set of choice points for the user. The live demonstration at the conference will allow the audience to interact with the tool on different domains and problems."
+	  },
+	  {
+		"label": 1535,
+		"authors": "Dominik Drexler and Jendrik Seipp",
+		"title": "DLPlan: Description Logics State Features for Planning",
+		"room": "N6", 
+		"video": "https://www.youtube.com/watch?v=0lb793XYo7g",
+		"code": "https://tinyurl.com/2p8x3kdv",
+		"img": "/demos/img/1535_thumbnail.png",
+		"abstract": "Description logics are a family of knowledge representation languages that has become increasingly popular in planning. The main purpose of description logics in planning is to define abstract state features in a domain-general way for allowing to learn human-interpretable classifiers or regression models. After a brief review of the literature that uses description logics features in planning, we present DLPlan, a C++ and Python library for constructing and evaluating state features for planning based on description logics."
+	  },
+	  {
+		"label": 2791,
+		"authors": "Alba Gragera, Raquel Fuentetaja, Ángel García-Olaya and Fernando Fernández",
+		"title": "PDDL Domain Repair: Fixing Domains with Incomplete Action Effects",
+		"room": "N6", 
+		"video": "/demos/videos/2791_video.mp4",
+		"poster": "/demos/posters/2791_poster.pdf",
+		"img": "/demos/img/2791_thumbnail.png",
+		"abstract": "Automated planning is a problem solving technique for a wide range of scenarios and goals, which typically involves the creation of domain and problem files in formal languages. However, producing complete model descriptions can be challenging and time-consuming, and errors such as incomplete specification of the initial state or the set of actions often result in unsolvable tasks for planners. Explaining the absence of a solution in such cases is essential to support humans in the development of automated planning tasks. In this paper, we present an tool to repair planning models where the effects of some actions are incomplete. The received input is compiled to a new extended planning task, in which actions are permitted to insert possible missing effects. The solution is a plan that achieves the goals of the original problem while also alerting users of the modifications made."
+	  },
+	  {
+		"label": 2809,
+		"authors": "Filip Dvorak, Tomas Balyo, Slavomir Svancar, Josef Ryzi, Martin Dousek and Michal Ficek",
+		"title": "Filuta: Operationalized Composite AI Platform",
+		"room": "N6", 
+		"video": "https://www.youtube.com/watch?v=5npMi6V9Te8",
+		"img": "/demos/img/2809_thumbnail.png",
+		"abstract": "This paper introduces the Filuta platform, which aims to address the limitations of current AI and ML tooling by providing a versatile environment for composing and integrating multiple modeling techniques, such as AI Planning, machine learning, scheduling, graph theory, constraint programming, linear programming, and large language models. Recognizing the value of the composition approach in solving real-world problems, the platform facilitates learning individual models from data subsets, enabling user augmentation, and generating stand-alone intelligent automation services. The paper further discusses the various stages of platform usage, from data ingestion and modeling to composition and deployment."
+	  },
+	  {
+		"label": 3127,
+		"authors": "Emanuele De Pellegrin and Ron Petrick",
+		"title": "PDSim: Simulate Plans",
+		"room": "N7", 
+		"video": "https://youtu.be/akeZf6-8Gew",
+		"poster": "/demos/posters/3127_poster.pdf",
+		"code": "https://github.com/Cryoscopic-E/PDSim",
+		"img": "/demos/img/3127_thumbnail.png",
+		"abstract": "This paper presents new additions and improvements to the Planning Domain Simulation (PDSim) project. PDSim is a plugin for the Unity game engine to simulate planning domains and plans. PDSim uses a novel way to translate the output of a planner to 2D or 3D animations and effects. Using these visualisation techniques, PDSim aims to help users evaluate the quality of a plan and improve domain and problem modelling. In this system demonstration, we present the structure and operation of the PDSim interface by illustrating how to set up a new simulation for planning problems, and how the user interface can be used for creating animations."
+	  },
+	  {
+		"label": 3216,
+		"authors": "Oliver Kraus, Lucas Mair and Jane Jean Kiam",
+		"title": "REAP: A Flexible Real-World Simulation Framework for AI-Planning of UAVs",
+		"room": "N7", 
+		"video": "https://www.youtube.com/watch?v=QtMjnMD5zzE",
+		"poster": "/demos/posters/3216_poster.pdf",
+		"img": "/demos/img/3216_thumbnail.png",
+		"code": "https://github.com/UniBwM-IFS-AILab/REAP",
+		"abstract": "Both AI-planning and aerial robotics have seen a surge in applications in the real-world, which requires removing textbook assumptions on idealized environments. This in turn necessitates a simulation framework that sufficiently supports these applications in terms of realism and deployability. We present REAP (Real-world environment for aerial AI-planning), a framework that integrates state-of-the-art AI-planning tools and open-access real-world data into a modular system. It allows for AI-planning with discretized geo-referenced data, including validation with realistic control algorithms and visualization utilizing 3D map data. The framework is easily extensible since it seamlessly connects to the ROS2 ecosystem and all of its components are open source."
+	  },
+	  {
+		"label": 3913,
+		"authors": "Jan Dolejsi, Derek Long and Michal Stolba",
+		"title": "Authoring of and Interacting with Scheduling Constraints in PDDL and in a Rich Web Interface",
+		"room": "N7", 
+		"video": "https://www.youtube.com/watch?v=YvK3QGtZJU",
+		"img" : "/demos/img/3913_thumbnail.png",
+		"abstract": "Planning (especially temporal) and Scheduling are closely related problems and from our experience, most industrial problems contain both elements. In planning, the number of actions required to solve a problem is not specified in the problem itself. Instead, the problem is specified as a condition to be achieved. In (job-) scheduling, the typical problem is a set of jobs that must be done and solving the problem involves deciding start times and assigning resources to the jobs. In both cases, key choices to be resolved are the timing of actions and the allocation of resources, while observing a variety of constraints and optimizing the choices using a cost function. Both planning and scheduling work with ordering constraints between actions/jobs, although these are typically determined in planning problems by the relationship between the preconditions of actions and their achievers, while in scheduling problems these constraints are more often specified as explicit ordering constraints on pairs of job start/end-points."
+	  },
+	  {
+		"label": 4591,
+		"authors": "Benjamin Kovács, Pierre Tassel and Martin Gebser",
+		"title": "PySCFabSimUI: Graphical User Interface for a Semiconductor Fab Simulator",
+		"room": "N7", 
+		"video": "https://prosysscience.github.io/ICAPS_demo.mp4",
+		"poster": "/demos/posters/4591_poster.pdf",
+		"img" : "/demos/img/4591_thumbnail.png",
+		"code": "https://prosysscience.github.io/PySCFabSim-release/",
+		"abstract": "Novel artificial intelligence-based algorithms show superior performance on large-scale scheduling problems compared to traditional handcrafted methods. However, most methods tend to be data-hungry during the development, testing, and deployment phases. Simulations play particular importance in the prototyping process of machine learning-based methods, especially in the training and verification of the algorithms. Our vision is to develop a universal open-source simulator software to assist the development process of novel scheduling techniques from the first small-scale prototypes to the training and verification on real-world scale instances. The goal of the developed toolbox is to accelerate the research of industry-scale dynamic scheduling problems. We extend our open-source simulator with a visual interface. The interface helps in the development and analysis of novel algorithms and to enable their industrial applications. The extension visualizes the most important properties of the simulator and provides insights into the behavior of black-box dispatching strategies either on the global- or machine level in both normal or emergency operating scenarios."
+	  },
+	  {
+		"label": 6374,
+		"authors": "Francesco Fuggitti and Tathagata Chakraborti",
+		"title": "NL2LTL – A Python Package for Converting Natural Language (NL) Instructions to Linear Temporal Logic (LTL) Formulas",
+		"room": "N7", 
+		"video": "https://tinyurl.com/2cu9jtsx",
+		"poster": "/demos/posters/6374_poster.pdf",
+		"code": "https://github.com/IBM/nl2ltl",
+		"img": "/demos/img/6374_thumbnail.png",
+		"abstract": "This is a demonstration of our newly released Python package NL2LTL which leverages the latest in natural language understanding (NLU) and large language models (LLMs) to translate natural language instructions to linear temporal logic (LTL) formulas. This allows direct translation to formal languages that a reasoning system can use, while at the same time, allowing the end-user to provide inputs in natural language without having to understand any details of an underlying formal language. The package comes with support for a set of default LTL patterns, corresponding to popular DECLARE templates, but is also fully extensible to new formulas and user inputs. The package is open-source and is free to use for the AI community under the MIT license"
+	  },
+	  {
+		"label": 6454,
+		"authors": "John Bresina, Vijayakumar Baskaran, J Benton, Hassan Eslami, Elif Kurklu, David Smith, Deep Tailor and Ramazan Ushpayev",
+		"title": "APRES Prototype Mission Planner System Demonstration",
+		"room": "N7", 
+		"video": "/demos/videos/6454_video.mp4",
+		"poster": "/demos/posters/6454_poster.pdf",
+		"img": "/demos/img/6454_thumbnail.png",
+		"abstract": "Activity Planning with Resources for the Exploration of Space (APRES) is a mixed-initiative mission planning system for ground operations. APRES has been designed to support multi-spacecraft missions. The APRES Interface is browser-based and includes a plan editor, a timeline plan display, a temporal constraint editor, display of the state and numeric chronicles, and a violation resolution manager. Automation support is supplied by the APRES Service, which includes components that provide the following capabilities:(1) plan simulation, which determines the state and numeric chronicles (values of the model variables over time) and determines when processes are triggered and terminated based on world states in the execution trace, (2) violation detection of constraints and flight rules encoded in the domain model, and of the temporal constraints created by the user, (3) violation resolution suggestions as to how to fix the plan's violations via rescheduling. The user controls when and how to utilize the automation support."
+	  },
+	  {
+		"label": 7188,
+		"authors": "Prakash Jamakatel, Sondes Morchedi and Jane Jean Kiam",
+		"title": "FRICO: An AI-Enabled Friendly Cockpit Assistance System",
+		"room": "N9", 
+		"video": "https://drive.google.com/file/d/1dtrF5si9JRDMTVMvXAGl6Vj2iHU6WGJJ/view?usp=sharing",
+		"poster": "/demos/posters/7188_poster.pdf",
+		"img": "/demos/img/7188_thumbnail.png",
+		"abstract": "Single Pilot Operations (SPOs) is an emerging trend in aviation, with the potential to reduce crew and increase operational efficiency. However, SPOs present a higher risk due to the lack of redundancy; as demonstrated by historical accident statistics in single-pilot ultralight aircraft. To mitigate the risks associated with SPOs, we develop “FRICO”, a FRIendly COckpit assistance system. FRICO is an AI-enabled assistance system that uses planning techniques to generate flight paths and provides guidance i.e. best course of actions to pilots while performing cockpit tasks in nominal situations, and even in non-nominal situations, while continuously monitoring the pilot, making SPOs safer."
+	  },
+	  {
+		"label": 8043,
+		"authors": "Phani-Teja Singamaneni, Alessandro Umbrico, Andrea Orlandini and Rachid Alami",
+		"title": "ROS-based Integration of Task and Motion Planning for Adaptive Social Navigation",
+		"room": "N9", 
+		"video": "/demos/videos/8043_video.mp4",
+		"img": "/demos/img/8043_thumbnail.png",
+		"abstract": "Robots acting in real-world environments usually interact with humans. Interactions may occur at different levels of abstraction (e.g., process, task, physical), entailing different research challenges (e.g., task allocation, human-robot joint actions, robot navigation). When acting in social situations, robots should recognize the context and behave in different manners, so as to act and interact in a correct and acceptable way. We propose the integration of task and motion planning to contextualize robot behaviors for social navigation. The main idea is to leverage the contextual knowledge of a task planner to dynamically adapt the navigation behaviors of a robot to different social. The proposed control approach is implemented in ROS and tested in a simulated assistive scenario."
+	  },
+	  {
+		"label": 8139,
+		"authors": "Rebecca De Venezia and Christian Muise",
+		"title": "Plan4Dial: A Dialogue Planning Framework",
+		"room": "N9", 
+		"video": "https://www.youtube.com/watch?v=8BoqfhW5PEQ",
+		"poster": "/demos/posters/8139_poster.pdf",
+		"img": "/demos/img/8139_thumbnail.png",
+		"code": "https://github.com/dialogue-planning",
+		"abstract": "Dialogue agents have exploded in importance in recent years as businesses increasingly use chat-bots to serve their customer base. However, many of these dialogue systems rely on black-box language models that cannot be verified for predictability, making them a liability. One proposed solution is dialogue planning, which uses planning to generate a complete dialogue tree and allows for the verification of the agent’s actions. Despite the plethora of existing research in this space, there is no open and readily available modern framework for dialogue planning development. We propose Plan4Dial, an open-source system for creating dialogue planning chat-bots. Plan4Dial allows developers to declare complex chat-bots with ease by writing an intuitive YAML specification which the system converts to raw PDDL. Plan4Dial then calls a state-of-the-art planner to generate a dialogue tree which we execute with an extension of IBM’s dialogue plan executor, Hovor. We also created WIDGET, an embeddable web user interface for users to chat with their agents. Our work allows for the simple creation of complex but verifiable goal-oriented dialogue agents using planning technology."
+	  },
+	  {
+		"label": 8837,
+		"authors": "Yi Ding, Cam Cunningham, Christian Muise and Nir Lipovetzky",
+		"title": "Planning as a Service",
+		"room": "N9", 
+		"video": "https://www.loom.com/share/7d72759cd71c47db9032970fddcb3e71",
+		"poster": "/demos/posters/8837_poster.pdf",
+		"img": "/demos/img/8837_thumbnail.png",
+		"code": "https://github.com/AI-Planning/planning-as-a-service",
+		"abstract": "Planning as a service (PaaS) provides an extendable API to deploy planners online in local or cloud servers. The service provides a queue manager to control a set of workers, which can easily be extended with one of several planners available in PLANUTILS. PaaS is designed to overcome the limitations of the existing online solver.planning.domains interface and widen the adoption of planning technology in education, research, and industry."
+	  },
+	  {
+		"label": 9340,
+		"authors": "Alexandre Albore, Sandra Castellanos-Paez and Nicolas Hili",
+		"title": "BOARD-AI: A Goal Recognition-Based Objective-Aware Modeling Interface for Systems Engineering",
+		"room": "N9", 
+		"video": "https://cloud.univ-grenoblealpes.fr/s/9ifZZCqW7eWQEdy",
+		"img" : "/demos/img/9340_thumbnail.png",
+		"abstract": "Paper and pens remain the most commonly used tools by systems engineers to capture system models. However, digitizing models sketched on a whiteboard into Computer-Aided Systems Engineering (CASE) tools remains a difficult and error-prone activity that requires the knowledge of tool experts. This study presents a reactive whiteboard interface for model sketching. This online approach combines techniques from Automated Planning and Machine Learning to improve performance while not compromising explainability of the system’s output. Our approach mainly relies on two main modules: (1) a trained neural network that separates upstream from the global recognition process, handwritten text from geometrical symbols, and (2) a goal recognition algorithm that models the sketching task as a planning problem to identify the final sketches that are deemed possible. The main benefits of BOARD-AI are its autonomy, i.e. it does not rely on any other interaction modalities (e.g., virtual keyboards), and its explainability, i.e. the outcomes of the modeling assistant are understandable since a plan provides a valid explanation of the system’s suggestions. Finally, BOARD-AI usability was validated trough user evaluations of engineers, experts and non experts in software and/or system modeling design."
+	  }
+	]
+  }
