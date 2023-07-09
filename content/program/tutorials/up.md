@@ -25,7 +25,7 @@ This tutorial is aimed at developers and researchers who are interested in using
 * Advanced features: simulated effects and custom heuristics
 * Applications and conclusions
 
-## Tutorial Result
+## Tutorial Resources
 
 [https://sites.google.com/fbk.eu/uptutorial](https://sites.google.com/fbk.eu/uptutorial)
 
