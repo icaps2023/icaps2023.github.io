@@ -4,8 +4,7 @@ date: 2023-04-07T23:10:17+01:00
 draft: false
 ---
 
-# Model Acquisition in the Modern Era
-
+# Model Acquisition in the Modern Era (**[Tutorial Materials](https://github.com/AI-Planning/macq-tutorial)**)
 
 ## Description
 
