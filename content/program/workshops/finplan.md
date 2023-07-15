@@ -57,13 +57,13 @@ The proceedings can be found [here](\Proceedings_FinPlan2023.pdf).
 ### List of Accepted Papers
 
 The list of the accepted papers are:
-- [Predicting Customer Goals in Financial Institution Services: A Data-Driven LSTM Approach.](\FinPlan23_paper_1.pdf) Andrew Estornell, Stylianos Loukas Vasileiou, William Yeoh, Daniel Borrajo, Rui Silva
-- [Value Detection Rate: A Performance Metric for Payments Fraud Detection.](\FinPlan23_paper_2.pdf) Danial Dervovic, Saeid Amiri, Michael Cashmore
-- [Deep Reinforcement Learning for Optimal Portfolio Allocation: A Comparative Study with Mean-Variance Optimization](\FinPlan23_paper_4.pdf). Srijan Sood, Kassiani Papasotiriou, Marius Vaiciulis, Tucker Balch
-- [Surrogate Assisted Monte Carlo Tree Search in Combinatorial Optimization.](\FinPlan23_paper_5.pdf) Saeid Amiri, Parisa Zehtabi, Danial Dervovic, Michael Cashmore
-- [FinRDDL: Can AI Planning be used for Quantitative Finance Problems?](\FinPlan23_paper_6.pdf) Sunandita Patra, Mahmoud Mahfouz, Sriram Gopalakrishnan, Daniele Magazzeni, Manuela Veloso
-- [Accelerating Benders Decomposition via RL Surrogate Models.](\FinPlan23_paper_3.pdf) Kyle Mana, Stephen Mak, Parisa Zehtabi, Michael Cashmore, Daniele Magazzeni, Manuela Veloso
-- [Can LLMs be Good Financial Advisors?: An Initial Study in Personal Decision Making for Optimized Outcomes.](\FinPlan23_paper_7.pdf) Kausik Lakkaraju, Sai Krishna Revanth Vuruma, Vishal Pallagani, Bharath Muppasani, Biplav Srivastava
+- [Predicting Customer Goals in Financial Institution Services: A Data-Driven LSTM Approach.](/papers/finplan/FinPlan23_paper_1.pdf) Andrew Estornell, Stylianos Loukas Vasileiou, William Yeoh, Daniel Borrajo, Rui Silva
+- [Value Detection Rate: A Performance Metric for Payments Fraud Detection.](/papers/finplan/FinPlan23_paper_2.pdf) Danial Dervovic, Saeid Amiri, Michael Cashmore
+- [Deep Reinforcement Learning for Optimal Portfolio Allocation: A Comparative Study with Mean-Variance Optimization](/papers/finplan/FinPlan23_paper_4.pdf). Srijan Sood, Kassiani Papasotiriou, Marius Vaiciulis, Tucker Balch
+- [Surrogate Assisted Monte Carlo Tree Search in Combinatorial Optimization.](/papers/finplan/FinPlan23_paper_5.pdf) Saeid Amiri, Parisa Zehtabi, Danial Dervovic, Michael Cashmore
+- [FinRDDL: Can AI Planning be used for Quantitative Finance Problems?](/papers/finplan/FinPlan23_paper_6.pdf) Sunandita Patra, Mahmoud Mahfouz, Sriram Gopalakrishnan, Daniele Magazzeni, Manuela Veloso
+- [Accelerating Benders Decomposition via RL Surrogate Models.](/papers/finplan/FinPlan23_paper_3.pdf) Kyle Mana, Stephen Mak, Parisa Zehtabi, Michael Cashmore, Daniele Magazzeni, Manuela Veloso
+- [Can LLMs be Good Financial Advisors?: An Initial Study in Personal Decision Making for Optimized Outcomes.](/papers/finplan/FinPlan23_paper_7.pdf) Kausik Lakkaraju, Sai Krishna Revanth Vuruma, Vishal Pallagani, Bharath Muppasani, Biplav Srivastava
 
 ### Workshop Schedule
 

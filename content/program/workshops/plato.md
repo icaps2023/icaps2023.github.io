@@ -41,12 +41,12 @@ The workshop is open to both application and theoretical contributions that see 
 
 ## Workshop Program
 
-The workshop is scheduled on Monday July 10 from 2:00 PM to 18:00 PM (CET)
+The workshop is scheduled on Monday **July 10 from 2:00 PM to 18:00 PM (CET) in room N6**
 
-[2:00 PM - 2:05 PM] - Workshop Open
+[2:00 PM - 2:05 PM] - Workshop Open - **NOTE:** in PLanRob's room T1
 
 ---
-[2:00 PM - 3:00 PM] - <a href="#beetz">Keynote Talk by Porf. Michael Beetz</a>
+[2:00 PM - 3:00 PM] - <a href="#beetz">Keynote Talk by Porf. Michael Beetz</a> - **NOTE:** In PlanRob's room T1
 
 ---
 [3:00 PM - 3:30 PM] - **First Session**

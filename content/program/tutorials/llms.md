@@ -14,6 +14,10 @@ Large Language Models (LLMs, or n-gram models on steroids) that have been traine
 
 [http://rakaposhi.eas.asu.edu/llm-planning-tutorial.html](http://rakaposhi.eas.asu.edu/llm-planning-tutorial.html)
 
+### Link to the Tutorial Slides
+
+[https://www.dropbox.com/s/50okbrvm3v12e3s/icaps-llm-tut-slides-posted.pdf?dl=0](https://www.dropbox.com/s/50okbrvm3v12e3s/icaps-llm-tut-slides-posted.pdf?dl=0)
+
 ### Tutorial Length  
 
 Half day  (July 10th preferred)
