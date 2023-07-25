@@ -13,7 +13,7 @@ To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
-<p><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM</span></p>
+<p><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM (closed)</span></p>
 
 </div>
 
