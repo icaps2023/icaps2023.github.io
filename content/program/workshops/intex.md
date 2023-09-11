@@ -35,11 +35,11 @@ The seventh edition of the workshop on  Integrated Planning, Acting, and Executi
 
 ## List of Accepted Papers
 
-1. _Timothy Darrah, Marcos Quinones-Grueiro, Gautam Biswas and Jeremy Frank._	***A Health-Aware Framework for Online Replanning of Unmanned Aerial Vehicles Missions under Faulty Conditions***
-2. _Jérémy Turi, Arthur Bit-Monnot and Félix Ingrand._	***Enhancing Operational Deliberation in a Refinement Acting Engine with Continuous Planning***
-3. _Jeremy Frank, Gordon Aaseng, Minh Do, Chuck Fry and Adam Sweet._	***Integrating Planning, Diagnosis and Execution for Vehicle Systems Management***
-4. _Annita Vapsi, Daniel Borrajo and Manuela Veloso._	***CLAPLEX A Control Language and Architecture for Planning and Execution***
-5. _Victoria Jane Armstrong and Christian Muise._	***The Generalizability of FOND Solutions in Uncertain Environments***	
+1. _Timothy Darrah, Marcos Quinones-Grueiro, Gautam Biswas and Jeremy Frank._	[A Health-Aware Framework for Online Replanning of Unmanned Aerial Vehicles Missions under Faulty Conditions](/papers/intex/IntEx2023_paper_5.pdf)
+2. _Jérémy Turi, Arthur Bit-Monnot and Félix Ingrand._	[Enhancing Operational Deliberation in a Refinement Acting Engine with Continuous Planning](/papers/intex/IntEx2023_paper_1.pdf)
+3. _Jeremy Frank, Gordon Aaseng, Minh Do, Chuck Fry and Adam Sweet._	[Integrating Planning, Diagnosis and Execution for Vehicle Systems Management](/papers/intex/IntEx2023_paper_3.pdf)
+4. _Annita Vapsi, Daniel Borrajo and Manuela Veloso._	[CLAPLEX A Control Language and Architecture for Planning and Execution](/papers/intex/IntEx2023_paper_4.pdf)
+5. _Victoria Jane Armstrong and Christian Muise._	[The Generalizability of FOND Solutions in Uncertain Environments](/papers/intex/IntEx2023_paper_2.pdf)
 
 ## Keynote Talk: Dynamic Targeting to Improve Science Return
 
