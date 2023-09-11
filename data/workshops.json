@@ -5,7 +5,7 @@
 			"title": "Planning and Scheduling for Financial Services",
 			"organizers": "Parisa Zehtabi, Alberto Pozanco, William Yeoh, Biplav Srivastava",
 			"url": "/program/workshops/finplan",
-			"schedule": "July 9, 2:00 PM - 5:00 PM (CET)",
+			"schedule": "July 9, 2:00 PM - 5:35 PM (CET)",
 			"room": "N5",
 			"description": "Planning and scheduling are mature fields in terms of base techniques and algorithms to solve goal-oriented tasks. Planning approaches have been successfully applied to many domains including classical domains (e.g., logistics and Mars rovers) and, more recently, in oil and gas as well as mining industries. Similarly, scheduling approaches have also been applied to many industrial applications. However, very little work has been done in relation to the problems in the finance industry, which spans a diverse range of activities in financial markets, corporate finance, insurance, banking, and accounting. Recently, some large financial corporations have started AI research labs and researchers at those teams have found that there are plenty of open planning and scheduling problems to be tackled by the ICAPS community. For example, these include trading markets, workflow learning, generation and execution, transactions flow understanding, fraud detection, and customer journeys. In addition, planning problems tackled in other settings like dialog management and network penetration; and richer problem formations involving planning along with learning and scheduling, would also be relevant here."
 		},
@@ -14,7 +14,7 @@
 			"title": "Human-Aware and Explainable Planning",
 			"organizers": "Rebecca Eifler, Benjamin Krarup, Alan Lindsay, Lindsay Sanneman, Sarath Sreedharan, Silvia Tulli, Stylianos Loukas Vasileiou",
 			"url": "/program/workshops/haxp",
-			"schedule": "July 10, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 10, 9:00 AM - 5:30 PM (CET)",
 			"room": "T2",
 			"description": "As artificial intelligence (AI) is increasingly being adopted into application solutions, the challenge of supporting effective interactions with humans is becoming more apparent. Partly this is to support integrated working styles, in which humans and intelligent systems cooperate in problem-solving, but also it is a necessary step in the process of building and calibrating trust as humans migrate greater competence and responsibility to such systems. The International Workshop on Human-Aware and Explainable Planning (HAXP), formerly known as the Explainable AI Planning (XAIP) workshop, brings together the latest and best in human-AI interaction and explainability, in the context of planning, scheduling, RL and other forms of sequential decision-making process. The workshop is collocated with ICAPS, the premier conference on automated planning and scheduling. Learn more: HAXP"
 		},
@@ -23,8 +23,8 @@
 			"title": "Planning and Ontology Workshop",
 			"organizers": "Emilio M. Sanfilippo, Alessandro Umbrico",
 			"url": "/program/workshops/plato",
-			"schedule": "July 10, 2:00 PM - 5:00 PM (CET)",
-			"room": "N7",
+			"schedule": "July 10, 2:00 PM - 5:50 PM (CET)",
+			"room": "N6",
 			"description": "Automated Planning and Ontology are two well-established fields of Artificial Intelligence (AI). The former investigates techniques to formally model and reason about the effects of actions, and decide the combinations of actions that allow an agent to achieve goals. The latter investigates techniques to formally define knowledge (by formally describing domain entities and their interrelations), allowing agents to process information about objects, and events, and incrementally build and verify beliefs. Both Automated Planning and Ontology generally rely on logic to model knowledge and organize reasoning mechanisms. They support the development of cognitive capabilities that autonomous agents need to effectively act in the real world. In this context, the PLanning And onTology wOrkshop (PLATO) aims at bringing together researchers in these two fields of AI to address new research challenges, share their experiences, and learn from each other. The workshop aims at investigating the synergetic contributions of technologies and methods from these two fields. There are examples in the literature that have investigated the use of Ontology to generate planning models, find effective plans, and contextualize plans and action execution to domain features."
 		},
 		{
@@ -32,7 +32,7 @@
 			"title": "Bridging the Gap Between AI Planning and Reinforcement Learning",
 			"organizers": "Cameron Allen, Timo P. Gros, Michael Katz, Harsha Kokel, Hector Palacios, Sarath Sreedharan",
 			"url": "/program/workshops/prl",
-			"schedule": "July 9, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 9, 9:00 AM - 6:00 PM (CET)",
 			"room": "T1",
 			"description": "While AI Planning and Reinforcement Learning communities focus on similar sequential decision-making problems, these communities remain somewhat unaware of each other on specific problems, techniques, methodologies, and evaluations. This workshop aims to encourage discussion and collaboration between researchers in the fields of AI planning and reinforcement learning. We aim to bridge the gap between the two communities, facilitate the discussion of differences and similarities in existing techniques, and encourage collaboration across the fields. We solicit interest from AI researchers that work in the intersection of planning and reinforcement learning, in particular, those that focus on intelligent decision-making. This is the fifth edition of the PRL workshop series that started at ICAPS 2020."
 		},
@@ -41,8 +41,8 @@
 			"title": "Workshop on Reliable Data-Driven Planning and Scheduling",
 			"organizers": "Sara Bernardini, Jesse Davis, Alan Fern, Daniel Höller, Joerg Hoffmann, Michael Katz, Michele Lombardi, Scott Sanner, Marcel Steinmetz, Sylvie Thiebaux, Eyal Weiss",
 			"url": "/program/workshops/rddps",
-			"schedule": "July 10, 2:00 PM - 5:00 PM (CET)",
-			"room": "N3",
+			"schedule": "July 10, 1:55 PM - 5:30 PM (CET)",
+			"room": "N4",
 			"description": "Data-driven AI is the dominating trend in AI at this time. From a planning and scheduling perspective – and for sequential decision making in general – this is manifested in two major kinds of technical artifacts that are rapidly gaining importance. The first are planning models that are (partially) learned from data (e.g., a weather forecast in a model of flight actions). The second are action-decision components learned from data, in particular, action policies or planning-control knowledge for making decisions in dynamic environments (e.g., manufacturing processes under resource-availability and job-length fluctuations). Given the nature of such data-driven artifacts, reliability is a key concern, prominently including safety, robustness, and fairness in various forms, but possibly other concerns as well. Arguably, this is one of the grand challenges in AI for the foreseeable future."
 		},
 		{
@@ -68,7 +68,7 @@
 			"title": "Planning and Robotics",
 			"organizers": "Iman Awaad, Alberto Finzi, Andrea Orlandini",
 			"url": "/program/workshops/planrob",
-			"schedule": "July 10, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 10, 9:00 AM - 5:50 PM (CET)",
 			"room": "T1",
 			"description": "AI Planning & Scheduling (P&S) methods are key to enabling intelligent robots to perform autonomous, flexible, and interactive behaviours. Researchers in the P&S community have continued to develop approaches and produce planners, representations, as well as heuristics that robotics researchers can make use of. However, there remain numerous challenges complicating the uptake, use and successful integration of P&S technology in robotics, many of which have been addressed by robotics researchers with novel solutions. Strong collaboration and synergy between researchers in both communities is vital to the continued growth of the fields in a way that provide mutual benefits to the two communities. To foster this, the PlanRob workshop aims to provide a stable, long-term forum (having been held annually at ICAPS since 2013) where researchers from both the P&S and Robotics communities can openly discuss relevant issues, research and development progress, future directions and open challenges related to P&S when applied to Robotics. In addition to the usual paper submissions, the workshop?s format naturally lends itself to preliminary results, position papers as well as to work focused on challenges in using and integrating planners in robotics systems."
 		},
@@ -77,8 +77,8 @@
 			"title": "Integrated Acting, Planning and Execution",
 			"organizers": "Sunadita Patra, Wiktor Piotrowski, Mak Roberts, Tiago Stegun Vaquero",
 			"url": "/program/workshops/intex",
-			"schedule": "July 9, 2:00 PM - 5:00 PM (CET)",
-			"room": "N3",
+			"schedule": "July 9, 2:00 PM - 5:05 PM (CET)",
+			"room": "N4",
 			"description": "Automated planners are increasingly being integrated into online acting systems. The integration may, for example, embed a domain-independent temporal planner in a manufacturing system (e.g., the Xerox printer application) or autonomous vehicles (e.g., a planetary rover or anunderwater glider). The integration may resemble something more like an “acting and planning stack” where an automated planner produces an activity or task plan that is further refined by an actor before being executed by the execution platform of the actor, such as, a reactive controller (e.g., robotics). Or the integration may be a domain-specific policy that maps states to actions (e.g., reinforcement learning). Models for planning and execution can be same or different; the planning model can define context-dependent actions schema for online (re-)planning or can just specify flexibility to be handled separately at execution time. Online learning may or may not be involved, and may include adjusting or augmenting the model, determining when to repair versus replan, learning to switch policies, etc. A specific focus of these integrations involves online deliberation and managing the execution of actions, bringing to the foreground concerns over how much computational effort planning should invest over time."
 		},
 		{
@@ -86,7 +86,7 @@
 			"title": "Plan, Activity and Intent Recognition",
 			"organizers": "Richard Magnotti, Simona Ondrckova, Denson George, Kristyna Pantuckova, Christopher Geib",
 			"url": "/program/workshops/pair",
-			"schedule": "July 10, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 10, 9:00 AM - 5:30 PM (CET)",
 			"room": "T2",
 			"description": "Plan recognition, activity recognition, and intent recognition all involve making inferences about other actors from observations of their behavior, i.e., their interaction with the environment and with each other. The observed actors may be software agents, robots, or humans. This synergistic area of research combines and unifies techniques from user modeling, machine vision, intelligent user interfaces, human/computer interaction, autonomous and multi-agent systems, natural language understanding, and machine learning. It plays a crucial role in a wide variety of applications including: Assistive technology; Software assistants; Computer and network security; Behavior recognition; Coordination in robots and software agents; E-commerce and collaborative filtering. This wide-spread diversity of applications and disciplines, while producing a wealth of ideas and results, has unfortunately contributed to fragmentation in the field, as researchers publish relevant results in a wide spectrum of journals and conferences. Further, as there is no single common conference for this work, we believe the workshop we are proposing will provide a valuable place to discuss and improve preliminary work of this sub-field."
 		},
@@ -95,7 +95,7 @@
 			"title": "Heuristics and Search for Domain-Independent Planning",
 			"organizers": "Clemens Buchner, Daniel Gnad, Thorsten Klossner, Sofia Lemons",
 			"url": "/program/workshops/hsdip",
-			"schedule": "July 10, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 10, 9:00 AM - 5:30 PM (CET)",
 			"room": "N2",
 			"description": "Heuristics and search algorithms are the two key components of heuristic search, one of the main approaches to many variations of domain-independent planning, including classical planning, temporal planning, planning under uncertainty and adversarial planning. This workshop seeks to understand the underlying principles of current heuristics and search methods, their limitations, ways for overcoming those limitations, as well as the synergy between heuristics and search. The HSDIP workshop has always been welcoming of multidisciplinary work, for example, drawing inspiration from operations research (like row and column generation algorithms), convex optimization (like gradient optimization for hybrid planning), constraint programming, or satisfiability. The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results."
 		},
@@ -104,7 +104,7 @@
 			"title": "Knowledge Engineering for Planning and Scheduling",
 			"organizers": "Lukas Chrpa, Ron Petrick, Mauro Vallati, Tiago Vaquero",
 			"url": "/program/workshops/keps",
-			"schedule": "July 9, 9:00 AM - 5:00 PM (CET)",
+			"schedule": "July 9, 11:00 AM - 5:15 PM (CET)",
 			"room": "T2",
 			"description": "Despite the progress in automated planning and scheduling systems, these systems still need to be fed by carefully engineered domain and problem descriptions and they need to be fine-tuned for particular domains and problems. Knowledge engineering for AI planning and scheduling deals with the acquisition, design, validation and maintenance of domain models, and the selection and optimization of appropriate machinery to work on them. These processes impact directly on the success of real-world planning and scheduling applications. The importance of knowledge engineering techniques is clearly demonstrated by a performance gap between domain-independent planners and planners exploiting domain-dependent knowledge. The workshop will continue the tradition of several International Competitions on Knowledge Engineering for Planning and Scheduling (ICKEPS) and prior KEPS workshops. Rather than focusing only on software tools and domain encoding techniques –which are topics of ICKEPS– the workshop will cover all aspects of knowledge engineering for AI planning and scheduling."
 		}
