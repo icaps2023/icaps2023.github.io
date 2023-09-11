@@ -100,7 +100,7 @@ Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus. [Robofriend: An 
 
 Magí Dalmau Moreno, Néstor García Hidalgo, Vicenç Gómez and Hector Geffner. [Combined Task and Motion Planning Via Sketch Decompositions](./PlanRob-23_paper_2.pdf)
 
-Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities](./PlanRob-23_paper_3.pdf)
+Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves. [Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities](./PlanRob-23_paper_3bis.pdf)
 
 Elias Goldsztejn, Ronen Brafman and Tal Feiner. PTDRL: [Parameter Tuning Using Deep Reinforcement Learning](./PlanRob-23_paper_4.pdf)
 
@@ -135,7 +135,7 @@ PlanRob is scheduled on the 10th of July 2023.
 
 - Robofriend: An Adpative Storytelling Robotic Teddy Bear.
 Ido Glanz, Matan Weksler, Erez Karpas and Tzipi Horowitz-Kraus
-- Capability-Based Task Planning for Human-Robot Assembly Stations Employing People with Disabilities
+- Capability-Aware Task Assignment for Human-Robot Teams for Empowering People with Disabilities
 Carlo Weidemann, Hyun-Ji Choi, Ritesh Yadav, Stefan-Octavian Bezrucav and Burkhard Corves
 - Anticipating False Beliefs and Planning Pertinent Reactions in Human-Aware Task Planning with Models of Theory of Mind
 Anthony Favier, Shashank Shekhar and Rachid Alami
@@ -167,9 +167,9 @@ Nikhil Chandak, Kenny Chour, Sivakumar Rathinam and R Ravi
 [12:20 - 14:00] - Lunch break
 
 ---
-[14:00 - 15:00] - **Keynote speech by Michael Beetz (University of Bremen, Germany)**
+[14:00 - 15:00] - **"Plan-based control of robot agents -- reasoning with one's eyes and hands" Keynote speech by Michael Beetz (University of Bremen, Germany)**
 
-[11:20 - 12:20] - **Session 4: Algorithms  (part 1)**
+[15:10 - 15:30] - **Session 4: Algorithms  (part 1)**
 - The Hamiltonian Cycle and Travelling Salesperson Problems with Traversal-Dependent Edge Deletion
 Sarah Carmesin, David Woller, David Parker, Miroslav Kulich and Masoumeh Mansouri
 
@@ -188,12 +188,21 @@ Sofia Santilli, Alessandro Trapasso, Luca Iocchi and Fabio Patrizi
 Valentin Hartmann and Marc Toussaint
 - Solving Robust Execution of Multi-Agent Pathfinding Plans as a Scheduling Problem
 David Zahrádka, Daniel Kubišta and Miroslav Kulich
-- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
-Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
 - A Physics-Based Simulated Robotics Testbed for Planning and Acting Research
 Oscar Lima Carrion, Martin Günther, Alexander Sung, Sebastian Stock, Marc Vinci, Amos Smith, Jan Christoph Krause and Joachim Hertzberg
+- A Closed-Loop Framework-Independent Bridge from AIPlan4EU's Unified Planning Platform to Embedded Systems
+Selvakumar Hastham Sathiya Satchi Sadanandam, Sebastian Stock, Alexander Sung, Felix Ingrand, Oscar Lima, Marc Vinci and Joachim Hertzberg
 
 ---
 [17:40 - 17:50] - **Closing remarks**
+
+## Keynote Talk
+
+Michael Beetz (University of Bremen, Germany)
+
+Title: Plan-based control of robot agents -- reasoning with one's eyes and hands
+
+Abstract: Robotic agents that can accomplish manipulation tasks with the competence of humans have been
+one of the grand research challenges for AI planning and robotics research for more than 50 years. However, while the fields made huge progress over the years, this ultimate goal is still out of reach. I believe that this is the case because the knowledge representation and reasoning methods -- including task and motion planning -- that have been proposed in AI so far are necessary but too abstract. In this talk I propose to address this problem by endowing robots with the capability to internally emulate and simulate their perception-action loops based on realistic images and faithful physics simulations, which are made machine-understandable by casting them as virtual symbolic knowledge bases. These capabilities allow robots to generate huge collections of machine-understandable manipulation experiences, which robotic agents can generalize into commonsense and intuitive physics knowledge applicable to open varieties of manipulation tasks. The combination of learning, representation, reasoning, and planning will equip robots with an understanding of the relation between their motions and the physical effects they cause at an unprecedented level of realism, depth, and breadth, and enable them to master human-scale manipulation tasks. This breakthrough will be achievable by combining leading-edge simulation and visual rendering technologies with mechanisms to semantically interpret and introspect internal simulation data structures and processes. Robots with such planning and plan execution capabilities can help us to better deal with important societal, humanitarian, and economic challenges of our aging societies.
 
 

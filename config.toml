@@ -12,6 +12,11 @@ theme = 'mainroad'
 [Params.style.vars]
      highlightColor = "#f5821f"
 
+# Uncomment to enable updates from /data/updates/updates.json on sidebar
+#[Params.sidebar]
+#  home="right"
+#  widgets=["updates"]
+
 [menu]
 # HOME
   [[menu.main]]
@@ -143,11 +148,41 @@ theme = 'mainroad'
     name = "Program"
     weight = 7000
   [[menu.main]]
-    identifier = "overview"
+    identifier = "schedule"
     name = "Schedule"
-    url = "/program/schedule"
-    parent = "program"
+    url = "/schedule/schedule"
+    weight = 7500
+# DAYS  
+  [[menu.main]]
+    identifier = "sunday"
+    name = "Sunday (July 9)"
+    url = "/schedule/sunday"
+    parent = "schedule"
     weight = 10
+  [[menu.main]]
+    identifier = "monday"
+    name = "Monday (July 10)"
+    url = "/schedule/monday"
+    parent = "schedule"
+    weight = 11
+  [[menu.main]]
+    identifier = "tuesday"
+    name = "Tuesday (July 11)"
+    url = "/schedule/tuesday"
+    parent = "schedule"
+    weight = 12
+  [[menu.main]]
+    identifier = "wednesday"
+    name = "Wednesday (July 12)"
+    url = "/schedule/wednesday"
+    parent = "schedule"
+    weight = 13
+  [[menu.main]]
+    identifier = "thursday"
+    name = "Thursday (July 13)"
+    url = "/schedule/thursday"
+    parent = "schedule"
+    weight = 14
   [[menu.main]]
     identifier = "accepted-papers"
     name = "Accepted Papers"

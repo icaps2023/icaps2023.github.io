@@ -9,6 +9,10 @@
 	
 		<p><span style="font-weight:bold; font-size: 18px;">Reaching the {{ print $option.venue }} Venue</span><br />{{ $option.subtitle }}</p>
 		<p>{{ print $option.description }}</p>
+		{{ if $option.timetable }}
+		<p>Current <a href="/attending/201_timetable.pdf">timetable for the bus line #201</a> with some comments.</p>
+		{{ end }}
+
 	</div>
 	
 	<div style="display: inline-block; width: 30%; padding: 1%; vertical-align: top; border-left: solid orange">

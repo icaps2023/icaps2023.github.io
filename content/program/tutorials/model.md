@@ -4,7 +4,7 @@ date: 2023-04-07T23:10:17+01:00
 draft: false
 ---
 
-# Model Acquisition in the Modern Era
+# Model Acquisition in the Modern Era (**[Tutorial Materials](https://github.com/AI-Planning/macq-tutorial)**)
 
 ## Description
 
@@ -29,6 +29,20 @@ The first core component will be a traditional tutorial on the model acquisition
 After each module covering a new model acquisition technique, we will turn to hands-on exploration of the method in the [MACQ framework](https://macq.planning.domains/). A development environment for using MACQ is already realized through a combination of the MACQ software and the [planutils Docker image](https://hub.docker.com/r/aiplanning/planutils). This will allow participants to quickly start playing around with the methods they are learning about, with nothing more than a laptop that has Docker installed.
 
 ![Model Extraction](https://mulab.ai/img/projects/macq/extraction.png)
+
+## Preparation
+
+Before showing up to the tutorial, it's best that you
+
+1. [Install Docker](https://docs.docker.com/get-docker/)
+2. Try the tutorial docker image:
+
+```bash
+$ docker run -it cjmuise/macq-tutorial
+$ check-macq
+```
+
+----
 
 ## Organizers
 

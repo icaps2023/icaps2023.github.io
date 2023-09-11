@@ -71,11 +71,12 @@ Organizing and Program Committee:
 
 ## List of Accepted Papers
 
- - Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba: **Safe Learning of PDDL Domains with Conditional Effects**
- - Xandra Schuler, Jan Eisenhut, Daniel Höller, Daniel Fišer and Joerg Hoffmann: **Action Policy Testing with Heuristic-Based Bias Functions**
- - Yuta Takata and Alex Fukunaga: **Plausibility-Based Heuristics for Latent Space Classical Planning**
- - Marcel Vinzent, Min Wu, Haoze Wu and Joerg Hoffmann: **Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification**
- - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates**
+ - Argaman Mordoch, Roni Stern, Enrico Scala and Brendan Juba: **Safe Learning of PDDL Domains with Conditional Effects** [pdf](/papers/rddps/Mordoch-et-al-RDDPS23.pdf)
+ - Xandra Schuler, Jan Eisenhut, Daniel Höller, Daniel Fišer and Joerg Hoffmann: **Action Policy Testing with Heuristic-Based Bias Functions** [pdf](/papers/rddps/Schuler-et-el-RDDPS23.pdf)
+ - Yuta Takata and Alex Fukunaga: **Plausibility-Based Heuristics for Latent Space Classical Planning** [pdf](/papers/rddps/Takata-and-Fukunaga-RDDPS23.pdf)
+ - Marcel Vinzent, Min Wu, Haoze Wu and Joerg Hoffmann: **Policy-Specific Abstraction Predicate Selection in Neural Policy Safety Verification** [pdf](/papers/rddps/Vinzent-et-al-RDDPS23.pdf)
+ - Eyal Weiss, Ariel Felner and Gal Kaminka: **A Generalization of the Shortest Path Problem to Graphs with Multiple Edge-Cost Estimates** [pdf](/papers/rddps/Weiss-et-al-RDDPS23.pdf)
+
 
 ## Workshop Schedule
 
