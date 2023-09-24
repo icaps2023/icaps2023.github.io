@@ -38,6 +38,12 @@ The workshop is open to both application and theoretical contributions that see 
 - Benchmarking and evaluation metrics of plans and plan-based controllers
 - Out-of-the-box research challenges at the intersection between Automated Planning and Ontology
 
+## Workshop Proceedings
+
+The official proceedings of PLATO 2023 have been published by [CEUR-WS](https://ceur-ws.org) and are available at the following link: 
+
+[https://ceur-ws.org/Vol-3493/](https://ceur-ws.org/Vol-3493)
+
 
 ## Workshop Program
 
