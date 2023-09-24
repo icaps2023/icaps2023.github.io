@@ -40,9 +40,7 @@ The workshop is open to both application and theoretical contributions that see 
 
 ## Workshop Proceedings
 
-The official proceedings of PLATO 2023 have been published by [CEUR-WS](https://ceur-ws.org) and are available at the following link: 
-
-[https://ceur-ws.org/Vol-3493/](https://ceur-ws.org/Vol-3493)
+The proceedings of **PLATO 2023** are published by [CEUR-WS](https://ceur-ws.org) and are available at [https://ceur-ws.org/Vol-3493/](https://ceur-ws.org/Vol-3493).
 
 
 ## Workshop Program
