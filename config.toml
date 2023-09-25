@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'ICAPS 2023'
 theme = 'mainroad'
 
+[Params]
+  customCSS = ["css/lightbox.css"]
+  customJS = ["js/lightbox.js"]
+
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
   title = "The 33rd International Conference" # Logo title, otherwise will use site title
@@ -353,6 +357,12 @@ theme = 'mainroad'
     name = "Code of Conduct"
     url = "/code_of_conduct"
     weight = 10000
+# PHOTO GALLERY 
+  [[menu.main]]
+    identifier = "photo"
+    name = "Venue photo"
+    url = "/galleries/gallery1"
+    weight = 11000
 
     
 [markup.goldmark.renderer]
