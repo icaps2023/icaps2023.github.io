@@ -89,7 +89,7 @@ Contact: spark2023@easychair.org
 -	Jeremy Ludwig, Annaka Kalton, Robert Richards, Brian Bautsch and Luke Walker. ***Lessons Learned from a Schedule Optimization Tool for Vehicle Testing***
 -	Mohamed Harmanani. ***Modelling the Spread of COVID-19 in Indoor Spaces using Automated Probabilistic Planning***
 -	Naiqian Zhang, Daroc Alden, Dongpeng Xu, Shuai Wang, Trent Jaeger and Wheeler Ruml. ***Using Planning to Construct Code Reuse Attacks in Obfuscated Programs***
--	Alice Petrov and Christian Muise. ***Planning for Proofs***
+-	Alice Petrov and Christian Muise. ***Automated Planning Techniques for Elementary Proofs in Abstract Algebra***
 -	Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers and David Speck. ***PARIS: Planning Algorithms for Reconfiguring Independent Sets***
 -	Hassna Louadah, Thomas Leo McCluskey, Gareth Tucker and Emmanouil Papadakis. ***Towards Rolling Stock Preventive Maintenance Scheduling - Short-term Scheduling Optimisation***
 -	Riccardo De Benedictis, Gloria Beraldo, Amedeo Cesta and Gabriella Cortellessa. ***Supporting Decision-Making for City Management through Automated Planning and Execution***
@@ -102,7 +102,7 @@ Contact: spark2023@easychair.org
 [9:15 - 10:30] - **First session**
  - "Modelling the Spread of COVID-19 in Indoor Spaces using Automated Probabilistic Planning". Mohamed Harmanani.
  - "PARIS: Planning Algorithms for Reconfiguring Independent Sets". Remo Christen, Salomé Eriksson, Michael Katz, Christian Muise, Alice Petrov, Florian Pommerening, Jendrik Seipp, Silvan Sievers and David Speck.
- - "Planning for Proofs". Alice Petrov and Christian Muise.
+ - "Automated Planning Techniques for Elementary Proofs in Abstract Algebra". Alice Petrov and Christian Muise.
 
 ---
 [10:30 - 11:00] - Coffee Break
